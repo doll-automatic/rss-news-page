@@ -1,0 +1,23 @@
+{
+  "retention_hours": 48,
+  "topics": [
+    {
+      "slug": "tech",
+      "title": "AIニュース: テクノロジー・AI",
+      "query_hints": "生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体",
+      "max_items_per_run": 10
+    },
+    {
+      "slug": "economy",
+      "title": "AIニュース: 経済・マーケット",
+      "query_hints": "日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算",
+      "max_items_per_run": 10
+    },
+    {
+      "slug": "domestic",
+      "title": "AIニュース: 国内の主要ニュース",
+      "query_hints": "国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース",
+      "max_items_per_run": 10
+    }
+  ]
+}
