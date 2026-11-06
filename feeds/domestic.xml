@@ -5,7 +5,63 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Nov 2026 06:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:25:48 +0000</lastBuildDate>
+    <item>
+      <title>不正アクセス対策 政府が予備費100億円の支出を決定</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261106de71363</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261106de71363</guid>
+      <description>【NHK】政府は不正アクセス対策として、予備費から100億円を支出することを決めた。</description>
+      <pubDate>Fri, 06 Nov 2026 06:25:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>「台湾有事」答弁からあすで1年 木原官房長官“立場変更ない”</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261106de71488</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261106de71488</guid>
+      <description>【NHK】首相の「台湾有事」をめぐる国会答弁から1年を迎えるのを前に、木原官房長官は政府の立場に変更はないとの考えを示した。</description>
+      <pubDate>Fri, 06 Nov 2026 06:25:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>新名神6人死亡事故 被告控訴せず拘禁刑7年の刑確定 三重</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261106de71305</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261106de71305</guid>
+      <description>【NHK】三重県の新名神高速道路で6人が死亡した事故の裁判で、被告が控訴せず拘禁刑7年の判決が確定した。</description>
+      <pubDate>Fri, 06 Nov 2026 06:25:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>北海道 函館 解体工事現場で体調不良訴え10人搬送</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261106de71491</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261106de71491</guid>
+      <description>【NHK】北海道函館市の解体工事現場で、作業員など10人が体調不良を訴えて病院に搬送された。</description>
+      <pubDate>Fri, 06 Nov 2026 06:25:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>大阪 港区の倉庫で火災 黒煙広がる けが人情報なし</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261106de71443</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261106de71443</guid>
+      <description>【NHK】大阪市港区の倉庫で火災が発生し、周辺に黒煙が広がった。けが人の情報は入っていない。</description>
+      <pubDate>Fri, 06 Nov 2026 06:25:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>都内の路上で突然平手打ちの暴行疑い逮捕 他にも女性6人に殴ったり跳び蹴りしたり暴行を加えた疑い 警視庁</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261106de71431</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261106de71431</guid>
+      <description>【NHK】東京都内の路上で女性に突然平手打ちをした疑いで男が逮捕された。警視庁は、ほかにも女性6人が被害に遭った疑いがあるとみて調べている。</description>
+      <pubDate>Fri, 06 Nov 2026 06:25:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>池袋暴走事故の遺族にSNSで中傷か 20代男性を書類送検</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261106de71473</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261106de71473</guid>
+      <description>【NHK】池袋の暴走事故の遺族をSNSで中傷したとして、20代の男性が書類送検された。</description>
+      <pubDate>Fri, 06 Nov 2026 06:25:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>70代女性がワンボックスカーにはねられ死亡 豊富町</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261106de71345</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261106de71345</guid>
+      <description>【NHK】北海道豊富町で70代の女性がワンボックスカーにはねられ、死亡した。</description>
+      <pubDate>Fri, 06 Nov 2026 06:25:48 +0000</pubDate>
+    </item>
     <item>
       <title>経済産業省 中部電力に業務改善命令 浜岡原発データ改ざん受け</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261106de71336</link>

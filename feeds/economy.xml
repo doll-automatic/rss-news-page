@@ -5,13 +5,34 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Nov 2026 06:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:25:48 +0000</lastBuildDate>
     <item>
       <title>日経平均午前、半年ぶり6万円割れ 「ラッダイト運動」弱気相場迫る</title>
       <link>https://www.nikkei.com/article/DGXZQOFL060SRTW6A101C2000000/</link>
       <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOFL060SRTW6A101C2000000/</guid>
       <description>【日本経済新聞】6日の日経平均は5日続落で一時4000円超下落し、半年ぶりに6万円を割り込んだ。米中間選挙でAI規制に前向きな民主党が大勝し、データセンター投資の鈍化懸念が広がった。</description>
       <pubDate>Fri, 06 Nov 2026 06:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>円相場、１５７円４９～４９銭＝６日午前９時現在</title>
+      <link>https://sp.m.jiji.com/article/show/3905552</link>
+      <guid isPermaLink="true">https://sp.m.jiji.com/article/show/3905552</guid>
+      <description>【時事通信】6日午前9時時点の東京外国為替市場の円相場は1ドル=157円台半ば。</description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>大幅反落、AI進展の遅れを警戒</title>
+      <link>https://www.zaikei.co.jp/article/20261106/876366.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261106/876366.html</guid>
+      <description>【財経新聞（フィスコ）】5日の米国株式市場はダウが1800ドル超、ナスダックも大幅に下落。AI開発の制約やデータセンター建設の鈍化への警戒からハイテク株が売られた。</description>
+      <pubDate>Thu, 05 Nov 2026 23:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ソニーＧ、今期最終を10％上方修正・最高益予想を上乗せ</title>
+      <link>https://s.kabutan.jp/news/k202611050108/</link>
+      <guid isPermaLink="true">https://s.kabutan.jp/news/k202611050108/</guid>
+      <description>【株探】ソニーグループの4〜9月期の連結最終利益は前年同期比約39%増。通期の最終利益予想を1兆3300億円に引き上げ、過去最高益の見通しとした。</description>
+      <pubDate>Thu, 05 Nov 2026 06:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
