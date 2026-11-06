@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AIニュース: 経済・マーケット</title>
+    <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
+    <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
+    <language>ja</language>
+    <lastBuildDate>Fri, 06 Nov 2026 06:00:47 +0000</lastBuildDate>
+    <item>
+      <title>日経平均午前、半年ぶり6万円割れ 「ラッダイト運動」弱気相場迫る</title>
+      <link>https://www.nikkei.com/article/DGXZQOFL060SRTW6A101C2000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOFL060SRTW6A101C2000000/</guid>
+      <description>【日本経済新聞】6日の日経平均は5日続落で一時4000円超下落し、半年ぶりに6万円を割り込んだ。米中間選挙でAI規制に前向きな民主党が大勝し、データセンター投資の鈍化懸念が広がった。</description>
+      <pubDate>Fri, 06 Nov 2026 06:00:47 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

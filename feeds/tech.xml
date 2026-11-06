@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AIニュース: テクノロジー・AI</title>
+    <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
+    <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
+    <language>ja</language>
+    <lastBuildDate>Fri, 06 Nov 2026 06:00:47 +0000</lastBuildDate>
+    <item>
+      <title>Google、動画生成・編集AI「Gemini Omni 1.2 Flash」を一般提供 ～最大15秒の動画に対応</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2154215.html</link>
+      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154215.html</guid>
+      <description>【窓の杜】Googleが動画生成・編集モデル「Gemini Omni 1.2 Flash」を発表し、開発者向けAPIとGoogle Cloudで一般提供を始めた。</description>
+      <pubDate>Fri, 06 Nov 2026 06:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>声優・中田譲治氏が生成AI画像で炎上 「無断生成AI反対」との矛盾に批判、未発売フィギュア疑惑も</title>
+      <link>https://coki.jp/article/column/97177/</link>
+      <guid isPermaLink="true">https://coki.jp/article/column/97177/</guid>
+      <description>【coki】「無断生成AI反対」を掲げていた声優の中田譲治氏が、生成AIで作った画像を投稿したとして批判を集めている。</description>
+      <pubDate>Fri, 06 Nov 2026 06:00:47 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

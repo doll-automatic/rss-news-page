@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AIニュース: 国内の主要ニュース</title>
+    <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
+    <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
+    <language>ja</language>
+    <lastBuildDate>Fri, 06 Nov 2026 06:00:47 +0000</lastBuildDate>
+    <item>
+      <title>経済産業省 中部電力に業務改善命令 浜岡原発データ改ざん受け</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261106de71336</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261106de71336</guid>
+      <description>【NHK】経済産業省は6日、浜岡原発の耐震データ不正などを受け、中部電力に電気事業法に基づく業務改善命令を出した。11月末までに改善計画の提出を求めている。</description>
+      <pubDate>Fri, 06 Nov 2026 06:00:47 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
