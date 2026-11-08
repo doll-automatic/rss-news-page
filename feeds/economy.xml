@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 12:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 18:01:42 +0000</lastBuildDate>
     <item>
       <title>日経平均は3552円安、企業決算や米雇用統計に関心</title>
       <link>https://www.zaikei.co.jp/article/20261106/876462.html</link>
@@ -33,13 +33,6 @@
       <guid isPermaLink="true">https://gaitame.com/media/entry/2026/11/07/110000</guid>
       <description>【外為どっとコム】株式市場が急落する中でもドル円は157～158円台で小動きだったと解説。</description>
       <pubDate>Sun, 08 Nov 2026 06:01:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>“トランプ氏大敗”で世界同時株安 日経平均は過去3番目の下げ幅</title>
-      <link>https://news.yahoo.co.jp/articles/7b0c1a954c59758e90f4ac0feb71ccb532ce8aa3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7b0c1a954c59758e90f4ac0feb71ccb532ce8aa3</guid>
-      <description>【TBS NEWS DIG】日経平均は終値で3643円安と歴代3位の下げ幅。米民主党の大勝でAI・半導体株が売られた。</description>
-      <pubDate>Fri, 06 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
