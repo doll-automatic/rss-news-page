@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI新モデル「GPT-6 Cyber」、審査済み顧客に限定提供　Firefoxで未知の脆弱性81件発見",
+    "link": "https://www.techno-edge.net/article/2026/11/06/5682.html",
+    "description": "OpenAIがサイバー能力を「Critical」と分類した新モデルGPT-6 Cyberを審査済み顧客向けに提供。Firefoxで未知の脆弱性81件を発見した。",
+    "source": "Techno Edge",
+    "published": null,
+    "fetched_at": "2026-11-08T06:01:43.608091+00:00"
+  },
+  {
     "title": "OpenAI、脆弱性発見・修正能力を強化したセキュリティ特化モデル「GPT-6 Cyber」",
     "link": "https://www.watch.impress.co.jp/docs/news/2154307.html",
     "description": "OpenAIがセキュリティ特化モデル「GPT-6 Cyber」を発表。審査済みの一部顧客に限定提供する。",
@@ -14,29 +22,5 @@
     "source": "PC Watch",
     "published": "2026-11-07T09:00:00+09:00",
     "fetched_at": "2026-11-08T02:03:44.577555+00:00"
-  },
-  {
-    "title": "Google、動画生成・編集AI「Gemini Omni 1.2 Flash」を一般提供 ～最大15秒の動画に対応",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2154215.html",
-    "description": "Googleが動画生成・編集モデル「Gemini Omni 1.2 Flash」を発表し、開発者向けAPIとGoogle Cloudで一般提供を始めた。",
-    "source": "窓の杜",
-    "published": null,
-    "fetched_at": "2026-11-06T06:00:47.501578+00:00"
-  },
-  {
-    "title": "声優・中田譲治氏が生成AI画像で炎上 「無断生成AI反対」との矛盾に批判、未発売フィギュア疑惑も",
-    "link": "https://coki.jp/article/column/97177/",
-    "description": "「無断生成AI反対」を掲げていた声優の中田譲治氏が、生成AIで作った画像を投稿したとして批判を集めている。",
-    "source": "coki",
-    "published": null,
-    "fetched_at": "2026-11-06T06:00:47.501578+00:00"
-  },
-  {
-    "title": "【2026年11月版】生成AI主要7サービス料金早見表 ―― パーソナルエージェント化の流れが加速。無料版の線引きも見直しへ",
-    "link": "https://businessinsider.jp/article/2611-how-much-did-major-generative-ai-service-fees",
-    "description": "主要な生成AIサービスの11月時点の料金を整理。常時稼働型のAIエージェントが話題となる一方、無料版や安価なプランでは利用枠や使えるモデルの見直しが進んでいる。",
-    "source": "Business Insider Japan",
-    "published": "2026-11-06T11:15:00+09:00",
-    "fetched_at": "2026-11-06T06:25:48.971159+00:00"
   }
 ]

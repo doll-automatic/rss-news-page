@@ -1,26 +1,42 @@
 [
   {
+    "title": "日経平均は3552円安、企業決算や米雇用統計に関心",
+    "link": "https://www.zaikei.co.jp/article/20261106/876462.html",
+    "description": "11月6日の東京株式市場で日経平均は大幅に下落。企業決算や米雇用統計に関心が集まった。",
+    "source": "財経新聞",
+    "published": null,
+    "fetched_at": "2026-11-08T06:01:43.608091+00:00"
+  },
+  {
+    "title": "日経平均大引け：前日比3643.13円安の57434.77円",
+    "link": "https://jp.investing.com/news/forex-news/article-1746033",
+    "description": "日経平均は3643円安の5万7434円77銭で取引を終えた。下落率は5.96%。",
+    "source": "Investing.com",
+    "published": null,
+    "fetched_at": "2026-11-08T06:01:43.608091+00:00"
+  },
+  {
+    "title": "日経平均、過去3番目の下げ幅 米民主党勝利でAI株が総崩れ",
+    "link": "https://news.infoseek.co.jp/article/tvasahi_900203682/",
+    "description": "米民主党の勝利を受けAI関連株が総崩れとなり、日経平均は過去3番目の下げ幅を記録。証券会社に電話が殺到した。",
+    "source": "テレビ朝日系（ANN）",
+    "published": null,
+    "fetched_at": "2026-11-08T06:01:43.608091+00:00"
+  },
+  {
+    "title": "AI・半導体株急落、日経平均5.96％安 それでもドル円は157～158円台で膠着",
+    "link": "https://gaitame.com/media/entry/2026/11/07/110000",
+    "description": "株式市場が急落する中でもドル円は157～158円台で小動きだったと解説。",
+    "source": "外為どっとコム",
+    "published": null,
+    "fetched_at": "2026-11-08T06:01:43.608091+00:00"
+  },
+  {
     "title": "“トランプ氏大敗”で世界同時株安 日経平均は過去3番目の下げ幅",
     "link": "https://news.yahoo.co.jp/articles/7b0c1a954c59758e90f4ac0feb71ccb532ce8aa3",
     "description": "日経平均は終値で3643円安と歴代3位の下げ幅。米民主党の大勝でAI・半導体株が売られた。",
     "source": "TBS NEWS DIG",
     "published": "2026-11-06T23:00:00+09:00",
-    "fetched_at": "2026-11-08T02:03:44.577555+00:00"
-  },
-  {
-    "title": "日経平均午前、半年ぶり6万円割れ 「ラッダイト運動」弱気相場迫る",
-    "link": "https://www.nikkei.com/article/DGXZQOFL060SRTW6A101C2000000/",
-    "description": "6日の日経平均は5日続落で一時4000円超下落し、半年ぶりに6万円を割り込んだ。米中間選挙でAI規制に前向きな民主党が大勝し、データセンター投資の鈍化懸念が広がった。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-06T06:00:47.501578+00:00"
-  },
-  {
-    "title": "日経平均株価、一時4300円安 AI投資不安で6万円割れ",
-    "link": "https://www.nikkei.com/article/DGXZQOUB060K60W6A101C2000000/",
-    "description": "米中間選挙後のAI投資への不安から日経平均が急落し、一時4300円超下げて6万円を割り込んだ。",
-    "source": "日本経済新聞",
-    "published": "2026-11-06T12:00:00+09:00",
     "fetched_at": "2026-11-08T02:03:44.577555+00:00"
   }
 ]
