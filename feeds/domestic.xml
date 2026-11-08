@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 06:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 12:02:09 +0000</lastBuildDate>
     <item>
       <title>消費減税法案が衆院通過 全野党が反対、石破前総理ら自民4人が採決退席</title>
       <link>https://news.ksb.co.jp/ann/article/17032226</link>
@@ -26,6 +26,13 @@
       <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17033045</guid>
       <description>【KSB（ANN）】今季一番の寒気で北海道旭川市で初積雪。スリップ事故が相次いだ。</description>
       <pubDate>Sun, 08 Nov 2026 06:01:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>愛知県知多市で震度5強、愛知と静岡で計22人けが 震源は静岡県西部、津波の心配なし</title>
+      <link>https://www.chunichi.co.jp/article/1336396</link>
+      <guid isPermaLink="true">https://www.chunichi.co.jp/article/1336396</guid>
+      <description>【中日新聞Web】8日午前1時すぎ、静岡県西部を震源とするM5.7の地震で愛知県知多市が震度5強。愛知・静岡で少なくとも22人がけがをした。</description>
+      <pubDate>Sun, 08 Nov 2026 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>石破前総理ら4人に自民執行部が文書で説明要求 回答期限は9日正午</title>
