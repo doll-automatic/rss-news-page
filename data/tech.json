@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI、脆弱性発見・修正能力を強化したセキュリティ特化モデル「GPT-6 Cyber」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2154307.html",
+    "description": "OpenAIがセキュリティ特化モデル「GPT-6 Cyber」を発表。審査済みの一部顧客に限定提供する。",
+    "source": "Impress Watch",
+    "published": "2026-11-07T09:00:00+09:00",
+    "fetched_at": "2026-11-08T02:03:44.577555+00:00"
+  },
+  {
+    "title": "Linuxの脆弱性948件を攻略、セキュリティ特化AI「GPT-6 Cyber」",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2154280.html",
+    "description": "GPT-6 CyberはLinuxカーネルで948件の動作する攻撃コードを作成し、Firefoxでも未知の脆弱性を見つけたとOpenAIが公表した。",
+    "source": "PC Watch",
+    "published": "2026-11-07T09:00:00+09:00",
+    "fetched_at": "2026-11-08T02:03:44.577555+00:00"
+  },
+  {
     "title": "Google、動画生成・編集AI「Gemini Omni 1.2 Flash」を一般提供 ～最大15秒の動画に対応",
     "link": "https://forest.watch.impress.co.jp/docs/news/2154215.html",
     "description": "Googleが動画生成・編集モデル「Gemini Omni 1.2 Flash」を発表し、開発者向けAPIとGoogle Cloudで一般提供を始めた。",

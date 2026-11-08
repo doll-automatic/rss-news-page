@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Nov 2026 06:25:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 02:03:44 +0000</lastBuildDate>
+    <item>
+      <title>石破前総理ら4人に自民執行部が文書で説明要求 回答期限は9日正午</title>
+      <link>https://news.yahoo.co.jp/articles/c82dc7f526c9e51fd5f44ea25c21990af6744021</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c82dc7f526c9e51fd5f44ea25c21990af6744021</guid>
+      <description>【FNNプライムオンライン】消費減税法案の採決前に退席した石破前首相ら4人に、自民党執行部が文書で理由の説明を求めた。</description>
+      <pubDate>Sat, 07 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RIZE・The BONEZのJESSEがコカイン使用疑いで逮捕</title>
+      <link>https://natalie.mu/music/news/697017</link>
+      <guid isPermaLink="true">https://natalie.mu/music/news/697017</guid>
+      <description>【音楽ナタリー】警視庁がロックバンドRIZEのボーカルJESSE容疑者を麻薬取締法違反（使用）の疑いで逮捕した。</description>
+      <pubDate>Sat, 07 Nov 2026 01:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>不正アクセス対策 政府が予備費100億円の支出を決定</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261106de71363</link>
