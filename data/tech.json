@@ -1,26 +1,18 @@
 [
   {
+    "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
+    "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
+    "description": "OpenAIが脆弱性の発見・修正能力を強化したセキュリティ特化モデル「GPT-6 Cyber」を発表。審査済みの一部顧客に限定提供される。",
+    "source": "ITmedia NEWS",
+    "published": null,
+    "fetched_at": "2026-11-09T00:02:39.262345+00:00"
+  },
+  {
     "title": "OpenAI新モデル「GPT-6 Cyber」、審査済み顧客に限定提供　Firefoxで未知の脆弱性81件発見",
     "link": "https://www.techno-edge.net/article/2026/11/06/5682.html",
     "description": "OpenAIがサイバー能力を「Critical」と分類した新モデルGPT-6 Cyberを審査済み顧客向けに提供。Firefoxで未知の脆弱性81件を発見した。",
     "source": "Techno Edge",
     "published": null,
     "fetched_at": "2026-11-08T06:01:43.608091+00:00"
-  },
-  {
-    "title": "OpenAI、脆弱性発見・修正能力を強化したセキュリティ特化モデル「GPT-6 Cyber」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2154307.html",
-    "description": "OpenAIがセキュリティ特化モデル「GPT-6 Cyber」を発表。審査済みの一部顧客に限定提供する。",
-    "source": "Impress Watch",
-    "published": "2026-11-07T09:00:00+09:00",
-    "fetched_at": "2026-11-08T02:03:44.577555+00:00"
-  },
-  {
-    "title": "Linuxの脆弱性948件を攻略、セキュリティ特化AI「GPT-6 Cyber」",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2154280.html",
-    "description": "GPT-6 CyberはLinuxカーネルで948件の動作する攻撃コードを作成し、Firefoxでも未知の脆弱性を見つけたとOpenAIが公表した。",
-    "source": "PC Watch",
-    "published": "2026-11-07T09:00:00+09:00",
-    "fetched_at": "2026-11-08T02:03:44.577555+00:00"
   }
 ]

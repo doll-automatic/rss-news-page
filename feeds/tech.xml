@@ -5,27 +5,20 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 18:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:02:39 +0000</lastBuildDate>
+    <item>
+      <title>OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/06/2000002931/</link>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/06/2000002931/</guid>
+      <description>【ITmedia NEWS】OpenAIが脆弱性の発見・修正能力を強化したセキュリティ特化モデル「GPT-6 Cyber」を発表。審査済みの一部顧客に限定提供される。</description>
+      <pubDate>Mon, 09 Nov 2026 00:02:39 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI新モデル「GPT-6 Cyber」、審査済み顧客に限定提供　Firefoxで未知の脆弱性81件発見</title>
       <link>https://www.techno-edge.net/article/2026/11/06/5682.html</link>
       <guid isPermaLink="true">https://www.techno-edge.net/article/2026/11/06/5682.html</guid>
       <description>【Techno Edge】OpenAIがサイバー能力を「Critical」と分類した新モデルGPT-6 Cyberを審査済み顧客向けに提供。Firefoxで未知の脆弱性81件を発見した。</description>
       <pubDate>Sun, 08 Nov 2026 06:01:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI、脆弱性発見・修正能力を強化したセキュリティ特化モデル「GPT-6 Cyber」</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2154307.html</link>
-      <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2154307.html</guid>
-      <description>【Impress Watch】OpenAIがセキュリティ特化モデル「GPT-6 Cyber」を発表。審査済みの一部顧客に限定提供する。</description>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linuxの脆弱性948件を攻略、セキュリティ特化AI「GPT-6 Cyber」</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2154280.html</link>
-      <guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2154280.html</guid>
-      <description>【PC Watch】GPT-6 CyberはLinuxカーネルで948件の動作する攻撃コードを作成し、Firefoxでも未知の脆弱性を見つけたとOpenAIが公表した。</description>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 18:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:02:39 +0000</lastBuildDate>
+    <item>
+      <title>6日のNY市場はまちまち、AIリスク警戒感が緩和</title>
+      <link>https://zaikei.co.jp/article/20261109/876594.html</link>
+      <guid isPermaLink="true">https://zaikei.co.jp/article/20261109/876594.html</guid>
+      <description>【財経新聞】6日のNY市場はまちまちとなり、AIリスクへの警戒感が和らいだ。</description>
+      <pubDate>Mon, 09 Nov 2026 00:02:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>11/9の強弱材料</title>
+      <link>https://www.zaikei.co.jp/article/20261109/876608.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261109/876608.html</guid>
+      <description>【財経新聞】9日の東京株式市場に向けた強弱材料をまとめた記事。</description>
+      <pubDate>Mon, 09 Nov 2026 00:02:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月9日記）</title>
+      <link>https://kabutan.jp/news/marketnews/?b=n202611090029</link>
+      <guid isPermaLink="true">https://kabutan.jp/news/marketnews/?b=n202611090029</guid>
+      <description>【株探】日経平均株価の短期シナリオについての解説。</description>
+      <pubDate>Mon, 09 Nov 2026 00:02:39 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均は3552円安、企業決算や米雇用統計に関心</title>
       <link>https://www.zaikei.co.jp/article/20261106/876462.html</link>
