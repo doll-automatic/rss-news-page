@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 06:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 12:02:06 +0000</lastBuildDate>
+    <item>
+      <title>トラックと車が衝突事故 歩行者巻き込み4人けが 東京・品川区</title>
+      <link>https://news.yahoo.co.jp/articles/d67a913199c7884c76df1c9ca1b5ba8a864b87c9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d67a913199c7884c76df1c9ca1b5ba8a864b87c9</guid>
+      <description>【FNNプライムオンライン】東京・品川区の交差点でトラックと車が衝突し、歩行者を巻き込んで4人がけがをした。</description>
+      <pubDate>Mon, 09 Nov 2026 12:02:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>自動車専用道路のセンターライン付近に歩行者 大型トラックにはねられ死亡 運転手を逮捕</title>
+      <link>https://news.yahoo.co.jp/articles/83f6c814987c8e9ff9ca6d057ac30e58365d59bb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/83f6c814987c8e9ff9ca6d057ac30e58365d59bb</guid>
+      <description>【テレビ静岡NEWS】静岡県の自動車専用道路で歩行者が大型トラックにはねられ死亡し、運転手が逮捕された。</description>
+      <pubDate>Mon, 09 Nov 2026 12:02:06 +0000</pubDate>
+    </item>
     <item>
       <title>静岡県西部でM5.7の地震 15人負傷、107年ぶりの揺れ</title>
       <link>https://news.livedoor.com/topics/detail/32766536/</link>
@@ -75,13 +89,6 @@
       <guid isPermaLink="true">https://www.chunichi.co.jp/article/1336422</guid>
       <description>【中日新聞】8日未明、静岡県西部を震源とする地震で愛知県知多市などで震度5強。名鉄とJR東海の在来線が運転を再開した。</description>
       <pubDate>Sat, 07 Nov 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>石破前総理ら4人に自民執行部が文書で説明要求 回答期限は9日正午</title>
-      <link>https://news.yahoo.co.jp/articles/c82dc7f526c9e51fd5f44ea25c21990af6744021</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c82dc7f526c9e51fd5f44ea25c21990af6744021</guid>
-      <description>【FNNプライムオンライン】消費減税法案の採決前に退席した石破前首相ら4人に、自民党執行部が文書で理由の説明を求めた。</description>
-      <pubDate>Sat, 07 Nov 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

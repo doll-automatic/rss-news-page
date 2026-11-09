@@ -1,5 +1,21 @@
 [
   {
+    "title": "トラックと車が衝突事故 歩行者巻き込み4人けが 東京・品川区",
+    "link": "https://news.yahoo.co.jp/articles/d67a913199c7884c76df1c9ca1b5ba8a864b87c9",
+    "description": "東京・品川区の交差点でトラックと車が衝突し、歩行者を巻き込んで4人がけがをした。",
+    "source": "FNNプライムオンライン",
+    "published": null,
+    "fetched_at": "2026-11-09T12:02:06.691590+00:00"
+  },
+  {
+    "title": "自動車専用道路のセンターライン付近に歩行者 大型トラックにはねられ死亡 運転手を逮捕",
+    "link": "https://news.yahoo.co.jp/articles/83f6c814987c8e9ff9ca6d057ac30e58365d59bb",
+    "description": "静岡県の自動車専用道路で歩行者が大型トラックにはねられ死亡し、運転手が逮捕された。",
+    "source": "テレビ静岡NEWS",
+    "published": null,
+    "fetched_at": "2026-11-09T12:02:06.691590+00:00"
+  },
+  {
     "title": "静岡県西部でM5.7の地震 15人負傷、107年ぶりの揺れ",
     "link": "https://news.livedoor.com/topics/detail/32766536/",
     "description": "8日未明、静岡県西部を震源とするM5.7の地震が発生し、愛知県で最大震度5強を観測。けが人が出た。",
@@ -78,13 +94,5 @@
     "source": "中日新聞",
     "published": "2026-11-08T07:00:00+09:00",
     "fetched_at": "2026-11-08T18:01:42.884434+00:00"
-  },
-  {
-    "title": "石破前総理ら4人に自民執行部が文書で説明要求 回答期限は9日正午",
-    "link": "https://news.yahoo.co.jp/articles/c82dc7f526c9e51fd5f44ea25c21990af6744021",
-    "description": "消費減税法案の採決前に退席した石破前首相ら4人に、自民党執行部が文書で理由の説明を求めた。",
-    "source": "FNNプライムオンライン",
-    "published": "2026-11-07T18:00:00+09:00",
-    "fetched_at": "2026-11-08T02:03:44.577555+00:00"
   }
 ]

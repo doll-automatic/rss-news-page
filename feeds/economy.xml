@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 06:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 12:02:06 +0000</lastBuildDate>
+    <item>
+      <title>日経平均は1390円高、今週も企業決算などに関心</title>
+      <link>https://www.zaikei.co.jp/article/20261109/876706.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261109/876706.html</guid>
+      <description>【財経新聞】9日の日経平均は大幅反発した。今週も企業決算などに関心が集まる。</description>
+      <pubDate>Mon, 09 Nov 2026 12:02:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経1340円高で6日ぶり反発、戻りは3分の1に届かず｜日経平均の概況【11月9日】</title>
+      <link>https://tbladvisory.com/20261109nk/</link>
+      <guid isPermaLink="true">https://tbladvisory.com/20261109nk/</guid>
+      <description>【世界一やさしい投資の学校】日経平均は前営業日比1340円高の5万8775円で6営業日ぶりに反発。直前の急落に対する戻りは3分の1に届かなかった。</description>
+      <pubDate>Mon, 09 Nov 2026 12:02:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>相場展望 11月9日号 米国株・日本株</title>
+      <link>https://www.zaikei.co.jp/article/20261109/876700.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261109/876700.html</guid>
+      <description>【財経新聞】NYダウは下落への警戒、日本株は「落ちているナイフはつかむな」との相場見通し。</description>
+      <pubDate>Mon, 09 Nov 2026 12:02:06 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均寄り付き：前週末比525.93円高の57960.7円</title>
       <link>https://zai.diamond.jp/articles/-/498665</link>
