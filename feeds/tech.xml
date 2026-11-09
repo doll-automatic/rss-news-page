@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 00:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 06:02:27 +0000</lastBuildDate>
+    <item>
+      <title>15秒動画を生成する「Gemini Omni 1.2 Flash」 料金は30%引き下げ</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2154454.html</link>
+      <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2154454.html</guid>
+      <description>【Impress Watch】GoogleがGemini Omni 1.2 Flashを一般提供開始。1本最長15秒となり、720p動画の料金は30%引き下げられた。</description>
+      <pubDate>Mon, 09 Nov 2026 06:02:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI、脆弱性発見・修正能力を強化したセキュリティ特化モデル「GPT-6 Cyber」</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2154307.html</link>
+      <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2154307.html</guid>
+      <description>【Impress Watch】OpenAIがセキュリティ研究向けの「GPT-6 Cyber」を発表。承認制プログラムの一部顧客に限定提供される。</description>
+      <pubDate>Mon, 09 Nov 2026 06:02:27 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見</title>
       <link>https://www.itmedia.co.jp/news/article/2611/06/2000002931/</link>

@@ -1,5 +1,21 @@
 [
   {
+    "title": "15秒動画を生成する「Gemini Omni 1.2 Flash」 料金は30%引き下げ",
+    "link": "https://www.watch.impress.co.jp/docs/news/2154454.html",
+    "description": "GoogleがGemini Omni 1.2 Flashを一般提供開始。1本最長15秒となり、720p動画の料金は30%引き下げられた。",
+    "source": "Impress Watch",
+    "published": null,
+    "fetched_at": "2026-11-09T06:02:27.204478+00:00"
+  },
+  {
+    "title": "OpenAI、脆弱性発見・修正能力を強化したセキュリティ特化モデル「GPT-6 Cyber」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2154307.html",
+    "description": "OpenAIがセキュリティ研究向けの「GPT-6 Cyber」を発表。承認制プログラムの一部顧客に限定提供される。",
+    "source": "Impress Watch",
+    "published": null,
+    "fetched_at": "2026-11-09T06:02:27.204478+00:00"
+  },
+  {
     "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
     "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
     "description": "OpenAIが脆弱性の発見・修正能力を強化したセキュリティ特化モデル「GPT-6 Cyber」を発表。審査済みの一部顧客に限定提供される。",

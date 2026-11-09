@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 00:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 06:02:27 +0000</lastBuildDate>
+    <item>
+      <title>日経平均寄り付き：前週末比525.93円高の57960.7円</title>
+      <link>https://zai.diamond.jp/articles/-/498665</link>
+      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/498665</guid>
+      <description>【ダイヤモンド・ザイ】9日の東京市場で日経平均は前週末比525円93銭高の57,960円70銭で寄り付いた。</description>
+      <pubDate>Mon, 09 Nov 2026 06:02:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>後場の日経平均は1797円高でスタート、キオクシアHDやアドバンテストなどが上昇</title>
+      <link>https://finance.yahoo.co.jp/news/detail/392ea1efe8a367883e1fba66dd0fcac59239a2e8</link>
+      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/392ea1efe8a367883e1fba66dd0fcac59239a2e8</guid>
+      <description>【フィスコ/Yahoo!ファイナンス】後場の日経平均は前営業日比1797円高の59,232円で取引を開始。半導体関連株が上昇した。</description>
+      <pubDate>Mon, 09 Nov 2026 06:02:27 +0000</pubDate>
+    </item>
     <item>
       <title>6日のNY市場はまちまち、AIリスク警戒感が緩和</title>
       <link>https://zaikei.co.jp/article/20261109/876594.html</link>
