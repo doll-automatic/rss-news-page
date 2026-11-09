@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 12:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 18:02:22 +0000</lastBuildDate>
+    <item>
+      <title>サカナAI、27年秋にも上場へ本格検討</title>
+      <link>https://news.yahoo.co.jp/articles/21a69d1628dcd86d8d0aa75271ee7808e3213ab0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/21a69d1628dcd86d8d0aa75271ee7808e3213ab0</guid>
+      <description>【共同通信 / Yahoo!ニュース】サカナAIが日米での上場を本格検討しており、早ければ2027年秋にも実施する見通し。</description>
+      <pubDate>Mon, 09 Nov 2026 18:02:22 +0000</pubDate>
+    </item>
     <item>
       <title>15秒動画を生成する「Gemini Omni 1.2 Flash」 料金は30%引き下げ</title>
       <link>https://www.watch.impress.co.jp/docs/news/2154454.html</link>
@@ -26,6 +33,13 @@
       <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/06/2000002931/</guid>
       <description>【ITmedia NEWS】OpenAIが脆弱性の発見・修正能力を強化したセキュリティ特化モデル「GPT-6 Cyber」を発表。審査済みの一部顧客に限定提供される。</description>
       <pubDate>Mon, 09 Nov 2026 00:02:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査 本人は不倫認め謝罪</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/09/2000002998/</link>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/09/2000002998/</guid>
+      <description>【ITmedia NEWS】NVIDIA取締役会が、フアンCEOが外国情報機関の標的になったとの報道を受け独立調査を開始。CEOは不倫を認め謝罪した。</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI新モデル「GPT-6 Cyber」、審査済み顧客に限定提供　Firefoxで未知の脆弱性81件発見</title>

@@ -1,5 +1,13 @@
 [
   {
+    "title": "サカナAI、27年秋にも上場へ本格検討",
+    "link": "https://news.yahoo.co.jp/articles/21a69d1628dcd86d8d0aa75271ee7808e3213ab0",
+    "description": "サカナAIが日米での上場を本格検討しており、早ければ2027年秋にも実施する見通し。",
+    "source": "共同通信 / Yahoo!ニュース",
+    "published": null,
+    "fetched_at": "2026-11-09T18:02:22.326728+00:00"
+  },
+  {
     "title": "15秒動画を生成する「Gemini Omni 1.2 Flash」 料金は30%引き下げ",
     "link": "https://www.watch.impress.co.jp/docs/news/2154454.html",
     "description": "GoogleがGemini Omni 1.2 Flashを一般提供開始。1本最長15秒となり、720p動画の料金は30%引き下げられた。",
@@ -22,6 +30,14 @@
     "source": "ITmedia NEWS",
     "published": null,
     "fetched_at": "2026-11-09T00:02:39.262345+00:00"
+  },
+  {
+    "title": "NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査 本人は不倫認め謝罪",
+    "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
+    "description": "NVIDIA取締役会が、フアンCEOが外国情報機関の標的になったとの報道を受け独立調査を開始。CEOは不倫を認め謝罪した。",
+    "source": "ITmedia NEWS",
+    "published": "2026-11-09T09:00:00+09:00",
+    "fetched_at": "2026-11-09T18:02:22.326728+00:00"
   },
   {
     "title": "OpenAI新モデル「GPT-6 Cyber」、審査済み顧客に限定提供　Firefoxで未知の脆弱性81件発見",

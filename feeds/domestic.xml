@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 12:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 18:02:22 +0000</lastBuildDate>
     <item>
       <title>トラックと車が衝突事故 歩行者巻き込み4人けが 東京・品川区</title>
       <link>https://news.yahoo.co.jp/articles/d67a913199c7884c76df1c9ca1b5ba8a864b87c9</link>
@@ -33,6 +33,13 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/52707257009524e4f4fbe441dea17cdf28db8049</guid>
       <description>【テレビ朝日系(ANN)】自民党執行部は、衆院本会議の採決前に退席した石破前首相ら4人に9日正午までの説明を求め、処分を検討している。</description>
       <pubDate>Mon, 09 Nov 2026 06:02:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>石破、小渕氏ら戒告処分 採決棄権、自民「看過できず」</title>
+      <link>https://www.jiji.com/jc/article?k=2026110900659&amp;g=pol</link>
+      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026110900659&amp;g=pol</guid>
+      <description>【時事ドットコム】自民党は消費税減税法案の採決前に退席した石破前首相ら4人を戒告処分とした。総裁経験者への戒告は初めて。</description>
+      <pubDate>Mon, 09 Nov 2026 03:00:00 +0000</pubDate>
     </item>
     <item>
       <title>消費税減税法案が可決、衆院通過 臨時国会中の成立目指す</title>
@@ -81,6 +88,13 @@
       <link>https://news.yahoo.co.jp/articles/2ff2317224140a1c9cd7119704c7c0f0eea446e5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2ff2317224140a1c9cd7119704c7c0f0eea446e5</guid>
       <description>【CBCテレビ】震度5強の地震で愛知県は少なくとも19人が負傷、住宅など15棟が損壊したとして余震への警戒を呼びかけた。</description>
+      <pubDate>Sat, 07 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>東海地方で最大震度5強の地震　愛知県内では少なくとも10人がけが</title>
+      <link>https://www.nagoyatv.com/news/?id=037953</link>
+      <guid isPermaLink="true">https://www.nagoyatv.com/news/?id=037953</guid>
+      <description>【メ〜テレ】8日午前1時すぎ、静岡県西部を震源とするM5.7の地震で愛知県知多市などで震度5強を観測し、県内で負傷者が出た。</description>
       <pubDate>Sat, 07 Nov 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
