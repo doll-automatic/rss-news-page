@@ -1,5 +1,37 @@
 [
   {
+    "title": "日経平均は596円高でスタート、ソフトバンクGやKOKUSAIなどが上昇",
+    "link": "https://www.zaikei.co.jp/article/20261110/876789.html",
+    "description": "10日の東京株式市場で日経平均は596円高でスタートし、ソフトバンクGなどが上昇した。",
+    "source": "財経新聞",
+    "published": null,
+    "fetched_at": "2026-11-10T12:01:52.580995+00:00"
+  },
+  {
+    "title": "後場の日経平均は1433円高でスタート、レゾナックや古河電工などが上昇",
+    "link": "https://www.zaikei.co.jp/article/20261110/876867.html",
+    "description": "後場の日経平均は1433円高で始まり、レゾナックや古河電工などが上昇した。",
+    "source": "財経新聞",
+    "published": null,
+    "fetched_at": "2026-11-10T12:01:52.580995+00:00"
+  },
+  {
+    "title": "東京為替：ドル・円は反落、買い一巡後は失速",
+    "link": "https://kabutan.jp/news/marketnews/?b=n202611101315",
+    "description": "ドル円は158円台前半まで上げた後に反落。原油安によるドル売りと株高による円売りが交錯した。",
+    "source": "株探",
+    "published": null,
+    "fetched_at": "2026-11-10T12:01:52.580995+00:00"
+  },
+  {
+    "title": "三井化学、ＪＳＲを買収 政投銀と共同で１．８兆円―半導体材料を強化",
+    "link": "https://www.jiji.com/jc/article?k=2026110900366&g=eco",
+    "description": "三井化学が政投銀と共同で、JICからJSRを約1兆8400億円で買収すると発表。完了は2027年度下半期を目指す。",
+    "source": "時事通信",
+    "published": null,
+    "fetched_at": "2026-11-10T12:01:52.580995+00:00"
+  },
+  {
     "title": "日経平均は1912円高、企業決算や米CPIなどに関心",
     "link": "https://www.zaikei.co.jp/article/20261110/876894.html",
     "description": "10日の日経平均は大幅続伸し、企業決算や米CPIに関心が集まった。",

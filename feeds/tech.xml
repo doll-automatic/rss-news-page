@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 06:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:01:52 +0000</lastBuildDate>
+    <item>
+      <title>NVIDIA「Agentic AI Day Japan 2026」講演レポート</title>
+      <link>https://ai.watch.impress.co.jp/docs/news/2155320.html</link>
+      <guid isPermaLink="true">https://ai.watch.impress.co.jp/docs/news/2155320.html</guid>
+      <description>【AI Watch】NVIDIAが都内で開催したAIエージェントの社会実装をテーマとするイベントの講演内容をまとめたレポート。</description>
+      <pubDate>Tue, 10 Nov 2026 12:01:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Opus 5.5の推論能力が11月3日から急激に低下したとの指摘、1400件の利用履歴から変化が判明</title>
+      <link>https://gigazine.net/news/20261110-claude-opus-nerf/</link>
+      <guid isPermaLink="true">https://gigazine.net/news/20261110-claude-opus-nerf/</guid>
+      <description>【GIGAZINE】1400件の利用履歴の分析から、Claude Opus 5.5の推論能力が11月3日以降に低下したとの指摘が出ている。</description>
+      <pubDate>Tue, 10 Nov 2026 12:01:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Codeの「次回から表示しない」でパスワードが流出する恐れ、GitHubで2539件の秘密情報が見つかる</title>
+      <link>https://gigazine.net/news/20261109-claude-code-leak-secrets/</link>
+      <guid isPermaLink="true">https://gigazine.net/news/20261109-claude-code-leak-secrets/</guid>
+      <description>【GIGAZINE】セキュリティ企業Apiiroの調査で、設定ファイルに保存されたパスワード等が公開リポジトリから2539件見つかった。</description>
+      <pubDate>Tue, 10 Nov 2026 12:01:52 +0000</pubDate>
+    </item>
     <item>
       <title>Instagram、年齢を偽った10代もAIで検出 日本でも保護機能の適用を開始</title>
       <link>https://www.itmedia.co.jp/news/article/2611/10/2000003056/</link>

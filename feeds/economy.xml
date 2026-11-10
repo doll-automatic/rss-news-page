@@ -5,7 +5,35 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 06:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:01:52 +0000</lastBuildDate>
+    <item>
+      <title>日経平均は596円高でスタート、ソフトバンクGやKOKUSAIなどが上昇</title>
+      <link>https://www.zaikei.co.jp/article/20261110/876789.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261110/876789.html</guid>
+      <description>【財経新聞】10日の東京株式市場で日経平均は596円高でスタートし、ソフトバンクGなどが上昇した。</description>
+      <pubDate>Tue, 10 Nov 2026 12:01:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>後場の日経平均は1433円高でスタート、レゾナックや古河電工などが上昇</title>
+      <link>https://www.zaikei.co.jp/article/20261110/876867.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261110/876867.html</guid>
+      <description>【財経新聞】後場の日経平均は1433円高で始まり、レゾナックや古河電工などが上昇した。</description>
+      <pubDate>Tue, 10 Nov 2026 12:01:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>東京為替：ドル・円は反落、買い一巡後は失速</title>
+      <link>https://kabutan.jp/news/marketnews/?b=n202611101315</link>
+      <guid isPermaLink="true">https://kabutan.jp/news/marketnews/?b=n202611101315</guid>
+      <description>【株探】ドル円は158円台前半まで上げた後に反落。原油安によるドル売りと株高による円売りが交錯した。</description>
+      <pubDate>Tue, 10 Nov 2026 12:01:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>三井化学、ＪＳＲを買収 政投銀と共同で１．８兆円―半導体材料を強化</title>
+      <link>https://www.jiji.com/jc/article?k=2026110900366&amp;g=eco</link>
+      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026110900366&amp;g=eco</guid>
+      <description>【時事通信】三井化学が政投銀と共同で、JICからJSRを約1兆8400億円で買収すると発表。完了は2027年度下半期を目指す。</description>
+      <pubDate>Tue, 10 Nov 2026 12:01:52 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均は1912円高、企業決算や米CPIなどに関心</title>
       <link>https://www.zaikei.co.jp/article/20261110/876894.html</link>
