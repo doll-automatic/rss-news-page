@@ -1,5 +1,21 @@
 [
   {
+    "title": "Instagram、年齢を偽った10代もAIで検出 日本でも保護機能の適用を開始",
+    "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003056/",
+    "description": "MetaはInstagramで、18歳以上と偽った10代をAIで推定し、ティーンアカウントの保護機能を日本でも適用し始めた。",
+    "source": "ITmedia NEWS",
+    "published": null,
+    "fetched_at": "2026-11-10T06:02:22.174150+00:00"
+  },
+  {
+    "title": "インスタグラム、年齢推定AIを日本でも開始 年齢を偽っても保護機能を適用",
+    "link": "https://www.watch.impress.co.jp/docs/news/2155108.html",
+    "description": "年齢推定AIにより、生年月日を偽っても10代と推定されれば保護機能が適用される。",
+    "source": "Impress Watch",
+    "published": null,
+    "fetched_at": "2026-11-10T06:02:22.174150+00:00"
+  },
+  {
     "title": "1年でTPUは4種類に、グーグルが新AI半導体2種を発表 機密計算向けは遅延最大半減",
     "link": "https://news.yahoo.co.jp/articles/26f5262fe4e3883b7bba39c5da391969dc321c5d",
     "description": "Googleが第8世代TPUに機密計算向けの新AI半導体2種を追加すると発表した。",
@@ -62,13 +78,5 @@
     "source": "ITmedia NEWS",
     "published": "2026-11-09T09:00:00+09:00",
     "fetched_at": "2026-11-09T18:02:22.326728+00:00"
-  },
-  {
-    "title": "OpenAI新モデル「GPT-6 Cyber」、審査済み顧客に限定提供　Firefoxで未知の脆弱性81件発見",
-    "link": "https://www.techno-edge.net/article/2026/11/06/5682.html",
-    "description": "OpenAIがサイバー能力を「Critical」と分類した新モデルGPT-6 Cyberを審査済み顧客向けに提供。Firefoxで未知の脆弱性81件を発見した。",
-    "source": "Techno Edge",
-    "published": null,
-    "fetched_at": "2026-11-08T06:01:43.608091+00:00"
   }
 ]

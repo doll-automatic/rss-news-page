@@ -1,5 +1,29 @@
 [
   {
+    "title": "「政治とカネ」今国会で審議を 国民・玉木代表",
+    "link": "https://www.chunichi.co.jp/article/1337261",
+    "description": "国民民主党の玉木代表は、政治とカネの問題を今国会で審議すべきだと主張した。",
+    "source": "中日新聞Web",
+    "published": null,
+    "fetched_at": "2026-11-10T06:02:22.174150+00:00"
+  },
+  {
+    "title": "自民、総務会で衆院議員定数削減法案を了承",
+    "link": "https://www.sanin-chuo.co.jp/articles/-/1023545",
+    "description": "自民党は総務会で、比例定数31削減を盛り込んだ法案を了承した。週内にも国会提出の見通し。",
+    "source": "山陰中央新報",
+    "published": null,
+    "fetched_at": "2026-11-10T06:02:22.174150+00:00"
+  },
+  {
+    "title": "衆院議員定数31削減法案取りまとめ 自維国 週内にも国会提出へ",
+    "link": "https://news.ksb.co.jp/ann/article/17035932",
+    "description": "自民・維新・国民の3党が定数31削減法案をまとめ、週内にも国会へ提出する方針。",
+    "source": "KSB瀬戸内海放送",
+    "published": null,
+    "fetched_at": "2026-11-10T06:02:22.174150+00:00"
+  },
+  {
     "title": "26年の熊本地震 初の災害関連死",
     "link": "https://news.yahoo.co.jp/pickup/6601907",
     "description": "熊本県八代市が、今年の熊本地震で初めて90代女性を災害関連死に認定した。",
@@ -78,37 +102,5 @@
     "source": "時事ドットコム",
     "published": null,
     "fetched_at": "2026-11-09T00:02:39.262345+00:00"
-  },
-  {
-    "title": "消費減税法案が衆院通過 全野党が反対、石破前総理ら自民4人が採決退席",
-    "link": "https://news.ksb.co.jp/ann/article/17032226",
-    "description": "消費税減税法案が衆院を通過。全野党が反対し、石破前首相ら自民党議員4人が採決を退席した。",
-    "source": "KSB（ANN）",
-    "published": null,
-    "fetched_at": "2026-11-08T06:01:43.608091+00:00"
-  },
-  {
-    "title": "石破、小渕氏ら採決棄権 消費減税法案、処分求める声",
-    "link": "https://news.infoseek.co.jp/article/jiji_2026110600913/",
-    "description": "石破氏、小渕氏らが採決を棄権し、与党内から処分を求める声が出ている。",
-    "source": "時事通信",
-    "published": null,
-    "fetched_at": "2026-11-08T06:01:43.608091+00:00"
-  },
-  {
-    "title": "立冬に今季一番の寒気 北海道旭川市で初積雪 スリップ事故相次ぐ",
-    "link": "https://news.ksb.co.jp/ann/article/17033045",
-    "description": "今季一番の寒気で北海道旭川市で初積雪。スリップ事故が相次いだ。",
-    "source": "KSB（ANN）",
-    "published": null,
-    "fetched_at": "2026-11-08T06:01:43.608091+00:00"
-  },
-  {
-    "title": "愛知県知多市で震度5強、愛知と静岡で計22人けが 震源は静岡県西部、津波の心配なし",
-    "link": "https://www.chunichi.co.jp/article/1336396",
-    "description": "8日午前1時すぎ、静岡県西部を震源とするM5.7の地震で愛知県知多市が震度5強。愛知・静岡で少なくとも22人がけがをした。",
-    "source": "中日新聞Web",
-    "published": "2026-11-08T13:00:00+09:00",
-    "fetched_at": "2026-11-08T12:02:09.031932+00:00"
   }
 ]

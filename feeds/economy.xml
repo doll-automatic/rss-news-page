@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 00:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:02:22 +0000</lastBuildDate>
+    <item>
+      <title>日経平均は1912円高、企業決算や米CPIなどに関心</title>
+      <link>https://www.zaikei.co.jp/article/20261110/876894.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261110/876894.html</guid>
+      <description>【財経新聞】10日の日経平均は大幅続伸し、企業決算や米CPIに関心が集まった。</description>
+      <pubDate>Tue, 10 Nov 2026 06:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均は大幅に続伸、ソフトバンクGが1銘柄で約400円分押し上げ</title>
+      <link>https://www.zaikei.co.jp/article/20261110/876864.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261110/876864.html</guid>
+      <description>【財経新聞】日経平均は大幅続伸し、ソフトバンクGが指数を約400円分押し上げた。</description>
+      <pubDate>Tue, 10 Nov 2026 06:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均後場寄り付き：前日比1433.31円高の60208.81円</title>
+      <link>https://zai.diamond.jp/articles/-/498755</link>
+      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/498755</guid>
+      <description>【ザイFX！】後場寄り付きの日経平均は6万円台を維持し、1433円高でスタートした。</description>
+      <pubDate>Tue, 10 Nov 2026 06:02:22 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均終値1340円高 三菱重工「3本柱」がつないだ業績期待の買い</title>
       <link>https://www.nikkei.com/article/DGXZQOUB091AYTZ01C26A1000000/</link>
@@ -96,34 +117,6 @@
       <guid isPermaLink="true">https://kabutan.jp/news/marketnews/?b=n202611090029</guid>
       <description>【株探】日経平均株価の短期シナリオについての解説。</description>
       <pubDate>Mon, 09 Nov 2026 00:02:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は3552円安、企業決算や米雇用統計に関心</title>
-      <link>https://www.zaikei.co.jp/article/20261106/876462.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261106/876462.html</guid>
-      <description>【財経新聞】11月6日の東京株式市場で日経平均は大幅に下落。企業決算や米雇用統計に関心が集まった。</description>
-      <pubDate>Sun, 08 Nov 2026 06:01:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均大引け：前日比3643.13円安の57434.77円</title>
-      <link>https://jp.investing.com/news/forex-news/article-1746033</link>
-      <guid isPermaLink="true">https://jp.investing.com/news/forex-news/article-1746033</guid>
-      <description>【Investing.com】日経平均は3643円安の5万7434円77銭で取引を終えた。下落率は5.96%。</description>
-      <pubDate>Sun, 08 Nov 2026 06:01:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均、過去3番目の下げ幅 米民主党勝利でAI株が総崩れ</title>
-      <link>https://news.infoseek.co.jp/article/tvasahi_900203682/</link>
-      <guid isPermaLink="true">https://news.infoseek.co.jp/article/tvasahi_900203682/</guid>
-      <description>【テレビ朝日系（ANN）】米民主党の勝利を受けAI関連株が総崩れとなり、日経平均は過去3番目の下げ幅を記録。証券会社に電話が殺到した。</description>
-      <pubDate>Sun, 08 Nov 2026 06:01:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI・半導体株急落、日経平均5.96％安 それでもドル円は157～158円台で膠着</title>
-      <link>https://gaitame.com/media/entry/2026/11/07/110000</link>
-      <guid isPermaLink="true">https://gaitame.com/media/entry/2026/11/07/110000</guid>
-      <description>【外為どっとコム】株式市場が急落する中でもドル円は157～158円台で小動きだったと解説。</description>
-      <pubDate>Sun, 08 Nov 2026 06:01:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

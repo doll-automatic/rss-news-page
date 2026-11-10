@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 00:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:02:22 +0000</lastBuildDate>
+    <item>
+      <title>Instagram、年齢を偽った10代もAIで検出 日本でも保護機能の適用を開始</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/10/2000003056/</link>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/10/2000003056/</guid>
+      <description>【ITmedia NEWS】MetaはInstagramで、18歳以上と偽った10代をAIで推定し、ティーンアカウントの保護機能を日本でも適用し始めた。</description>
+      <pubDate>Tue, 10 Nov 2026 06:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>インスタグラム、年齢推定AIを日本でも開始 年齢を偽っても保護機能を適用</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2155108.html</link>
+      <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2155108.html</guid>
+      <description>【Impress Watch】年齢推定AIにより、生年月日を偽っても10代と推定されれば保護機能が適用される。</description>
+      <pubDate>Tue, 10 Nov 2026 06:02:22 +0000</pubDate>
+    </item>
     <item>
       <title>1年でTPUは4種類に、グーグルが新AI半導体2種を発表 機密計算向けは遅延最大半減</title>
       <link>https://news.yahoo.co.jp/articles/26f5262fe4e3883b7bba39c5da391969dc321c5d</link>
@@ -61,13 +75,6 @@
       <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/09/2000002998/</guid>
       <description>【ITmedia NEWS】NVIDIA取締役会が、フアンCEOが外国情報機関の標的になったとの報道を受け独立調査を開始。CEOは不倫を認め謝罪した。</description>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI新モデル「GPT-6 Cyber」、審査済み顧客に限定提供　Firefoxで未知の脆弱性81件発見</title>
-      <link>https://www.techno-edge.net/article/2026/11/06/5682.html</link>
-      <guid isPermaLink="true">https://www.techno-edge.net/article/2026/11/06/5682.html</guid>
-      <description>【Techno Edge】OpenAIがサイバー能力を「Critical」と分類した新モデルGPT-6 Cyberを審査済み顧客向けに提供。Firefoxで未知の脆弱性81件を発見した。</description>
-      <pubDate>Sun, 08 Nov 2026 06:01:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,29 @@
 [
   {
+    "title": "日経平均は1912円高、企業決算や米CPIなどに関心",
+    "link": "https://www.zaikei.co.jp/article/20261110/876894.html",
+    "description": "10日の日経平均は大幅続伸し、企業決算や米CPIに関心が集まった。",
+    "source": "財経新聞",
+    "published": null,
+    "fetched_at": "2026-11-10T06:02:22.174150+00:00"
+  },
+  {
+    "title": "日経平均は大幅に続伸、ソフトバンクGが1銘柄で約400円分押し上げ",
+    "link": "https://www.zaikei.co.jp/article/20261110/876864.html",
+    "description": "日経平均は大幅続伸し、ソフトバンクGが指数を約400円分押し上げた。",
+    "source": "財経新聞",
+    "published": null,
+    "fetched_at": "2026-11-10T06:02:22.174150+00:00"
+  },
+  {
+    "title": "日経平均後場寄り付き：前日比1433.31円高の60208.81円",
+    "link": "https://zai.diamond.jp/articles/-/498755",
+    "description": "後場寄り付きの日経平均は6万円台を維持し、1433円高でスタートした。",
+    "source": "ザイFX！",
+    "published": null,
+    "fetched_at": "2026-11-10T06:02:22.174150+00:00"
+  },
+  {
     "title": "日経平均終値1340円高 三菱重工「3本柱」がつないだ業績期待の買い",
     "link": "https://www.nikkei.com/article/DGXZQOUB091AYTZ01C26A1000000/",
     "description": "9日の日経平均は1340円高の5万8775円で反発し、三菱重工業が相場を押し上げた。",
@@ -102,37 +126,5 @@
     "source": "株探",
     "published": null,
     "fetched_at": "2026-11-09T00:02:39.262345+00:00"
-  },
-  {
-    "title": "日経平均は3552円安、企業決算や米雇用統計に関心",
-    "link": "https://www.zaikei.co.jp/article/20261106/876462.html",
-    "description": "11月6日の東京株式市場で日経平均は大幅に下落。企業決算や米雇用統計に関心が集まった。",
-    "source": "財経新聞",
-    "published": null,
-    "fetched_at": "2026-11-08T06:01:43.608091+00:00"
-  },
-  {
-    "title": "日経平均大引け：前日比3643.13円安の57434.77円",
-    "link": "https://jp.investing.com/news/forex-news/article-1746033",
-    "description": "日経平均は3643円安の5万7434円77銭で取引を終えた。下落率は5.96%。",
-    "source": "Investing.com",
-    "published": null,
-    "fetched_at": "2026-11-08T06:01:43.608091+00:00"
-  },
-  {
-    "title": "日経平均、過去3番目の下げ幅 米民主党勝利でAI株が総崩れ",
-    "link": "https://news.infoseek.co.jp/article/tvasahi_900203682/",
-    "description": "米民主党の勝利を受けAI関連株が総崩れとなり、日経平均は過去3番目の下げ幅を記録。証券会社に電話が殺到した。",
-    "source": "テレビ朝日系（ANN）",
-    "published": null,
-    "fetched_at": "2026-11-08T06:01:43.608091+00:00"
-  },
-  {
-    "title": "AI・半導体株急落、日経平均5.96％安 それでもドル円は157～158円台で膠着",
-    "link": "https://gaitame.com/media/entry/2026/11/07/110000",
-    "description": "株式市場が急落する中でもドル円は157～158円台で小動きだったと解説。",
-    "source": "外為どっとコム",
-    "published": null,
-    "fetched_at": "2026-11-08T06:01:43.608091+00:00"
   }
 ]
