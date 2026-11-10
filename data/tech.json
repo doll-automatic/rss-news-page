@@ -1,5 +1,29 @@
 [
   {
+    "title": "1年でTPUは4種類に、グーグルが新AI半導体2種を発表 機密計算向けは遅延最大半減",
+    "link": "https://news.yahoo.co.jp/articles/26f5262fe4e3883b7bba39c5da391969dc321c5d",
+    "description": "Googleが第8世代TPUに機密計算向けの新AI半導体2種を追加すると発表した。",
+    "source": "Yahoo!ニュース",
+    "published": null,
+    "fetched_at": "2026-11-10T00:02:11.128563+00:00"
+  },
+  {
+    "title": "Google、機密推論向け「TPU 8tx」と2チップ構成の「TPU 8i Max」を発表",
+    "link": "https://news.mynavi.jp/techplus/article/20261110-5291808",
+    "description": "Googleが機密推論向けのTPU 8txと、2チップ構成のTPU 8i Maxを発表した。",
+    "source": "マイナビニュース",
+    "published": null,
+    "fetched_at": "2026-11-10T00:02:11.128563+00:00"
+  },
+  {
+    "title": "エヌビディア、2028年までに韓国リベリオンのAI半導体を自社プラットフォームで稼働へ",
+    "link": "https://jp.bloomingbit.io/feed/news/124016",
+    "description": "エヌビディアがリベリオンのAI半導体を2028年までに自社基盤で稼働させる計画と伝えられた。",
+    "source": "ブルーミングビット",
+    "published": null,
+    "fetched_at": "2026-11-10T00:02:11.128563+00:00"
+  },
+  {
     "title": "サカナAI、27年秋にも上場へ本格検討",
     "link": "https://news.yahoo.co.jp/articles/21a69d1628dcd86d8d0aa75271ee7808e3213ab0",
     "description": "サカナAIが日米での上場を本格検討しており、早ければ2027年秋にも実施する見通し。",

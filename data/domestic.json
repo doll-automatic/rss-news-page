@@ -1,5 +1,29 @@
 [
   {
+    "title": "26年の熊本地震 初の災害関連死",
+    "link": "https://news.yahoo.co.jp/pickup/6601907",
+    "description": "熊本県八代市が、今年の熊本地震で初めて90代女性を災害関連死に認定した。",
+    "source": "Yahoo!ニュース",
+    "published": null,
+    "fetched_at": "2026-11-10T00:02:11.128563+00:00"
+  },
+  {
+    "title": "JR高崎線で人身事故 男性会社員が死亡 最大1時間32分の遅れ、約4千人に影響",
+    "link": "https://news.yahoo.co.jp/articles/8bb158b5eec81705db5fa0b63ae868d7e845e807",
+    "description": "埼玉県深谷市の踏切で男性が普通列車にはねられ死亡し、約4千人に影響した。",
+    "source": "埼玉新聞",
+    "published": null,
+    "fetched_at": "2026-11-10T00:02:11.128563+00:00"
+  },
+  {
+    "title": "宇都宮線・湘南新宿ライン・日光線 一部区間で運転見合わせ 人身事故の影響",
+    "link": "https://news.yahoo.co.jp/articles/5b85fd8980e49d883a17842e34f723870ccffd1d",
+    "description": "人身事故の影響で宇都宮線などが一部区間で運転を見合わせた。",
+    "source": "TBS NEWS DIG",
+    "published": null,
+    "fetched_at": "2026-11-10T00:02:11.128563+00:00"
+  },
+  {
     "title": "トラックと車が衝突事故 歩行者巻き込み4人けが 東京・品川区",
     "link": "https://news.yahoo.co.jp/articles/d67a913199c7884c76df1c9ca1b5ba8a864b87c9",
     "description": "東京・品川区の交差点でトラックと車が衝突し、歩行者を巻き込んで4人がけがをした。",
@@ -86,29 +110,5 @@
     "source": "中日新聞Web",
     "published": "2026-11-08T13:00:00+09:00",
     "fetched_at": "2026-11-08T12:02:09.031932+00:00"
-  },
-  {
-    "title": "愛知県「余震などに備えて最大限の警戒を」少なくとも19人けが 住宅や公共建物等少なくとも15棟が損壊",
-    "link": "https://news.yahoo.co.jp/articles/2ff2317224140a1c9cd7119704c7c0f0eea446e5",
-    "description": "震度5強の地震で愛知県は少なくとも19人が負傷、住宅など15棟が損壊したとして余震への警戒を呼びかけた。",
-    "source": "CBCテレビ",
-    "published": "2026-11-08T08:00:00+09:00",
-    "fetched_at": "2026-11-08T18:01:42.884434+00:00"
-  },
-  {
-    "title": "東海地方で最大震度5強の地震　愛知県内では少なくとも10人がけが",
-    "link": "https://www.nagoyatv.com/news/?id=037953",
-    "description": "8日午前1時すぎ、静岡県西部を震源とするM5.7の地震で愛知県知多市などで震度5強を観測し、県内で負傷者が出た。",
-    "source": "メ〜テレ",
-    "published": "2026-11-08T08:00:00+09:00",
-    "fetched_at": "2026-11-09T18:02:22.326728+00:00"
-  },
-  {
-    "title": "【震度５強地震・鉄道への影響】名鉄、JR東海の在来線全線で運転再開",
-    "link": "https://www.chunichi.co.jp/article/1336422",
-    "description": "8日未明、静岡県西部を震源とする地震で愛知県知多市などで震度5強。名鉄とJR東海の在来線が運転を再開した。",
-    "source": "中日新聞",
-    "published": "2026-11-08T07:00:00+09:00",
-    "fetched_at": "2026-11-08T18:01:42.884434+00:00"
   }
 ]

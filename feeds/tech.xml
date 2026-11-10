@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 18:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:02:11 +0000</lastBuildDate>
+    <item>
+      <title>1年でTPUは4種類に、グーグルが新AI半導体2種を発表 機密計算向けは遅延最大半減</title>
+      <link>https://news.yahoo.co.jp/articles/26f5262fe4e3883b7bba39c5da391969dc321c5d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/26f5262fe4e3883b7bba39c5da391969dc321c5d</guid>
+      <description>【Yahoo!ニュース】Googleが第8世代TPUに機密計算向けの新AI半導体2種を追加すると発表した。</description>
+      <pubDate>Tue, 10 Nov 2026 00:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google、機密推論向け「TPU 8tx」と2チップ構成の「TPU 8i Max」を発表</title>
+      <link>https://news.mynavi.jp/techplus/article/20261110-5291808</link>
+      <guid isPermaLink="true">https://news.mynavi.jp/techplus/article/20261110-5291808</guid>
+      <description>【マイナビニュース】Googleが機密推論向けのTPU 8txと、2チップ構成のTPU 8i Maxを発表した。</description>
+      <pubDate>Tue, 10 Nov 2026 00:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>エヌビディア、2028年までに韓国リベリオンのAI半導体を自社プラットフォームで稼働へ</title>
+      <link>https://jp.bloomingbit.io/feed/news/124016</link>
+      <guid isPermaLink="true">https://jp.bloomingbit.io/feed/news/124016</guid>
+      <description>【ブルーミングビット】エヌビディアがリベリオンのAI半導体を2028年までに自社基盤で稼働させる計画と伝えられた。</description>
+      <pubDate>Tue, 10 Nov 2026 00:02:11 +0000</pubDate>
+    </item>
     <item>
       <title>サカナAI、27年秋にも上場へ本格検討</title>
       <link>https://news.yahoo.co.jp/articles/21a69d1628dcd86d8d0aa75271ee7808e3213ab0</link>

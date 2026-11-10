@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 18:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:02:11 +0000</lastBuildDate>
+    <item>
+      <title>26年の熊本地震 初の災害関連死</title>
+      <link>https://news.yahoo.co.jp/pickup/6601907</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601907</guid>
+      <description>【Yahoo!ニュース】熊本県八代市が、今年の熊本地震で初めて90代女性を災害関連死に認定した。</description>
+      <pubDate>Tue, 10 Nov 2026 00:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>JR高崎線で人身事故 男性会社員が死亡 最大1時間32分の遅れ、約4千人に影響</title>
+      <link>https://news.yahoo.co.jp/articles/8bb158b5eec81705db5fa0b63ae868d7e845e807</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8bb158b5eec81705db5fa0b63ae868d7e845e807</guid>
+      <description>【埼玉新聞】埼玉県深谷市の踏切で男性が普通列車にはねられ死亡し、約4千人に影響した。</description>
+      <pubDate>Tue, 10 Nov 2026 00:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>宇都宮線・湘南新宿ライン・日光線 一部区間で運転見合わせ 人身事故の影響</title>
+      <link>https://news.yahoo.co.jp/articles/5b85fd8980e49d883a17842e34f723870ccffd1d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5b85fd8980e49d883a17842e34f723870ccffd1d</guid>
+      <description>【TBS NEWS DIG】人身事故の影響で宇都宮線などが一部区間で運転を見合わせた。</description>
+      <pubDate>Tue, 10 Nov 2026 00:02:11 +0000</pubDate>
+    </item>
     <item>
       <title>トラックと車が衝突事故 歩行者巻き込み4人けが 東京・品川区</title>
       <link>https://news.yahoo.co.jp/articles/d67a913199c7884c76df1c9ca1b5ba8a864b87c9</link>
@@ -82,27 +103,6 @@
       <guid isPermaLink="true">https://www.chunichi.co.jp/article/1336396</guid>
       <description>【中日新聞Web】8日午前1時すぎ、静岡県西部を震源とするM5.7の地震で愛知県知多市が震度5強。愛知・静岡で少なくとも22人がけがをした。</description>
       <pubDate>Sun, 08 Nov 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>愛知県「余震などに備えて最大限の警戒を」少なくとも19人けが 住宅や公共建物等少なくとも15棟が損壊</title>
-      <link>https://news.yahoo.co.jp/articles/2ff2317224140a1c9cd7119704c7c0f0eea446e5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2ff2317224140a1c9cd7119704c7c0f0eea446e5</guid>
-      <description>【CBCテレビ】震度5強の地震で愛知県は少なくとも19人が負傷、住宅など15棟が損壊したとして余震への警戒を呼びかけた。</description>
-      <pubDate>Sat, 07 Nov 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>東海地方で最大震度5強の地震　愛知県内では少なくとも10人がけが</title>
-      <link>https://www.nagoyatv.com/news/?id=037953</link>
-      <guid isPermaLink="true">https://www.nagoyatv.com/news/?id=037953</guid>
-      <description>【メ〜テレ】8日午前1時すぎ、静岡県西部を震源とするM5.7の地震で愛知県知多市などで震度5強を観測し、県内で負傷者が出た。</description>
-      <pubDate>Sat, 07 Nov 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【震度５強地震・鉄道への影響】名鉄、JR東海の在来線全線で運転再開</title>
-      <link>https://www.chunichi.co.jp/article/1336422</link>
-      <guid isPermaLink="true">https://www.chunichi.co.jp/article/1336422</guid>
-      <description>【中日新聞】8日未明、静岡県西部を震源とする地震で愛知県知多市などで震度5強。名鉄とJR東海の在来線が運転を再開した。</description>
-      <pubDate>Sat, 07 Nov 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

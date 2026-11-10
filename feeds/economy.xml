@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 18:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:02:11 +0000</lastBuildDate>
+    <item>
+      <title>日経平均終値1340円高 三菱重工「3本柱」がつないだ業績期待の買い</title>
+      <link>https://www.nikkei.com/article/DGXZQOUB091AYTZ01C26A1000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB091AYTZ01C26A1000000/</guid>
+      <description>【日本経済新聞】9日の日経平均は1340円高の5万8775円で反発し、三菱重工業が相場を押し上げた。</description>
+      <pubDate>Tue, 10 Nov 2026 00:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>【市場概況】東京為替見通し＝ドル円、10月会合「主な意見」で12月会合の利上げ可能性を見極めか</title>
+      <link>https://www.gaitame.com/media/entry/2026/11/10/080021</link>
+      <guid isPermaLink="true">https://www.gaitame.com/media/entry/2026/11/10/080021</guid>
+      <description>【外為どっとコム】日銀10月会合の主な意見の公表を前に、ドル円は12月利上げの可能性を見極める展開。</description>
+      <pubDate>Tue, 10 Nov 2026 00:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>今後数カ月間で円高が進む可能性 １５５円への下落も＝ＮＹ為替</title>
+      <link>https://fx.minkabu.jp/news/383928</link>
+      <guid isPermaLink="true">https://fx.minkabu.jp/news/383928</guid>
+      <description>【みんかぶ】日銀の追加利上げの可能性から、ドル円は3カ月後に155円まで下落するとの見方が出ている。</description>
+      <pubDate>Tue, 10 Nov 2026 00:02:11 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均は1390円高、今週も企業決算などに関心</title>
       <link>https://www.zaikei.co.jp/article/20261109/876706.html</link>
