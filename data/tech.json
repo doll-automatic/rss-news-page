@@ -1,5 +1,13 @@
 [
   {
+    "title": "相づちや割り込みなど自然な会話が可能なAI登場　Shizuku AIが日本語対応の全二重対話モデル『Shizuku-Duplex』を発表",
+    "link": "https://realsound.jp/tech/2026/11/post-2578519.html",
+    "description": "Shizuku AIが相づちや発話への割り込みに対応する日本語の全二重対話モデルを発表した。",
+    "source": "リアルサウンド テック",
+    "published": null,
+    "fetched_at": "2026-11-10T18:02:34.388549+00:00"
+  },
+  {
     "title": "NVIDIA「Agentic AI Day Japan 2026」講演レポート",
     "link": "https://ai.watch.impress.co.jp/docs/news/2155320.html",
     "description": "NVIDIAが都内で開催したAIエージェントの社会実装をテーマとするイベントの講演内容をまとめたレポート。",
@@ -86,6 +94,14 @@
     "source": "Impress Watch",
     "published": null,
     "fetched_at": "2026-11-09T06:02:27.204478+00:00"
+  },
+  {
+    "title": "日本語でリアルタイム会話可能なAI「Shizuku-Duplex」が登場、80ミリ秒ごとに高速処理して相づちやウェブ検索にも対応",
+    "link": "https://gigazine.net/news/20261109-shizuku-duplex-natural-conversation-ai/",
+    "description": "Shizuku AIが日本語対応の全二重対話モデル「Shizuku-Duplex」を公開。80ミリ秒単位で処理し、相づちや割り込み、ウェブ検索に対応する。",
+    "source": "GIGAZINE",
+    "published": "2026-11-09T12:00:00+09:00",
+    "fetched_at": "2026-11-10T18:02:34.388549+00:00"
   },
   {
     "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",

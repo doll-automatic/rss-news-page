@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 12:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 18:02:34 +0000</lastBuildDate>
     <item>
       <title>日経平均は596円高でスタート、ソフトバンクGやKOKUSAIなどが上昇</title>
       <link>https://www.zaikei.co.jp/article/20261110/876789.html</link>
@@ -33,6 +33,20 @@
       <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026110900366&amp;g=eco</guid>
       <description>【時事通信】三井化学が政投銀と共同で、JICからJSRを約1兆8400億円で買収すると発表。完了は2027年度下半期を目指す。</description>
       <pubDate>Tue, 10 Nov 2026 12:01:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>東証大引け 日経平均は続伸 3日ぶり6万円回復 AI・半導体関連に買い</title>
+      <link>https://www.nikkei.com/article/DGXZQOFL100F10Q6A111C2000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOFL100F10Q6A111C2000000/</guid>
+      <description>【日本経済新聞】10日の東京株式市場で日経平均株価は続伸し、終値は6万459円58銭と3営業日ぶりに6万円を回復した。AI・半導体関連に買いが入った。</description>
+      <pubDate>Tue, 10 Nov 2026 06:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均は大幅続伸、米半導体株高を追い風に6万円台回復</title>
+      <link>https://www.zaikei.co.jp/article/20261110/876913.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261110/876913.html</guid>
+      <description>【財経新聞】米半導体株高を追い風に日経平均が大幅続伸し、6万円台を回復した。</description>
+      <pubDate>Tue, 10 Nov 2026 06:30:00 +0000</pubDate>
     </item>
     <item>
       <title>日経平均は1912円高、企業決算や米CPIなどに関心</title>

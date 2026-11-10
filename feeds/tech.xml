@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 12:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 18:02:34 +0000</lastBuildDate>
+    <item>
+      <title>相づちや割り込みなど自然な会話が可能なAI登場　Shizuku AIが日本語対応の全二重対話モデル『Shizuku-Duplex』を発表</title>
+      <link>https://realsound.jp/tech/2026/11/post-2578519.html</link>
+      <guid isPermaLink="true">https://realsound.jp/tech/2026/11/post-2578519.html</guid>
+      <description>【リアルサウンド テック】Shizuku AIが相づちや発話への割り込みに対応する日本語の全二重対話モデルを発表した。</description>
+      <pubDate>Tue, 10 Nov 2026 18:02:34 +0000</pubDate>
+    </item>
     <item>
       <title>NVIDIA「Agentic AI Day Japan 2026」講演レポート</title>
       <link>https://ai.watch.impress.co.jp/docs/news/2155320.html</link>
@@ -82,6 +89,13 @@
       <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2154307.html</guid>
       <description>【Impress Watch】OpenAIがセキュリティ研究向けの「GPT-6 Cyber」を発表。承認制プログラムの一部顧客に限定提供される。</description>
       <pubDate>Mon, 09 Nov 2026 06:02:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>日本語でリアルタイム会話可能なAI「Shizuku-Duplex」が登場、80ミリ秒ごとに高速処理して相づちやウェブ検索にも対応</title>
+      <link>https://gigazine.net/news/20261109-shizuku-duplex-natural-conversation-ai/</link>
+      <guid isPermaLink="true">https://gigazine.net/news/20261109-shizuku-duplex-natural-conversation-ai/</guid>
+      <description>【GIGAZINE】Shizuku AIが日本語対応の全二重対話モデル「Shizuku-Duplex」を公開。80ミリ秒単位で処理し、相づちや割り込み、ウェブ検索に対応する。</description>
+      <pubDate>Mon, 09 Nov 2026 03:00:00 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見</title>

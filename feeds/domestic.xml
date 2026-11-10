@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 12:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 18:02:34 +0000</lastBuildDate>
+    <item>
+      <title>参院で否決なら「消費税解散」も？ 石破氏ら“4人造反”で高まる消費税減税法案「参院否決」シナリオ</title>
+      <link>https://news.yahoo.co.jp/articles/20ef9bc49b4632605f0b9da4d3bc41b009db188b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/20ef9bc49b4632605f0b9da4d3bc41b009db188b</guid>
+      <description>【東洋経済オンライン】少数与党の参院で消費税減税法案が否決される可能性と、その場合の解散観測を東洋経済オンラインが分析。</description>
+      <pubDate>Tue, 10 Nov 2026 18:02:34 +0000</pubDate>
+    </item>
     <item>
       <title>「政治とカネ」今国会で審議を 国民・玉木代表</title>
       <link>https://www.chunichi.co.jp/article/1337261</link>
@@ -47,6 +54,13 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5b85fd8980e49d883a17842e34f723870ccffd1d</guid>
       <description>【TBS NEWS DIG】人身事故の影響で宇都宮線などが一部区間で運転を見合わせた。</description>
       <pubDate>Tue, 10 Nov 2026 00:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>消費減税法案「退席」石破前首相ら戒告処分 「造反」を恐れる自民執行部に参院側は…</title>
+      <link>https://www.tokyo-np.co.jp/article/527030</link>
+      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/527030</guid>
+      <description>【東京新聞】自民党は消費税減税法案の採決時に退席した石破前首相ら4人を戒告処分とした。11日から始まる参院審議を前に、党内の引き締めを図る狙いとされる。</description>
+      <pubDate>Mon, 09 Nov 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
       <title>トラックと車が衝突事故 歩行者巻き込み4人けが 東京・品川区</title>
