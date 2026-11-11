@@ -5,13 +5,34 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 18:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:01:54 +0000</lastBuildDate>
     <item>
       <title>参院で否決なら「消費税解散」も？ 石破氏ら“4人造反”で高まる消費税減税法案「参院否決」シナリオ</title>
       <link>https://news.yahoo.co.jp/articles/20ef9bc49b4632605f0b9da4d3bc41b009db188b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/20ef9bc49b4632605f0b9da4d3bc41b009db188b</guid>
       <description>【東洋経済オンライン】少数与党の参院で消費税減税法案が否決される可能性と、その場合の解散観測を東洋経済オンラインが分析。</description>
       <pubDate>Tue, 10 Nov 2026 18:02:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>石破･小渕氏ら4人戒告 自民幹部、減税法案の採決退席で参院同調警戒</title>
+      <link>https://www.nikkei.com/article/DGXZQOUA1034M0Q6A111C2000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA1034M0Q6A111C2000000/</guid>
+      <description>【日本経済新聞】消費税減税法案の衆院採決で退席した石破前首相ら4人が戒告処分に。自民幹部は参院での同調を警戒している。</description>
+      <pubDate>Tue, 10 Nov 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>小渕、古川氏が党税調副会長辞任 消費税減税法、採決退席で処分</title>
+      <link>https://kahoku.news/articles/knp2026111001001489.html</link>
+      <guid isPermaLink="true">https://kahoku.news/articles/knp2026111001001489.html</guid>
+      <description>【河北新報】小渕優子氏と古川禎久氏が、減税法案の採決退席に伴う処分を受け、自民党税調の副会長を辞任した。</description>
+      <pubDate>Tue, 10 Nov 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>徳島・阿波市長らを逮捕 詐欺容疑、修理費用を上乗せ請求―県警</title>
+      <link>https://www.jiji.com/jc/article?k=2026111000698&amp;g=soc</link>
+      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026111000698&amp;g=soc</guid>
+      <description>【時事通信】徳島県警は、市長の事故の修理費350万円を市発注工事に上乗せ請求しだまし取った疑いで、阿波市長ら3人を逮捕した。</description>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>「政治とカネ」今国会で審議を 国民・玉木代表</title>

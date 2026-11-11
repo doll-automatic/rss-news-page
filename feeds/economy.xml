@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 18:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:01:54 +0000</lastBuildDate>
     <item>
       <title>日経平均は596円高でスタート、ソフトバンクGやKOKUSAIなどが上昇</title>
       <link>https://www.zaikei.co.jp/article/20261110/876789.html</link>
@@ -35,6 +35,13 @@
       <pubDate>Tue, 10 Nov 2026 12:01:52 +0000</pubDate>
     </item>
     <item>
+      <title>日経平均大引け：前日比1684.08円高の60459.58円</title>
+      <link>https://zai.diamond.jp/articles/-/498767</link>
+      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/498767</guid>
+      <description>【ザイFX!】10日の日経平均は前日比1684円高の6万459円58銭で取引を終えた。</description>
+      <pubDate>Tue, 10 Nov 2026 06:45:00 +0000</pubDate>
+    </item>
+    <item>
       <title>東証大引け 日経平均は続伸 3日ぶり6万円回復 AI・半導体関連に買い</title>
       <link>https://www.nikkei.com/article/DGXZQOFL100F10Q6A111C2000000/</link>
       <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOFL100F10Q6A111C2000000/</guid>
@@ -46,6 +53,13 @@
       <link>https://www.zaikei.co.jp/article/20261110/876913.html</link>
       <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261110/876913.html</guid>
       <description>【財経新聞】米半導体株高を追い風に日経平均が大幅続伸し、6万円台を回復した。</description>
+      <pubDate>Tue, 10 Nov 2026 06:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均は大幅続伸、終値で６万円回復＝１０日大引け</title>
+      <link>https://finance.yahoo.co.jp/news/detail/88233e20d63de67921867398a2a9a6523c7d9c78</link>
+      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/88233e20d63de67921867398a2a9a6523c7d9c78</guid>
+      <description>【ウエルスアドバイザー/Yahoo!ファイナンス】10日の東京株式市場で日経平均は大幅続伸し、終値で6万円台を回復した。</description>
       <pubDate>Tue, 10 Nov 2026 06:30:00 +0000</pubDate>
     </item>
     <item>

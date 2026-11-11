@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 18:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:01:54 +0000</lastBuildDate>
     <item>
       <title>相づちや割り込みなど自然な会話が可能なAI登場　Shizuku AIが日本語対応の全二重対話モデル『Shizuku-Duplex』を発表</title>
       <link>https://realsound.jp/tech/2026/11/post-2578519.html</link>
@@ -35,6 +35,13 @@
       <pubDate>Tue, 10 Nov 2026 12:01:52 +0000</pubDate>
     </item>
     <item>
+      <title>〖AI News まとめ〗生成AI ニュースレポート — 2026-11-10</title>
+      <link>https://qiita.com/aakan/items/e5a5db86462a6e80ffdd</link>
+      <guid isPermaLink="true">https://qiita.com/aakan/items/e5a5db86462a6e80ffdd</guid>
+      <description>【Qiita】11月10日の生成AI関連ニュースのまとめ。話しながら反応するAIペルソナなどの話題を紹介。</description>
+      <pubDate>Tue, 10 Nov 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Instagram、年齢を偽った10代もAIで検出 日本でも保護機能の適用を開始</title>
       <link>https://www.itmedia.co.jp/news/article/2611/10/2000003056/</link>
       <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/10/2000003056/</guid>
@@ -47,6 +54,13 @@
       <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2155108.html</guid>
       <description>【Impress Watch】年齢推定AIにより、生年月日を偽っても10代と推定されれば保護機能が適用される。</description>
       <pubDate>Tue, 10 Nov 2026 06:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Near AI、100人のユーザーと18人のエージェントに影響のセキュリティ侵害を確認</title>
+      <link>https://news.bitcoin.com/ja/security/near-ai-100nin-no-yuza-to-18nin-no-ejento-ni-eikyo-no-sekyuriti-shingai-o-kakunin</link>
+      <guid isPermaLink="true">https://news.bitcoin.com/ja/security/near-ai-100nin-no-yuza-to-18nin-no-ejento-ni-eikyo-no-sekyuriti-shingai-o-kakunin</guid>
+      <description>【Bitcoin News】SGLangの脆弱性を突かれ、Near AIの推論サーバーで攻撃者がコードを実行。約100のユーザーアカウントと18のAIエージェントに影響した。</description>
+      <pubDate>Tue, 10 Nov 2026 03:00:00 +0000</pubDate>
     </item>
     <item>
       <title>1年でTPUは4種類に、グーグルが新AI半導体2種を発表 機密計算向けは遅延最大半減</title>
@@ -68,6 +82,13 @@
       <guid isPermaLink="true">https://jp.bloomingbit.io/feed/news/124016</guid>
       <description>【ブルーミングビット】エヌビディアがリベリオンのAI半導体を2028年までに自社基盤で稼働させる計画と伝えられた。</description>
       <pubDate>Tue, 10 Nov 2026 00:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>GoogleのAI半導体、4種類に拡大 NVIDIA対抗でクラウド向け外販</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN09B3P0Z01C26A1000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN09B3P0Z01C26A1000000/</guid>
+      <description>【日本経済新聞】米グーグルは独自設計のAI半導体TPUの新製品2種を発表し、ラインアップを4種類に拡大。NVIDIA対抗でクラウド向け外販を強める。</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>サカナAI、27年秋にも上場へ本格検討</title>
@@ -103,13 +124,6 @@
       <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/06/2000002931/</guid>
       <description>【ITmedia NEWS】OpenAIが脆弱性の発見・修正能力を強化したセキュリティ特化モデル「GPT-6 Cyber」を発表。審査済みの一部顧客に限定提供される。</description>
       <pubDate>Mon, 09 Nov 2026 00:02:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査 本人は不倫認め謝罪</title>
-      <link>https://www.itmedia.co.jp/news/article/2611/09/2000002998/</link>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/09/2000002998/</guid>
-      <description>【ITmedia NEWS】NVIDIA取締役会が、フアンCEOが外国情報機関の標的になったとの報道を受け独立調査を開始。CEOは不倫を認め謝罪した。</description>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -32,6 +32,14 @@
     "fetched_at": "2026-11-10T12:01:52.580995+00:00"
   },
   {
+    "title": "〖AI News まとめ〗生成AI ニュースレポート — 2026-11-10",
+    "link": "https://qiita.com/aakan/items/e5a5db86462a6e80ffdd",
+    "description": "11月10日の生成AI関連ニュースのまとめ。話しながら反応するAIペルソナなどの話題を紹介。",
+    "source": "Qiita",
+    "published": "2026-11-10T20:00:00+09:00",
+    "fetched_at": "2026-11-11T00:01:54.470058+00:00"
+  },
+  {
     "title": "Instagram、年齢を偽った10代もAIで検出 日本でも保護機能の適用を開始",
     "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003056/",
     "description": "MetaはInstagramで、18歳以上と偽った10代をAIで推定し、ティーンアカウントの保護機能を日本でも適用し始めた。",
@@ -46,6 +54,14 @@
     "source": "Impress Watch",
     "published": null,
     "fetched_at": "2026-11-10T06:02:22.174150+00:00"
+  },
+  {
+    "title": "Near AI、100人のユーザーと18人のエージェントに影響のセキュリティ侵害を確認",
+    "link": "https://news.bitcoin.com/ja/security/near-ai-100nin-no-yuza-to-18nin-no-ejento-ni-eikyo-no-sekyuriti-shingai-o-kakunin",
+    "description": "SGLangの脆弱性を突かれ、Near AIの推論サーバーで攻撃者がコードを実行。約100のユーザーアカウントと18のAIエージェントに影響した。",
+    "source": "Bitcoin News",
+    "published": "2026-11-10T12:00:00+09:00",
+    "fetched_at": "2026-11-11T00:01:54.470058+00:00"
   },
   {
     "title": "1年でTPUは4種類に、グーグルが新AI半導体2種を発表 機密計算向けは遅延最大半減",
@@ -70,6 +86,14 @@
     "source": "ブルーミングビット",
     "published": null,
     "fetched_at": "2026-11-10T00:02:11.128563+00:00"
+  },
+  {
+    "title": "GoogleのAI半導体、4種類に拡大 NVIDIA対抗でクラウド向け外販",
+    "link": "https://www.nikkei.com/article/DGXZQOGN09B3P0Z01C26A1000000/",
+    "description": "米グーグルは独自設計のAI半導体TPUの新製品2種を発表し、ラインアップを4種類に拡大。NVIDIA対抗でクラウド向け外販を強める。",
+    "source": "日本経済新聞",
+    "published": "2026-11-10T09:00:00+09:00",
+    "fetched_at": "2026-11-11T00:01:54.470058+00:00"
   },
   {
     "title": "サカナAI、27年秋にも上場へ本格検討",
@@ -110,13 +134,5 @@
     "source": "ITmedia NEWS",
     "published": null,
     "fetched_at": "2026-11-09T00:02:39.262345+00:00"
-  },
-  {
-    "title": "NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査 本人は不倫認め謝罪",
-    "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
-    "description": "NVIDIA取締役会が、フアンCEOが外国情報機関の標的になったとの報道を受け独立調査を開始。CEOは不倫を認め謝罪した。",
-    "source": "ITmedia NEWS",
-    "published": "2026-11-09T09:00:00+09:00",
-    "fetched_at": "2026-11-09T18:02:22.326728+00:00"
   }
 ]
