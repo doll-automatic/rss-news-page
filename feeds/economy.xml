@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2026 00:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:02:06 +0000</lastBuildDate>
+    <item>
+      <title>後場の日経平均は906円高でスタート、KOKUSAIや太陽誘電などが上昇</title>
+      <link>https://www.zaikei.co.jp/article/20261111/877063.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261111/877063.html</guid>
+      <description>【財経新聞】後場寄り付きの日経平均は前日比906円高の6万1366円と大きく上昇した。</description>
+      <pubDate>Wed, 11 Nov 2026 03:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均11日寄り付き＝65円高、6万525円</title>
+      <link>https://kabutan.jp/news/marketnews/?b=n202611110371</link>
+      <guid isPermaLink="true">https://kabutan.jp/news/marketnews/?b=n202611110371</guid>
+      <description>【株探】11日の日経平均は前日比65円高の6万525円で寄り付いた。ドル円は158円台後半で推移。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均は596円高でスタート、ソフトバンクGやKOKUSAIなどが上昇</title>
       <link>https://www.zaikei.co.jp/article/20261110/876789.html</link>
@@ -145,34 +159,6 @@
       <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/392ea1efe8a367883e1fba66dd0fcac59239a2e8</guid>
       <description>【フィスコ/Yahoo!ファイナンス】後場の日経平均は前営業日比1797円高の59,232円で取引を開始。半導体関連株が上昇した。</description>
       <pubDate>Mon, 09 Nov 2026 06:02:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>為替相場　９日（日本時間１０時）</title>
-      <link>https://www.chunichi.co.jp/article/1336700?rct=economics</link>
-      <guid isPermaLink="true">https://www.chunichi.co.jp/article/1336700?rct=economics</guid>
-      <description>【中日新聞Web】9日10時時点の円相場は1ドル=158円30銭前後で推移した。</description>
-      <pubDate>Mon, 09 Nov 2026 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>6日のNY市場はまちまち、AIリスク警戒感が緩和</title>
-      <link>https://zaikei.co.jp/article/20261109/876594.html</link>
-      <guid isPermaLink="true">https://zaikei.co.jp/article/20261109/876594.html</guid>
-      <description>【財経新聞】6日のNY市場はまちまちとなり、AIリスクへの警戒感が和らいだ。</description>
-      <pubDate>Mon, 09 Nov 2026 00:02:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>11/9の強弱材料</title>
-      <link>https://www.zaikei.co.jp/article/20261109/876608.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261109/876608.html</guid>
-      <description>【財経新聞】9日の東京株式市場に向けた強弱材料をまとめた記事。</description>
-      <pubDate>Mon, 09 Nov 2026 00:02:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月9日記）</title>
-      <link>https://kabutan.jp/news/marketnews/?b=n202611090029</link>
-      <guid isPermaLink="true">https://kabutan.jp/news/marketnews/?b=n202611090029</guid>
-      <description>【株探】日経平均株価の短期シナリオについての解説。</description>
-      <pubDate>Mon, 09 Nov 2026 00:02:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

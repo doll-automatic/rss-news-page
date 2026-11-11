@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2026 00:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:02:06 +0000</lastBuildDate>
+    <item>
+      <title>岐阜市のアパートで火災、1歳から40代の男女12人搬送</title>
+      <link>https://www.chunichi.co.jp/article/1337649</link>
+      <guid isPermaLink="true">https://www.chunichi.co.jp/article/1337649</guid>
+      <description>【中日新聞】11日未明、岐阜市の3階建てアパートで火災があり、住人12人が搬送された。全員搬送時に意識があった。</description>
+      <pubDate>Tue, 10 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>最大3.13倍「1票の格差」訴訟、最高裁で11日に判決</title>
+      <link>https://www.tokyo-np.co.jp/article/526974</link>
+      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/526974</guid>
+      <description>【東京新聞】2025年参院選の1票の格差を巡る訴訟で、最高裁大法廷が11日に判決を言い渡す。</description>
+      <pubDate>Tue, 10 Nov 2026 20:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>参院で否決なら「消費税解散」も？ 石破氏ら“4人造反”で高まる消費税減税法案「参院否決」シナリオ</title>
       <link>https://news.yahoo.co.jp/articles/20ef9bc49b4632605f0b9da4d3bc41b009db188b</link>
@@ -54,6 +68,13 @@
       <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17035932</guid>
       <description>【KSB瀬戸内海放送】自民・維新・国民の3党が定数31削減法案をまとめ、週内にも国会へ提出する方針。</description>
       <pubDate>Tue, 10 Nov 2026 06:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>石破前首相ら戒告処分 参院側不満</title>
+      <link>https://news.yahoo.co.jp/pickup/6601976</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601976</guid>
+      <description>【Yahoo!ニュース】自民党は消費税減税関連法案の採決で退席した石破前首相ら4人を戒告処分とした。参院側には不満の声がある。</description>
+      <pubDate>Tue, 10 Nov 2026 03:00:00 +0000</pubDate>
     </item>
     <item>
       <title>26年の熊本地震 初の災害関連死</title>
@@ -110,27 +131,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/52707257009524e4f4fbe441dea17cdf28db8049</guid>
       <description>【テレビ朝日系(ANN)】自民党執行部は、衆院本会議の採決前に退席した石破前首相ら4人に9日正午までの説明を求め、処分を検討している。</description>
       <pubDate>Mon, 09 Nov 2026 06:02:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>石破、小渕氏ら戒告処分 採決棄権、自民「看過できず」</title>
-      <link>https://www.jiji.com/jc/article?k=2026110900659&amp;g=pol</link>
-      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026110900659&amp;g=pol</guid>
-      <description>【時事ドットコム】自民党は消費税減税法案の採決前に退席した石破前首相ら4人を戒告処分とした。総裁経験者への戒告は初めて。</description>
-      <pubDate>Mon, 09 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>消費税減税法案が可決、衆院通過 臨時国会中の成立目指す</title>
-      <link>https://news.yahoo.co.jp/articles/5f503f4f45937abaf123f58e48e31e7c814b9af9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5f503f4f45937abaf123f58e48e31e7c814b9af9</guid>
-      <description>【毎日新聞】食料品の消費税率を引き下げる法案が衆院を通過。参院では与党が過半数に届かず、臨時国会中の成立を目指す。</description>
-      <pubDate>Mon, 09 Nov 2026 00:02:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>与党、少数参院で多数派工作 消費減税法案、１１日審議入り</title>
-      <link>https://www.jiji.com/jc/article?k=2026110700339&amp;g=pol</link>
-      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026110700339&amp;g=pol</guid>
-      <description>【時事ドットコム】消費減税法案は11日に参院で審議入り。与党は国民民主党や公明党などへの働きかけを進める。</description>
-      <pubDate>Mon, 09 Nov 2026 00:02:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

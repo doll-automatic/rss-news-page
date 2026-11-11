@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2026 00:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:02:06 +0000</lastBuildDate>
+    <item>
+      <title>NVIDIA「GR00T 2」、5件の実演で平均成功率95％―少数データでロボットを追加学習</title>
+      <link>https://www.zaikei.co.jp/article/20261111/877062.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261111/877062.html</guid>
+      <description>【財経新聞】NVIDIAがロボット向け基盤モデルGR00T 2を発表。1タスク1件の実演で平均71%、5件で95%の成功率としている。</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>相づちや割り込みなど自然な会話が可能なAI登場　Shizuku AIが日本語対応の全二重対話モデル『Shizuku-Duplex』を発表</title>
       <link>https://realsound.jp/tech/2026/11/post-2578519.html</link>
@@ -63,6 +70,13 @@
       <pubDate>Tue, 10 Nov 2026 03:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>アドビとディズニーが提携。自社IP学習の独自生成AIモデル構築へ</title>
+      <link>https://ai.watch.impress.co.jp/docs/news/2155059.html</link>
+      <guid isPermaLink="true">https://ai.watch.impress.co.jp/docs/news/2155059.html</guid>
+      <description>【AI Watch】アドビとディズニーが複数年の戦略的提携を発表。Firefly Foundryでディズニー専用の生成AIモデルを開発する。</description>
+      <pubDate>Tue, 10 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>1年でTPUは4種類に、グーグルが新AI半導体2種を発表 機密計算向けは遅延最大半減</title>
       <link>https://news.yahoo.co.jp/articles/26f5262fe4e3883b7bba39c5da391969dc321c5d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/26f5262fe4e3883b7bba39c5da391969dc321c5d</guid>
@@ -110,20 +124,6 @@
       <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2154307.html</guid>
       <description>【Impress Watch】OpenAIがセキュリティ研究向けの「GPT-6 Cyber」を発表。承認制プログラムの一部顧客に限定提供される。</description>
       <pubDate>Mon, 09 Nov 2026 06:02:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>日本語でリアルタイム会話可能なAI「Shizuku-Duplex」が登場、80ミリ秒ごとに高速処理して相づちやウェブ検索にも対応</title>
-      <link>https://gigazine.net/news/20261109-shizuku-duplex-natural-conversation-ai/</link>
-      <guid isPermaLink="true">https://gigazine.net/news/20261109-shizuku-duplex-natural-conversation-ai/</guid>
-      <description>【GIGAZINE】Shizuku AIが日本語対応の全二重対話モデル「Shizuku-Duplex」を公開。80ミリ秒単位で処理し、相づちや割り込み、ウェブ検索に対応する。</description>
-      <pubDate>Mon, 09 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見</title>
-      <link>https://www.itmedia.co.jp/news/article/2611/06/2000002931/</link>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/06/2000002931/</guid>
-      <description>【ITmedia NEWS】OpenAIが脆弱性の発見・修正能力を強化したセキュリティ特化モデル「GPT-6 Cyber」を発表。審査済みの一部顧客に限定提供される。</description>
-      <pubDate>Mon, 09 Nov 2026 00:02:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

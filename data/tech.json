@@ -1,5 +1,13 @@
 [
   {
+    "title": "NVIDIA「GR00T 2」、5件の実演で平均成功率95％―少数データでロボットを追加学習",
+    "link": "https://www.zaikei.co.jp/article/20261111/877062.html",
+    "description": "NVIDIAがロボット向け基盤モデルGR00T 2を発表。1タスク1件の実演で平均71%、5件で95%の成功率としている。",
+    "source": "財経新聞",
+    "published": "2026-11-11T09:00:00+09:00",
+    "fetched_at": "2026-11-11T06:02:06.245755+00:00"
+  },
+  {
     "title": "相づちや割り込みなど自然な会話が可能なAI登場　Shizuku AIが日本語対応の全二重対話モデル『Shizuku-Duplex』を発表",
     "link": "https://realsound.jp/tech/2026/11/post-2578519.html",
     "description": "Shizuku AIが相づちや発話への割り込みに対応する日本語の全二重対話モデルを発表した。",
@@ -64,6 +72,14 @@
     "fetched_at": "2026-11-11T00:01:54.470058+00:00"
   },
   {
+    "title": "アドビとディズニーが提携。自社IP学習の独自生成AIモデル構築へ",
+    "link": "https://ai.watch.impress.co.jp/docs/news/2155059.html",
+    "description": "アドビとディズニーが複数年の戦略的提携を発表。Firefly Foundryでディズニー専用の生成AIモデルを開発する。",
+    "source": "AI Watch",
+    "published": "2026-11-10T12:00:00+09:00",
+    "fetched_at": "2026-11-11T06:02:06.245755+00:00"
+  },
+  {
     "title": "1年でTPUは4種類に、グーグルが新AI半導体2種を発表 機密計算向けは遅延最大半減",
     "link": "https://news.yahoo.co.jp/articles/26f5262fe4e3883b7bba39c5da391969dc321c5d",
     "description": "Googleが第8世代TPUに機密計算向けの新AI半導体2種を追加すると発表した。",
@@ -118,21 +134,5 @@
     "source": "Impress Watch",
     "published": null,
     "fetched_at": "2026-11-09T06:02:27.204478+00:00"
-  },
-  {
-    "title": "日本語でリアルタイム会話可能なAI「Shizuku-Duplex」が登場、80ミリ秒ごとに高速処理して相づちやウェブ検索にも対応",
-    "link": "https://gigazine.net/news/20261109-shizuku-duplex-natural-conversation-ai/",
-    "description": "Shizuku AIが日本語対応の全二重対話モデル「Shizuku-Duplex」を公開。80ミリ秒単位で処理し、相づちや割り込み、ウェブ検索に対応する。",
-    "source": "GIGAZINE",
-    "published": "2026-11-09T12:00:00+09:00",
-    "fetched_at": "2026-11-10T18:02:34.388549+00:00"
-  },
-  {
-    "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
-    "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
-    "description": "OpenAIが脆弱性の発見・修正能力を強化したセキュリティ特化モデル「GPT-6 Cyber」を発表。審査済みの一部顧客に限定提供される。",
-    "source": "ITmedia NEWS",
-    "published": null,
-    "fetched_at": "2026-11-09T00:02:39.262345+00:00"
   }
 ]
