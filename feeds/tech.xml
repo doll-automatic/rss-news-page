@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2026 12:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:02:45 +0000</lastBuildDate>
     <item>
       <title>米Notion、AIチャットの内容漏洩 連携企業へのサイバー攻撃で</title>
       <link>https://nikkei.com/article/DGXZQOGN113MO0R11C26A1000000</link>
@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://nikkei.com/article/DGXZQOGN10C9W0Q6A111C2000000</guid>
       <description>【日本経済新聞】アンソロピックのIPOに向けた投資家説明会が始まり、評価額は当初想定より引き下げられた。</description>
       <pubDate>Wed, 11 Nov 2026 12:02:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>オープンＡＩ、７－９月期売上高は１００億ドル 営業赤字は１０９億ドルに拡大</title>
+      <link>https://s.kabutan.jp/news/n202611111421/</link>
+      <guid isPermaLink="true">https://s.kabutan.jp/news/n202611111421/</guid>
+      <description>【株探】OpenAIの7〜9月期売上高は前期比約50%増の100億ドルに達した一方、営業赤字は109億ドルに拡大した。</description>
+      <pubDate>Wed, 11 Nov 2026 05:21:00 +0000</pubDate>
     </item>
     <item>
       <title>NVIDIA「GR00T 2」、5件の実演で平均成功率95％―少数データでロボットを追加学習</title>
@@ -117,13 +124,6 @@
       <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN09B3P0Z01C26A1000000/</guid>
       <description>【日本経済新聞】米グーグルは独自設計のAI半導体TPUの新製品2種を発表し、ラインアップを4種類に拡大。NVIDIA対抗でクラウド向け外販を強める。</description>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>サカナAI、27年秋にも上場へ本格検討</title>
-      <link>https://news.yahoo.co.jp/articles/21a69d1628dcd86d8d0aa75271ee7808e3213ab0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/21a69d1628dcd86d8d0aa75271ee7808e3213ab0</guid>
-      <description>【共同通信 / Yahoo!ニュース】サカナAIが日米での上場を本格検討しており、早ければ2027年秋にも実施する見通し。</description>
-      <pubDate>Mon, 09 Nov 2026 18:02:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -134,21 +134,5 @@
     "source": "東京新聞",
     "published": "2026-11-10T08:00:00+09:00",
     "fetched_at": "2026-11-10T18:02:34.388549+00:00"
-  },
-  {
-    "title": "トラックと車が衝突事故 歩行者巻き込み4人けが 東京・品川区",
-    "link": "https://news.yahoo.co.jp/articles/d67a913199c7884c76df1c9ca1b5ba8a864b87c9",
-    "description": "東京・品川区の交差点でトラックと車が衝突し、歩行者を巻き込んで4人がけがをした。",
-    "source": "FNNプライムオンライン",
-    "published": null,
-    "fetched_at": "2026-11-09T12:02:06.691590+00:00"
-  },
-  {
-    "title": "自動車専用道路のセンターライン付近に歩行者 大型トラックにはねられ死亡 運転手を逮捕",
-    "link": "https://news.yahoo.co.jp/articles/83f6c814987c8e9ff9ca6d057ac30e58365d59bb",
-    "description": "静岡県の自動車専用道路で歩行者が大型トラックにはねられ死亡し、運転手が逮捕された。",
-    "source": "テレビ静岡NEWS",
-    "published": null,
-    "fetched_at": "2026-11-09T12:02:06.691590+00:00"
   }
 ]
