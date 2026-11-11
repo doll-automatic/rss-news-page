@@ -1,5 +1,29 @@
 [
   {
+    "title": "昨年参院選は「違憲状態」 3.13倍、合区後初 最高裁大法廷",
+    "link": "https://news.yahoo.co.jp/articles/4d90da7e516cd4b04cf13fa3550ee2753d5c8d7c",
+    "description": "最高裁大法廷は2025年参院選の最大3.13倍の1票の格差を違憲状態と判断したが、選挙無効の請求は退けた。",
+    "source": "時事通信",
+    "published": null,
+    "fetched_at": "2026-11-11T12:02:04.116038+00:00"
+  },
+  {
+    "title": "定数削減法案、12日に提出へ 自維国、今国会成立目指す",
+    "link": "https://www.tokyo-np.co.jp/article/527493",
+    "description": "自民・維新・国民民主の3党は、衆院比例定数31削減を含む法案を12日に共同提出し、今国会成立を目指す。",
+    "source": "東京新聞",
+    "published": null,
+    "fetched_at": "2026-11-11T12:02:04.116038+00:00"
+  },
+  {
+    "title": "内閣府でメアド6万3千件漏えい アララ原因、メルマガ利用者",
+    "link": "https://www.tokyo-np.co.jp/article/527417",
+    "description": "内閣府は、メルマガ配信委託先アララへの不正アクセスで利用者のメールアドレス約6万3千件が漏えいしたと発表した。",
+    "source": "東京新聞",
+    "published": null,
+    "fetched_at": "2026-11-11T12:02:04.116038+00:00"
+  },
+  {
     "title": "岐阜市のアパートで火災、1歳から40代の男女12人搬送",
     "link": "https://www.chunichi.co.jp/article/1337649",
     "description": "11日未明、岐阜市の3階建てアパートで火災があり、住人12人が搬送された。全員搬送時に意識があった。",
@@ -126,21 +150,5 @@
     "source": "テレビ静岡NEWS",
     "published": null,
     "fetched_at": "2026-11-09T12:02:06.691590+00:00"
-  },
-  {
-    "title": "静岡県西部でM5.7の地震 15人負傷、107年ぶりの揺れ",
-    "link": "https://news.livedoor.com/topics/detail/32766536/",
-    "description": "8日未明、静岡県西部を震源とするM5.7の地震が発生し、愛知県で最大震度5強を観測。けが人が出た。",
-    "source": "ライブドアニュース",
-    "published": null,
-    "fetched_at": "2026-11-09T06:02:27.204478+00:00"
-  },
-  {
-    "title": "自民 消費減税法案の採決棄権で石破氏ら4人の処分検討",
-    "link": "https://news.yahoo.co.jp/articles/52707257009524e4f4fbe441dea17cdf28db8049",
-    "description": "自民党執行部は、衆院本会議の採決前に退席した石破前首相ら4人に9日正午までの説明を求め、処分を検討している。",
-    "source": "テレビ朝日系(ANN)",
-    "published": null,
-    "fetched_at": "2026-11-09T06:02:27.204478+00:00"
   }
 ]

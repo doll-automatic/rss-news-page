@@ -1,5 +1,21 @@
 [
   {
+    "title": "米Notion、AIチャットの内容漏洩 連携企業へのサイバー攻撃で",
+    "link": "https://nikkei.com/article/DGXZQOGN113MO0R11C26A1000000",
+    "description": "米Notionは、利用者とAIの対話内容の一部が外部に漏洩したと発表した。連携先AI企業へのサイバー攻撃が原因という。",
+    "source": "日本経済新聞",
+    "published": null,
+    "fetched_at": "2026-11-11T12:02:04.116038+00:00"
+  },
+  {
+    "title": "アンソロピックIPO、熱狂より現実路線 AIマネー変調でテック7社下支え",
+    "link": "https://nikkei.com/article/DGXZQOGN10C9W0Q6A111C2000000",
+    "description": "アンソロピックのIPOに向けた投資家説明会が始まり、評価額は当初想定より引き下げられた。",
+    "source": "日本経済新聞",
+    "published": null,
+    "fetched_at": "2026-11-11T12:02:04.116038+00:00"
+  },
+  {
     "title": "NVIDIA「GR00T 2」、5件の実演で平均成功率95％―少数データでロボットを追加学習",
     "link": "https://www.zaikei.co.jp/article/20261111/877062.html",
     "description": "NVIDIAがロボット向け基盤モデルGR00T 2を発表。1タスク1件の実演で平均71%、5件で95%の成功率としている。",
@@ -118,21 +134,5 @@
     "source": "共同通信 / Yahoo!ニュース",
     "published": null,
     "fetched_at": "2026-11-09T18:02:22.326728+00:00"
-  },
-  {
-    "title": "15秒動画を生成する「Gemini Omni 1.2 Flash」 料金は30%引き下げ",
-    "link": "https://www.watch.impress.co.jp/docs/news/2154454.html",
-    "description": "GoogleがGemini Omni 1.2 Flashを一般提供開始。1本最長15秒となり、720p動画の料金は30%引き下げられた。",
-    "source": "Impress Watch",
-    "published": null,
-    "fetched_at": "2026-11-09T06:02:27.204478+00:00"
-  },
-  {
-    "title": "OpenAI、脆弱性発見・修正能力を強化したセキュリティ特化モデル「GPT-6 Cyber」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2154307.html",
-    "description": "OpenAIがセキュリティ研究向けの「GPT-6 Cyber」を発表。承認制プログラムの一部顧客に限定提供される。",
-    "source": "Impress Watch",
-    "published": null,
-    "fetched_at": "2026-11-09T06:02:27.204478+00:00"
   }
 ]

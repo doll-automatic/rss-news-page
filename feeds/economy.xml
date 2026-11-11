@@ -5,7 +5,35 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2026 06:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 12:02:04 +0000</lastBuildDate>
+    <item>
+      <title>日経平均、789円高の6万1248円で終了</title>
+      <link>https://news.yahoo.co.jp/articles/1be69d666a79a478bae9b6adc0e0ef43cfcd91c1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1be69d666a79a478bae9b6adc0e0ef43cfcd91c1</guid>
+      <description>【時事通信】東京株式市場で日経平均は3日続伸し、終値は6万1248円59銭。半導体株が相場を主導した。</description>
+      <pubDate>Wed, 11 Nov 2026 12:02:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均は883円高、引き続き企業決算に関心</title>
+      <link>https://www.zaikei.co.jp/article/20261111/877092.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261111/877092.html</guid>
+      <description>【財経新聞】日経平均は大幅高となり、引き続き企業決算に注目が集まった。</description>
+      <pubDate>Wed, 11 Nov 2026 12:02:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>東京為替：ドル・円は伸び悩み、上値の重さを意識</title>
+      <link>https://www.zaikei.co.jp/article/20261111/877117.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261111/877117.html</guid>
+      <description>【財経新聞】ドル円は158円台後半で伸び悩み、日米協調介入への警戒感が上値を抑えた。</description>
+      <pubDate>Wed, 11 Nov 2026 12:02:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経789円高の3日続伸も値上がりは54％、半導体に資金</title>
+      <link>https://tbladvisory.com/20261111nk/</link>
+      <guid isPermaLink="true">https://tbladvisory.com/20261111nk/</guid>
+      <description>【世界一やさしい投資の学校】日経平均は3日続伸。値上がり銘柄は54%にとどまり、半導体株に資金が集中した。</description>
+      <pubDate>Wed, 11 Nov 2026 12:02:04 +0000</pubDate>
+    </item>
     <item>
       <title>後場の日経平均は906円高でスタート、KOKUSAIや太陽誘電などが上昇</title>
       <link>https://www.zaikei.co.jp/article/20261111/877063.html</link>
@@ -138,27 +166,6 @@
       <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261109/876700.html</guid>
       <description>【財経新聞】NYダウは下落への警戒、日本株は「落ちているナイフはつかむな」との相場見通し。</description>
       <pubDate>Mon, 09 Nov 2026 12:02:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均大引け：前週末比1340.73円高の58775.50円</title>
-      <link>https://www.zaikei.co.jp/article/20261109/876708.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261109/876708.html</guid>
-      <description>【財経新聞】9日の日経平均は6日ぶりに急反発し、前週末比1340円高の58775円50銭で取引を終えた。</description>
-      <pubDate>Mon, 09 Nov 2026 06:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均寄り付き：前週末比525.93円高の57960.7円</title>
-      <link>https://zai.diamond.jp/articles/-/498665</link>
-      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/498665</guid>
-      <description>【ダイヤモンド・ザイ】9日の東京市場で日経平均は前週末比525円93銭高の57,960円70銭で寄り付いた。</description>
-      <pubDate>Mon, 09 Nov 2026 06:02:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>後場の日経平均は1797円高でスタート、キオクシアHDやアドバンテストなどが上昇</title>
-      <link>https://finance.yahoo.co.jp/news/detail/392ea1efe8a367883e1fba66dd0fcac59239a2e8</link>
-      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/392ea1efe8a367883e1fba66dd0fcac59239a2e8</guid>
-      <description>【フィスコ/Yahoo!ファイナンス】後場の日経平均は前営業日比1797円高の59,232円で取引を開始。半導体関連株が上昇した。</description>
-      <pubDate>Mon, 09 Nov 2026 06:02:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

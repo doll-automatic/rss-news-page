@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2026 06:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 12:02:04 +0000</lastBuildDate>
+    <item>
+      <title>米Notion、AIチャットの内容漏洩 連携企業へのサイバー攻撃で</title>
+      <link>https://nikkei.com/article/DGXZQOGN113MO0R11C26A1000000</link>
+      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOGN113MO0R11C26A1000000</guid>
+      <description>【日本経済新聞】米Notionは、利用者とAIの対話内容の一部が外部に漏洩したと発表した。連携先AI企業へのサイバー攻撃が原因という。</description>
+      <pubDate>Wed, 11 Nov 2026 12:02:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>アンソロピックIPO、熱狂より現実路線 AIマネー変調でテック7社下支え</title>
+      <link>https://nikkei.com/article/DGXZQOGN10C9W0Q6A111C2000000</link>
+      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOGN10C9W0Q6A111C2000000</guid>
+      <description>【日本経済新聞】アンソロピックのIPOに向けた投資家説明会が始まり、評価額は当初想定より引き下げられた。</description>
+      <pubDate>Wed, 11 Nov 2026 12:02:04 +0000</pubDate>
+    </item>
     <item>
       <title>NVIDIA「GR00T 2」、5件の実演で平均成功率95％―少数データでロボットを追加学習</title>
       <link>https://www.zaikei.co.jp/article/20261111/877062.html</link>
@@ -110,20 +124,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/21a69d1628dcd86d8d0aa75271ee7808e3213ab0</guid>
       <description>【共同通信 / Yahoo!ニュース】サカナAIが日米での上場を本格検討しており、早ければ2027年秋にも実施する見通し。</description>
       <pubDate>Mon, 09 Nov 2026 18:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>15秒動画を生成する「Gemini Omni 1.2 Flash」 料金は30%引き下げ</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2154454.html</link>
-      <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2154454.html</guid>
-      <description>【Impress Watch】GoogleがGemini Omni 1.2 Flashを一般提供開始。1本最長15秒となり、720p動画の料金は30%引き下げられた。</description>
-      <pubDate>Mon, 09 Nov 2026 06:02:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI、脆弱性発見・修正能力を強化したセキュリティ特化モデル「GPT-6 Cyber」</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2154307.html</link>
-      <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2154307.html</guid>
-      <description>【Impress Watch】OpenAIがセキュリティ研究向けの「GPT-6 Cyber」を発表。承認制プログラムの一部顧客に限定提供される。</description>
-      <pubDate>Mon, 09 Nov 2026 06:02:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
