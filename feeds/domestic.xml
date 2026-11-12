@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 00:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 06:02:22 +0000</lastBuildDate>
+    <item>
+      <title>衆院定数31減、法案を提出＝自維国、今国会成立目指す</title>
+      <link>https://sp.m.jiji.com/article/show/3909851</link>
+      <guid isPermaLink="true">https://sp.m.jiji.com/article/show/3909851</guid>
+      <description>【時事通信】自民・維新・国民の3党が衆院比例代表の定数を31削減する法案を提出した。今国会での成立を目指す。</description>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>良品計画社長が漏えい謝罪 会見で、109万件流出か</title>
+      <link>https://www.tokyo-np.co.jp/article/527627</link>
+      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/527627</guid>
+      <description>【東京新聞】良品計画の清水社長が不正アクセスに関する会見で謝罪。カード情報約109万件が流出した可能性がある。</description>
+      <pubDate>Thu, 12 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>正面衝突事故で4人重軽傷、日光市の国道</title>
       <link>https://www.shimotsuke.co.jp/articles/-/1457297</link>
@@ -75,55 +89,6 @@
       <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026111000698&amp;g=soc</guid>
       <description>【時事通信】徳島県警は、市長の事故の修理費350万円を市発注工事に上乗せ請求しだまし取った疑いで、阿波市長ら3人を逮捕した。</description>
       <pubDate>Tue, 10 Nov 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>「政治とカネ」今国会で審議を 国民・玉木代表</title>
-      <link>https://www.chunichi.co.jp/article/1337261</link>
-      <guid isPermaLink="true">https://www.chunichi.co.jp/article/1337261</guid>
-      <description>【中日新聞Web】国民民主党の玉木代表は、政治とカネの問題を今国会で審議すべきだと主張した。</description>
-      <pubDate>Tue, 10 Nov 2026 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>自民、総務会で衆院議員定数削減法案を了承</title>
-      <link>https://www.sanin-chuo.co.jp/articles/-/1023545</link>
-      <guid isPermaLink="true">https://www.sanin-chuo.co.jp/articles/-/1023545</guid>
-      <description>【山陰中央新報】自民党は総務会で、比例定数31削減を盛り込んだ法案を了承した。週内にも国会提出の見通し。</description>
-      <pubDate>Tue, 10 Nov 2026 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>衆院議員定数31削減法案取りまとめ 自維国 週内にも国会提出へ</title>
-      <link>https://news.ksb.co.jp/ann/article/17035932</link>
-      <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17035932</guid>
-      <description>【KSB瀬戸内海放送】自民・維新・国民の3党が定数31削減法案をまとめ、週内にも国会へ提出する方針。</description>
-      <pubDate>Tue, 10 Nov 2026 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>石破前首相ら戒告処分 参院側不満</title>
-      <link>https://news.yahoo.co.jp/pickup/6601976</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601976</guid>
-      <description>【Yahoo!ニュース】自民党は消費税減税関連法案の採決で退席した石破前首相ら4人を戒告処分とした。参院側には不満の声がある。</description>
-      <pubDate>Tue, 10 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>26年の熊本地震 初の災害関連死</title>
-      <link>https://news.yahoo.co.jp/pickup/6601907</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601907</guid>
-      <description>【Yahoo!ニュース】熊本県八代市が、今年の熊本地震で初めて90代女性を災害関連死に認定した。</description>
-      <pubDate>Tue, 10 Nov 2026 00:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>JR高崎線で人身事故 男性会社員が死亡 最大1時間32分の遅れ、約4千人に影響</title>
-      <link>https://news.yahoo.co.jp/articles/8bb158b5eec81705db5fa0b63ae868d7e845e807</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8bb158b5eec81705db5fa0b63ae868d7e845e807</guid>
-      <description>【埼玉新聞】埼玉県深谷市の踏切で男性が普通列車にはねられ死亡し、約4千人に影響した。</description>
-      <pubDate>Tue, 10 Nov 2026 00:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>宇都宮線・湘南新宿ライン・日光線 一部区間で運転見合わせ 人身事故の影響</title>
-      <link>https://news.yahoo.co.jp/articles/5b85fd8980e49d883a17842e34f723870ccffd1d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5b85fd8980e49d883a17842e34f723870ccffd1d</guid>
-      <description>【TBS NEWS DIG】人身事故の影響で宇都宮線などが一部区間で運転を見合わせた。</description>
-      <pubDate>Tue, 10 Nov 2026 00:02:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

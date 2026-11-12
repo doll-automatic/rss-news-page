@@ -5,7 +5,35 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 00:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 06:02:22 +0000</lastBuildDate>
+    <item>
+      <title>日経平均は533円安、企業決算や米経済指標などに関心</title>
+      <link>https://www.zaikei.co.jp/article/20261112/877285.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261112/877285.html</guid>
+      <description>【財経新聞】12日午後の東京株式市場で日経平均は533円安となり、下げ幅を広げた。企業決算や米経済指標に関心が集まっている。</description>
+      <pubDate>Thu, 12 Nov 2026 05:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>東京為替：ドル・円は変わらず、株価にらみ</title>
+      <link>https://zaikei.co.jp/article/20261112/877286.html</link>
+      <guid isPermaLink="true">https://zaikei.co.jp/article/20261112/877286.html</guid>
+      <description>【財経新聞】12日午後の東京市場でドル・円は159円70銭付近でほぼ変わらず。160円近辺では介入警戒から上値が重い。</description>
+      <pubDate>Thu, 12 Nov 2026 05:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均軟調、エヌビディア不倫と中国リスク 台湾株が急反落</title>
+      <link>https://fx.minkabu.jp/news/384252</link>
+      <guid isPermaLink="true">https://fx.minkabu.jp/news/384252</guid>
+      <description>【みんかぶ】エヌビディアのCEO解任準備との報道や中国リスクを背景に台湾株が急反落し、日経平均も軟調に推移した。</description>
+      <pubDate>Thu, 12 Nov 2026 05:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均寄り付き：前日比226.52円高の61475.11円</title>
+      <link>https://zai.diamond.jp/articles/-/498900</link>
+      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/498900</guid>
+      <description>【ザイFX!】12日の日経平均は前日比226円高の61475円で寄り付いた。</description>
+      <pubDate>Thu, 12 Nov 2026 00:10:00 +0000</pubDate>
+    </item>
     <item>
       <title>11/12の強弱材料</title>
       <link>https://www.zaikei.co.jp/article/20261112/877184.html</link>
@@ -131,48 +159,6 @@
       <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/88233e20d63de67921867398a2a9a6523c7d9c78</guid>
       <description>【ウエルスアドバイザー/Yahoo!ファイナンス】10日の東京株式市場で日経平均は大幅続伸し、終値で6万円台を回復した。</description>
       <pubDate>Tue, 10 Nov 2026 06:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は1912円高、企業決算や米CPIなどに関心</title>
-      <link>https://www.zaikei.co.jp/article/20261110/876894.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261110/876894.html</guid>
-      <description>【財経新聞】10日の日経平均は大幅続伸し、企業決算や米CPIに関心が集まった。</description>
-      <pubDate>Tue, 10 Nov 2026 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は大幅に続伸、ソフトバンクGが1銘柄で約400円分押し上げ</title>
-      <link>https://www.zaikei.co.jp/article/20261110/876864.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261110/876864.html</guid>
-      <description>【財経新聞】日経平均は大幅続伸し、ソフトバンクGが指数を約400円分押し上げた。</description>
-      <pubDate>Tue, 10 Nov 2026 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均後場寄り付き：前日比1433.31円高の60208.81円</title>
-      <link>https://zai.diamond.jp/articles/-/498755</link>
-      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/498755</guid>
-      <description>【ザイFX！】後場寄り付きの日経平均は6万円台を維持し、1433円高でスタートした。</description>
-      <pubDate>Tue, 10 Nov 2026 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均終値1340円高 三菱重工「3本柱」がつないだ業績期待の買い</title>
-      <link>https://www.nikkei.com/article/DGXZQOUB091AYTZ01C26A1000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB091AYTZ01C26A1000000/</guid>
-      <description>【日本経済新聞】9日の日経平均は1340円高の5万8775円で反発し、三菱重工業が相場を押し上げた。</description>
-      <pubDate>Tue, 10 Nov 2026 00:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【市場概況】東京為替見通し＝ドル円、10月会合「主な意見」で12月会合の利上げ可能性を見極めか</title>
-      <link>https://www.gaitame.com/media/entry/2026/11/10/080021</link>
-      <guid isPermaLink="true">https://www.gaitame.com/media/entry/2026/11/10/080021</guid>
-      <description>【外為どっとコム】日銀10月会合の主な意見の公表を前に、ドル円は12月利上げの可能性を見極める展開。</description>
-      <pubDate>Tue, 10 Nov 2026 00:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>今後数カ月間で円高が進む可能性 １５５円への下落も＝ＮＹ為替</title>
-      <link>https://fx.minkabu.jp/news/383928</link>
-      <guid isPermaLink="true">https://fx.minkabu.jp/news/383928</guid>
-      <description>【みんかぶ】日銀の追加利上げの可能性から、ドル円は3カ月後に155円まで下落するとの見方が出ている。</description>
-      <pubDate>Tue, 10 Nov 2026 00:02:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
