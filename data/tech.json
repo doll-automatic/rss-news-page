@@ -1,5 +1,13 @@
 [
   {
+    "title": "半導体やAI関連株の買い戻しの動きが強まる／東京株オープニングコメント",
+    "link": "https://www.zaikei.co.jp/article/20261112/877183.html",
+    "description": "米市場の上昇を受け、半導体・AI関連株の持続性を見極めつつ押し目買いが意識される展開と予想されている。",
+    "source": "財経新聞",
+    "published": "2026-11-12T08:30:00+09:00",
+    "fetched_at": "2026-11-12T00:01:43.178488+00:00"
+  },
+  {
     "title": "米Notion、AIチャットの内容漏洩 連携企業へのサイバー攻撃で",
     "link": "https://nikkei.com/article/DGXZQOGN113MO0R11C26A1000000",
     "description": "米Notionは、利用者とAIの対話内容の一部が外部に漏洩したと発表した。連携先AI企業へのサイバー攻撃が原因という。",
@@ -22,6 +30,14 @@
     "source": "株探",
     "published": "2026-11-11T14:21:00+09:00",
     "fetched_at": "2026-11-11T18:02:45.177364+00:00"
+  },
+  {
+    "title": "ジェンスン・フアンCEOの不倫関係を利用して1兆円分以上のNVIDIA製半導体が中国に出荷されていた疑い",
+    "link": "https://gigazine.net/news/20261111-nvidia-spy-affair-ai-chip-shipments-to-china",
+    "description": "フアンCEOと関係のあった女性が、2023年以降に少なくとも75億ドル分のNVIDIA製半導体を中国へ出荷していた疑いが報じられた。",
+    "source": "GIGAZINE",
+    "published": "2026-11-11T12:00:00+09:00",
+    "fetched_at": "2026-11-12T00:01:43.178488+00:00"
   },
   {
     "title": "NVIDIA「GR00T 2」、5件の実演で平均成功率95％―少数データでロボットを追加学習",
@@ -126,13 +142,5 @@
     "source": "ブルーミングビット",
     "published": null,
     "fetched_at": "2026-11-10T00:02:11.128563+00:00"
-  },
-  {
-    "title": "GoogleのAI半導体、4種類に拡大 NVIDIA対抗でクラウド向け外販",
-    "link": "https://www.nikkei.com/article/DGXZQOGN09B3P0Z01C26A1000000/",
-    "description": "米グーグルは独自設計のAI半導体TPUの新製品2種を発表し、ラインアップを4種類に拡大。NVIDIA対抗でクラウド向け外販を強める。",
-    "source": "日本経済新聞",
-    "published": "2026-11-10T09:00:00+09:00",
-    "fetched_at": "2026-11-11T00:01:54.470058+00:00"
   }
 ]

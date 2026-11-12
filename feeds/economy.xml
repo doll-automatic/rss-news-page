@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2026 18:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:01:43 +0000</lastBuildDate>
+    <item>
+      <title>11/12の強弱材料</title>
+      <link>https://www.zaikei.co.jp/article/20261112/877184.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261112/877184.html</guid>
+      <description>【財経新聞】12日の相場に影響しうる強弱材料をまとめた記事。</description>
+      <pubDate>Wed, 11 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>米半導体高で続伸発進か、時間外でエヌビディア9％安｜日経平均の見通し【11月12日】</title>
+      <link>https://tbladvisory.com/20261112nkam/</link>
+      <guid isPermaLink="true">https://tbladvisory.com/20261112nkam/</guid>
+      <description>【世界一やさしい投資の学校】11日の日経平均終値は6万1248円。12日はシカゴ先物が6万2015円で、上昇スタートが見込まれている。</description>
+      <pubDate>Wed, 11 Nov 2026 22:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均、789円高の6万1248円で終了</title>
       <link>https://news.yahoo.co.jp/articles/1be69d666a79a478bae9b6adc0e0ef43cfcd91c1</link>

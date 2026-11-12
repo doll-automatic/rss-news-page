@@ -1,5 +1,13 @@
 [
   {
+    "title": "正面衝突事故で4人重軽傷、日光市の国道",
+    "link": "https://www.shimotsuke.co.jp/articles/-/1457297",
+    "description": "栃木県日光市の国道で正面衝突事故があり、4人が重軽傷を負った。",
+    "source": "下野新聞",
+    "published": null,
+    "fetched_at": "2026-11-12T00:01:43.178488+00:00"
+  },
+  {
     "title": "昨年参院選は「違憲状態」 3.13倍、合区後初 最高裁大法廷",
     "link": "https://news.yahoo.co.jp/articles/4d90da7e516cd4b04cf13fa3550ee2753d5c8d7c",
     "description": "最高裁大法廷は2025年参院選の最大3.13倍の1票の格差を違憲状態と判断したが、選挙無効の請求は退けた。",
@@ -126,13 +134,5 @@
     "source": "TBS NEWS DIG",
     "published": null,
     "fetched_at": "2026-11-10T00:02:11.128563+00:00"
-  },
-  {
-    "title": "消費減税法案「退席」石破前首相ら戒告処分 「造反」を恐れる自民執行部に参院側は…",
-    "link": "https://www.tokyo-np.co.jp/article/527030",
-    "description": "自民党は消費税減税法案の採決時に退席した石破前首相ら4人を戒告処分とした。11日から始まる参院審議を前に、党内の引き締めを図る狙いとされる。",
-    "source": "東京新聞",
-    "published": "2026-11-10T08:00:00+09:00",
-    "fetched_at": "2026-11-10T18:02:34.388549+00:00"
   }
 ]
