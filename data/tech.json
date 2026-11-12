@@ -1,5 +1,29 @@
 [
   {
+    "title": "エヌビディア取締役会、フアンＣＥＯ解任の可否決定へ＝関係筋",
+    "link": "https://news.yahoo.co.jp/articles/04fdc77bf657af2c8057e45535321ffa12b9e202",
+    "description": "エヌビディアの取締役会がフアンCEOの解任の可否を決める見通しと、ロイターが関係筋の話として報じた。",
+    "source": "ロイター/Yahoo!ニュース",
+    "published": null,
+    "fetched_at": "2026-11-12T12:02:07.338304+00:00"
+  },
+  {
+    "title": "エヌビディア､フアンCEOの解任準備とWSJ報道 時間外で株価8％安",
+    "link": "https://toyokeizai.net/articles/-/964534?display=b",
+    "description": "WSJが取締役会による解任準備を報じ、エヌビディア株は時間外取引で約8％下落した。",
+    "source": "東洋経済オンライン",
+    "published": null,
+    "fetched_at": "2026-11-12T12:02:07.338304+00:00"
+  },
+  {
+    "title": "政府がAIの暴走抑止へ罰則新設を検討、AIモデル企業に安全確保を義務付け",
+    "link": "https://news.yahoo.co.jp/articles/30b464119f1c68441ee3707c2e96e03343c409c4",
+    "description": "政府は高性能AIの暴走やサイバー攻撃への悪用に備え、開発事業者に安全確保を義務付け罰則を設ける法改正を検討している。",
+    "source": "ビジネス＋IT/Yahoo!ニュース",
+    "published": null,
+    "fetched_at": "2026-11-12T12:02:07.338304+00:00"
+  },
+  {
     "title": "半導体やAI関連株の買い戻しの動きが強まる／東京株オープニングコメント",
     "link": "https://www.zaikei.co.jp/article/20261112/877183.html",
     "description": "米市場の上昇を受け、半導体・AI関連株の持続性を見極めつつ押し目買いが意識される展開と予想されている。",
@@ -54,37 +78,5 @@
     "source": "リアルサウンド テック",
     "published": null,
     "fetched_at": "2026-11-10T18:02:34.388549+00:00"
-  },
-  {
-    "title": "NVIDIA「Agentic AI Day Japan 2026」講演レポート",
-    "link": "https://ai.watch.impress.co.jp/docs/news/2155320.html",
-    "description": "NVIDIAが都内で開催したAIエージェントの社会実装をテーマとするイベントの講演内容をまとめたレポート。",
-    "source": "AI Watch",
-    "published": null,
-    "fetched_at": "2026-11-10T12:01:52.580995+00:00"
-  },
-  {
-    "title": "Claude Opus 5.5の推論能力が11月3日から急激に低下したとの指摘、1400件の利用履歴から変化が判明",
-    "link": "https://gigazine.net/news/20261110-claude-opus-nerf/",
-    "description": "1400件の利用履歴の分析から、Claude Opus 5.5の推論能力が11月3日以降に低下したとの指摘が出ている。",
-    "source": "GIGAZINE",
-    "published": null,
-    "fetched_at": "2026-11-10T12:01:52.580995+00:00"
-  },
-  {
-    "title": "Claude Codeの「次回から表示しない」でパスワードが流出する恐れ、GitHubで2539件の秘密情報が見つかる",
-    "link": "https://gigazine.net/news/20261109-claude-code-leak-secrets/",
-    "description": "セキュリティ企業Apiiroの調査で、設定ファイルに保存されたパスワード等が公開リポジトリから2539件見つかった。",
-    "source": "GIGAZINE",
-    "published": null,
-    "fetched_at": "2026-11-10T12:01:52.580995+00:00"
-  },
-  {
-    "title": "〖AI News まとめ〗生成AI ニュースレポート — 2026-11-10",
-    "link": "https://qiita.com/aakan/items/e5a5db86462a6e80ffdd",
-    "description": "11月10日の生成AI関連ニュースのまとめ。話しながら反応するAIペルソナなどの話題を紹介。",
-    "source": "Qiita",
-    "published": "2026-11-10T20:00:00+09:00",
-    "fetched_at": "2026-11-11T00:01:54.470058+00:00"
   }
 ]

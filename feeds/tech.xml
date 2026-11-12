@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 06:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:02:07 +0000</lastBuildDate>
+    <item>
+      <title>エヌビディア取締役会、フアンＣＥＯ解任の可否決定へ＝関係筋</title>
+      <link>https://news.yahoo.co.jp/articles/04fdc77bf657af2c8057e45535321ffa12b9e202</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/04fdc77bf657af2c8057e45535321ffa12b9e202</guid>
+      <description>【ロイター/Yahoo!ニュース】エヌビディアの取締役会がフアンCEOの解任の可否を決める見通しと、ロイターが関係筋の話として報じた。</description>
+      <pubDate>Thu, 12 Nov 2026 12:02:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>エヌビディア､フアンCEOの解任準備とWSJ報道 時間外で株価8％安</title>
+      <link>https://toyokeizai.net/articles/-/964534?display=b</link>
+      <guid isPermaLink="true">https://toyokeizai.net/articles/-/964534?display=b</guid>
+      <description>【東洋経済オンライン】WSJが取締役会による解任準備を報じ、エヌビディア株は時間外取引で約8％下落した。</description>
+      <pubDate>Thu, 12 Nov 2026 12:02:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>政府がAIの暴走抑止へ罰則新設を検討、AIモデル企業に安全確保を義務付け</title>
+      <link>https://news.yahoo.co.jp/articles/30b464119f1c68441ee3707c2e96e03343c409c4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/30b464119f1c68441ee3707c2e96e03343c409c4</guid>
+      <description>【ビジネス＋IT/Yahoo!ニュース】政府は高性能AIの暴走やサイバー攻撃への悪用に備え、開発事業者に安全確保を義務付け罰則を設ける法改正を検討している。</description>
+      <pubDate>Thu, 12 Nov 2026 12:02:07 +0000</pubDate>
+    </item>
     <item>
       <title>半導体やAI関連株の買い戻しの動きが強まる／東京株オープニングコメント</title>
       <link>https://www.zaikei.co.jp/article/20261112/877183.html</link>
@@ -54,34 +75,6 @@
       <guid isPermaLink="true">https://realsound.jp/tech/2026/11/post-2578519.html</guid>
       <description>【リアルサウンド テック】Shizuku AIが相づちや発話への割り込みに対応する日本語の全二重対話モデルを発表した。</description>
       <pubDate>Tue, 10 Nov 2026 18:02:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA「Agentic AI Day Japan 2026」講演レポート</title>
-      <link>https://ai.watch.impress.co.jp/docs/news/2155320.html</link>
-      <guid isPermaLink="true">https://ai.watch.impress.co.jp/docs/news/2155320.html</guid>
-      <description>【AI Watch】NVIDIAが都内で開催したAIエージェントの社会実装をテーマとするイベントの講演内容をまとめたレポート。</description>
-      <pubDate>Tue, 10 Nov 2026 12:01:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Opus 5.5の推論能力が11月3日から急激に低下したとの指摘、1400件の利用履歴から変化が判明</title>
-      <link>https://gigazine.net/news/20261110-claude-opus-nerf/</link>
-      <guid isPermaLink="true">https://gigazine.net/news/20261110-claude-opus-nerf/</guid>
-      <description>【GIGAZINE】1400件の利用履歴の分析から、Claude Opus 5.5の推論能力が11月3日以降に低下したとの指摘が出ている。</description>
-      <pubDate>Tue, 10 Nov 2026 12:01:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Codeの「次回から表示しない」でパスワードが流出する恐れ、GitHubで2539件の秘密情報が見つかる</title>
-      <link>https://gigazine.net/news/20261109-claude-code-leak-secrets/</link>
-      <guid isPermaLink="true">https://gigazine.net/news/20261109-claude-code-leak-secrets/</guid>
-      <description>【GIGAZINE】セキュリティ企業Apiiroの調査で、設定ファイルに保存されたパスワード等が公開リポジトリから2539件見つかった。</description>
-      <pubDate>Tue, 10 Nov 2026 12:01:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>〖AI News まとめ〗生成AI ニュースレポート — 2026-11-10</title>
-      <link>https://qiita.com/aakan/items/e5a5db86462a6e80ffdd</link>
-      <guid isPermaLink="true">https://qiita.com/aakan/items/e5a5db86462a6e80ffdd</guid>
-      <description>【Qiita】11月10日の生成AI関連ニュースのまとめ。話しながら反応するAIペルソナなどの話題を紹介。</description>
-      <pubDate>Tue, 10 Nov 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
