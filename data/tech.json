@@ -1,5 +1,21 @@
 [
   {
+    "title": "Microsoft 365で大規模障害、Outlookに接続できず　TeamsやCopilotにも影響の可能性",
+    "link": "https://news.mynavi.jp/techplus/article/20261113-5313393/",
+    "description": "Exchange Onlineの不具合でOutlookやTeamsなどに接続できない障害が発生。Copilotにも影響の可能性がある。",
+    "source": "マイナビニュース",
+    "published": null,
+    "fetched_at": "2026-11-13T00:02:13.447611+00:00"
+  },
+  {
+    "title": "AIは仕事を奪う？ 中国政府も警戒モード、発展改革委などがリスク監視強化の方針",
+    "link": "https://toyokeizai.net/articles/-/963999",
+    "description": "中国当局がAIによる雇用への悪影響を警戒し、リスク監視を強化する方針。新たな法体系の構築も提言された。",
+    "source": "東洋経済オンライン",
+    "published": null,
+    "fetched_at": "2026-11-13T00:02:13.447611+00:00"
+  },
+  {
     "title": "エヌビディア取締役会、フアンＣＥＯ解任の可否決定へ＝関係筋",
     "link": "https://news.yahoo.co.jp/articles/04fdc77bf657af2c8057e45535321ffa12b9e202",
     "description": "エヌビディアの取締役会がフアンCEOの解任の可否を決める見通しと、ロイターが関係筋の話として報じた。",
@@ -62,21 +78,5 @@
     "source": "GIGAZINE",
     "published": "2026-11-11T12:00:00+09:00",
     "fetched_at": "2026-11-12T00:01:43.178488+00:00"
-  },
-  {
-    "title": "NVIDIA「GR00T 2」、5件の実演で平均成功率95％―少数データでロボットを追加学習",
-    "link": "https://www.zaikei.co.jp/article/20261111/877062.html",
-    "description": "NVIDIAがロボット向け基盤モデルGR00T 2を発表。1タスク1件の実演で平均71%、5件で95%の成功率としている。",
-    "source": "財経新聞",
-    "published": "2026-11-11T09:00:00+09:00",
-    "fetched_at": "2026-11-11T06:02:06.245755+00:00"
-  },
-  {
-    "title": "相づちや割り込みなど自然な会話が可能なAI登場　Shizuku AIが日本語対応の全二重対話モデル『Shizuku-Duplex』を発表",
-    "link": "https://realsound.jp/tech/2026/11/post-2578519.html",
-    "description": "Shizuku AIが相づちや発話への割り込みに対応する日本語の全二重対話モデルを発表した。",
-    "source": "リアルサウンド テック",
-    "published": null,
-    "fetched_at": "2026-11-10T18:02:34.388549+00:00"
   }
 ]

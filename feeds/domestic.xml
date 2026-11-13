@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 18:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 00:02:13 +0000</lastBuildDate>
+    <item>
+      <title>衆院定数31減、法案を提出＝自維国、今国会成立目指す</title>
+      <link>https://www.nippon.com/ja/articles/-/57333</link>
+      <guid isPermaLink="true">https://www.nippon.com/ja/articles/-/57333</guid>
+      <description>【nippon.com】自民・維新・国民民主の3党が、比例代表を31削減する衆院定数削減法案を共同提出した。今国会での成立を目指す。</description>
+      <pubDate>Fri, 13 Nov 2026 00:02:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>【速報】”放火の疑い”で32歳の男を逮捕 住宅全焼で3人の遺体発見 広島・福山市</title>
+      <link>https://news.yahoo.co.jp/articles/6439a5b0e098e3900a812884f9d82baf249c6721</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6439a5b0e098e3900a812884f9d82baf249c6721</guid>
+      <description>【広島テレビ】広島県福山市の住宅全焼で3人の遺体が見つかり、警察は同居する32歳の男を放火の疑いで逮捕した。</description>
+      <pubDate>Fri, 13 Nov 2026 00:02:13 +0000</pubDate>
+    </item>
     <item>
       <title>昨年7月の参院選一票の格差「違憲状態」 最高裁が12年ぶり判断 最大3.13倍</title>
       <link>https://news.yahoo.co.jp/articles/e77fad80b2b36d4e5ac19a6c7994bb9f97565fa4</link>
@@ -75,27 +89,6 @@
       <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/527417</guid>
       <description>【東京新聞】内閣府は、メルマガ配信委託先アララへの不正アクセスで利用者のメールアドレス約6万3千件が漏えいしたと発表した。</description>
       <pubDate>Wed, 11 Nov 2026 12:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>岐阜市のアパートで火災、1歳から40代の男女12人搬送</title>
-      <link>https://www.chunichi.co.jp/article/1337649</link>
-      <guid isPermaLink="true">https://www.chunichi.co.jp/article/1337649</guid>
-      <description>【中日新聞】11日未明、岐阜市の3階建てアパートで火災があり、住人12人が搬送された。全員搬送時に意識があった。</description>
-      <pubDate>Tue, 10 Nov 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>最大3.13倍「1票の格差」訴訟、最高裁で11日に判決</title>
-      <link>https://www.tokyo-np.co.jp/article/526974</link>
-      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/526974</guid>
-      <description>【東京新聞】2025年参院選の1票の格差を巡る訴訟で、最高裁大法廷が11日に判決を言い渡す。</description>
-      <pubDate>Tue, 10 Nov 2026 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>参院で否決なら「消費税解散」も？ 石破氏ら“4人造反”で高まる消費税減税法案「参院否決」シナリオ</title>
-      <link>https://news.yahoo.co.jp/articles/20ef9bc49b4632605f0b9da4d3bc41b009db188b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/20ef9bc49b4632605f0b9da4d3bc41b009db188b</guid>
-      <description>【東洋経済オンライン】少数与党の参院で消費税減税法案が否決される可能性と、その場合の解散観測を東洋経済オンラインが分析。</description>
-      <pubDate>Tue, 10 Nov 2026 18:02:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

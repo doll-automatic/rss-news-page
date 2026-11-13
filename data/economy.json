@@ -1,5 +1,29 @@
 [
   {
+    "title": "日経平均大引け：前日比429.23円安の60819.36円",
+    "link": "https://zai.diamond.jp/articles/-/498926",
+    "description": "11月12日の日経平均は4日ぶりに反落し、60,819円36銭で取引を終えた。",
+    "source": "ザイFX!",
+    "published": null,
+    "fetched_at": "2026-11-13T00:02:13.447611+00:00"
+  },
+  {
+    "title": "ドル円 159.87円付近、SGX日経225先物は61410円でスタート",
+    "link": "https://zai.diamond.jp/articles/-/498984",
+    "description": "13日朝、ドル円は159円台後半で推移し、SGX日経225先物は61,410円で始まった。",
+    "source": "ザイFX!",
+    "published": null,
+    "fetched_at": "2026-11-13T00:02:13.447611+00:00"
+  },
+  {
+    "title": "ドル/円見通し：160円目前で横ばい、一時160円乗せも押し戻される",
+    "link": "https://oanda.jp/lab-education/market_news/report_usdjpy_20261113",
+    "description": "ドル円は一時160円を超えたが、介入警戒から押し戻され160円目前で横ばいとなっている。",
+    "source": "OANDA証券",
+    "published": null,
+    "fetched_at": "2026-11-13T00:02:13.447611+00:00"
+  },
+  {
     "title": "日経平均株価、米半導体株高が支え（先読み株式相場）",
     "link": "https://www.nikkei.com/article/DGXZQOFL11C8V0R11C26A1000000/",
     "description": "12日の日経平均株価は米半導体株高が支えとなる見通しを伝える先読み記事。",
@@ -142,13 +166,5 @@
     "source": "日本経済新聞",
     "published": "2026-11-11T12:00:00+09:00",
     "fetched_at": "2026-11-11T18:02:45.177364+00:00"
-  },
-  {
-    "title": "日経平均11日寄り付き＝65円高、6万525円",
-    "link": "https://kabutan.jp/news/marketnews/?b=n202611110371",
-    "description": "11日の日経平均は前日比65円高の6万525円で寄り付いた。ドル円は158円台後半で推移。",
-    "source": "株探",
-    "published": "2026-11-11T09:00:00+09:00",
-    "fetched_at": "2026-11-11T06:02:06.245755+00:00"
   }
 ]

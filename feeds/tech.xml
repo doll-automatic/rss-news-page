@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 18:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 00:02:13 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft 365で大規模障害、Outlookに接続できず　TeamsやCopilotにも影響の可能性</title>
+      <link>https://news.mynavi.jp/techplus/article/20261113-5313393/</link>
+      <guid isPermaLink="true">https://news.mynavi.jp/techplus/article/20261113-5313393/</guid>
+      <description>【マイナビニュース】Exchange Onlineの不具合でOutlookやTeamsなどに接続できない障害が発生。Copilotにも影響の可能性がある。</description>
+      <pubDate>Fri, 13 Nov 2026 00:02:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIは仕事を奪う？ 中国政府も警戒モード、発展改革委などがリスク監視強化の方針</title>
+      <link>https://toyokeizai.net/articles/-/963999</link>
+      <guid isPermaLink="true">https://toyokeizai.net/articles/-/963999</guid>
+      <description>【東洋経済オンライン】中国当局がAIによる雇用への悪影響を警戒し、リスク監視を強化する方針。新たな法体系の構築も提言された。</description>
+      <pubDate>Fri, 13 Nov 2026 00:02:13 +0000</pubDate>
+    </item>
     <item>
       <title>エヌビディア取締役会、フアンＣＥＯ解任の可否決定へ＝関係筋</title>
       <link>https://news.yahoo.co.jp/articles/04fdc77bf657af2c8057e45535321ffa12b9e202</link>
@@ -61,20 +75,6 @@
       <guid isPermaLink="true">https://gigazine.net/news/20261111-nvidia-spy-affair-ai-chip-shipments-to-china</guid>
       <description>【GIGAZINE】フアンCEOと関係のあった女性が、2023年以降に少なくとも75億ドル分のNVIDIA製半導体を中国へ出荷していた疑いが報じられた。</description>
       <pubDate>Wed, 11 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA「GR00T 2」、5件の実演で平均成功率95％―少数データでロボットを追加学習</title>
-      <link>https://www.zaikei.co.jp/article/20261111/877062.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261111/877062.html</guid>
-      <description>【財経新聞】NVIDIAがロボット向け基盤モデルGR00T 2を発表。1タスク1件の実演で平均71%、5件で95%の成功率としている。</description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>相づちや割り込みなど自然な会話が可能なAI登場　Shizuku AIが日本語対応の全二重対話モデル『Shizuku-Duplex』を発表</title>
-      <link>https://realsound.jp/tech/2026/11/post-2578519.html</link>
-      <guid isPermaLink="true">https://realsound.jp/tech/2026/11/post-2578519.html</guid>
-      <description>【リアルサウンド テック】Shizuku AIが相づちや発話への割り込みに対応する日本語の全二重対話モデルを発表した。</description>
-      <pubDate>Tue, 10 Nov 2026 18:02:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
