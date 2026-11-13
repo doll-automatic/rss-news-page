@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:02:24 +0000</lastBuildDate>
+    <item>
+      <title>寒河江市の住宅火災で3人の遺体 住人3人と連絡取れず</title>
+      <link>https://news.yahoo.co.jp/articles/cd60ece1c30505f106536b6c8a26d5d8c6c683f6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cd60ece1c30505f106536b6c8a26d5d8c6c683f6</guid>
+      <description>【YTS山形テレビ】山形県寒河江市で13日未明に住宅2軒が全焼し、焼け跡から3人の遺体が見つかった。警察が身元確認を急ぐ。</description>
+      <pubDate>Fri, 13 Nov 2026 12:02:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>大阪公立大、学生や教職員ら17万人情報流出</title>
+      <link>https://www.tokyo-np.co.jp/article/527954</link>
+      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/527954</guid>
+      <description>【東京新聞】10月のシステム障害の調査で、約17万人分の個人情報流出が判明。一部は口座番号なども含む。</description>
+      <pubDate>Fri, 13 Nov 2026 12:02:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>冬の電気・ガス支援決定 灯油も、6500億円</title>
+      <link>https://www.niigata-nippo.co.jp/articles/-/941756</link>
+      <guid isPermaLink="true">https://www.niigata-nippo.co.jp/articles/-/941756</guid>
+      <description>【共同通信】政府は閣議で、予備費から約6500億円を支出し冬の電気・ガス料金と灯油の支援を行うことを決めた。</description>
+      <pubDate>Fri, 13 Nov 2026 12:02:24 +0000</pubDate>
+    </item>
     <item>
       <title>千葉県で鳥インフル確認＝今季、国内養鶏場で２例目</title>
       <link>https://sp.m.jiji.com/article/show/3910642</link>
@@ -82,27 +103,6 @@
       <guid isPermaLink="true">https://www.shimotsuke.co.jp/articles/-/1457297</guid>
       <description>【下野新聞】栃木県日光市の国道で正面衝突事故があり、4人が重軽傷を負った。</description>
       <pubDate>Thu, 12 Nov 2026 00:01:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>昨年参院選は「違憲状態」 3.13倍、合区後初 最高裁大法廷</title>
-      <link>https://news.yahoo.co.jp/articles/4d90da7e516cd4b04cf13fa3550ee2753d5c8d7c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4d90da7e516cd4b04cf13fa3550ee2753d5c8d7c</guid>
-      <description>【時事通信】最高裁大法廷は2025年参院選の最大3.13倍の1票の格差を違憲状態と判断したが、選挙無効の請求は退けた。</description>
-      <pubDate>Wed, 11 Nov 2026 12:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>定数削減法案、12日に提出へ 自維国、今国会成立目指す</title>
-      <link>https://www.tokyo-np.co.jp/article/527493</link>
-      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/527493</guid>
-      <description>【東京新聞】自民・維新・国民民主の3党は、衆院比例定数31削減を含む法案を12日に共同提出し、今国会成立を目指す。</description>
-      <pubDate>Wed, 11 Nov 2026 12:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>内閣府でメアド6万3千件漏えい アララ原因、メルマガ利用者</title>
-      <link>https://www.tokyo-np.co.jp/article/527417</link>
-      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/527417</guid>
-      <description>【東京新聞】内閣府は、メルマガ配信委託先アララへの不正アクセスで利用者のメールアドレス約6万3千件が漏えいしたと発表した。</description>
-      <pubDate>Wed, 11 Nov 2026 12:02:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

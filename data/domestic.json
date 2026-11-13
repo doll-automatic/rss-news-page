@@ -1,5 +1,29 @@
 [
   {
+    "title": "寒河江市の住宅火災で3人の遺体 住人3人と連絡取れず",
+    "link": "https://news.yahoo.co.jp/articles/cd60ece1c30505f106536b6c8a26d5d8c6c683f6",
+    "description": "山形県寒河江市で13日未明に住宅2軒が全焼し、焼け跡から3人の遺体が見つかった。警察が身元確認を急ぐ。",
+    "source": "YTS山形テレビ",
+    "published": null,
+    "fetched_at": "2026-11-13T12:02:24.547061+00:00"
+  },
+  {
+    "title": "大阪公立大、学生や教職員ら17万人情報流出",
+    "link": "https://www.tokyo-np.co.jp/article/527954",
+    "description": "10月のシステム障害の調査で、約17万人分の個人情報流出が判明。一部は口座番号なども含む。",
+    "source": "東京新聞",
+    "published": null,
+    "fetched_at": "2026-11-13T12:02:24.547061+00:00"
+  },
+  {
+    "title": "冬の電気・ガス支援決定 灯油も、6500億円",
+    "link": "https://www.niigata-nippo.co.jp/articles/-/941756",
+    "description": "政府は閣議で、予備費から約6500億円を支出し冬の電気・ガス料金と灯油の支援を行うことを決めた。",
+    "source": "共同通信",
+    "published": null,
+    "fetched_at": "2026-11-13T12:02:24.547061+00:00"
+  },
+  {
     "title": "千葉県で鳥インフル確認＝今季、国内養鶏場で２例目",
     "link": "https://sp.m.jiji.com/article/show/3910642",
     "description": "千葉県旭市の養鶏場で高病原性鳥インフルエンザが確認された。約4万羽を殺処分する。",
@@ -86,29 +110,5 @@
     "source": "下野新聞",
     "published": null,
     "fetched_at": "2026-11-12T00:01:43.178488+00:00"
-  },
-  {
-    "title": "昨年参院選は「違憲状態」 3.13倍、合区後初 最高裁大法廷",
-    "link": "https://news.yahoo.co.jp/articles/4d90da7e516cd4b04cf13fa3550ee2753d5c8d7c",
-    "description": "最高裁大法廷は2025年参院選の最大3.13倍の1票の格差を違憲状態と判断したが、選挙無効の請求は退けた。",
-    "source": "時事通信",
-    "published": null,
-    "fetched_at": "2026-11-11T12:02:04.116038+00:00"
-  },
-  {
-    "title": "定数削減法案、12日に提出へ 自維国、今国会成立目指す",
-    "link": "https://www.tokyo-np.co.jp/article/527493",
-    "description": "自民・維新・国民民主の3党は、衆院比例定数31削減を含む法案を12日に共同提出し、今国会成立を目指す。",
-    "source": "東京新聞",
-    "published": null,
-    "fetched_at": "2026-11-11T12:02:04.116038+00:00"
-  },
-  {
-    "title": "内閣府でメアド6万3千件漏えい アララ原因、メルマガ利用者",
-    "link": "https://www.tokyo-np.co.jp/article/527417",
-    "description": "内閣府は、メルマガ配信委託先アララへの不正アクセスで利用者のメールアドレス約6万3千件が漏えいしたと発表した。",
-    "source": "東京新聞",
-    "published": null,
-    "fetched_at": "2026-11-11T12:02:04.116038+00:00"
   }
 ]

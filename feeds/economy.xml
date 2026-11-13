@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:02:24 +0000</lastBuildDate>
+    <item>
+      <title>日経平均 大引け｜反発、AI・半導体関連株などに買い戻し優勢</title>
+      <link>https://kabutan.jp/news/marketnews/?b=n202611131287</link>
+      <guid isPermaLink="true">https://kabutan.jp/news/marketnews/?b=n202611131287</guid>
+      <description>【株探】13日の日経平均は322円高の6万1142円で取引を終え、AI・半導体関連株に買い戻しが入った。</description>
+      <pubDate>Fri, 13 Nov 2026 12:02:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>来週の日経平均見通し（11/16～11/20）6万円台回復で反発続くか</title>
+      <link>https://www.gaitame.com/media/entry/2026/11/13/163006</link>
+      <guid isPermaLink="true">https://www.gaitame.com/media/entry/2026/11/13/163006</guid>
+      <description>【外為どっとコム】来週は米PPI、エヌビディア決算、アンソロピック上場などが焦点になると分析。</description>
+      <pubDate>Fri, 13 Nov 2026 12:02:24 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均は404円高でスタート、マイクロニクスやリクルートHDなどが上昇</title>
       <link>https://www.zaikei.co.jp/article/20261113/877382.html</link>
@@ -124,41 +138,6 @@
       <guid isPermaLink="true">https://tbladvisory.com/20261112nkam/</guid>
       <description>【世界一やさしい投資の学校】11日の日経平均終値は6万1248円。12日はシカゴ先物が6万2015円で、上昇スタートが見込まれている。</description>
       <pubDate>Wed, 11 Nov 2026 22:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均、789円高の6万1248円で終了</title>
-      <link>https://news.yahoo.co.jp/articles/1be69d666a79a478bae9b6adc0e0ef43cfcd91c1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1be69d666a79a478bae9b6adc0e0ef43cfcd91c1</guid>
-      <description>【時事通信】東京株式市場で日経平均は3日続伸し、終値は6万1248円59銭。半導体株が相場を主導した。</description>
-      <pubDate>Wed, 11 Nov 2026 12:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は883円高、引き続き企業決算に関心</title>
-      <link>https://www.zaikei.co.jp/article/20261111/877092.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261111/877092.html</guid>
-      <description>【財経新聞】日経平均は大幅高となり、引き続き企業決算に注目が集まった。</description>
-      <pubDate>Wed, 11 Nov 2026 12:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京為替：ドル・円は伸び悩み、上値の重さを意識</title>
-      <link>https://www.zaikei.co.jp/article/20261111/877117.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261111/877117.html</guid>
-      <description>【財経新聞】ドル円は158円台後半で伸び悩み、日米協調介入への警戒感が上値を抑えた。</description>
-      <pubDate>Wed, 11 Nov 2026 12:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経789円高の3日続伸も値上がりは54％、半導体に資金</title>
-      <link>https://tbladvisory.com/20261111nk/</link>
-      <guid isPermaLink="true">https://tbladvisory.com/20261111nk/</guid>
-      <description>【世界一やさしい投資の学校】日経平均は3日続伸。値上がり銘柄は54%にとどまり、半導体株に資金が集中した。</description>
-      <pubDate>Wed, 11 Nov 2026 12:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均大引け：前日比789.01円高の61248.59円</title>
-      <link>https://www.zaikei.co.jp/article/20261111/877096.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261111/877096.html</guid>
-      <description>【財経新聞】11日の日経平均は3日続伸し、AI・半導体株が買われて6万1248円59銭で取引を終えた。</description>
-      <pubDate>Wed, 11 Nov 2026 06:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

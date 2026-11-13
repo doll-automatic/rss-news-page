@@ -1,5 +1,13 @@
 [
   {
+    "title": "中国AI企業は禁輸措置中でもNVIDIAのBlackwell世代AIチップを使って高性能AIを作っていた",
+    "link": "https://gigazine.net/news/20261113-china-ai-nvidia-blackwell-gpu/",
+    "description": "禁輸措置下でも中国のAI企業がNVIDIAのBlackwell世代チップを使って高性能AIを開発していたと報じられた。",
+    "source": "GIGAZINE",
+    "published": null,
+    "fetched_at": "2026-11-13T12:02:24.547061+00:00"
+  },
+  {
     "title": "Microsoft 365障害、復旧策が一転「効果が出ていない」 政府基盤やNTT東日本にも波及",
     "link": "https://news.yahoo.co.jp/articles/7cc82c58fbf35ae35786f924c6d7747e6b7adda4",
     "description": "Microsoftの復旧策が想定どおりに効いておらず、政府基盤やNTT東日本のサービスにも影響が広がった。",
@@ -62,21 +70,5 @@
     "source": "財経新聞",
     "published": "2026-11-12T08:30:00+09:00",
     "fetched_at": "2026-11-12T00:01:43.178488+00:00"
-  },
-  {
-    "title": "米Notion、AIチャットの内容漏洩 連携企業へのサイバー攻撃で",
-    "link": "https://nikkei.com/article/DGXZQOGN113MO0R11C26A1000000",
-    "description": "米Notionは、利用者とAIの対話内容の一部が外部に漏洩したと発表した。連携先AI企業へのサイバー攻撃が原因という。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-11T12:02:04.116038+00:00"
-  },
-  {
-    "title": "アンソロピックIPO、熱狂より現実路線 AIマネー変調でテック7社下支え",
-    "link": "https://nikkei.com/article/DGXZQOGN10C9W0Q6A111C2000000",
-    "description": "アンソロピックのIPOに向けた投資家説明会が始まり、評価額は当初想定より引き下げられた。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-11T12:02:04.116038+00:00"
   }
 ]

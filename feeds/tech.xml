@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:02:24 +0000</lastBuildDate>
+    <item>
+      <title>中国AI企業は禁輸措置中でもNVIDIAのBlackwell世代AIチップを使って高性能AIを作っていた</title>
+      <link>https://gigazine.net/news/20261113-china-ai-nvidia-blackwell-gpu/</link>
+      <guid isPermaLink="true">https://gigazine.net/news/20261113-china-ai-nvidia-blackwell-gpu/</guid>
+      <description>【GIGAZINE】禁輸措置下でも中国のAI企業がNVIDIAのBlackwell世代チップを使って高性能AIを開発していたと報じられた。</description>
+      <pubDate>Fri, 13 Nov 2026 12:02:24 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft 365障害、復旧策が一転「効果が出ていない」 政府基盤やNTT東日本にも波及</title>
       <link>https://news.yahoo.co.jp/articles/7cc82c58fbf35ae35786f924c6d7747e6b7adda4</link>
@@ -61,20 +68,6 @@
       <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261112/877183.html</guid>
       <description>【財経新聞】米市場の上昇を受け、半導体・AI関連株の持続性を見極めつつ押し目買いが意識される展開と予想されている。</description>
       <pubDate>Wed, 11 Nov 2026 23:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>米Notion、AIチャットの内容漏洩 連携企業へのサイバー攻撃で</title>
-      <link>https://nikkei.com/article/DGXZQOGN113MO0R11C26A1000000</link>
-      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOGN113MO0R11C26A1000000</guid>
-      <description>【日本経済新聞】米Notionは、利用者とAIの対話内容の一部が外部に漏洩したと発表した。連携先AI企業へのサイバー攻撃が原因という。</description>
-      <pubDate>Wed, 11 Nov 2026 12:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>アンソロピックIPO、熱狂より現実路線 AIマネー変調でテック7社下支え</title>
-      <link>https://nikkei.com/article/DGXZQOGN10C9W0Q6A111C2000000</link>
-      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOGN10C9W0Q6A111C2000000</guid>
-      <description>【日本経済新聞】アンソロピックのIPOに向けた投資家説明会が始まり、評価額は当初想定より引き下げられた。</description>
-      <pubDate>Wed, 11 Nov 2026 12:02:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
