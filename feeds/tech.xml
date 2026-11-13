@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 00:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:02:06 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft 365障害、復旧策が一転「効果が出ていない」 政府基盤やNTT東日本にも波及</title>
+      <link>https://news.yahoo.co.jp/articles/7cc82c58fbf35ae35786f924c6d7747e6b7adda4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7cc82c58fbf35ae35786f924c6d7747e6b7adda4</guid>
+      <description>【ビジネス+IT】Microsoftの復旧策が想定どおりに効いておらず、政府基盤やNTT東日本のサービスにも影響が広がった。</description>
+      <pubDate>Fri, 13 Nov 2026 06:02:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIAのジェンスン・フアン氏がCEO辞任</title>
+      <link>https://k-tai.watch.impress.co.jp/docs/news/2156178.html</link>
+      <guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2156178.html</guid>
+      <description>【ケータイ Watch】エヌビディアはフアンCEOの辞任を発表した。後任決定までクレスCFOが暫定CEOを務める。</description>
+      <pubDate>Fri, 13 Nov 2026 06:02:06 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft 365で大規模障害、Outlookに接続できず　TeamsやCopilotにも影響の可能性</title>
       <link>https://news.mynavi.jp/techplus/article/20261113-5313393/</link>
@@ -61,20 +75,6 @@
       <guid isPermaLink="true">https://nikkei.com/article/DGXZQOGN10C9W0Q6A111C2000000</guid>
       <description>【日本経済新聞】アンソロピックのIPOに向けた投資家説明会が始まり、評価額は当初想定より引き下げられた。</description>
       <pubDate>Wed, 11 Nov 2026 12:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>オープンＡＩ、７－９月期売上高は１００億ドル 営業赤字は１０９億ドルに拡大</title>
-      <link>https://s.kabutan.jp/news/n202611111421/</link>
-      <guid isPermaLink="true">https://s.kabutan.jp/news/n202611111421/</guid>
-      <description>【株探】OpenAIの7〜9月期売上高は前期比約50%増の100億ドルに達した一方、営業赤字は109億ドルに拡大した。</description>
-      <pubDate>Wed, 11 Nov 2026 05:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ジェンスン・フアンCEOの不倫関係を利用して1兆円分以上のNVIDIA製半導体が中国に出荷されていた疑い</title>
-      <link>https://gigazine.net/news/20261111-nvidia-spy-affair-ai-chip-shipments-to-china</link>
-      <guid isPermaLink="true">https://gigazine.net/news/20261111-nvidia-spy-affair-ai-chip-shipments-to-china</guid>
-      <description>【GIGAZINE】フアンCEOと関係のあった女性が、2023年以降に少なくとも75億ドル分のNVIDIA製半導体を中国へ出荷していた疑いが報じられた。</description>
-      <pubDate>Wed, 11 Nov 2026 03:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 00:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:02:06 +0000</lastBuildDate>
+    <item>
+      <title>日経平均は404円高でスタート、マイクロニクスやリクルートHDなどが上昇</title>
+      <link>https://www.zaikei.co.jp/article/20261113/877382.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261113/877382.html</guid>
+      <description>【財経新聞】13日の東京株式市場で日経平均は404円高の6万1223円台で寄り付いた。</description>
+      <pubDate>Fri, 13 Nov 2026 06:02:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均は急反発、上げ幅一時１０００円超に、ＴＯＰＩＸ５日続伸＝１３日前引け</title>
+      <link>https://finance.yahoo.co.jp/news/detail/6af793da000852f2ec15f157e74c32ea720619ab</link>
+      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/6af793da000852f2ec15f157e74c32ea720619ab</guid>
+      <description>【ウエルスアドバイザー】日経平均は前場に大幅反発し、上げ幅は一時1000円を超えた。半導体関連株に買いが入った。</description>
+      <pubDate>Fri, 13 Nov 2026 06:02:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>三村財務官「ここ数日の動きは速すぎる」 対ドル159円台後半まで下落</title>
+      <link>https://nikkei.com/article/DGXZQOUA120RX0S6A111C2000000</link>
+      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOUA120RX0S6A111C2000000</guid>
+      <description>【日本経済新聞】円相場が一時1ドル=159円台後半まで下落し、三村財務官が為替の動きをけん制した。</description>
+      <pubDate>Fri, 13 Nov 2026 06:02:06 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均大引け：前日比429.23円安の60819.36円</title>
       <link>https://zai.diamond.jp/articles/-/498926</link>
@@ -138,20 +159,6 @@
       <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261111/877096.html</guid>
       <description>【財経新聞】11日の日経平均は3日続伸し、AI・半導体株が買われて6万1248円59銭で取引を終えた。</description>
       <pubDate>Wed, 11 Nov 2026 06:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>後場の日経平均は906円高でスタート、KOKUSAIや太陽誘電などが上昇</title>
-      <link>https://www.zaikei.co.jp/article/20261111/877063.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261111/877063.html</guid>
-      <description>【財経新聞】後場寄り付きの日経平均は前日比906円高の6万1366円と大きく上昇した。</description>
-      <pubDate>Wed, 11 Nov 2026 03:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ソフトバンクG、株価一時10%安 「割安」修正を阻むAI投資不安</title>
-      <link>https://www.nikkei.com/article/DGXZQOFL111F4TR11C26A1000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOFL111F4TR11C26A1000000/</guid>
-      <description>【日本経済新聞】最終赤字に転落したソフトバンクグループの株価が一時10%安となり、AI投資への不安が割安修正を阻んでいる。</description>
-      <pubDate>Wed, 11 Nov 2026 03:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

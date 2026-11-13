@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 00:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:02:06 +0000</lastBuildDate>
+    <item>
+      <title>千葉県で鳥インフル確認＝今季、国内養鶏場で２例目</title>
+      <link>https://sp.m.jiji.com/article/show/3910642</link>
+      <guid isPermaLink="true">https://sp.m.jiji.com/article/show/3910642</guid>
+      <description>【時事通信】千葉県旭市の養鶏場で高病原性鳥インフルエンザが確認された。約4万羽を殺処分する。</description>
+      <pubDate>Fri, 13 Nov 2026 06:02:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365障害、政府の業務システムにも影響 古川デジタル大臣が明かす</title>
+      <link>https://news.yahoo.co.jp/articles/27bddc8e42be8b0605933f1a914a13b0ad95380b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/27bddc8e42be8b0605933f1a914a13b0ad95380b</guid>
+      <description>【CNET Japan】古川デジタル大臣は、Microsoft 365の障害が政府共通の業務基盤GSSにも影響していると明らかにした。</description>
+      <pubDate>Fri, 13 Nov 2026 06:02:06 +0000</pubDate>
+    </item>
     <item>
       <title>衆院定数31減、法案を提出＝自維国、今国会成立目指す</title>
       <link>https://www.nippon.com/ja/articles/-/57333</link>
