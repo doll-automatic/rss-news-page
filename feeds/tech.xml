@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 12:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:01:55 +0000</lastBuildDate>
+    <item>
+      <title>マイクロソフトの「Outlook」で大規模障害--Microsoft 365、Copilotなどにも影響</title>
+      <link>https://news.yahoo.co.jp/articles/586e58f141abef552a26691cabf832d0170f7f40</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/586e58f141abef552a26691cabf832d0170f7f40</guid>
+      <description>【CNET Japan】OutlookやMicrosoft 365、Copilotなどで大規模障害が発生し、多くの利用者に影響した。</description>
+      <pubDate>Fri, 13 Nov 2026 18:01:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>エヌビディアのフアンCEOが辞任 中国スパイ疑惑の女性と不倫、衝撃の転落</title>
+      <link>https://www.cnn.co.jp/business/35254806.html</link>
+      <guid isPermaLink="true">https://www.cnn.co.jp/business/35254806.html</guid>
+      <description>【CNN.co.jp】エヌビディアのジェンスン・フアンCEOが辞任を発表した。暫定CEOにはCFOが就く。</description>
+      <pubDate>Fri, 13 Nov 2026 18:01:55 +0000</pubDate>
+    </item>
     <item>
       <title>中国AI企業は禁輸措置中でもNVIDIAのBlackwell世代AIチップを使って高性能AIを作っていた</title>
       <link>https://gigazine.net/news/20261113-china-ai-nvidia-blackwell-gpu/</link>

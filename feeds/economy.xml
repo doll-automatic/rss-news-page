@@ -5,7 +5,35 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 12:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:01:55 +0000</lastBuildDate>
+    <item>
+      <title>米国株時間外取引はPPIの伸びが予想を下回ったことで買いが優勢</title>
+      <link>https://fx.minkabu.jp/news/384431</link>
+      <guid isPermaLink="true">https://fx.minkabu.jp/news/384431</guid>
+      <description>【みんかぶ】米生産者物価指数が予想を下回り、米国株の時間外取引では買いが優勢となった。</description>
+      <pubDate>Fri, 13 Nov 2026 18:01:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>東京時間に伝わった指標・ニュース - 2026年11月13日14:40</title>
+      <link>https://fx.minkabu.jp/news/384378</link>
+      <guid isPermaLink="true">https://fx.minkabu.jp/news/384378</guid>
+      <description>【みんかぶFX】13日の東京時間に伝わった経済指標とニュースをまとめた。</description>
+      <pubDate>Fri, 13 Nov 2026 18:01:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>外為10時 円相場、下げ渋り 159円台後半 片山財務相「一方的に急激な動き」</title>
+      <link>https://nikkei.com/article/DGXZQOFL131AG0T11C26A1000000</link>
+      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOFL131AG0T11C26A1000000</guid>
+      <description>【日本経済新聞】円相場は159円台後半で下げ渋り。片山財務相は一方的で急激な動きに言及し、介入への警戒が意識された。</description>
+      <pubDate>Fri, 13 Nov 2026 18:01:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>１３日の東京株式市場見通し＝決算を手掛かりにした個別物色が相場を左右しそう</title>
+      <link>https://finance.yahoo.co.jp/news/detail/e6d376f129a08c8e6b0b073f69143c073f99fa85</link>
+      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/e6d376f129a08c8e6b0b073f69143c073f99fa85</guid>
+      <description>【ウエルスアドバイザー】13日の東京株式市場は、決算を手掛かりにした個別物色が相場を左右する見通し。</description>
+      <pubDate>Fri, 13 Nov 2026 18:01:55 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均 大引け｜反発、AI・半導体関連株などに買い戻し優勢</title>
       <link>https://kabutan.jp/news/marketnews/?b=n202611131287</link>
