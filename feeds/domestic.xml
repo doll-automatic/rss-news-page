@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 06:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 12:01:54 +0000</lastBuildDate>
+    <item>
+      <title>横田早紀江さん、早期解決訴え めぐみさん拉致49年で集会</title>
+      <link>https://www.nikkei.com/article/DGXZQOUD1423I0U6A111C2000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUD1423I0U6A111C2000000/</guid>
+      <description>【日本経済新聞】横田めぐみさん拉致から49年を前に新潟市で県民集会が開かれ、家族が早期解決を訴えた。</description>
+      <pubDate>Sat, 14 Nov 2026 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>自衛官の給与引き上げ法が成立 小泉防衛大臣「過去最高の水準に」</title>
       <link>https://news.yahoo.co.jp/articles/48bfe6f222ecc3333437192c14d86ee4a47e344e</link>
@@ -26,6 +33,13 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6d6b2af65a2c2ce7155a6673ba3899c87f150241</guid>
       <description>【産経新聞】司法解剖で食道破裂などが確認され、府警は日常的な虐待の有無も調べている。</description>
       <pubDate>Sat, 14 Nov 2026 00:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>高齢女性2人死亡ひき逃げ事件 トラック運転手を逮捕…容疑否認 神奈川・海老名市</title>
+      <link>https://news.yahoo.co.jp/articles/57a1cd714e93028564c33bf92a7d436acae7bf5f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/57a1cd714e93028564c33bf92a7d436acae7bf5f</guid>
+      <description>【日テレNEWS NNN】海老名市の交差点で高齢女性2人がトラックにはねられ死亡した事件で、県警は49歳の運転手を逮捕した。容疑は否認している。</description>
+      <pubDate>Fri, 13 Nov 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
       <title>25年参院選は「違憲状態」、最高裁大法廷 1票の格差最大3.13倍</title>

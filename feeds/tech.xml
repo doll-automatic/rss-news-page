@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 06:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 12:01:54 +0000</lastBuildDate>
     <item>
       <title>三井化学が1.8兆円でJSR買収 半導体材料の中核企業へ</title>
       <link>https://eetimes.itmedia.co.jp/ee/articles/2611/10/news037.html</link>
@@ -84,6 +84,13 @@
       <pubDate>Fri, 13 Nov 2026 06:02:06 +0000</pubDate>
     </item>
     <item>
+      <title>Anthropicの株式は11月19日に取引開始、日本でもIPO抽選に参加可能</title>
+      <link>https://gigazine.net/news/20261113-anthropic-ipo/</link>
+      <guid isPermaLink="true">https://gigazine.net/news/20261113-anthropic-ipo/</guid>
+      <description>【GIGAZINE】AnthropicがNasdaqにティッカー「ANT」で上場し、11月19日に取引を開始する見込み。日本からもIPO抽選に参加できる。</description>
+      <pubDate>Fri, 13 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Microsoft 365で大規模障害、Outlookに接続できず　TeamsやCopilotにも影響の可能性</title>
       <link>https://news.mynavi.jp/techplus/article/20261113-5313393/</link>
       <guid isPermaLink="true">https://news.mynavi.jp/techplus/article/20261113-5313393/</guid>
@@ -96,6 +103,20 @@
       <guid isPermaLink="true">https://toyokeizai.net/articles/-/963999</guid>
       <description>【東洋経済オンライン】中国当局がAIによる雇用への悪影響を警戒し、リスク監視を強化する方針。新たな法体系の構築も提言された。</description>
       <pubDate>Fri, 13 Nov 2026 00:02:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA、ジェンスン・フアン氏がCEO辞任 クレスCFOが暫定CEOに</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/12/2000003160/</link>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/12/2000003160/</guid>
+      <description>【ITmedia NEWS】NVIDIAはフアン氏が社長兼CEOと取締役を即日辞任したと発表し、CFOのクレス氏が暫定CEOに就いた。取締役会は後任選定に着手した。</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA、カリスマ後継は誰だ 暫定CEO経て社内外から選出</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN12CMC0S6A111C2000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN12CMC0S6A111C2000000/</guid>
+      <description>【日本経済新聞】NVIDIAは暫定CEO体制のもと、社内外から後任CEOを選ぶ方針。決算は11月17日に予定される。</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>エヌビディア取締役会、フアンＣＥＯ解任の可否決定へ＝関係筋</title>

@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 06:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 12:01:54 +0000</lastBuildDate>
     <item>
       <title>日経平均寄り付き：前日比404.05円高の61223.41円</title>
       <link>https://zai.diamond.jp/articles/-/498986</link>
@@ -35,6 +35,20 @@
       <pubDate>Sat, 14 Nov 2026 00:01:49 +0000</pubDate>
     </item>
     <item>
+      <title>為替週間見通し：伸び悩みか、米12月追加利上げ観測も為替介入に警戒</title>
+      <link>https://zaikei.co.jp/article/20261114/877586.html</link>
+      <guid isPermaLink="true">https://zaikei.co.jp/article/20261114/877586.html</guid>
+      <description>【財経新聞】来週のドル円は米追加利上げ観測が支えとなる一方、為替介入への警戒感が上値を抑えるとの見通し。</description>
+      <pubDate>Fri, 13 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ドル円は160円台を維持できず、地合いは堅調＝NY為替概況</title>
+      <link>https://fx.minkabu.jp/news/384462</link>
+      <guid isPermaLink="true">https://fx.minkabu.jp/news/384462</guid>
+      <description>【みんかぶFX】NY市場のドル円は160円台を維持できなかったものの、地合いは堅調だった。</description>
+      <pubDate>Fri, 13 Nov 2026 22:20:00 +0000</pubDate>
+    </item>
+    <item>
       <title>米国株時間外取引はPPIの伸びが予想を下回ったことで買いが優勢</title>
       <link>https://fx.minkabu.jp/news/384431</link>
       <guid isPermaLink="true">https://fx.minkabu.jp/news/384431</guid>
@@ -61,6 +75,20 @@
       <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/e6d376f129a08c8e6b0b073f69143c073f99fa85</guid>
       <description>【ウエルスアドバイザー】13日の東京株式市場は、決算を手掛かりにした個別物色が相場を左右する見通し。</description>
       <pubDate>Fri, 13 Nov 2026 18:01:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>為替相場 14日（日本時間 3時）</title>
+      <link>https://www.chunichi.co.jp/article/1339142</link>
+      <guid isPermaLink="true">https://www.chunichi.co.jp/article/1339142</guid>
+      <description>【中日新聞Web】14日未明のドル円相場の動きを伝える共同配信の市況記事。</description>
+      <pubDate>Fri, 13 Nov 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経225先物：14日0時＝150円安、6万1000円</title>
+      <link>https://kabutan.jp/news/marketnews/?b=n202611140002</link>
+      <guid isPermaLink="true">https://kabutan.jp/news/marketnews/?b=n202611140002</guid>
+      <description>【株探】14日0時時点の日経225先物は150円安の6万1000円。</description>
+      <pubDate>Fri, 13 Nov 2026 15:02:00 +0000</pubDate>
     </item>
     <item>
       <title>日経平均 大引け｜反発、AI・半導体関連株などに買い戻し優勢</title>
