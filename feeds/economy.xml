@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 00:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:02:19 +0000</lastBuildDate>
     <item>
       <title>日経平均寄り付き：前日比404.05円高の61223.41円</title>
       <link>https://zai.diamond.jp/articles/-/498986</link>
@@ -77,6 +77,13 @@
       <pubDate>Fri, 13 Nov 2026 12:02:24 +0000</pubDate>
     </item>
     <item>
+      <title>日経平均テクニカル：反発、高値と安値の切り上げ続く</title>
+      <link>https://zaikei.co.jp/article/20261113/877529.html</link>
+      <guid isPermaLink="true">https://zaikei.co.jp/article/20261113/877529.html</guid>
+      <description>【財経新聞】日経平均の値動きをテクニカル面から分析。高値・安値の切り上げが続く一方、主要移動平均線の下に位置している。</description>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>日経平均大引け：前日比322.99円高の61142.35円</title>
       <link>https://zai.diamond.jp/articles/-/499008</link>
       <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499008</guid>
@@ -126,6 +133,13 @@
       <pubDate>Fri, 13 Nov 2026 00:02:13 +0000</pubDate>
     </item>
     <item>
+      <title>片山財務相「一方的に急激な動き」、円相場一時160円台</title>
+      <link>https://nikkei.com/article/DGXZQOUA121EF0S6A111C2000000</link>
+      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOUA121EF0S6A111C2000000</guid>
+      <description>【日本経済新聞】円相場が一時1ドル=160円台に下落し、片山財務相が足元の動きを「一方的に急激」とけん制した。</description>
+      <pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>日経平均株価、米半導体株高が支え（先読み株式相場）</title>
       <link>https://www.nikkei.com/article/DGXZQOFL11C8V0R11C26A1000000/</link>
       <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOFL11C8V0R11C26A1000000/</guid>
@@ -145,48 +159,6 @@
       <guid isPermaLink="true">https://kabutan.jp/news/marketnews/?b=n202611120858</guid>
       <description>【株探ニュース】15時時点の日経平均は600円安の6万648円で、アドバンテストが指数を大きく押し下げた。</description>
       <pubDate>Thu, 12 Nov 2026 12:02:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は533円安、企業決算や米経済指標などに関心</title>
-      <link>https://www.zaikei.co.jp/article/20261112/877285.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261112/877285.html</guid>
-      <description>【財経新聞】12日午後の東京株式市場で日経平均は533円安となり、下げ幅を広げた。企業決算や米経済指標に関心が集まっている。</description>
-      <pubDate>Thu, 12 Nov 2026 05:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京為替：ドル・円は変わらず、株価にらみ</title>
-      <link>https://zaikei.co.jp/article/20261112/877286.html</link>
-      <guid isPermaLink="true">https://zaikei.co.jp/article/20261112/877286.html</guid>
-      <description>【財経新聞】12日午後の東京市場でドル・円は159円70銭付近でほぼ変わらず。160円近辺では介入警戒から上値が重い。</description>
-      <pubDate>Thu, 12 Nov 2026 05:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均軟調、エヌビディア不倫と中国リスク 台湾株が急反落</title>
-      <link>https://fx.minkabu.jp/news/384252</link>
-      <guid isPermaLink="true">https://fx.minkabu.jp/news/384252</guid>
-      <description>【みんかぶ】エヌビディアのCEO解任準備との報道や中国リスクを背景に台湾株が急反落し、日経平均も軟調に推移した。</description>
-      <pubDate>Thu, 12 Nov 2026 05:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均前場引け：前日比465.57円高の61714.16円</title>
-      <link>https://zai.diamond.jp/articles/-/498909</link>
-      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/498909</guid>
-      <description>【ザイFX!】12日前場の日経平均は前日比465.57円高の61714.16円で取引を終えた。</description>
-      <pubDate>Thu, 12 Nov 2026 02:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は４日続伸、エヌビディア急落で一時マイナスも持ち直す＝１２日前場</title>
-      <link>https://finance.yahoo.co.jp/news/detail/167b13059808f03bae5fa4cc816b3df30e547707</link>
-      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/167b13059808f03bae5fa4cc816b3df30e547707</guid>
-      <description>【Yahoo!ファイナンス(ウエルスアドバイザー)】12日前場の日経平均は4日続伸。時間外のエヌビディア急落で一時マイナス圏に沈んだが持ち直した。</description>
-      <pubDate>Thu, 12 Nov 2026 02:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均寄り付き：前日比226.52円高の61475.11円</title>
-      <link>https://zai.diamond.jp/articles/-/498900</link>
-      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/498900</guid>
-      <description>【ザイFX!】12日の日経平均は前日比226円高の61475円で寄り付いた。</description>
-      <pubDate>Thu, 12 Nov 2026 00:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

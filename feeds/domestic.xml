@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 00:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:02:19 +0000</lastBuildDate>
     <item>
       <title>自衛官の給与引き上げ法が成立 小泉防衛大臣「過去最高の水準に」</title>
       <link>https://news.yahoo.co.jp/articles/48bfe6f222ecc3333437192c14d86ee4a47e344e</link>
@@ -47,6 +47,13 @@
       <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17047003</guid>
       <description>【ANN】千葉県の養鶏場で今季初の鳥インフルエンザが確認され、殺処分が始まった。</description>
       <pubDate>Fri, 13 Nov 2026 18:01:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>京成電鉄、３百万件超流出か スカイライナー予約停止</title>
+      <link>https://www.tokyo-np.co.jp/article/528134</link>
+      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/528134</guid>
+      <description>【東京新聞】京成電鉄の座席予約システムへの不正アクセスで、3百万件超の利用者情報が流出した可能性があり、予約が停止された。</description>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>寒河江市の住宅火災で3人の遺体 住人3人と連絡取れず</title>
@@ -105,6 +112,13 @@
       <pubDate>Fri, 13 Nov 2026 00:02:13 +0000</pubDate>
     </item>
     <item>
+      <title>支援金、勤労者５割対象 高市首相表明、子２人世帯で最大６万円―消費減税法案、参院委で審議</title>
+      <link>https://www.jiji.com/jc/article?k=2026111300707&amp;g=pol</link>
+      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026111300707&amp;g=pol</guid>
+      <description>【時事通信】高市首相は参院特別委で、支援金の対象を現役勤労者の5割以上に広げる方向で検討すると表明。公明党などは現段階では賛成できないとしている。</description>
+      <pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>昨年7月の参院選一票の格差「違憲状態」 最高裁が12年ぶり判断 最大3.13倍</title>
       <link>https://news.yahoo.co.jp/articles/e77fad80b2b36d4e5ac19a6c7994bb9f97565fa4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e77fad80b2b36d4e5ac19a6c7994bb9f97565fa4</guid>
@@ -117,34 +131,6 @@
       <guid isPermaLink="true">https://www.niigata-nippo.co.jp/articles/-/940861</guid>
       <description>【新潟日報】政府は高性能AIの暴走対策として、開発事業者を対象に罰則を設ける法改正を検討している。</description>
       <pubDate>Thu, 12 Nov 2026 12:02:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>衆院定数31減、法案を提出＝自維国、今国会成立目指す</title>
-      <link>https://sp.m.jiji.com/article/show/3909851</link>
-      <guid isPermaLink="true">https://sp.m.jiji.com/article/show/3909851</guid>
-      <description>【時事通信】自民・維新・国民の3党が衆院比例代表の定数を31削減する法案を提出した。今国会での成立を目指す。</description>
-      <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>野党「政治とカネから目を背けるな」 衆院比例31減法案を提出した自民・維新・国民民主にクギ</title>
-      <link>https://www.tokyo-np.co.jp/article/527705</link>
-      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/527705</guid>
-      <description>【東京新聞】定数31減法案の提出を受け、野党は政治とカネの問題から目を背けないよう3党に求めた。</description>
-      <pubDate>Thu, 12 Nov 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>良品計画社長が漏えい謝罪 会見で、109万件流出か</title>
-      <link>https://www.tokyo-np.co.jp/article/527627</link>
-      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/527627</guid>
-      <description>【東京新聞】良品計画の清水社長が不正アクセスに関する会見で謝罪。カード情報約109万件が流出した可能性がある。</description>
-      <pubDate>Thu, 12 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>衆院定数３１減、法案を提出 自維国、今国会成立目指す</title>
-      <link>https://www.jiji.com/jc/article?k=2026111200096&amp;g=pol&amp;m=rss</link>
-      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026111200096&amp;g=pol&amp;m=rss</guid>
-      <description>【時事ドットコム】自民・維新・国民民主の3党が衆院比例代表定数を31削減する法案を共同提出し、今国会での成立を目指す。</description>
-      <pubDate>Thu, 12 Nov 2026 03:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

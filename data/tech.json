@@ -1,5 +1,13 @@
 [
   {
+    "title": "三井化学が1.8兆円でJSR買収 半導体材料の中核企業へ",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2611/10/news037.html",
+    "description": "三井化学がJSRを1兆8400億円で買収し半導体材料事業を強化する。完了は2027年度下半期を目指す。",
+    "source": "EE Times Japan",
+    "published": null,
+    "fetched_at": "2026-11-14T06:02:19.770002+00:00"
+  },
+  {
     "title": "【2026-11-14】世界のAI最新ニュース：NVIDIA、AWS、Hugging Face",
     "link": "https://eguweb.jp/ai/82492/",
     "description": "NVIDIA、AWS、Hugging FaceなどのAI推論基盤・クラウド関連の発表をまとめた記事。",
@@ -38,6 +46,22 @@
     "source": "CNN.co.jp",
     "published": null,
     "fetched_at": "2026-11-13T18:01:55.891092+00:00"
+  },
+  {
+    "title": "AI需要が材料／部品に波及　NVIDIA創業者CEOが辞任：5分で分かる！ 今週のエレクトロニクス業界",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2611/14/news011.html",
+    "description": "今週のエレクトロニクス業界を振り返る記事。NVIDIA創業者CEOの辞任やAI需要の材料・部品への波及を取り上げている。",
+    "source": "EE Times Japan",
+    "published": "2026-11-14T00:00:00+09:00",
+    "fetched_at": "2026-11-14T06:02:19.770002+00:00"
+  },
+  {
+    "title": "スカイライナー予約が全面停止 京成電鉄で不正アクセス、最大337万件の情報漏えいか",
+    "link": "https://news.yahoo.co.jp/articles/e6a8ed8f4c31c1b1505afe00f91d84ea02fe4dc8",
+    "description": "京成電鉄の座席予約システムに不正アクセスがあり、最大約337万件の利用者情報が取得された可能性がある。予約システムは全面停止中。",
+    "source": "ビジネス＋IT",
+    "published": "2026-11-14T00:00:00+09:00",
+    "fetched_at": "2026-11-14T06:02:19.770002+00:00"
   },
   {
     "title": "中国AI企業は禁輸措置中でもNVIDIAのBlackwell世代AIチップを使って高性能AIを作っていた",

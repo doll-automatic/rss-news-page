@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 00:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:02:19 +0000</lastBuildDate>
+    <item>
+      <title>三井化学が1.8兆円でJSR買収 半導体材料の中核企業へ</title>
+      <link>https://eetimes.itmedia.co.jp/ee/articles/2611/10/news037.html</link>
+      <guid isPermaLink="true">https://eetimes.itmedia.co.jp/ee/articles/2611/10/news037.html</guid>
+      <description>【EE Times Japan】三井化学がJSRを1兆8400億円で買収し半導体材料事業を強化する。完了は2027年度下半期を目指す。</description>
+      <pubDate>Sat, 14 Nov 2026 06:02:19 +0000</pubDate>
+    </item>
     <item>
       <title>【2026-11-14】世界のAI最新ニュース：NVIDIA、AWS、Hugging Face</title>
       <link>https://eguweb.jp/ai/82492/</link>
@@ -40,6 +47,20 @@
       <guid isPermaLink="true">https://www.cnn.co.jp/business/35254806.html</guid>
       <description>【CNN.co.jp】エヌビディアのジェンスン・フアンCEOが辞任を発表した。暫定CEOにはCFOが就く。</description>
       <pubDate>Fri, 13 Nov 2026 18:01:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI需要が材料／部品に波及　NVIDIA創業者CEOが辞任：5分で分かる！ 今週のエレクトロニクス業界</title>
+      <link>https://eetimes.itmedia.co.jp/ee/articles/2611/14/news011.html</link>
+      <guid isPermaLink="true">https://eetimes.itmedia.co.jp/ee/articles/2611/14/news011.html</guid>
+      <description>【EE Times Japan】今週のエレクトロニクス業界を振り返る記事。NVIDIA創業者CEOの辞任やAI需要の材料・部品への波及を取り上げている。</description>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>スカイライナー予約が全面停止 京成電鉄で不正アクセス、最大337万件の情報漏えいか</title>
+      <link>https://news.yahoo.co.jp/articles/e6a8ed8f4c31c1b1505afe00f91d84ea02fe4dc8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e6a8ed8f4c31c1b1505afe00f91d84ea02fe4dc8</guid>
+      <description>【ビジネス＋IT】京成電鉄の座席予約システムに不正アクセスがあり、最大約337万件の利用者情報が取得された可能性がある。予約システムは全面停止中。</description>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>中国AI企業は禁輸措置中でもNVIDIAのBlackwell世代AIチップを使って高性能AIを作っていた</title>
