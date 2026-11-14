@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 12:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 18:02:41 +0000</lastBuildDate>
     <item>
       <title>日経平均寄り付き：前日比404.05円高の61223.41円</title>
       <link>https://zai.diamond.jp/articles/-/498986</link>
@@ -112,6 +112,13 @@
       <pubDate>Fri, 13 Nov 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>東京マーケット・サマリー（13日）</title>
+      <link>https://finance.yahoo.co.jp/news/detail/2368f9b5406748312fb8ae9c6a12140f1c1f01a2</link>
+      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/2368f9b5406748312fb8ae9c6a12140f1c1f01a2</guid>
+      <description>【ロイター/Yahoo!ファイナンス】13日の東京市場の株価・為替・債券の動きをまとめた市況記事。日経平均は6万1142円35銭で取引を終えた。</description>
+      <pubDate>Fri, 13 Nov 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>日経平均大引け：前日比322.99円高の61142.35円</title>
       <link>https://zai.diamond.jp/articles/-/499008</link>
       <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499008</guid>
@@ -140,6 +147,13 @@
       <pubDate>Fri, 13 Nov 2026 06:02:06 +0000</pubDate>
     </item>
     <item>
+      <title>午後3時のドルは159円後半、一時160円に強含み 米利上げ思惑が支援</title>
+      <link>https://www.newsweekjapan.jp/articles/-/340062</link>
+      <guid isPermaLink="true">https://www.newsweekjapan.jp/articles/-/340062</guid>
+      <description>【ニューズウィーク日本版】13日午後の東京市場でドルは159円後半で推移し、一時160円に上昇した。米利上げ観測が支えとなる一方、介入警戒が意識された。</description>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>日経平均大引け：前日比429.23円安の60819.36円</title>
       <link>https://zai.diamond.jp/articles/-/498926</link>
       <guid isPermaLink="true">https://zai.diamond.jp/articles/-/498926</guid>
@@ -159,34 +173,6 @@
       <guid isPermaLink="true">https://oanda.jp/lab-education/market_news/report_usdjpy_20261113</guid>
       <description>【OANDA証券】ドル円は一時160円を超えたが、介入警戒から押し戻され160円目前で横ばいとなっている。</description>
       <pubDate>Fri, 13 Nov 2026 00:02:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>片山財務相「一方的に急激な動き」、円相場一時160円台</title>
-      <link>https://nikkei.com/article/DGXZQOUA121EF0S6A111C2000000</link>
-      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOUA121EF0S6A111C2000000</guid>
-      <description>【日本経済新聞】円相場が一時1ドル=160円台に下落し、片山財務相が足元の動きを「一方的に急激」とけん制した。</description>
-      <pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均株価、米半導体株高が支え（先読み株式相場）</title>
-      <link>https://www.nikkei.com/article/DGXZQOFL11C8V0R11C26A1000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOFL11C8V0R11C26A1000000/</guid>
-      <description>【日本経済新聞】12日の日経平均株価は米半導体株高が支えとなる見通しを伝える先読み記事。</description>
-      <pubDate>Thu, 12 Nov 2026 12:02:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均が後場軟調、一時下げ幅６００円超に、エヌビディア・フアンＣＥＯ解任影響を警戒</title>
-      <link>https://finance.yahoo.co.jp/news/detail/c9bd3b913c90d83a637770fb8cb113a778d14992</link>
-      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/c9bd3b913c90d83a637770fb8cb113a778d14992</guid>
-      <description>【ウエルスアドバイザー/Yahoo!ファイナンス】エヌビディアCEO解任報道への警戒から日経平均は後場に下げ幅が一時600円を超えた。</description>
-      <pubDate>Thu, 12 Nov 2026 12:02:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>15時の日経平均は600円安の6万648円、アドテストが348.43円押し下げ</title>
-      <link>https://kabutan.jp/news/marketnews/?b=n202611120858</link>
-      <guid isPermaLink="true">https://kabutan.jp/news/marketnews/?b=n202611120858</guid>
-      <description>【株探ニュース】15時時点の日経平均は600円安の6万648円で、アドバンテストが指数を大きく押し下げた。</description>
-      <pubDate>Thu, 12 Nov 2026 12:02:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

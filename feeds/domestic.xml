@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 12:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 18:02:41 +0000</lastBuildDate>
     <item>
       <title>横田早紀江さん、早期解決訴え めぐみさん拉致49年で集会</title>
       <link>https://www.nikkei.com/article/DGXZQOUD1423I0U6A111C2000000/</link>
@@ -33,6 +33,13 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6d6b2af65a2c2ce7155a6673ba3899c87f150241</guid>
       <description>【産経新聞】司法解剖で食道破裂などが確認され、府警は日常的な虐待の有無も調べている。</description>
       <pubDate>Sat, 14 Nov 2026 00:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>海老名市ひき逃げ事件 トラック運転の49歳男逮捕 容疑否認「全く分からない」</title>
+      <link>https://news.ksb.co.jp/ann/article/17050908</link>
+      <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17050908</guid>
+      <description>【KSB瀬戸内海放送（ANN）】神奈川県海老名市で高齢女性2人がトラックにはねられ死亡した事件で、運転していた49歳の男が逮捕された。容疑は否認している。</description>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>高齢女性2人死亡ひき逃げ事件 トラック運転手を逮捕…容疑否認 神奈川・海老名市</title>
@@ -91,6 +98,13 @@
       <pubDate>Fri, 13 Nov 2026 12:02:24 +0000</pubDate>
     </item>
     <item>
+      <title>3歳女児が虐待死か 両親逮捕 「歩行訓練やめたので殴った」 大阪・枚方市</title>
+      <link>https://news.ksb.co.jp/ann/article/17050802</link>
+      <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17050802</guid>
+      <description>【KSB瀬戸内海放送（ANN）】大阪府枚方市で3歳女児が死亡した事件で、府警は両親を逮捕した。父親は歩行訓練の中断に腹を立て暴行したと供述している。</description>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>千葉県で鳥インフル確認＝今季、国内養鶏場で２例目</title>
       <link>https://sp.m.jiji.com/article/show/3910642</link>
       <guid isPermaLink="true">https://sp.m.jiji.com/article/show/3910642</guid>
@@ -124,27 +138,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6439a5b0e098e3900a812884f9d82baf249c6721</guid>
       <description>【広島テレビ】広島県福山市の住宅全焼で3人の遺体が見つかり、警察は同居する32歳の男を放火の疑いで逮捕した。</description>
       <pubDate>Fri, 13 Nov 2026 00:02:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>支援金、勤労者５割対象 高市首相表明、子２人世帯で最大６万円―消費減税法案、参院委で審議</title>
-      <link>https://www.jiji.com/jc/article?k=2026111300707&amp;g=pol</link>
-      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026111300707&amp;g=pol</guid>
-      <description>【時事通信】高市首相は参院特別委で、支援金の対象を現役勤労者の5割以上に広げる方向で検討すると表明。公明党などは現段階では賛成できないとしている。</description>
-      <pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>昨年7月の参院選一票の格差「違憲状態」 最高裁が12年ぶり判断 最大3.13倍</title>
-      <link>https://news.yahoo.co.jp/articles/e77fad80b2b36d4e5ac19a6c7994bb9f97565fa4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e77fad80b2b36d4e5ac19a6c7994bb9f97565fa4</guid>
-      <description>【産経新聞/Yahoo!ニュース】参院選を違憲状態とする最高裁判断は12年ぶり。国会の是正の取り組みは膠着していると指摘した。</description>
-      <pubDate>Thu, 12 Nov 2026 12:02:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>政府、高性能ＡＩ暴走に罰則検討 法改正、開発事業者が対象</title>
-      <link>https://www.niigata-nippo.co.jp/articles/-/940861</link>
-      <guid isPermaLink="true">https://www.niigata-nippo.co.jp/articles/-/940861</guid>
-      <description>【新潟日報】政府は高性能AIの暴走対策として、開発事業者を対象に罰則を設ける法改正を検討している。</description>
-      <pubDate>Thu, 12 Nov 2026 12:02:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
