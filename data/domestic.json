@@ -1,5 +1,29 @@
 [
   {
+    "title": "自衛官の給与引き上げ法が成立 小泉防衛大臣「過去最高の水準に」",
+    "link": "https://news.yahoo.co.jp/articles/48bfe6f222ecc3333437192c14d86ee4a47e344e",
+    "description": "自衛官の給与引き上げ法が成立。一般幹部候補生は月額29万9600円になる。",
+    "source": "FNNプライムオンライン",
+    "published": null,
+    "fetched_at": "2026-11-14T00:01:49.908465+00:00"
+  },
+  {
+    "title": "3歳長女を殴り殺害か、容疑で父親逮捕 母親も遺棄致死容疑",
+    "link": "https://news.yahoo.co.jp/articles/0c34c07d916a10f692d57e2d7c2315a1963c01a4",
+    "description": "大阪府枚方市で3歳の長女を殺害した疑いで父親が逮捕され、母親も保護責任者遺棄致死容疑で逮捕された。",
+    "source": "毎日新聞",
+    "published": null,
+    "fetched_at": "2026-11-14T00:01:49.908465+00:00"
+  },
+  {
+    "title": "死亡の3歳女児、暴行で食道が破裂し息ができなくなったか 殺人容疑で父親を逮捕",
+    "link": "https://news.yahoo.co.jp/articles/6d6b2af65a2c2ce7155a6673ba3899c87f150241",
+    "description": "司法解剖で食道破裂などが確認され、府警は日常的な虐待の有無も調べている。",
+    "source": "産経新聞",
+    "published": null,
+    "fetched_at": "2026-11-14T00:01:49.908465+00:00"
+  },
+  {
     "title": "25年参院選は「違憲状態」、最高裁大法廷 1票の格差最大3.13倍",
     "link": "https://www.nikkei.com/article/DGXZQOUD031TM0T01C26A1000000/",
     "description": "最高裁大法廷は2025年参院選を違憲状態と判断した。選挙無効の請求は退けた。",
@@ -64,6 +88,14 @@
     "fetched_at": "2026-11-13T06:02:06.317963+00:00"
   },
   {
+    "title": "自衛官の給与増額へ改正法が成立 「高卒2士」の生涯賃金3億円超に",
+    "link": "https://www.nikkei.com/article/DGXZQOUA1354C0T11C26A1000000/",
+    "description": "自衛官の給与を引き上げる改正法が13日の参院本会議で成立した。高卒2士の生涯賃金は3億円超となる見込み。",
+    "source": "日本経済新聞",
+    "published": "2026-11-13T12:00:00+09:00",
+    "fetched_at": "2026-11-14T00:01:49.908465+00:00"
+  },
+  {
     "title": "衆院定数31減、法案を提出＝自維国、今国会成立目指す",
     "link": "https://www.nippon.com/ja/articles/-/57333",
     "description": "自民・維新・国民民主の3党が、比例代表を31削減する衆院定数削減法案を共同提出した。今国会での成立を目指す。",
@@ -126,13 +158,5 @@
     "source": "時事ドットコム",
     "published": "2026-11-12T12:00:00+09:00",
     "fetched_at": "2026-11-12T18:02:06.381783+00:00"
-  },
-  {
-    "title": "正面衝突事故で4人重軽傷、日光市の国道",
-    "link": "https://www.shimotsuke.co.jp/articles/-/1457297",
-    "description": "栃木県日光市の国道で正面衝突事故があり、4人が重軽傷を負った。",
-    "source": "下野新聞",
-    "published": null,
-    "fetched_at": "2026-11-12T00:01:43.178488+00:00"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "title": "【2026-11-14】世界のAI最新ニュース：NVIDIA、AWS、Hugging Face",
+    "link": "https://eguweb.jp/ai/82492/",
+    "description": "NVIDIA、AWS、Hugging FaceなどのAI推論基盤・クラウド関連の発表をまとめた記事。",
+    "source": "eguweb",
+    "published": null,
+    "fetched_at": "2026-11-14T00:01:49.908465+00:00"
+  },
+  {
+    "title": "OpenAI、ロボティクスチームを再編し、汎用AIへの注力にシフト",
+    "link": "https://kucoin.com/ja/news/flash/openai-restructures-robotics-team-shifts-focus-to-general-purpose-ai",
+    "description": "OpenAIが独立したロボティクスチームを解散し、汎用AIモデルとの統合に注力すると報じられた。",
+    "source": "KuCoin News",
+    "published": null,
+    "fetched_at": "2026-11-14T00:01:49.908465+00:00"
+  },
+  {
+    "title": "Anthropic社、「Mythos」モデルをめぐり商標権侵害で提訴される",
+    "link": "https://i.buzzing.cc/ja/reuters/posts/2026/46/en_blueskylink_2026_11_13__3n27jylzacq2a/",
+    "description": "ソフトウェア会社が、AIモデル「Mythos」の名称が登録商標を侵害するとしてAnthropicを提訴した。",
+    "source": "ロイター(buzzing)",
+    "published": null,
+    "fetched_at": "2026-11-14T00:01:49.908465+00:00"
+  },
+  {
     "title": "マイクロソフトの「Outlook」で大規模障害--Microsoft 365、Copilotなどにも影響",
     "link": "https://news.yahoo.co.jp/articles/586e58f141abef552a26691cabf832d0170f7f40",
     "description": "OutlookやMicrosoft 365、Copilotなどで大規模障害が発生し、多くの利用者に影響した。",
@@ -78,13 +102,5 @@
     "source": "ビジネス＋IT/Yahoo!ニュース",
     "published": null,
     "fetched_at": "2026-11-12T12:02:07.338304+00:00"
-  },
-  {
-    "title": "半導体やAI関連株の買い戻しの動きが強まる／東京株オープニングコメント",
-    "link": "https://www.zaikei.co.jp/article/20261112/877183.html",
-    "description": "米市場の上昇を受け、半導体・AI関連株の持続性を見極めつつ押し目買いが意識される展開と予想されている。",
-    "source": "財経新聞",
-    "published": "2026-11-12T08:30:00+09:00",
-    "fetched_at": "2026-11-12T00:01:43.178488+00:00"
   }
 ]

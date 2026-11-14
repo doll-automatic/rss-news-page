@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 18:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:01:49 +0000</lastBuildDate>
+    <item>
+      <title>【2026-11-14】世界のAI最新ニュース：NVIDIA、AWS、Hugging Face</title>
+      <link>https://eguweb.jp/ai/82492/</link>
+      <guid isPermaLink="true">https://eguweb.jp/ai/82492/</guid>
+      <description>【eguweb】NVIDIA、AWS、Hugging FaceなどのAI推論基盤・クラウド関連の発表をまとめた記事。</description>
+      <pubDate>Sat, 14 Nov 2026 00:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI、ロボティクスチームを再編し、汎用AIへの注力にシフト</title>
+      <link>https://kucoin.com/ja/news/flash/openai-restructures-robotics-team-shifts-focus-to-general-purpose-ai</link>
+      <guid isPermaLink="true">https://kucoin.com/ja/news/flash/openai-restructures-robotics-team-shifts-focus-to-general-purpose-ai</guid>
+      <description>【KuCoin News】OpenAIが独立したロボティクスチームを解散し、汎用AIモデルとの統合に注力すると報じられた。</description>
+      <pubDate>Sat, 14 Nov 2026 00:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic社、「Mythos」モデルをめぐり商標権侵害で提訴される</title>
+      <link>https://i.buzzing.cc/ja/reuters/posts/2026/46/en_blueskylink_2026_11_13__3n27jylzacq2a/</link>
+      <guid isPermaLink="true">https://i.buzzing.cc/ja/reuters/posts/2026/46/en_blueskylink_2026_11_13__3n27jylzacq2a/</guid>
+      <description>【ロイター(buzzing)】ソフトウェア会社が、AIモデル「Mythos」の名称が登録商標を侵害するとしてAnthropicを提訴した。</description>
+      <pubDate>Sat, 14 Nov 2026 00:01:49 +0000</pubDate>
+    </item>
     <item>
       <title>マイクロソフトの「Outlook」で大規模障害--Microsoft 365、Copilotなどにも影響</title>
       <link>https://news.yahoo.co.jp/articles/586e58f141abef552a26691cabf832d0170f7f40</link>
@@ -75,13 +96,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/30b464119f1c68441ee3707c2e96e03343c409c4</guid>
       <description>【ビジネス＋IT/Yahoo!ニュース】政府は高性能AIの暴走やサイバー攻撃への悪用に備え、開発事業者に安全確保を義務付け罰則を設ける法改正を検討している。</description>
       <pubDate>Thu, 12 Nov 2026 12:02:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>半導体やAI関連株の買い戻しの動きが強まる／東京株オープニングコメント</title>
-      <link>https://www.zaikei.co.jp/article/20261112/877183.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261112/877183.html</guid>
-      <description>【財経新聞】米市場の上昇を受け、半導体・AI関連株の持続性を見極めつつ押し目買いが意識される展開と予想されている。</description>
-      <pubDate>Wed, 11 Nov 2026 23:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,35 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 18:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:01:49 +0000</lastBuildDate>
+    <item>
+      <title>日経平均寄り付き：前日比404.05円高の61223.41円</title>
+      <link>https://zai.diamond.jp/articles/-/498986</link>
+      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/498986</guid>
+      <description>【ザイFX!】13日の日経平均は404円高の61223円と反発して取引を開始した。</description>
+      <pubDate>Sat, 14 Nov 2026 00:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均後場寄り付き：前日比757.31円高の61576.67円</title>
+      <link>https://finance.yahoo.co.jp/news/detail/f981ef2395bfcb424f5900912c9d7ef65730bb1f</link>
+      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/f981ef2395bfcb424f5900912c9d7ef65730bb1f</guid>
+      <description>【フィスコ/Yahoo!ファイナンス】13日後場寄り付きの日経平均は757円高の61576円となった。</description>
+      <pubDate>Sat, 14 Nov 2026 00:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均午前997円高、NVIDIA銘柄でもマネー 高まる買いたい意欲</title>
+      <link>https://www.nikkei.com/article/DGXZQOUB129PRTS6A111C2000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB129PRTS6A111C2000000/</guid>
+      <description>【日本経済新聞】日経平均は午前に997円高となり、NVIDIA関連銘柄にも資金が流入した。</description>
+      <pubDate>Sat, 14 Nov 2026 00:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>（まとめ）日経平均は一時1,000円超高も最終的には322円高の61,142円で反発</title>
+      <link>https://media.monex.co.jp/articles/-/30508</link>
+      <guid isPermaLink="true">https://media.monex.co.jp/articles/-/30508</guid>
+      <description>【マネックス証券】日経平均は一時1000円超上昇したが、最終的には322円高の61142円で反発した。</description>
+      <pubDate>Sat, 14 Nov 2026 00:01:49 +0000</pubDate>
+    </item>
     <item>
       <title>米国株時間外取引はPPIの伸びが予想を下回ったことで買いが優勢</title>
       <link>https://fx.minkabu.jp/news/384431</link>
@@ -47,6 +75,13 @@
       <guid isPermaLink="true">https://www.gaitame.com/media/entry/2026/11/13/163006</guid>
       <description>【外為どっとコム】来週は米PPI、エヌビディア決算、アンソロピック上場などが焦点になると分析。</description>
       <pubDate>Fri, 13 Nov 2026 12:02:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均大引け：前日比322.99円高の61142.35円</title>
+      <link>https://zai.diamond.jp/articles/-/499008</link>
+      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499008</guid>
+      <description>【ザイFX!】13日の日経平均は322.99円高の61142.35円で引けた。一時1000円超上昇したが伸び悩んだ。</description>
+      <pubDate>Fri, 13 Nov 2026 06:30:00 +0000</pubDate>
     </item>
     <item>
       <title>日経平均は404円高でスタート、マイクロニクスやリクルートHDなどが上昇</title>
@@ -152,20 +187,6 @@
       <guid isPermaLink="true">https://zai.diamond.jp/articles/-/498900</guid>
       <description>【ザイFX!】12日の日経平均は前日比226円高の61475円で寄り付いた。</description>
       <pubDate>Thu, 12 Nov 2026 00:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>11/12の強弱材料</title>
-      <link>https://www.zaikei.co.jp/article/20261112/877184.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261112/877184.html</guid>
-      <description>【財経新聞】12日の相場に影響しうる強弱材料をまとめた記事。</description>
-      <pubDate>Wed, 11 Nov 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>米半導体高で続伸発進か、時間外でエヌビディア9％安｜日経平均の見通し【11月12日】</title>
-      <link>https://tbladvisory.com/20261112nkam/</link>
-      <guid isPermaLink="true">https://tbladvisory.com/20261112nkam/</guid>
-      <description>【世界一やさしい投資の学校】11日の日経平均終値は6万1248円。12日はシカゴ先物が6万2015円で、上昇スタートが見込まれている。</description>
-      <pubDate>Wed, 11 Nov 2026 22:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
