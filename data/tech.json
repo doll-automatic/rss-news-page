@@ -8,6 +8,14 @@
     "fetched_at": "2026-11-14T06:02:19.770002+00:00"
   },
   {
+    "title": "AI悪用の攻撃拠点、千台発見 サイトの弱点探索、不正侵入疑い",
+    "link": "https://news.yahoo.co.jp/articles/7765f1b70e6e49a903765c498c8e1d343a5febc6",
+    "description": "JPCERTコーディネーションセンターなどの調査で、高性能AIを悪用したサイバー攻撃の拠点と疑われるサーバーが10月以降、世界で千台前後見つかった。",
+    "source": "共同通信",
+    "published": "2026-11-14T12:00:00+09:00",
+    "fetched_at": "2026-11-15T06:02:32.224315+00:00"
+  },
+  {
     "title": "【2026-11-14】世界のAI最新ニュース：NVIDIA、AWS、Hugging Face",
     "link": "https://eguweb.jp/ai/82492/",
     "description": "NVIDIA、AWS、Hugging FaceなどのAI推論基盤・クラウド関連の発表をまとめた記事。",
@@ -70,53 +78,5 @@
     "source": "GIGAZINE",
     "published": null,
     "fetched_at": "2026-11-13T12:02:24.547061+00:00"
-  },
-  {
-    "title": "Microsoft 365障害、復旧策が一転「効果が出ていない」 政府基盤やNTT東日本にも波及",
-    "link": "https://news.yahoo.co.jp/articles/7cc82c58fbf35ae35786f924c6d7747e6b7adda4",
-    "description": "Microsoftの復旧策が想定どおりに効いておらず、政府基盤やNTT東日本のサービスにも影響が広がった。",
-    "source": "ビジネス+IT",
-    "published": null,
-    "fetched_at": "2026-11-13T06:02:06.317963+00:00"
-  },
-  {
-    "title": "NVIDIAのジェンスン・フアン氏がCEO辞任",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2156178.html",
-    "description": "エヌビディアはフアンCEOの辞任を発表した。後任決定までクレスCFOが暫定CEOを務める。",
-    "source": "ケータイ Watch",
-    "published": null,
-    "fetched_at": "2026-11-13T06:02:06.317963+00:00"
-  },
-  {
-    "title": "Anthropicの株式は11月19日に取引開始、日本でもIPO抽選に参加可能",
-    "link": "https://gigazine.net/news/20261113-anthropic-ipo/",
-    "description": "AnthropicがNasdaqにティッカー「ANT」で上場し、11月19日に取引を開始する見込み。日本からもIPO抽選に参加できる。",
-    "source": "GIGAZINE",
-    "published": "2026-11-13T12:00:00+09:00",
-    "fetched_at": "2026-11-14T12:01:54.413502+00:00"
-  },
-  {
-    "title": "エヌビディアのフアンCEO辞任、暫定CEOに指名されたコレット・クレス氏とは？",
-    "link": "https://www.cnn.co.jp/business/35254819.html",
-    "description": "暫定CEOに指名されたクレス氏の経歴を紹介。2013年からCFOを務める人物。",
-    "source": "CNN.co.jp",
-    "published": "2026-11-13T12:00:00+09:00",
-    "fetched_at": "2026-11-15T00:01:44.620192+00:00"
-  },
-  {
-    "title": "Microsoft 365で大規模障害、Outlookに接続できず　TeamsやCopilotにも影響の可能性",
-    "link": "https://news.mynavi.jp/techplus/article/20261113-5313393/",
-    "description": "Exchange Onlineの不具合でOutlookやTeamsなどに接続できない障害が発生。Copilotにも影響の可能性がある。",
-    "source": "マイナビニュース",
-    "published": null,
-    "fetched_at": "2026-11-13T00:02:13.447611+00:00"
-  },
-  {
-    "title": "AIは仕事を奪う？ 中国政府も警戒モード、発展改革委などがリスク監視強化の方針",
-    "link": "https://toyokeizai.net/articles/-/963999",
-    "description": "中国当局がAIによる雇用への悪影響を警戒し、リスク監視を強化する方針。新たな法体系の構築も提言された。",
-    "source": "東洋経済オンライン",
-    "published": null,
-    "fetched_at": "2026-11-13T00:02:13.447611+00:00"
   }
 ]

@@ -5,13 +5,20 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 00:01:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:02:32 +0000</lastBuildDate>
     <item>
       <title>横田早紀江さん、早期解決訴え めぐみさん拉致49年で集会</title>
       <link>https://www.nikkei.com/article/DGXZQOUD1423I0U6A111C2000000/</link>
       <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUD1423I0U6A111C2000000/</guid>
       <description>【日本経済新聞】横田めぐみさん拉致から49年を前に新潟市で県民集会が開かれ、家族が早期解決を訴えた。</description>
       <pubDate>Sat, 14 Nov 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>石破前首相ら4人を戒告処分 自民</title>
+      <link>https://news.yahoo.co.jp/pickup/6601933</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601933</guid>
+      <description>【Yahoo!ニュース】自民党は消費税減税関連法案の採決前に退席した石破茂前首相ら4人を戒告処分とした。法案は参院で審議される。</description>
+      <pubDate>Sat, 14 Nov 2026 03:00:00 +0000</pubDate>
     </item>
     <item>
       <title>自衛官の給与引き上げ法が成立 小泉防衛大臣「過去最高の水準に」</title>
@@ -117,41 +124,6 @@
       <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17050802</guid>
       <description>【KSB瀬戸内海放送（ANN）】大阪府枚方市で3歳女児が死亡した事件で、府警は両親を逮捕した。父親は歩行訓練の中断に腹を立て暴行したと供述している。</description>
       <pubDate>Fri, 13 Nov 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>千葉県で鳥インフル確認＝今季、国内養鶏場で２例目</title>
-      <link>https://sp.m.jiji.com/article/show/3910642</link>
-      <guid isPermaLink="true">https://sp.m.jiji.com/article/show/3910642</guid>
-      <description>【時事通信】千葉県旭市の養鶏場で高病原性鳥インフルエンザが確認された。約4万羽を殺処分する。</description>
-      <pubDate>Fri, 13 Nov 2026 06:02:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 365障害、政府の業務システムにも影響 古川デジタル大臣が明かす</title>
-      <link>https://news.yahoo.co.jp/articles/27bddc8e42be8b0605933f1a914a13b0ad95380b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/27bddc8e42be8b0605933f1a914a13b0ad95380b</guid>
-      <description>【CNET Japan】古川デジタル大臣は、Microsoft 365の障害が政府共通の業務基盤GSSにも影響していると明らかにした。</description>
-      <pubDate>Fri, 13 Nov 2026 06:02:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>自衛官の給与増額へ改正法が成立 「高卒2士」の生涯賃金3億円超に</title>
-      <link>https://www.nikkei.com/article/DGXZQOUA1354C0T11C26A1000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA1354C0T11C26A1000000/</guid>
-      <description>【日本経済新聞】自衛官の給与を引き上げる改正法が13日の参院本会議で成立した。高卒2士の生涯賃金は3億円超となる見込み。</description>
-      <pubDate>Fri, 13 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>衆院定数31減、法案を提出＝自維国、今国会成立目指す</title>
-      <link>https://www.nippon.com/ja/articles/-/57333</link>
-      <guid isPermaLink="true">https://www.nippon.com/ja/articles/-/57333</guid>
-      <description>【nippon.com】自民・維新・国民民主の3党が、比例代表を31削減する衆院定数削減法案を共同提出した。今国会での成立を目指す。</description>
-      <pubDate>Fri, 13 Nov 2026 00:02:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>【速報】”放火の疑い”で32歳の男を逮捕 住宅全焼で3人の遺体発見 広島・福山市</title>
-      <link>https://news.yahoo.co.jp/articles/6439a5b0e098e3900a812884f9d82baf249c6721</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6439a5b0e098e3900a812884f9d82baf249c6721</guid>
-      <description>【広島テレビ】広島県福山市の住宅全焼で3人の遺体が見つかり、警察は同居する32歳の男を放火の疑いで逮捕した。</description>
-      <pubDate>Fri, 13 Nov 2026 00:02:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

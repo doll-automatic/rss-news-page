@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 00:01:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:02:32 +0000</lastBuildDate>
     <item>
       <title>日経平均寄り付き：前日比404.05円高の61223.41円</title>
       <link>https://zai.diamond.jp/articles/-/498986</link>
@@ -138,55 +138,6 @@
       <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261113/877502.html</guid>
       <description>【財経新聞】13日の日経平均は反発し、61,142円で取引を終えた。AI・半導体関連株への買い戻しが優勢だった。</description>
       <pubDate>Fri, 13 Nov 2026 06:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は404円高でスタート、マイクロニクスやリクルートHDなどが上昇</title>
-      <link>https://www.zaikei.co.jp/article/20261113/877382.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261113/877382.html</guid>
-      <description>【財経新聞】13日の東京株式市場で日経平均は404円高の6万1223円台で寄り付いた。</description>
-      <pubDate>Fri, 13 Nov 2026 06:02:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は急反発、上げ幅一時１０００円超に、ＴＯＰＩＸ５日続伸＝１３日前引け</title>
-      <link>https://finance.yahoo.co.jp/news/detail/6af793da000852f2ec15f157e74c32ea720619ab</link>
-      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/6af793da000852f2ec15f157e74c32ea720619ab</guid>
-      <description>【ウエルスアドバイザー】日経平均は前場に大幅反発し、上げ幅は一時1000円を超えた。半導体関連株に買いが入った。</description>
-      <pubDate>Fri, 13 Nov 2026 06:02:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>三村財務官「ここ数日の動きは速すぎる」 対ドル159円台後半まで下落</title>
-      <link>https://nikkei.com/article/DGXZQOUA120RX0S6A111C2000000</link>
-      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOUA120RX0S6A111C2000000</guid>
-      <description>【日本経済新聞】円相場が一時1ドル=159円台後半まで下落し、三村財務官が為替の動きをけん制した。</description>
-      <pubDate>Fri, 13 Nov 2026 06:02:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>午後3時のドルは159円後半、一時160円に強含み 米利上げ思惑が支援</title>
-      <link>https://www.newsweekjapan.jp/articles/-/340062</link>
-      <guid isPermaLink="true">https://www.newsweekjapan.jp/articles/-/340062</guid>
-      <description>【ニューズウィーク日本版】13日午後の東京市場でドルは159円後半で推移し、一時160円に上昇した。米利上げ観測が支えとなる一方、介入警戒が意識された。</description>
-      <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均大引け：前日比429.23円安の60819.36円</title>
-      <link>https://zai.diamond.jp/articles/-/498926</link>
-      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/498926</guid>
-      <description>【ザイFX!】11月12日の日経平均は4日ぶりに反落し、60,819円36銭で取引を終えた。</description>
-      <pubDate>Fri, 13 Nov 2026 00:02:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ドル円 159.87円付近、SGX日経225先物は61410円でスタート</title>
-      <link>https://zai.diamond.jp/articles/-/498984</link>
-      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/498984</guid>
-      <description>【ザイFX!】13日朝、ドル円は159円台後半で推移し、SGX日経225先物は61,410円で始まった。</description>
-      <pubDate>Fri, 13 Nov 2026 00:02:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ドル/円見通し：160円目前で横ばい、一時160円乗せも押し戻される</title>
-      <link>https://oanda.jp/lab-education/market_news/report_usdjpy_20261113</link>
-      <guid isPermaLink="true">https://oanda.jp/lab-education/market_news/report_usdjpy_20261113</guid>
-      <description>【OANDA証券】ドル円は一時160円を超えたが、介入警戒から押し戻され160円目前で横ばいとなっている。</description>
-      <pubDate>Fri, 13 Nov 2026 00:02:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
