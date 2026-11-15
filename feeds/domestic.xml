@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 06:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 12:02:28 +0000</lastBuildDate>
+    <item>
+      <title>大阪3歳女児虐待死 全身のあざは50カ所以上 暴行後は別室で1人寝かせたか</title>
+      <link>https://news.yahoo.co.jp/articles/f6b7a8e11e9aff7d5ef8fc2105776f2e7e2f21a3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f6b7a8e11e9aff7d5ef8fc2105776f2e7e2f21a3</guid>
+      <description>【産経新聞】大阪府枚方市の3歳女児死亡事件で、遺体に新旧混在する50カ所以上のあざがあったことが捜査関係者への取材で分かった。</description>
+      <pubDate>Sun, 15 Nov 2026 12:02:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>福岡市長選、13人出馬で票分散 投票締め切り、戦後最多</title>
+      <link>https://www.tokyo-np.co.jp/article/528356</link>
+      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/528356</guid>
+      <description>【東京新聞（共同通信）】福岡市長選は戦後最多の13人が立候補し票が分散、法定得票数に届かず再選挙となる可能性も報じられている。</description>
+      <pubDate>Sun, 15 Nov 2026 12:02:28 +0000</pubDate>
+    </item>
     <item>
       <title>横田早紀江さん、早期解決訴え めぐみさん拉致49年で集会</title>
       <link>https://www.nikkei.com/article/DGXZQOUD1423I0U6A111C2000000/</link>
@@ -82,48 +96,6 @@
       <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/528134</guid>
       <description>【東京新聞】京成電鉄の座席予約システムへの不正アクセスで、3百万件超の利用者情報が流出した可能性があり、予約が停止された。</description>
       <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>寒河江市の住宅火災で3人の遺体 住人3人と連絡取れず</title>
-      <link>https://news.yahoo.co.jp/articles/cd60ece1c30505f106536b6c8a26d5d8c6c683f6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cd60ece1c30505f106536b6c8a26d5d8c6c683f6</guid>
-      <description>【YTS山形テレビ】山形県寒河江市で13日未明に住宅2軒が全焼し、焼け跡から3人の遺体が見つかった。警察が身元確認を急ぐ。</description>
-      <pubDate>Fri, 13 Nov 2026 12:02:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>大阪公立大、学生や教職員ら17万人情報流出</title>
-      <link>https://www.tokyo-np.co.jp/article/527954</link>
-      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/527954</guid>
-      <description>【東京新聞】10月のシステム障害の調査で、約17万人分の個人情報流出が判明。一部は口座番号なども含む。</description>
-      <pubDate>Fri, 13 Nov 2026 12:02:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>冬の電気・ガス支援決定 灯油も、6500億円</title>
-      <link>https://www.niigata-nippo.co.jp/articles/-/941756</link>
-      <guid isPermaLink="true">https://www.niigata-nippo.co.jp/articles/-/941756</guid>
-      <description>【共同通信】政府は閣議で、予備費から約6500億円を支出し冬の電気・ガス料金と灯油の支援を行うことを決めた。</description>
-      <pubDate>Fri, 13 Nov 2026 12:02:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>在日米軍の駐留経費（思いやり予算）、米側が3倍に増額要求 年末合意向けて協議</title>
-      <link>https://www.nikkei.com/article/DGXZQOUA134B80T11C26A1000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA134B80T11C26A1000000/</guid>
-      <description>【日本経済新聞】米国が在日米軍駐留経費の日本側負担を5年で3兆円超と現行の約3倍に求めた。日本側は約1.4倍増を軸に検討している。</description>
-      <pubDate>Fri, 13 Nov 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>思いやり予算５年で３兆円超要求 米軍駐留経費負担、大幅増へ</title>
-      <link>https://www.tokyo-np.co.jp/article/527753</link>
-      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/527753</guid>
-      <description>【東京新聞】トランプ政権が米軍駐留経費の大幅増を要求。日米は年末までの合意を目指す。</description>
-      <pubDate>Fri, 13 Nov 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>3歳女児が虐待死か 両親逮捕 「歩行訓練やめたので殴った」 大阪・枚方市</title>
-      <link>https://news.ksb.co.jp/ann/article/17050802</link>
-      <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17050802</guid>
-      <description>【KSB瀬戸内海放送（ANN）】大阪府枚方市で3歳女児が死亡した事件で、府警は両親を逮捕した。父親は歩行訓練の中断に腹を立て暴行したと供述している。</description>
-      <pubDate>Fri, 13 Nov 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

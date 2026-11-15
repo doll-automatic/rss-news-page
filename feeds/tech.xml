@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 06:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 12:02:28 +0000</lastBuildDate>
     <item>
       <title>三井化学が1.8兆円でJSR買収 半導体材料の中核企業へ</title>
       <link>https://eetimes.itmedia.co.jp/ee/articles/2611/10/news037.html</link>
@@ -68,13 +68,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e6a8ed8f4c31c1b1505afe00f91d84ea02fe4dc8</guid>
       <description>【ビジネス＋IT】京成電鉄の座席予約システムに不正アクセスがあり、最大約337万件の利用者情報が取得された可能性がある。予約システムは全面停止中。</description>
       <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>中国AI企業は禁輸措置中でもNVIDIAのBlackwell世代AIチップを使って高性能AIを作っていた</title>
-      <link>https://gigazine.net/news/20261113-china-ai-nvidia-blackwell-gpu/</link>
-      <guid isPermaLink="true">https://gigazine.net/news/20261113-china-ai-nvidia-blackwell-gpu/</guid>
-      <description>【GIGAZINE】禁輸措置下でも中国のAI企業がNVIDIAのBlackwell世代チップを使って高性能AIを開発していたと報じられた。</description>
-      <pubDate>Fri, 13 Nov 2026 12:02:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

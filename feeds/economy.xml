@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 06:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 12:02:28 +0000</lastBuildDate>
+    <item>
+      <title>日経平均は反発、半導体株の買い戻し先行も後場に上げ幅縮小</title>
+      <link>https://www.zaikei.co.jp/article/20261113/877508.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261113/877508.html</guid>
+      <description>【財経新聞】半導体株の買い戻しで日経平均は反発したが、後場は上げ幅を縮小した。</description>
+      <pubDate>Sun, 15 Nov 2026 12:02:28 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均寄り付き：前日比404.05円高の61223.41円</title>
       <link>https://zai.diamond.jp/articles/-/498986</link>
@@ -89,55 +96,6 @@
       <guid isPermaLink="true">https://kabutan.jp/news/marketnews/?b=n202611140002</guid>
       <description>【株探】14日0時時点の日経225先物は150円安の6万1000円。</description>
       <pubDate>Fri, 13 Nov 2026 15:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均 大引け｜反発、AI・半導体関連株などに買い戻し優勢</title>
-      <link>https://kabutan.jp/news/marketnews/?b=n202611131287</link>
-      <guid isPermaLink="true">https://kabutan.jp/news/marketnews/?b=n202611131287</guid>
-      <description>【株探】13日の日経平均は322円高の6万1142円で取引を終え、AI・半導体関連株に買い戻しが入った。</description>
-      <pubDate>Fri, 13 Nov 2026 12:02:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>来週の日経平均見通し（11/16～11/20）6万円台回復で反発続くか</title>
-      <link>https://www.gaitame.com/media/entry/2026/11/13/163006</link>
-      <guid isPermaLink="true">https://www.gaitame.com/media/entry/2026/11/13/163006</guid>
-      <description>【外為どっとコム】来週は米PPI、エヌビディア決算、アンソロピック上場などが焦点になると分析。</description>
-      <pubDate>Fri, 13 Nov 2026 12:02:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均テクニカル：反発、高値と安値の切り上げ続く</title>
-      <link>https://zaikei.co.jp/article/20261113/877529.html</link>
-      <guid isPermaLink="true">https://zaikei.co.jp/article/20261113/877529.html</guid>
-      <description>【財経新聞】日経平均の値動きをテクニカル面から分析。高値・安値の切り上げが続く一方、主要移動平均線の下に位置している。</description>
-      <pubDate>Fri, 13 Nov 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京マーケット・サマリー（13日）</title>
-      <link>https://finance.yahoo.co.jp/news/detail/2368f9b5406748312fb8ae9c6a12140f1c1f01a2</link>
-      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/2368f9b5406748312fb8ae9c6a12140f1c1f01a2</guid>
-      <description>【ロイター/Yahoo!ファイナンス】13日の東京市場の株価・為替・債券の動きをまとめた市況記事。日経平均は6万1142円35銭で取引を終えた。</description>
-      <pubDate>Fri, 13 Nov 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【株式市場】日経平均３２２円高、一時１０００円超高から伸び悩み、半導体株の買い戻しと円安１６０円台が焦点</title>
-      <link>https://www.media-ir.com/news/?p=188217</link>
-      <guid isPermaLink="true">https://www.media-ir.com/news/?p=188217</guid>
-      <description>【株式会社メディア・アイアール】日経平均は一時1000円超高となったが伸び悩み、円安160円台が焦点となった。</description>
-      <pubDate>Fri, 13 Nov 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均大引け：前日比322.99円高の61142.35円</title>
-      <link>https://zai.diamond.jp/articles/-/499008</link>
-      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499008</guid>
-      <description>【ザイFX!】13日の日経平均は322.99円高の61142.35円で引けた。一時1000円超上昇したが伸び悩んだ。</description>
-      <pubDate>Fri, 13 Nov 2026 06:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均大引け：前日比322.99円高の61142.35円</title>
-      <link>https://www.zaikei.co.jp/article/20261113/877502.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261113/877502.html</guid>
-      <description>【財経新聞】13日の日経平均は反発し、61,142円で取引を終えた。AI・半導体関連株への買い戻しが優勢だった。</description>
-      <pubDate>Fri, 13 Nov 2026 06:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
