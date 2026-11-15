@@ -1,5 +1,13 @@
 [
   {
+    "title": "日中改善へ対話実現が焦点 首相、16日から比と中国を訪問",
+    "link": "https://tokyo-np.co.jp/article/528309",
+    "description": "首相が16日からフィリピンと中国を訪問する。日中関係改善に向けた対話の実現が焦点となる。",
+    "source": "東京新聞",
+    "published": null,
+    "fetched_at": "2026-11-15T18:02:15.017431+00:00"
+  },
+  {
     "title": "大阪3歳女児虐待死 全身のあざは50カ所以上 暴行後は別室で1人寝かせたか",
     "link": "https://news.yahoo.co.jp/articles/f6b7a8e11e9aff7d5ef8fc2105776f2e7e2f21a3",
     "description": "大阪府枚方市の3歳女児死亡事件で、遺体に新旧混在する50カ所以上のあざがあったことが捜査関係者への取材で分かった。",
@@ -70,37 +78,5 @@
     "source": "日テレNEWS NNN",
     "published": "2026-11-14T08:00:00+09:00",
     "fetched_at": "2026-11-14T12:01:54.413502+00:00"
-  },
-  {
-    "title": "25年参院選は「違憲状態」、最高裁大法廷 1票の格差最大3.13倍",
-    "link": "https://www.nikkei.com/article/DGXZQOUD031TM0T01C26A1000000/",
-    "description": "最高裁大法廷は2025年参院選を違憲状態と判断した。選挙無効の請求は退けた。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-13T18:01:55.891092+00:00"
-  },
-  {
-    "title": "千葉県で鳥インフル確認＝今季、国内養鶏場で２例目",
-    "link": "https://www.nippon.com/ja/articles/-/57365",
-    "description": "千葉県旭市の養鶏場で高病原性鳥インフルエンザが確認された。約4万羽を殺処分する。",
-    "source": "nippon.com",
-    "published": null,
-    "fetched_at": "2026-11-13T18:01:55.891092+00:00"
-  },
-  {
-    "title": "千葉の養鶏場で「鳥インフル」今季初確認 殺処分始まる",
-    "link": "https://news.ksb.co.jp/ann/article/17047003",
-    "description": "千葉県の養鶏場で今季初の鳥インフルエンザが確認され、殺処分が始まった。",
-    "source": "ANN",
-    "published": null,
-    "fetched_at": "2026-11-13T18:01:55.891092+00:00"
-  },
-  {
-    "title": "京成電鉄、３百万件超流出か スカイライナー予約停止",
-    "link": "https://www.tokyo-np.co.jp/article/528134",
-    "description": "京成電鉄の座席予約システムへの不正アクセスで、3百万件超の利用者情報が流出した可能性があり、予約が停止された。",
-    "source": "東京新聞",
-    "published": "2026-11-14T00:00:00+09:00",
-    "fetched_at": "2026-11-14T06:02:19.770002+00:00"
   }
 ]

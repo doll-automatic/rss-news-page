@@ -38,37 +38,5 @@
     "source": "ロイター(buzzing)",
     "published": null,
     "fetched_at": "2026-11-14T00:01:49.908465+00:00"
-  },
-  {
-    "title": "マイクロソフトの「Outlook」で大規模障害--Microsoft 365、Copilotなどにも影響",
-    "link": "https://news.yahoo.co.jp/articles/586e58f141abef552a26691cabf832d0170f7f40",
-    "description": "OutlookやMicrosoft 365、Copilotなどで大規模障害が発生し、多くの利用者に影響した。",
-    "source": "CNET Japan",
-    "published": null,
-    "fetched_at": "2026-11-13T18:01:55.891092+00:00"
-  },
-  {
-    "title": "エヌビディアのフアンCEOが辞任 中国スパイ疑惑の女性と不倫、衝撃の転落",
-    "link": "https://www.cnn.co.jp/business/35254806.html",
-    "description": "エヌビディアのジェンスン・フアンCEOが辞任を発表した。暫定CEOにはCFOが就く。",
-    "source": "CNN.co.jp",
-    "published": null,
-    "fetched_at": "2026-11-13T18:01:55.891092+00:00"
-  },
-  {
-    "title": "AI需要が材料／部品に波及　NVIDIA創業者CEOが辞任：5分で分かる！ 今週のエレクトロニクス業界",
-    "link": "https://eetimes.itmedia.co.jp/ee/articles/2611/14/news011.html",
-    "description": "今週のエレクトロニクス業界を振り返る記事。NVIDIA創業者CEOの辞任やAI需要の材料・部品への波及を取り上げている。",
-    "source": "EE Times Japan",
-    "published": "2026-11-14T00:00:00+09:00",
-    "fetched_at": "2026-11-14T06:02:19.770002+00:00"
-  },
-  {
-    "title": "スカイライナー予約が全面停止 京成電鉄で不正アクセス、最大337万件の情報漏えいか",
-    "link": "https://news.yahoo.co.jp/articles/e6a8ed8f4c31c1b1505afe00f91d84ea02fe4dc8",
-    "description": "京成電鉄の座席予約システムに不正アクセスがあり、最大約337万件の利用者情報が取得された可能性がある。予約システムは全面停止中。",
-    "source": "ビジネス＋IT",
-    "published": "2026-11-14T00:00:00+09:00",
-    "fetched_at": "2026-11-14T06:02:19.770002+00:00"
   }
 ]

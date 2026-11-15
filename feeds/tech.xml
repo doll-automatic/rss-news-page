@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 12:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 18:02:15 +0000</lastBuildDate>
     <item>
       <title>三井化学が1.8兆円でJSR買収 半導体材料の中核企業へ</title>
       <link>https://eetimes.itmedia.co.jp/ee/articles/2611/10/news037.html</link>
@@ -40,34 +40,6 @@
       <guid isPermaLink="true">https://i.buzzing.cc/ja/reuters/posts/2026/46/en_blueskylink_2026_11_13__3n27jylzacq2a/</guid>
       <description>【ロイター(buzzing)】ソフトウェア会社が、AIモデル「Mythos」の名称が登録商標を侵害するとしてAnthropicを提訴した。</description>
       <pubDate>Sat, 14 Nov 2026 00:01:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>マイクロソフトの「Outlook」で大規模障害--Microsoft 365、Copilotなどにも影響</title>
-      <link>https://news.yahoo.co.jp/articles/586e58f141abef552a26691cabf832d0170f7f40</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/586e58f141abef552a26691cabf832d0170f7f40</guid>
-      <description>【CNET Japan】OutlookやMicrosoft 365、Copilotなどで大規模障害が発生し、多くの利用者に影響した。</description>
-      <pubDate>Fri, 13 Nov 2026 18:01:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>エヌビディアのフアンCEOが辞任 中国スパイ疑惑の女性と不倫、衝撃の転落</title>
-      <link>https://www.cnn.co.jp/business/35254806.html</link>
-      <guid isPermaLink="true">https://www.cnn.co.jp/business/35254806.html</guid>
-      <description>【CNN.co.jp】エヌビディアのジェンスン・フアンCEOが辞任を発表した。暫定CEOにはCFOが就く。</description>
-      <pubDate>Fri, 13 Nov 2026 18:01:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI需要が材料／部品に波及　NVIDIA創業者CEOが辞任：5分で分かる！ 今週のエレクトロニクス業界</title>
-      <link>https://eetimes.itmedia.co.jp/ee/articles/2611/14/news011.html</link>
-      <guid isPermaLink="true">https://eetimes.itmedia.co.jp/ee/articles/2611/14/news011.html</guid>
-      <description>【EE Times Japan】今週のエレクトロニクス業界を振り返る記事。NVIDIA創業者CEOの辞任やAI需要の材料・部品への波及を取り上げている。</description>
-      <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>スカイライナー予約が全面停止 京成電鉄で不正アクセス、最大337万件の情報漏えいか</title>
-      <link>https://news.yahoo.co.jp/articles/e6a8ed8f4c31c1b1505afe00f91d84ea02fe4dc8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e6a8ed8f4c31c1b1505afe00f91d84ea02fe4dc8</guid>
-      <description>【ビジネス＋IT】京成電鉄の座席予約システムに不正アクセスがあり、最大約337万件の利用者情報が取得された可能性がある。予約システムは全面停止中。</description>
-      <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

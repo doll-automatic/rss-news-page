@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 12:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 18:02:15 +0000</lastBuildDate>
+    <item>
+      <title>日中改善へ対話実現が焦点 首相、16日から比と中国を訪問</title>
+      <link>https://tokyo-np.co.jp/article/528309</link>
+      <guid isPermaLink="true">https://tokyo-np.co.jp/article/528309</guid>
+      <description>【東京新聞】首相が16日からフィリピンと中国を訪問する。日中関係改善に向けた対話の実現が焦点となる。</description>
+      <pubDate>Sun, 15 Nov 2026 18:02:15 +0000</pubDate>
+    </item>
     <item>
       <title>大阪3歳女児虐待死 全身のあざは50カ所以上 暴行後は別室で1人寝かせたか</title>
       <link>https://news.yahoo.co.jp/articles/f6b7a8e11e9aff7d5ef8fc2105776f2e7e2f21a3</link>
@@ -68,34 +75,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/57a1cd714e93028564c33bf92a7d436acae7bf5f</guid>
       <description>【日テレNEWS NNN】海老名市の交差点で高齢女性2人がトラックにはねられ死亡した事件で、県警は49歳の運転手を逮捕した。容疑は否認している。</description>
       <pubDate>Fri, 13 Nov 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>25年参院選は「違憲状態」、最高裁大法廷 1票の格差最大3.13倍</title>
-      <link>https://www.nikkei.com/article/DGXZQOUD031TM0T01C26A1000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUD031TM0T01C26A1000000/</guid>
-      <description>【日本経済新聞】最高裁大法廷は2025年参院選を違憲状態と判断した。選挙無効の請求は退けた。</description>
-      <pubDate>Fri, 13 Nov 2026 18:01:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>千葉県で鳥インフル確認＝今季、国内養鶏場で２例目</title>
-      <link>https://www.nippon.com/ja/articles/-/57365</link>
-      <guid isPermaLink="true">https://www.nippon.com/ja/articles/-/57365</guid>
-      <description>【nippon.com】千葉県旭市の養鶏場で高病原性鳥インフルエンザが確認された。約4万羽を殺処分する。</description>
-      <pubDate>Fri, 13 Nov 2026 18:01:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>千葉の養鶏場で「鳥インフル」今季初確認 殺処分始まる</title>
-      <link>https://news.ksb.co.jp/ann/article/17047003</link>
-      <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17047003</guid>
-      <description>【ANN】千葉県の養鶏場で今季初の鳥インフルエンザが確認され、殺処分が始まった。</description>
-      <pubDate>Fri, 13 Nov 2026 18:01:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>京成電鉄、３百万件超流出か スカイライナー予約停止</title>
-      <link>https://www.tokyo-np.co.jp/article/528134</link>
-      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/528134</guid>
-      <description>【東京新聞】京成電鉄の座席予約システムへの不正アクセスで、3百万件超の利用者情報が流出した可能性があり、予約が停止された。</description>
-      <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

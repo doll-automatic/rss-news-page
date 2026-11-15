@@ -1,11 +1,43 @@
 [
   {
+    "title": "NVIDIA17日決算、カリスマなき成長に懸念 今週の市場・予定",
+    "link": "https://www.nikkei.com/article/DGXZQODL150H40V11C26A1000000/",
+    "description": "17日のNVIDIA決算を中心に、今週の市場の注目点と予定をまとめている。",
+    "source": "日本経済新聞",
+    "published": null,
+    "fetched_at": "2026-11-15T18:02:15.017431+00:00"
+  },
+  {
+    "title": "日経平均大引け：前日比322.99円高の61142.35円",
+    "link": "https://zai.diamond.jp/articles/-/499008",
+    "description": "日経平均は前日比322.99円高の6万1142円35銭で取引を終えた。",
+    "source": "ザイFX!",
+    "published": null,
+    "fetched_at": "2026-11-15T18:02:15.017431+00:00"
+  },
+  {
     "title": "日経平均は反発、半導体株の買い戻し先行も後場に上げ幅縮小",
     "link": "https://www.zaikei.co.jp/article/20261113/877508.html",
     "description": "半導体株の買い戻しで日経平均は反発したが、後場は上げ幅を縮小した。",
     "source": "財経新聞",
     "published": null,
     "fetched_at": "2026-11-15T12:02:28.717886+00:00"
+  },
+  {
+    "title": "【中銀チェック】タカ派的据え置きとなった10月FOMCの議事要旨に注目",
+    "link": "https://fx.minkabu.jp/news/384471",
+    "description": "タカ派的な据え置きとなった10月FOMCの議事要旨が今週の注目材料として取り上げられている。",
+    "source": "みんかぶFX",
+    "published": "2026-11-15T15:10:00+09:00",
+    "fetched_at": "2026-11-15T18:02:15.017431+00:00"
+  },
+  {
+    "title": "来週のドル円相場はどうなる？11/16週のイベント予定 エヌビディア決算と10月全国CPIに注目",
+    "link": "https://gaitame.com/media/entry/2026/11/15/070000",
+    "description": "11月16日週のドル円の注目材料として、エヌビディア決算と10月全国CPIなどのイベント予定を整理している。",
+    "source": "外為どっとコム",
+    "published": "2026-11-15T07:00:00+09:00",
+    "fetched_at": "2026-11-15T18:02:15.017431+00:00"
   },
   {
     "title": "日経平均寄り付き：前日比404.05円高の61223.41円",
@@ -53,54 +85,6 @@
     "description": "NY市場のドル円は160円台を維持できなかったものの、地合いは堅調だった。",
     "source": "みんかぶFX",
     "published": "2026-11-14T07:20:00+09:00",
-    "fetched_at": "2026-11-14T12:01:54.413502+00:00"
-  },
-  {
-    "title": "米国株時間外取引はPPIの伸びが予想を下回ったことで買いが優勢",
-    "link": "https://fx.minkabu.jp/news/384431",
-    "description": "米生産者物価指数が予想を下回り、米国株の時間外取引では買いが優勢となった。",
-    "source": "みんかぶ",
-    "published": null,
-    "fetched_at": "2026-11-13T18:01:55.891092+00:00"
-  },
-  {
-    "title": "東京時間に伝わった指標・ニュース - 2026年11月13日14:40",
-    "link": "https://fx.minkabu.jp/news/384378",
-    "description": "13日の東京時間に伝わった経済指標とニュースをまとめた。",
-    "source": "みんかぶFX",
-    "published": null,
-    "fetched_at": "2026-11-13T18:01:55.891092+00:00"
-  },
-  {
-    "title": "外為10時 円相場、下げ渋り 159円台後半 片山財務相「一方的に急激な動き」",
-    "link": "https://nikkei.com/article/DGXZQOFL131AG0T11C26A1000000",
-    "description": "円相場は159円台後半で下げ渋り。片山財務相は一方的で急激な動きに言及し、介入への警戒が意識された。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-13T18:01:55.891092+00:00"
-  },
-  {
-    "title": "１３日の東京株式市場見通し＝決算を手掛かりにした個別物色が相場を左右しそう",
-    "link": "https://finance.yahoo.co.jp/news/detail/e6d376f129a08c8e6b0b073f69143c073f99fa85",
-    "description": "13日の東京株式市場は、決算を手掛かりにした個別物色が相場を左右する見通し。",
-    "source": "ウエルスアドバイザー",
-    "published": null,
-    "fetched_at": "2026-11-13T18:01:55.891092+00:00"
-  },
-  {
-    "title": "為替相場 14日（日本時間 3時）",
-    "link": "https://www.chunichi.co.jp/article/1339142",
-    "description": "14日未明のドル円相場の動きを伝える共同配信の市況記事。",
-    "source": "中日新聞Web",
-    "published": "2026-11-14T03:00:00+09:00",
-    "fetched_at": "2026-11-14T12:01:54.413502+00:00"
-  },
-  {
-    "title": "日経225先物：14日0時＝150円安、6万1000円",
-    "link": "https://kabutan.jp/news/marketnews/?b=n202611140002",
-    "description": "14日0時時点の日経225先物は150円安の6万1000円。",
-    "source": "株探",
-    "published": "2026-11-14T00:02:00+09:00",
     "fetched_at": "2026-11-14T12:01:54.413502+00:00"
   }
 ]
