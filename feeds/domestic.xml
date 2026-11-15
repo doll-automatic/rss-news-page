@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 18:02:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 00:01:44 +0000</lastBuildDate>
     <item>
       <title>横田早紀江さん、早期解決訴え めぐみさん拉致49年で集会</title>
       <link>https://www.nikkei.com/article/DGXZQOUD1423I0U6A111C2000000/</link>
@@ -96,6 +96,20 @@
       <guid isPermaLink="true">https://www.niigata-nippo.co.jp/articles/-/941756</guid>
       <description>【共同通信】政府は閣議で、予備費から約6500億円を支出し冬の電気・ガス料金と灯油の支援を行うことを決めた。</description>
       <pubDate>Fri, 13 Nov 2026 12:02:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>在日米軍の駐留経費（思いやり予算）、米側が3倍に増額要求 年末合意向けて協議</title>
+      <link>https://www.nikkei.com/article/DGXZQOUA134B80T11C26A1000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA134B80T11C26A1000000/</guid>
+      <description>【日本経済新聞】米国が在日米軍駐留経費の日本側負担を5年で3兆円超と現行の約3倍に求めた。日本側は約1.4倍増を軸に検討している。</description>
+      <pubDate>Fri, 13 Nov 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>思いやり予算５年で３兆円超要求 米軍駐留経費負担、大幅増へ</title>
+      <link>https://www.tokyo-np.co.jp/article/527753</link>
+      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/527753</guid>
+      <description>【東京新聞】トランプ政権が米軍駐留経費の大幅増を要求。日米は年末までの合意を目指す。</description>
+      <pubDate>Fri, 13 Nov 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>3歳女児が虐待死か 両親逮捕 「歩行訓練やめたので殴った」 大阪・枚方市</title>

@@ -96,6 +96,14 @@
     "fetched_at": "2026-11-14T12:01:54.413502+00:00"
   },
   {
+    "title": "エヌビディアのフアンCEO辞任、暫定CEOに指名されたコレット・クレス氏とは？",
+    "link": "https://www.cnn.co.jp/business/35254819.html",
+    "description": "暫定CEOに指名されたクレス氏の経歴を紹介。2013年からCFOを務める人物。",
+    "source": "CNN.co.jp",
+    "published": "2026-11-13T12:00:00+09:00",
+    "fetched_at": "2026-11-15T00:01:44.620192+00:00"
+  },
+  {
     "title": "Microsoft 365で大規模障害、Outlookに接続できず　TeamsやCopilotにも影響の可能性",
     "link": "https://news.mynavi.jp/techplus/article/20261113-5313393/",
     "description": "Exchange Onlineの不具合でOutlookやTeamsなどに接続できない障害が発生。Copilotにも影響の可能性がある。",
@@ -110,37 +118,5 @@
     "source": "東洋経済オンライン",
     "published": null,
     "fetched_at": "2026-11-13T00:02:13.447611+00:00"
-  },
-  {
-    "title": "NVIDIA、ジェンスン・フアン氏がCEO辞任 クレスCFOが暫定CEOに",
-    "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003160/",
-    "description": "NVIDIAはフアン氏が社長兼CEOと取締役を即日辞任したと発表し、CFOのクレス氏が暫定CEOに就いた。取締役会は後任選定に着手した。",
-    "source": "ITmedia NEWS",
-    "published": "2026-11-13T09:00:00+09:00",
-    "fetched_at": "2026-11-14T12:01:54.413502+00:00"
-  },
-  {
-    "title": "NVIDIA、カリスマ後継は誰だ 暫定CEO経て社内外から選出",
-    "link": "https://www.nikkei.com/article/DGXZQOGN12CMC0S6A111C2000000/",
-    "description": "NVIDIAは暫定CEO体制のもと、社内外から後任CEOを選ぶ方針。決算は11月17日に予定される。",
-    "source": "日本経済新聞",
-    "published": "2026-11-13T09:00:00+09:00",
-    "fetched_at": "2026-11-14T12:01:54.413502+00:00"
-  },
-  {
-    "title": "NVIDIA、ジェンスン・ファンCEO辞任 暫定トップにクレスCFO",
-    "link": "https://www.nikkei.com/article/DGXZQOGN121U30S6A111C2000000/",
-    "description": "NVIDIAのジェンスン・ファンCEOが辞任し、暫定CEOにクレスCFOが就任した。正式な後任は社内外から選ぶ方針。",
-    "source": "日本経済新聞",
-    "published": "2026-11-13T09:00:00+09:00",
-    "fetched_at": "2026-11-14T18:02:41.533916+00:00"
-  },
-  {
-    "title": "Google、Gemini搭載のメガネを米韓で予約開始 395ドルからで12月10日発売へ",
-    "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003166/",
-    "description": "GoogleがGemini搭載のメガネ型端末の予約を米国と韓国で開始した。395ドルからで、発売は12月10日。",
-    "source": "ITmedia NEWS",
-    "published": "2026-11-13T09:00:00+09:00",
-    "fetched_at": "2026-11-14T18:02:41.533916+00:00"
   }
 ]

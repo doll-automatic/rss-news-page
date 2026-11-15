@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 18:02:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 00:01:44 +0000</lastBuildDate>
     <item>
       <title>日経平均寄り付き：前日比404.05円高の61223.41円</title>
       <link>https://zai.diamond.jp/articles/-/498986</link>
@@ -119,10 +119,24 @@
       <pubDate>Fri, 13 Nov 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>【株式市場】日経平均３２２円高、一時１０００円超高から伸び悩み、半導体株の買い戻しと円安１６０円台が焦点</title>
+      <link>https://www.media-ir.com/news/?p=188217</link>
+      <guid isPermaLink="true">https://www.media-ir.com/news/?p=188217</guid>
+      <description>【株式会社メディア・アイアール】日経平均は一時1000円超高となったが伸び悩み、円安160円台が焦点となった。</description>
+      <pubDate>Fri, 13 Nov 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>日経平均大引け：前日比322.99円高の61142.35円</title>
       <link>https://zai.diamond.jp/articles/-/499008</link>
       <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499008</guid>
       <description>【ザイFX!】13日の日経平均は322.99円高の61142.35円で引けた。一時1000円超上昇したが伸び悩んだ。</description>
+      <pubDate>Fri, 13 Nov 2026 06:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均大引け：前日比322.99円高の61142.35円</title>
+      <link>https://www.zaikei.co.jp/article/20261113/877502.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261113/877502.html</guid>
+      <description>【財経新聞】13日の日経平均は反発し、61,142円で取引を終えた。AI・半導体関連株への買い戻しが優勢だった。</description>
       <pubDate>Fri, 13 Nov 2026 06:30:00 +0000</pubDate>
     </item>
     <item>
