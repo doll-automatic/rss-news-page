@@ -1,5 +1,29 @@
 [
   {
+    "title": "米国、先端ＡＩ半導体への遠隔アクセスを制限 輸出規制の迂回防止",
+    "link": "https://fx.minkabu.jp/news/384576",
+    "description": "米商務省が先端AI半導体への遠隔アクセスを制限する暫定規則を発表。第三国のデータセンター経由の迂回を防ぐ狙い。",
+    "source": "みんかぶFX",
+    "published": null,
+    "fetched_at": "2026-11-16T18:02:26.975545+00:00"
+  },
+  {
+    "title": "【速報】米商務省、データセンター事業者に先端AI半導体購入時の米政府認可を義務付け",
+    "link": "https://zai.diamond.jp/articles/-/499115",
+    "description": "米商務省は、データセンター事業者が米国メーカーから先端AI半導体を購入する際、米政府の認可取得を義務付けると発表した。",
+    "source": "ダイヤモンド・オンライン",
+    "published": null,
+    "fetched_at": "2026-11-16T18:02:26.975545+00:00"
+  },
+  {
+    "title": "次世代半導体向けで注目の酸化ガリウム、埼玉発で世界へ 電力ロス大幅低減でAI需要狙う",
+    "link": "https://itmedia.co.jp/news/article/2611/16/2000003231",
+    "description": "電力ロスを大幅に減らせる酸化ガリウムを次世代半導体向けに展開し、AI需要を狙う埼玉の取り組みを紹介。",
+    "source": "ITmedia NEWS",
+    "published": null,
+    "fetched_at": "2026-11-16T18:02:26.975545+00:00"
+  },
+  {
     "title": "Google、高速・低コストの新AI「Gemini 4 Hydrogen」発表。無料ユーザーにも提供",
     "link": "https://news.yahoo.co.jp/articles/dc186284151ac07d3222cd7c5f569fb1850e1c4e",
     "description": "Googleが新AIモデル「Gemini 4 Hydrogen」を発表。従来比で処理が高速・低コストで、無料ユーザーにも提供される。",

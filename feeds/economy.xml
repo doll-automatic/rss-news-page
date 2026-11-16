@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Nov 2026 12:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 18:02:26 +0000</lastBuildDate>
+    <item>
+      <title>日経平均は大幅反落、終値で６万円割れ＝１６日大引け</title>
+      <link>https://finance.yahoo.co.jp/news/detail/6189337debf2ca5512049f354e825106179e60bc</link>
+      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/6189337debf2ca5512049f354e825106179e60bc</guid>
+      <description>【ウエルスアドバイザー】日経平均は前週末比1480円安の5万9662円で取引を終え、終値で6万円を下回った。AI・半導体株の売りが主導。</description>
+      <pubDate>Mon, 16 Nov 2026 18:02:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均は6万円を割り込む1,480円安で反落 今週はエヌビディア決算に注目</title>
+      <link>https://media.monex.co.jp/articles/-/30520</link>
+      <guid isPermaLink="true">https://media.monex.co.jp/articles/-/30520</guid>
+      <description>【マネックス証券】日経平均は59,662円で反落。今週はエヌビディアの決算発表などが市場の注目材料となる。</description>
+      <pubDate>Mon, 16 Nov 2026 18:02:26 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均終値1480円安、尾を引くAI不安 ニトリHDなど消費関連に強さ</title>
       <link>https://www.nikkei.com/article/DGXZQOFL1615UTW6A111C2000000/</link>

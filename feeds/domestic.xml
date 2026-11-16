@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Nov 2026 12:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 18:02:26 +0000</lastBuildDate>
+    <item>
+      <title>【速報】茨城・かすみがうら市の常磐道で7台絡む多重事故 十数人がけがとの情報</title>
+      <link>https://news.ksb.co.jp/ann/article/17052803</link>
+      <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17052803</guid>
+      <description>【テレビ朝日系（ANN）】茨城県かすみがうら市の常磐道で7台が絡む多重事故があり、十数人がけがをしたとの情報。消防が対応。</description>
+      <pubDate>Mon, 16 Nov 2026 18:02:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>【続報】踏切で列車と軽乗用車が衝突し火災 車内から1人の遺体 島根県出雲市</title>
+      <link>https://news.yahoo.co.jp/articles/675e599c351f1fc90d8b6f63a0f656d30dc7054d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/675e599c351f1fc90d8b6f63a0f656d30dc7054d</guid>
+      <description>【日本海テレビ】島根県出雲市のJR山陰線の踏切で列車と軽乗用車が衝突し火災が発生。車内から性別不明の1人の遺体が見つかった。</description>
+      <pubDate>Mon, 16 Nov 2026 18:02:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>3年前の大雨で被災後に死亡の70代男性、災害関連死と認定 秋田市</title>
+      <link>https://news.yahoo.co.jp/articles/60032818614f221ae4c5ccf24f9377bca4993af2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/60032818614f221ae4c5ccf24f9377bca4993af2</guid>
+      <description>【ABS秋田放送】秋田市は3年前の大雨で被災しその後死亡した70代男性を災害関連死と認定。認定は合わせて8人となった。</description>
+      <pubDate>Mon, 16 Nov 2026 18:02:26 +0000</pubDate>
+    </item>
     <item>
       <title>【速報】東京・中野区の路上で20代女性刺され重体 男は逃走中 警視庁</title>
       <link>https://news.ksb.co.jp/ann/article/17055217</link>
