@@ -5,7 +5,35 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Nov 2026 00:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:02:28 +0000</lastBuildDate>
+    <item>
+      <title>東京為替概況：ドル・円は安値圏、株安を嫌気</title>
+      <link>https://zai.diamond.jp/articles/-/499084</link>
+      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499084</guid>
+      <description>【ダイヤモンド・ザイ】株安を受けてドル・円は159円50銭台の安値圏でもみ合った。</description>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>外為12時 円相場、上昇 159円台後半 介入警戒が支え</title>
+      <link>https://nikkei.com/article/DGXZQOFL1609T0W6A111C2000000</link>
+      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOFL1609T0W6A111C2000000</guid>
+      <description>【日本経済新聞】16日昼の円相場は159円台後半に上昇。為替介入への警戒が円の下値を支えている。</description>
+      <pubDate>Mon, 16 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均は大幅反落、アドバンテストと東エレクの2銘柄で約904円押し下げ</title>
+      <link>https://www.zaikei.co.jp/article/20261116/877756.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261116/877756.html</guid>
+      <description>【財経新聞】16日前場の日経平均は959円安の6万182円で終了。半導体株の下落が指数を押し下げた。</description>
+      <pubDate>Mon, 16 Nov 2026 02:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均800円安、エヌビディア決算とアンソロピック上場に警戒感</title>
+      <link>https://fx.minkabu.jp/news/384502</link>
+      <guid isPermaLink="true">https://fx.minkabu.jp/news/384502</guid>
+      <description>【みんかぶ FX/為替】エヌビディア決算とアンソロピック上場を控え、AI・半導体株に警戒感が広がり日経平均が約800円下落した。</description>
+      <pubDate>Mon, 16 Nov 2026 01:28:00 +0000</pubDate>
+    </item>
     <item>
       <title>今日の為替市場ポイント：介入警戒と金利差の綱引きから神経質な値動きが続きそう</title>
       <link>https://www.zaikei.co.jp/article/20261116/877670.html</link>

@@ -1,5 +1,13 @@
 [
   {
+    "title": "ソブリン型AIで脆弱性解析を高度化、NTTが新技術開発",
+    "link": "https://ai.watch.impress.co.jp/docs/news/2156713.html",
+    "description": "NTTがソブリン型AIを使ってソフトウェアの脆弱性解析を高度化する新技術を開発した。",
+    "source": "AI Watch",
+    "published": null,
+    "fetched_at": "2026-11-16T06:02:28.601196+00:00"
+  },
+  {
     "title": "NVIDIAジェンスン・フアン氏がCEO辞任",
     "link": "https://pc.watch.impress.co.jp/docs/news/2156075.html",
     "description": "NVIDIAは創業者のジェンスン・フアン氏が社長・CEO・取締役を即日辞任したと発表した。",
@@ -22,21 +30,5 @@
     "source": "財経新聞",
     "published": null,
     "fetched_at": "2026-11-16T00:02:43.214678+00:00"
-  },
-  {
-    "title": "三井化学が1.8兆円でJSR買収 半導体材料の中核企業へ",
-    "link": "https://eetimes.itmedia.co.jp/ee/articles/2611/10/news037.html",
-    "description": "三井化学がJSRを1兆8400億円で買収し半導体材料事業を強化する。完了は2027年度下半期を目指す。",
-    "source": "EE Times Japan",
-    "published": null,
-    "fetched_at": "2026-11-14T06:02:19.770002+00:00"
-  },
-  {
-    "title": "AI悪用の攻撃拠点、千台発見 サイトの弱点探索、不正侵入疑い",
-    "link": "https://news.yahoo.co.jp/articles/7765f1b70e6e49a903765c498c8e1d343a5febc6",
-    "description": "JPCERTコーディネーションセンターなどの調査で、高性能AIを悪用したサイバー攻撃の拠点と疑われるサーバーが10月以降、世界で千台前後見つかった。",
-    "source": "共同通信",
-    "published": "2026-11-14T12:00:00+09:00",
-    "fetched_at": "2026-11-15T06:02:32.224315+00:00"
   }
 ]
