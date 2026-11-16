@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 18:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:02:43 +0000</lastBuildDate>
+    <item>
+      <title>死亡した3歳児の体重は8キロ 日常的な暴行に加えネグレクトもあったか 両親を逮捕</title>
+      <link>https://news.yahoo.co.jp/articles/d21e1fc78d49559e5895f46b3d9a1a59504efc7d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d21e1fc78d49559e5895f46b3d9a1a59504efc7d</guid>
+      <description>【FNNプライムオンライン】枚方市の3歳女児は平均より約5キロ軽く、府警は日常的な暴行に加えネグレクトの可能性も調べている。</description>
+      <pubDate>Mon, 16 Nov 2026 00:02:43 +0000</pubDate>
+    </item>
     <item>
       <title>日中改善へ対話実現が焦点 首相、16日から比と中国を訪問</title>
       <link>https://tokyo-np.co.jp/article/528309</link>
@@ -40,41 +47,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601933</guid>
       <description>【Yahoo!ニュース】自民党は消費税減税関連法案の採決前に退席した石破茂前首相ら4人を戒告処分とした。法案は参院で審議される。</description>
       <pubDate>Sat, 14 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>自衛官の給与引き上げ法が成立 小泉防衛大臣「過去最高の水準に」</title>
-      <link>https://news.yahoo.co.jp/articles/48bfe6f222ecc3333437192c14d86ee4a47e344e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/48bfe6f222ecc3333437192c14d86ee4a47e344e</guid>
-      <description>【FNNプライムオンライン】自衛官の給与引き上げ法が成立。一般幹部候補生は月額29万9600円になる。</description>
-      <pubDate>Sat, 14 Nov 2026 00:01:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>3歳長女を殴り殺害か、容疑で父親逮捕 母親も遺棄致死容疑</title>
-      <link>https://news.yahoo.co.jp/articles/0c34c07d916a10f692d57e2d7c2315a1963c01a4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0c34c07d916a10f692d57e2d7c2315a1963c01a4</guid>
-      <description>【毎日新聞】大阪府枚方市で3歳の長女を殺害した疑いで父親が逮捕され、母親も保護責任者遺棄致死容疑で逮捕された。</description>
-      <pubDate>Sat, 14 Nov 2026 00:01:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>死亡の3歳女児、暴行で食道が破裂し息ができなくなったか 殺人容疑で父親を逮捕</title>
-      <link>https://news.yahoo.co.jp/articles/6d6b2af65a2c2ce7155a6673ba3899c87f150241</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6d6b2af65a2c2ce7155a6673ba3899c87f150241</guid>
-      <description>【産経新聞】司法解剖で食道破裂などが確認され、府警は日常的な虐待の有無も調べている。</description>
-      <pubDate>Sat, 14 Nov 2026 00:01:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>海老名市ひき逃げ事件 トラック運転の49歳男逮捕 容疑否認「全く分からない」</title>
-      <link>https://news.ksb.co.jp/ann/article/17050908</link>
-      <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17050908</guid>
-      <description>【KSB瀬戸内海放送（ANN）】神奈川県海老名市で高齢女性2人がトラックにはねられ死亡した事件で、運転していた49歳の男が逮捕された。容疑は否認している。</description>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>高齢女性2人死亡ひき逃げ事件 トラック運転手を逮捕…容疑否認 神奈川・海老名市</title>
-      <link>https://news.yahoo.co.jp/articles/57a1cd714e93028564c33bf92a7d436acae7bf5f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/57a1cd714e93028564c33bf92a7d436acae7bf5f</guid>
-      <description>【日テレNEWS NNN】海老名市の交差点で高齢女性2人がトラックにはねられ死亡した事件で、県警は49歳の運転手を逮捕した。容疑は否認している。</description>
-      <pubDate>Fri, 13 Nov 2026 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 18:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:02:43 +0000</lastBuildDate>
+    <item>
+      <title>今日の為替市場ポイント：介入警戒と金利差の綱引きから神経質な値動きが続きそう</title>
+      <link>https://www.zaikei.co.jp/article/20261116/877670.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261116/877670.html</guid>
+      <description>【財経新聞】ドル円は160円を挟んで推移し、介入警戒と日米金利差の綱引きで神経質な値動きが続く見通し。</description>
+      <pubDate>Mon, 16 Nov 2026 00:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均は戻り試す、円は介入警戒が下値支え</title>
+      <link>https://www.nikkei.com/article/DGXZQOUB123JW0S6A111C2000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB123JW0S6A111C2000000/</guid>
+      <description>【日本経済新聞】日経平均は戻りを試す展開で、円相場は為替介入への警戒が下値を支えている。</description>
+      <pubDate>Mon, 16 Nov 2026 00:02:43 +0000</pubDate>
+    </item>
     <item>
       <title>NVIDIA17日決算、カリスマなき成長に懸念 今週の市場・予定</title>
       <link>https://www.nikkei.com/article/DGXZQODL150H40V11C26A1000000/</link>
@@ -40,48 +54,6 @@
       <guid isPermaLink="true">https://gaitame.com/media/entry/2026/11/15/070000</guid>
       <description>【外為どっとコム】11月16日週のドル円の注目材料として、エヌビディア決算と10月全国CPIなどのイベント予定を整理している。</description>
       <pubDate>Sat, 14 Nov 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均寄り付き：前日比404.05円高の61223.41円</title>
-      <link>https://zai.diamond.jp/articles/-/498986</link>
-      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/498986</guid>
-      <description>【ザイFX!】13日の日経平均は404円高の61223円と反発して取引を開始した。</description>
-      <pubDate>Sat, 14 Nov 2026 00:01:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均後場寄り付き：前日比757.31円高の61576.67円</title>
-      <link>https://finance.yahoo.co.jp/news/detail/f981ef2395bfcb424f5900912c9d7ef65730bb1f</link>
-      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/f981ef2395bfcb424f5900912c9d7ef65730bb1f</guid>
-      <description>【フィスコ/Yahoo!ファイナンス】13日後場寄り付きの日経平均は757円高の61576円となった。</description>
-      <pubDate>Sat, 14 Nov 2026 00:01:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均午前997円高、NVIDIA銘柄でもマネー 高まる買いたい意欲</title>
-      <link>https://www.nikkei.com/article/DGXZQOUB129PRTS6A111C2000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB129PRTS6A111C2000000/</guid>
-      <description>【日本経済新聞】日経平均は午前に997円高となり、NVIDIA関連銘柄にも資金が流入した。</description>
-      <pubDate>Sat, 14 Nov 2026 00:01:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>（まとめ）日経平均は一時1,000円超高も最終的には322円高の61,142円で反発</title>
-      <link>https://media.monex.co.jp/articles/-/30508</link>
-      <guid isPermaLink="true">https://media.monex.co.jp/articles/-/30508</guid>
-      <description>【マネックス証券】日経平均は一時1000円超上昇したが、最終的には322円高の61142円で反発した。</description>
-      <pubDate>Sat, 14 Nov 2026 00:01:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>為替週間見通し：伸び悩みか、米12月追加利上げ観測も為替介入に警戒</title>
-      <link>https://zaikei.co.jp/article/20261114/877586.html</link>
-      <guid isPermaLink="true">https://zaikei.co.jp/article/20261114/877586.html</guid>
-      <description>【財経新聞】来週のドル円は米追加利上げ観測が支えとなる一方、為替介入への警戒感が上値を抑えるとの見通し。</description>
-      <pubDate>Fri, 13 Nov 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ドル円は160円台を維持できず、地合いは堅調＝NY為替概況</title>
-      <link>https://fx.minkabu.jp/news/384462</link>
-      <guid isPermaLink="true">https://fx.minkabu.jp/news/384462</guid>
-      <description>【みんかぶFX】NY市場のドル円は160円台を維持できなかったものの、地合いは堅調だった。</description>
-      <pubDate>Fri, 13 Nov 2026 22:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

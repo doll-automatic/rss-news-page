@@ -1,5 +1,21 @@
 [
   {
+    "title": "今日の為替市場ポイント：介入警戒と金利差の綱引きから神経質な値動きが続きそう",
+    "link": "https://www.zaikei.co.jp/article/20261116/877670.html",
+    "description": "ドル円は160円を挟んで推移し、介入警戒と日米金利差の綱引きで神経質な値動きが続く見通し。",
+    "source": "財経新聞",
+    "published": null,
+    "fetched_at": "2026-11-16T00:02:43.214678+00:00"
+  },
+  {
+    "title": "日経平均は戻り試す、円は介入警戒が下値支え",
+    "link": "https://www.nikkei.com/article/DGXZQOUB123JW0S6A111C2000000/",
+    "description": "日経平均は戻りを試す展開で、円相場は為替介入への警戒が下値を支えている。",
+    "source": "日本経済新聞",
+    "published": null,
+    "fetched_at": "2026-11-16T00:02:43.214678+00:00"
+  },
+  {
     "title": "NVIDIA17日決算、カリスマなき成長に懸念 今週の市場・予定",
     "link": "https://www.nikkei.com/article/DGXZQODL150H40V11C26A1000000/",
     "description": "17日のNVIDIA決算を中心に、今週の市場の注目点と予定をまとめている。",
@@ -38,53 +54,5 @@
     "source": "外為どっとコム",
     "published": "2026-11-15T07:00:00+09:00",
     "fetched_at": "2026-11-15T18:02:15.017431+00:00"
-  },
-  {
-    "title": "日経平均寄り付き：前日比404.05円高の61223.41円",
-    "link": "https://zai.diamond.jp/articles/-/498986",
-    "description": "13日の日経平均は404円高の61223円と反発して取引を開始した。",
-    "source": "ザイFX!",
-    "published": null,
-    "fetched_at": "2026-11-14T00:01:49.908465+00:00"
-  },
-  {
-    "title": "日経平均後場寄り付き：前日比757.31円高の61576.67円",
-    "link": "https://finance.yahoo.co.jp/news/detail/f981ef2395bfcb424f5900912c9d7ef65730bb1f",
-    "description": "13日後場寄り付きの日経平均は757円高の61576円となった。",
-    "source": "フィスコ/Yahoo!ファイナンス",
-    "published": null,
-    "fetched_at": "2026-11-14T00:01:49.908465+00:00"
-  },
-  {
-    "title": "日経平均午前997円高、NVIDIA銘柄でもマネー 高まる買いたい意欲",
-    "link": "https://www.nikkei.com/article/DGXZQOUB129PRTS6A111C2000000/",
-    "description": "日経平均は午前に997円高となり、NVIDIA関連銘柄にも資金が流入した。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-14T00:01:49.908465+00:00"
-  },
-  {
-    "title": "（まとめ）日経平均は一時1,000円超高も最終的には322円高の61,142円で反発",
-    "link": "https://media.monex.co.jp/articles/-/30508",
-    "description": "日経平均は一時1000円超上昇したが、最終的には322円高の61142円で反発した。",
-    "source": "マネックス証券",
-    "published": null,
-    "fetched_at": "2026-11-14T00:01:49.908465+00:00"
-  },
-  {
-    "title": "為替週間見通し：伸び悩みか、米12月追加利上げ観測も為替介入に警戒",
-    "link": "https://zaikei.co.jp/article/20261114/877586.html",
-    "description": "来週のドル円は米追加利上げ観測が支えとなる一方、為替介入への警戒感が上値を抑えるとの見通し。",
-    "source": "財経新聞",
-    "published": "2026-11-14T08:00:00+09:00",
-    "fetched_at": "2026-11-14T12:01:54.413502+00:00"
-  },
-  {
-    "title": "ドル円は160円台を維持できず、地合いは堅調＝NY為替概況",
-    "link": "https://fx.minkabu.jp/news/384462",
-    "description": "NY市場のドル円は160円台を維持できなかったものの、地合いは堅調だった。",
-    "source": "みんかぶFX",
-    "published": "2026-11-14T07:20:00+09:00",
-    "fetched_at": "2026-11-14T12:01:54.413502+00:00"
   }
 ]
