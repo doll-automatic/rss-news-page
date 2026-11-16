@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:02:14 +0000</lastBuildDate>
+    <item>
+      <title>【速報】東京・中野区の路上で20代女性刺され重体 男は逃走中 警視庁</title>
+      <link>https://news.ksb.co.jp/ann/article/17055217</link>
+      <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17055217</guid>
+      <description>【ANN】16日夜、東京都中野区の路上で20代とみられる女性が刺され重体。男は逃走中で警視庁が行方を追っている。</description>
+      <pubDate>Mon, 16 Nov 2026 12:02:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>女性巡査が捜査情報漏えい疑い</title>
+      <link>https://daily.co.jp/society/national/2026/11/16/0021041383.shtml</link>
+      <guid isPermaLink="true">https://daily.co.jp/society/national/2026/11/16/0021041383.shtml</guid>
+      <description>【デイリースポーツ】佐賀県警は交際相手に捜査情報を漏らした疑いで20代の女性巡査を書類送検し、停職3カ月の懲戒処分とした。</description>
+      <pubDate>Mon, 16 Nov 2026 12:02:14 +0000</pubDate>
+    </item>
     <item>
       <title>死亡した3歳児の体重は8キロ 日常的な暴行に加えネグレクトもあったか 両親を逮捕</title>
       <link>https://news.yahoo.co.jp/articles/d21e1fc78d49559e5895f46b3d9a1a59504efc7d</link>
@@ -33,13 +47,6 @@
       <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/528356</guid>
       <description>【東京新聞（共同通信）】福岡市長選は戦後最多の13人が立候補し票が分散、法定得票数に届かず再選挙となる可能性も報じられている。</description>
       <pubDate>Sun, 15 Nov 2026 12:02:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>横田早紀江さん、早期解決訴え めぐみさん拉致49年で集会</title>
-      <link>https://www.nikkei.com/article/DGXZQOUD1423I0U6A111C2000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUD1423I0U6A111C2000000/</guid>
-      <description>【日本経済新聞】横田めぐみさん拉致から49年を前に新潟市で県民集会が開かれ、家族が早期解決を訴えた。</description>
-      <pubDate>Sat, 14 Nov 2026 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

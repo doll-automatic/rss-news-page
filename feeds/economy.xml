@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:02:14 +0000</lastBuildDate>
+    <item>
+      <title>日経平均終値1480円安、尾を引くAI不安 ニトリHDなど消費関連に強さ</title>
+      <link>https://www.nikkei.com/article/DGXZQOFL1615UTW6A111C2000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOFL1615UTW6A111C2000000/</guid>
+      <description>【日本経済新聞】16日の日経平均は前週末比1480円安の5万9662円。AI・半導体株への不安が続いた。</description>
+      <pubDate>Mon, 16 Nov 2026 12:02:14 +0000</pubDate>
+    </item>
     <item>
       <title>東京為替概況：ドル・円は安値圏、株安を嫌気</title>
       <link>https://zai.diamond.jp/articles/-/499084</link>
