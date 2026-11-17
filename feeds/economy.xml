@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 12:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 18:02:15 +0000</lastBuildDate>
+    <item>
+      <title>東京為替：ドル・円は反落、午後は下落基調</title>
+      <link>https://kabutan.jp/news/marketnews/?b=n202611171236</link>
+      <guid isPermaLink="true">https://kabutan.jp/news/marketnews/?b=n202611171236</guid>
+      <description>【株探】ドル円は一時159円台後半まで上昇後に反落し、午後は下落基調となった。</description>
+      <pubDate>Tue, 17 Nov 2026 18:02:15 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均、終値801円安 NVIDIA騒動に米半導体規制の二重苦</title>
       <link>https://www.nikkei.com/article/DGXZQOUB170JMTX11C26A1000000/</link>
@@ -47,6 +54,13 @@
       <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261117/877929.html</guid>
       <description>【財経新聞】17日の東京株式市場は前日の米株安を受け、日経平均が366円安で寄り付いた。</description>
       <pubDate>Tue, 17 Nov 2026 06:01:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>後場の日経平均は515円安でスタート、イビデンや古河電工などが下落</title>
+      <link>https://s.minkabu.jp/news/4667057</link>
+      <guid isPermaLink="true">https://s.minkabu.jp/news/4667057</guid>
+      <description>【みんかぶ】後場の日経平均は515円安で始まり、イビデンや古河電工などが下落した。</description>
+      <pubDate>Tue, 17 Nov 2026 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>日経平均の下げ幅が1000円を超える</title>
@@ -124,27 +138,6 @@
       <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB123JW0S6A111C2000000/</guid>
       <description>【日本経済新聞】日経平均は戻りを試す展開で、円相場は為替介入への警戒が下値を支えている。</description>
       <pubDate>Mon, 16 Nov 2026 00:02:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA17日決算、カリスマなき成長に懸念 今週の市場・予定</title>
-      <link>https://www.nikkei.com/article/DGXZQODL150H40V11C26A1000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQODL150H40V11C26A1000000/</guid>
-      <description>【日本経済新聞】17日のNVIDIA決算を中心に、今週の市場の注目点と予定をまとめている。</description>
-      <pubDate>Sun, 15 Nov 2026 18:02:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均大引け：前日比322.99円高の61142.35円</title>
-      <link>https://zai.diamond.jp/articles/-/499008</link>
-      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499008</guid>
-      <description>【ザイFX!】日経平均は前日比322.99円高の6万1142円35銭で取引を終えた。</description>
-      <pubDate>Sun, 15 Nov 2026 18:02:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は反発、半導体株の買い戻し先行も後場に上げ幅縮小</title>
-      <link>https://www.zaikei.co.jp/article/20261113/877508.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261113/877508.html</guid>
-      <description>【財経新聞】半導体株の買い戻しで日経平均は反発したが、後場は上げ幅を縮小した。</description>
-      <pubDate>Sun, 15 Nov 2026 12:02:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

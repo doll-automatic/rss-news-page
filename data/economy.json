@@ -1,5 +1,13 @@
 [
   {
+    "title": "東京為替：ドル・円は反落、午後は下落基調",
+    "link": "https://kabutan.jp/news/marketnews/?b=n202611171236",
+    "description": "ドル円は一時159円台後半まで上昇後に反落し、午後は下落基調となった。",
+    "source": "株探",
+    "published": null,
+    "fetched_at": "2026-11-17T18:02:15.322462+00:00"
+  },
+  {
     "title": "日経平均、終値801円安 NVIDIA騒動に米半導体規制の二重苦",
     "link": "https://www.nikkei.com/article/DGXZQOUB170JMTX11C26A1000000/",
     "description": "17日の東京株式市場で日経平均は続落し、終値は801円安の5万8860円。米のAI向け半導体の輸出規制強化が重荷となった。",
@@ -46,6 +54,14 @@
     "source": "財経新聞",
     "published": null,
     "fetched_at": "2026-11-17T06:01:58.990107+00:00"
+  },
+  {
+    "title": "後場の日経平均は515円安でスタート、イビデンや古河電工などが下落",
+    "link": "https://s.minkabu.jp/news/4667057",
+    "description": "後場の日経平均は515円安で始まり、イビデンや古河電工などが下落した。",
+    "source": "みんかぶ",
+    "published": "2026-11-17T13:00:00+09:00",
+    "fetched_at": "2026-11-17T18:02:15.322462+00:00"
   },
   {
     "title": "日経平均の下げ幅が1000円を超える",
@@ -134,29 +150,5 @@
     "source": "日本経済新聞",
     "published": null,
     "fetched_at": "2026-11-16T00:02:43.214678+00:00"
-  },
-  {
-    "title": "NVIDIA17日決算、カリスマなき成長に懸念 今週の市場・予定",
-    "link": "https://www.nikkei.com/article/DGXZQODL150H40V11C26A1000000/",
-    "description": "17日のNVIDIA決算を中心に、今週の市場の注目点と予定をまとめている。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-15T18:02:15.017431+00:00"
-  },
-  {
-    "title": "日経平均大引け：前日比322.99円高の61142.35円",
-    "link": "https://zai.diamond.jp/articles/-/499008",
-    "description": "日経平均は前日比322.99円高の6万1142円35銭で取引を終えた。",
-    "source": "ザイFX!",
-    "published": null,
-    "fetched_at": "2026-11-15T18:02:15.017431+00:00"
-  },
-  {
-    "title": "日経平均は反発、半導体株の買い戻し先行も後場に上げ幅縮小",
-    "link": "https://www.zaikei.co.jp/article/20261113/877508.html",
-    "description": "半導体株の買い戻しで日経平均は反発したが、後場は上げ幅を縮小した。",
-    "source": "財経新聞",
-    "published": null,
-    "fetched_at": "2026-11-15T12:02:28.717886+00:00"
   }
 ]
