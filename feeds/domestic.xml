@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 12:02:18 +0000</lastBuildDate>
+    <item>
+      <title>関文科相、議員会館パーティーで集中砲火 「政官財の癒着」「これはアウト」</title>
+      <link>https://news.yahoo.co.jp/articles/c89b516c2765606dd0014584fbccafbc09fbdff3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c89b516c2765606dd0014584fbccafbc09fbdff3</guid>
+      <description>【J-CASTニュース】関文科相が議員会館で政治資金パーティーを開いたことに野党が反発。大臣は辞任を否定している。</description>
+      <pubDate>Tue, 17 Nov 2026 12:02:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>暴力団にみかじめ料 飲食店経営の男逮捕 富山市桜木町</title>
+      <link>https://news.infoseek.co.jp/article/knb_2026111707495363</link>
+      <guid isPermaLink="true">https://news.infoseek.co.jp/article/knb_2026111707495363</guid>
+      <description>【Infoseekニュース】暴力団にみかじめ料を渡したとして、富山市の飲食店経営の男が逮捕された。</description>
+      <pubDate>Tue, 17 Nov 2026 12:02:18 +0000</pubDate>
+    </item>
     <item>
       <title>中野駅近くで20代女性が刺され死亡…強盗殺人未遂の疑いで男を逮捕</title>
       <link>https://www.tokyo-np.co.jp/article/528565</link>

@@ -1,5 +1,29 @@
 [
   {
+    "title": "日経平均、終値801円安 NVIDIA騒動に米半導体規制の二重苦",
+    "link": "https://www.nikkei.com/article/DGXZQOUB170JMTX11C26A1000000/",
+    "description": "17日の東京株式市場で日経平均は続落し、終値は801円安の5万8860円。米のAI向け半導体の輸出規制強化が重荷となった。",
+    "source": "日本経済新聞",
+    "published": null,
+    "fetched_at": "2026-11-17T12:02:18.553009+00:00"
+  },
+  {
+    "title": "日経平均は592円安、米エヌビディア決算や米経済指標などに関心",
+    "link": "https://www.zaikei.co.jp/article/20261117/878026.html",
+    "description": "米エヌビディア決算や米経済指標への警戒から日経平均は下落した。",
+    "source": "財経新聞",
+    "published": null,
+    "fetched_at": "2026-11-17T12:02:18.553009+00:00"
+  },
+  {
+    "title": "円高の動き優勢、ドル円一時158円台 ドル買いは一服＝ロンドン為替概況",
+    "link": "https://fx.minkabu.jp/news/384697",
+    "description": "株安を背景にリスク回避の円買いが優勢となり、ドル円は一時158円台まで下落した。",
+    "source": "みんかぶFX",
+    "published": null,
+    "fetched_at": "2026-11-17T12:02:18.553009+00:00"
+  },
+  {
     "title": "日経平均は大幅続落、アドバンテストが1銘柄で約366円分押し下げ",
     "link": "https://jp.investing.com/news/stock-market-news/article-1759885",
     "description": "米のAI半導体輸出規制強化を受け、日経平均は大幅続落。アドバンテストが指数を大きく押し下げた。",
@@ -134,13 +158,5 @@
     "source": "財経新聞",
     "published": null,
     "fetched_at": "2026-11-15T12:02:28.717886+00:00"
-  },
-  {
-    "title": "【中銀チェック】タカ派的据え置きとなった10月FOMCの議事要旨に注目",
-    "link": "https://fx.minkabu.jp/news/384471",
-    "description": "タカ派的な据え置きとなった10月FOMCの議事要旨が今週の注目材料として取り上げられている。",
-    "source": "みんかぶFX",
-    "published": "2026-11-15T15:10:00+09:00",
-    "fetched_at": "2026-11-15T18:02:15.017431+00:00"
   }
 ]

@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 12:02:18 +0000</lastBuildDate>
+    <item>
+      <title>AIが全自動サイバー攻撃、Googleが観測 無料ツールを悪用</title>
+      <link>https://nikkei.com/article/DGXZQOGN167260W6A111C2000000</link>
+      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOGN167260W6A111C2000000</guid>
+      <description>【日本経済新聞】米Googleが、AIが脆弱性の特定から攻撃実行まで人の介入なしで完結させた事例を初めて確認したと発表した。</description>
+      <pubDate>Tue, 17 Nov 2026 12:02:18 +0000</pubDate>
+    </item>
     <item>
       <title>米商務省、先端半導体の「迂回輸出」規制 NVIDIA疑惑に対応</title>
       <link>https://nikkei.com/article/DGXZQOGN16AYX0W6A111C2000000</link>
