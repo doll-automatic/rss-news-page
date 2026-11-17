@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 00:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:01:58 +0000</lastBuildDate>
+    <item>
+      <title>日経平均は大幅続落、アドバンテストが1銘柄で約366円分押し下げ</title>
+      <link>https://jp.investing.com/news/stock-market-news/article-1759885</link>
+      <guid isPermaLink="true">https://jp.investing.com/news/stock-market-news/article-1759885</guid>
+      <description>【Fisco/Investing.com】米のAI半導体輸出規制強化を受け、日経平均は大幅続落。アドバンテストが指数を大きく押し下げた。</description>
+      <pubDate>Tue, 17 Nov 2026 06:01:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>外為12時 円相場、上昇 159円台前半 日米株安で</title>
+      <link>https://www.nikkei.com/article/DGXZQOFL172QU0X11C26A1000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOFL172QU0X11C26A1000000/</guid>
+      <description>【日本経済新聞】日米株安によるリスク回避の円買いで、円相場は1ドル=159円台前半に上昇した。</description>
+      <pubDate>Tue, 17 Nov 2026 06:01:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均は366円安でスタート、アドバンテストや三井住友などが下落</title>
+      <link>https://www.zaikei.co.jp/article/20261117/877929.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261117/877929.html</guid>
+      <description>【財経新聞】17日の東京株式市場は前日の米株安を受け、日経平均が366円安で寄り付いた。</description>
+      <pubDate>Tue, 17 Nov 2026 06:01:58 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均の下げ幅が1000円を超える</title>
       <link>https://finance.yahoo.co.jp/news/detail/21854fce1b78583c5ae050fae0963c3f1ef27f23</link>

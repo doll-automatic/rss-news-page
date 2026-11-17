@@ -1,11 +1,35 @@
 [
   {
+    "title": "米商務省、先端半導体の「迂回輸出」規制 NVIDIA疑惑に対応",
+    "link": "https://nikkei.com/article/DGXZQOGN16AYX0W6A111C2000000",
+    "description": "米商務省が先端半導体の迂回輸出を規制する規則を発表した。官報掲載時点で施行される。",
+    "source": "日本経済新聞",
+    "published": null,
+    "fetched_at": "2026-11-17T06:01:58.990107+00:00"
+  },
+  {
+    "title": "NVIDIAファン氏退任、米中のAI断絶深まる 中国は半導体の自給急ぐ",
+    "link": "https://www.nikkei.com/article/DGXZQOGM150YR0V11C26A1000000/",
+    "description": "ファン氏のCEO退任を受け対中規制論が強まる一方、中国は国産AI半導体の開発を急いでいる。",
+    "source": "日本経済新聞",
+    "published": null,
+    "fetched_at": "2026-11-17T06:01:58.990107+00:00"
+  },
+  {
     "title": "NY株式：739.38ドル安、AI規制強化や銀行が重し",
     "link": "https://jp.investing.com/news/forex-news/article-1759655",
     "description": "米国株式市場でAI関連規制の強化や銀行株が重しとなり、NYダウが大幅下落した。エヌビディア経営を巡る報道も嫌気された。",
     "source": "Investing.com",
     "published": null,
     "fetched_at": "2026-11-17T00:02:08.556239+00:00"
+  },
+  {
+    "title": "米政府、AI半導体に対する輸出規制の「抜け穴」を埋める新規則を発表",
+    "link": "https://forbesjapan.com/articles/detail/108357",
+    "description": "米商務省が、第三国経由で中国が先端AI半導体を入手する抜け穴を塞ぐ暫定規則を発表した。",
+    "source": "Forbes JAPAN",
+    "published": "2026-11-17T08:00:00+09:00",
+    "fetched_at": "2026-11-17T06:01:58.990107+00:00"
   },
   {
     "title": "米国、先端ＡＩ半導体への遠隔アクセスを制限 輸出規制の迂回防止",
