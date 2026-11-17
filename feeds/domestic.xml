@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Nov 2026 18:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 00:02:08 +0000</lastBuildDate>
+    <item>
+      <title>今日11月17日(火)の天気予報 西日本・東日本は天気下り坂 昼間も肌寒い</title>
+      <link>https://weathernews.jp/news/202611/170021</link>
+      <guid isPermaLink="true">https://weathernews.jp/news/202611/170021</guid>
+      <description>【ウェザーニュース】17日は西日本・東日本で天気が下り坂となり、関東は気温が大幅に低下。関東では夜遅くに激しい雨にも注意が必要。</description>
+      <pubDate>Mon, 16 Nov 2026 21:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>【速報】茨城・かすみがうら市の常磐道で7台絡む多重事故 十数人がけがとの情報</title>
       <link>https://news.ksb.co.jp/ann/article/17052803</link>

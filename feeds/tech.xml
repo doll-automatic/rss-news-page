@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Nov 2026 18:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 00:02:08 +0000</lastBuildDate>
+    <item>
+      <title>NY株式：739.38ドル安、AI規制強化や銀行が重し</title>
+      <link>https://jp.investing.com/news/forex-news/article-1759655</link>
+      <guid isPermaLink="true">https://jp.investing.com/news/forex-news/article-1759655</guid>
+      <description>【Investing.com】米国株式市場でAI関連規制の強化や銀行株が重しとなり、NYダウが大幅下落した。エヌビディア経営を巡る報道も嫌気された。</description>
+      <pubDate>Tue, 17 Nov 2026 00:02:08 +0000</pubDate>
+    </item>
     <item>
       <title>米国、先端ＡＩ半導体への遠隔アクセスを制限 輸出規制の迂回防止</title>
       <link>https://fx.minkabu.jp/news/384576</link>
