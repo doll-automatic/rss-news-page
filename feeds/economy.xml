@@ -5,7 +5,42 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 12:02:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 18:02:19 +0000</lastBuildDate>
+    <item>
+      <title>欧州主要株式指数、続落</title>
+      <link>https://zai.diamond.jp/articles/-/499295</link>
+      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499295</guid>
+      <description>【ダイヤモンド・ザイ】欧州主要株式指数は続落。FRB理事の利上げ支持発言などが重しとなった。</description>
+      <pubDate>Wed, 18 Nov 2026 18:02:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>欧州株 終値 揃って下落</title>
+      <link>https://fx.minkabu.jp/news/384863</link>
+      <guid isPermaLink="true">https://fx.minkabu.jp/news/384863</guid>
+      <description>【みんかぶ】欧州主要株式指数は軒並み下落。DAXは1.19%安、FTSE100は1.30%安となった。</description>
+      <pubDate>Wed, 18 Nov 2026 17:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ＮＹ各市場 ２時台 ダウ平均は４７６ドル安 ナスダックは小幅高での推移</title>
+      <link>https://fx.minkabu.jp/news/384862</link>
+      <guid isPermaLink="true">https://fx.minkabu.jp/news/384862</guid>
+      <description>【みんかぶ】NY株式市場でダウ平均は476ドル安、ナスダックは小幅高で推移した。</description>
+      <pubDate>Wed, 18 Nov 2026 17:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ドル円は１５９円台前半 本日は午後にＦＯＭＣ議事録＝ＮＹ為替序盤</title>
+      <link>https://fx.minkabu.jp/news/384855</link>
+      <guid isPermaLink="true">https://fx.minkabu.jp/news/384855</guid>
+      <description>【みんかぶ】ドル円は159円台前半に下落。160円付近では上値が重く、FOMC議事録の発表を控えている。</description>
+      <pubDate>Wed, 18 Nov 2026 14:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>米１０年債は５．１０％付近で始まる＝ＮＹ債券オープン</title>
+      <link>https://fx.minkabu.jp/news/384852</link>
+      <guid isPermaLink="true">https://fx.minkabu.jp/news/384852</guid>
+      <description>【みんかぶ】米10年債利回りは5.10%付近で推移し、高水準が続いている。</description>
+      <pubDate>Wed, 18 Nov 2026 14:03:00 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均大引け：前日比163.85円高の59024.28円</title>
       <link>https://zai.diamond.jp/articles/-/499257</link>
