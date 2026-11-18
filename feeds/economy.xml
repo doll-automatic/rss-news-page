@@ -5,13 +5,34 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 18:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:01:53 +0000</lastBuildDate>
+    <item>
+      <title>東京外国為替市場概況・8時 ドル円、小高い</title>
+      <link>https://zai.diamond.jp/articles/-/499228</link>
+      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499228</guid>
+      <description>【ダイヤモンド・ザイ】8時時点のドル円は159.43円と、NY終値に比べ小幅にドル高で推移した。</description>
+      <pubDate>Tue, 17 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ＮＹ各市場 ４時台 ダウ平均は８２６ドル安 ナスダックは１．１％の大幅安</title>
+      <link>https://fx.minkabu.jp/news/384733</link>
+      <guid isPermaLink="true">https://fx.minkabu.jp/news/384733</guid>
+      <description>【みんかぶ】NY市場でダウ平均が826ドル安、ナスダックは1.1%の大幅安となった。</description>
+      <pubDate>Tue, 17 Nov 2026 19:17:00 +0000</pubDate>
+    </item>
     <item>
       <title>東京為替：ドル・円は反落、午後は下落基調</title>
       <link>https://kabutan.jp/news/marketnews/?b=n202611171236</link>
       <guid isPermaLink="true">https://kabutan.jp/news/marketnews/?b=n202611171236</guid>
       <description>【株探】ドル円は一時159円台後半まで上昇後に反落し、午後は下落基調となった。</description>
       <pubDate>Tue, 17 Nov 2026 18:02:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>為替相場 18日（日本時間 3時）</title>
+      <link>https://www.chunichi.co.jp/article/1340941</link>
+      <guid isPermaLink="true">https://www.chunichi.co.jp/article/1340941</guid>
+      <description>【中日新聞】18日3時時点のドル円は1ドル=159円24～26銭で推移した。</description>
+      <pubDate>Tue, 17 Nov 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>日経平均、終値801円安 NVIDIA騒動に米半導体規制の二重苦</title>

@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 18:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:01:53 +0000</lastBuildDate>
     <item>
       <title>渋滞で低速走行中の車に後ろから追突…車3台の玉突き事故 70代男性が死亡 大阪・富田林市</title>
       <link>https://news.yahoo.co.jp/articles/fed5c2b114c2eda0d13e979895dea3b2d7d8b03e</link>
@@ -26,6 +26,13 @@
       <guid isPermaLink="true">https://news.infoseek.co.jp/article/knb_2026111707495363</guid>
       <description>【Infoseekニュース】暴力団にみかじめ料を渡したとして、富山市の飲食店経営の男が逮捕された。</description>
       <pubDate>Tue, 17 Nov 2026 12:02:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>玉木氏「たたき売り」と批判＝消費減税、支援金拡大に反対</title>
+      <link>https://news.infoseek.co.jp/article/jiji_2026111700659/</link>
+      <guid isPermaLink="true">https://news.infoseek.co.jp/article/jiji_2026111700659/</guid>
+      <description>【時事通信】国民民主党の玉木代表が、消費減税に伴う支援金の対象拡大を「たたき売り」と批判し反対した。</description>
+      <pubDate>Tue, 17 Nov 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>中野駅近くで20代女性が刺され死亡…強盗殺人未遂の疑いで男を逮捕</title>
