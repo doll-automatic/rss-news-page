@@ -1,5 +1,29 @@
 [
   {
+    "title": "米グーグルが日本に先端の防御AI提供",
+    "link": "https://news.yahoo.co.jp/articles/6f9db4edb9e46a51614f09e2ab3ed0d75a84d5ac",
+    "description": "グーグルは17日、サイバー攻撃への対応力強化のため、防御性能の高い先端AIを日本の重要インフラ企業向けに提供すると発表した。",
+    "source": "共同通信（Yahoo!ニュース）",
+    "published": null,
+    "fetched_at": "2026-11-18T12:02:30.433293+00:00"
+  },
+  {
+    "title": "中国のAIチップ調達、東南アジア経由もアウトに。トランプ政権が規制強化",
+    "link": "https://www.gizmodo.jp/article/2611-trump-admin-strengthens-ai-chip-export-controls-china/",
+    "description": "米商務省は中国企業による海外データセンター経由の先端AI半導体の遠隔利用を制限し、東南アジア4カ国とブラジル向け輸出を許可制にした。",
+    "source": "ギズモード・ジャパン",
+    "published": null,
+    "fetched_at": "2026-11-18T12:02:30.433293+00:00"
+  },
+  {
+    "title": "トランプ政権、AI半導体の輸出規制を強化 大統領の訪中控え",
+    "link": "https://www.cnn.co.jp/usa/35254975.html",
+    "description": "トランプ政権が習近平主席との会談を控え、AI半導体の輸出規制を強化した。",
+    "source": "CNN.co.jp",
+    "published": null,
+    "fetched_at": "2026-11-18T12:02:30.433293+00:00"
+  },
+  {
     "title": "標的選定からわずか3時間で侵入、AIを悪用したサイバー攻撃にFBIが警告",
     "link": "https://news.yahoo.co.jp/articles/6dbeaf1ed94644f972e3af530662ed495c080ec7",
     "description": "FBIがAIを悪用したサイバー攻撃について警告した。標的選定から約3時間で侵入された例があるという。",
@@ -78,29 +102,5 @@
     "source": "ITmedia NEWS",
     "published": null,
     "fetched_at": "2026-11-16T18:02:26.975545+00:00"
-  },
-  {
-    "title": "Google、高速・低コストの新AI「Gemini 4 Hydrogen」発表。無料ユーザーにも提供",
-    "link": "https://news.yahoo.co.jp/articles/dc186284151ac07d3222cd7c5f569fb1850e1c4e",
-    "description": "Googleが新AIモデル「Gemini 4 Hydrogen」を発表。従来比で処理が高速・低コストで、無料ユーザーにも提供される。",
-    "source": "Yahoo!ニュース",
-    "published": null,
-    "fetched_at": "2026-11-16T12:02:14.452623+00:00"
-  },
-  {
-    "title": "Googleが無料で使える高性能AI「Gemini 4 Hydrogen」を発表、従来モデルの2.5倍の速度",
-    "link": "https://gigazine.net/news/20261113-gemini-4-hydrogen/",
-    "description": "Gemini 4 Hydrogenは従来モデルの2.5倍の速度で動作し、競合AIを上回る性能も発揮するとされる。",
-    "source": "GIGAZINE",
-    "published": null,
-    "fetched_at": "2026-11-16T12:02:14.452623+00:00"
-  },
-  {
-    "title": "ソブリン型AIで脆弱性解析を高度化、NTTが新技術開発",
-    "link": "https://ai.watch.impress.co.jp/docs/news/2156713.html",
-    "description": "NTTがソブリン型AIを使ってソフトウェアの脆弱性解析を高度化する新技術を開発した。",
-    "source": "AI Watch",
-    "published": null,
-    "fetched_at": "2026-11-16T06:02:28.601196+00:00"
   }
 ]

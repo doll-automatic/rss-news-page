@@ -5,13 +5,27 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 06:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:02:30 +0000</lastBuildDate>
+    <item>
+      <title>顔や体に数十カ所のあざ 伊丹市の自宅で3歳の娘暴行し死亡させたか 父親逮捕</title>
+      <link>https://www.sun-tv.co.jp/suntvnews/news/2026/11/18/97955/</link>
+      <guid isPermaLink="true">https://www.sun-tv.co.jp/suntvnews/news/2026/11/18/97955/</guid>
+      <description>【サンテレビ】兵庫県伊丹市で3歳の娘に暴行し死亡させたとして29歳の父親が傷害致死容疑で逮捕された。父親は否認している。</description>
+      <pubDate>Wed, 18 Nov 2026 12:02:30 +0000</pubDate>
+    </item>
     <item>
       <title>比例31減、各党が意見表明 「民意反映弱まる」「国民と約束」―衆院特別委</title>
       <link>https://jiji.com/jc/article?g=pol&amp;k=2026111800132&amp;m=rss</link>
       <guid isPermaLink="true">https://jiji.com/jc/article?g=pol&amp;k=2026111800132&amp;m=rss</guid>
       <description>【時事ドットコム】衆院の比例定数を31削減する法案の審議が特別委で始まり、野党は民意反映が弱まると反対、与党側は国民との約束と主張した。</description>
       <pubDate>Wed, 18 Nov 2026 06:02:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>受刑者の投票制限は「合憲」、最高裁大法廷が初判断 選挙権訴訟</title>
+      <link>https://www.nikkei.com/article/DGXZQOUD080Y60Y6A101C2000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUD080Y60Y6A101C2000000/</guid>
+      <description>【日本経済新聞】最高裁大法廷は、受刑者の選挙権を一律に認めない公職選挙法の規定を合憲とする初判断を示した。</description>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>渋滞で低速走行中の車に後ろから追突…車3台の玉突き事故 70代男性が死亡 大阪・富田林市</title>
@@ -89,20 +103,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/60032818614f221ae4c5ccf24f9377bca4993af2</guid>
       <description>【ABS秋田放送】秋田市は3年前の大雨で被災しその後死亡した70代男性を災害関連死と認定。認定は合わせて8人となった。</description>
       <pubDate>Mon, 16 Nov 2026 18:02:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【速報】東京・中野区の路上で20代女性刺され重体 男は逃走中 警視庁</title>
-      <link>https://news.ksb.co.jp/ann/article/17055217</link>
-      <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17055217</guid>
-      <description>【ANN】16日夜、東京都中野区の路上で20代とみられる女性が刺され重体。男は逃走中で警視庁が行方を追っている。</description>
-      <pubDate>Mon, 16 Nov 2026 12:02:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>女性巡査が捜査情報漏えい疑い</title>
-      <link>https://daily.co.jp/society/national/2026/11/16/0021041383.shtml</link>
-      <guid isPermaLink="true">https://daily.co.jp/society/national/2026/11/16/0021041383.shtml</guid>
-      <description>【デイリースポーツ】佐賀県警は交際相手に捜査情報を漏らした疑いで20代の女性巡査を書類送検し、停職3カ月の懲戒処分とした。</description>
-      <pubDate>Mon, 16 Nov 2026 12:02:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

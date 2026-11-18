@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 06:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:02:30 +0000</lastBuildDate>
+    <item>
+      <title>日経平均大引け：前日比163.85円高の59024.28円</title>
+      <link>https://zai.diamond.jp/articles/-/499257</link>
+      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499257</guid>
+      <description>【ザイFX！】18日の日経平均は前日比163.85円高の59024.28円で取引を終えた。</description>
+      <pubDate>Wed, 18 Nov 2026 12:02:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>東京為替概況：ドル・円は反落、午後は主要通貨売り</title>
+      <link>https://zai.diamond.jp/articles/-/499268</link>
+      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499268</guid>
+      <description>【ザイFX！】東京市場のドル・円は159円65銭まで上昇後に反落し、17時時点は159円20銭台で推移した。</description>
+      <pubDate>Wed, 18 Nov 2026 12:02:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均は3日続落、東エレクが1銘柄で約75円分押し下げ</title>
+      <link>https://www.zaikei.co.jp/article/20261118/878209.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261118/878209.html</guid>
+      <description>【財経新聞】日経平均は3日続落となり、東京エレクトロンが指数を約75円分押し下げた。</description>
+      <pubDate>Wed, 18 Nov 2026 12:02:30 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均前場引け：前日比163.89円安の58696.54円</title>
       <link>https://zai.diamond.jp/articles/-/499242</link>
@@ -131,20 +152,6 @@
       <guid isPermaLink="true">https://media.monex.co.jp/articles/-/30520</guid>
       <description>【マネックス証券】日経平均は59,662円で反落。今週はエヌビディアの決算発表などが市場の注目材料となる。</description>
       <pubDate>Mon, 16 Nov 2026 18:02:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均終値1480円安、尾を引くAI不安 ニトリHDなど消費関連に強さ</title>
-      <link>https://www.nikkei.com/article/DGXZQOFL1615UTW6A111C2000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOFL1615UTW6A111C2000000/</guid>
-      <description>【日本経済新聞】16日の日経平均は前週末比1480円安の5万9662円。AI・半導体株への不安が続いた。</description>
-      <pubDate>Mon, 16 Nov 2026 12:02:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均大引け：前週末比1480.33円安の59662.02円</title>
-      <link>https://zai.diamond.jp/articles/-/499086</link>
-      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499086</guid>
-      <description>【ザイFX!】16日の日経平均は大幅反落し、終値で6万円を割り込んだ。米半導体株安やGDPの弱さが重しとなった。</description>
-      <pubDate>Mon, 16 Nov 2026 06:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
