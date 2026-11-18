@@ -1,5 +1,13 @@
 [
   {
+    "title": "標的選定からわずか3時間で侵入、AIを悪用したサイバー攻撃にFBIが警告",
+    "link": "https://news.yahoo.co.jp/articles/6dbeaf1ed94644f972e3af530662ed495c080ec7",
+    "description": "FBIがAIを悪用したサイバー攻撃について警告した。標的選定から約3時間で侵入された例があるという。",
+    "source": "CNET Japan（Yahoo!ニュース）",
+    "published": null,
+    "fetched_at": "2026-11-18T06:02:12.766310+00:00"
+  },
+  {
     "title": "NVIDIAファン氏復帰の奇策、OpenAI再現狙う トランプ氏「構わない」",
     "link": "https://nikkei.com/article/DGXZQOGN16BA90W6A111C2000000",
     "description": "NVIDIAのファンCEO辞任を受け、復帰を巡る動きとトランプ大統領の発言を伝える。",
@@ -94,29 +102,5 @@
     "source": "AI Watch",
     "published": null,
     "fetched_at": "2026-11-16T06:02:28.601196+00:00"
-  },
-  {
-    "title": "NVIDIAジェンスン・フアン氏がCEO辞任",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2156075.html",
-    "description": "NVIDIAは創業者のジェンスン・フアン氏が社長・CEO・取締役を即日辞任したと発表した。",
-    "source": "PC Watch",
-    "published": null,
-    "fetched_at": "2026-11-16T00:02:43.214678+00:00"
-  },
-  {
-    "title": "NVIDIA、ファン氏事実上解任で幕引き急ぐ クレス暫定CEOで後任探し",
-    "link": "https://www.nikkei.com/article/DGXZQOGN12CMY0S6A111C2000000/",
-    "description": "NVIDIAはコレット・クレスCFOを暫定CEOとし、後任探しを進める。取締役会が辞任の経緯を重く見たと報じられた。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-16T00:02:43.214678+00:00"
-  },
-  {
-    "title": "半導体やAI関連株の底堅さを見極め／東京株オープニングコメント",
-    "link": "https://zaikei.co.jp/article/20261116/877674.html",
-    "description": "16日の東京株式市場は半導体・AI関連株の底堅さを見極めつつ、内需系への資金シフトが意識される見通し。",
-    "source": "財経新聞",
-    "published": null,
-    "fetched_at": "2026-11-16T00:02:43.214678+00:00"
   }
 ]

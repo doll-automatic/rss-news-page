@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 00:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:02:12 +0000</lastBuildDate>
+    <item>
+      <title>標的選定からわずか3時間で侵入、AIを悪用したサイバー攻撃にFBIが警告</title>
+      <link>https://news.yahoo.co.jp/articles/6dbeaf1ed94644f972e3af530662ed495c080ec7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6dbeaf1ed94644f972e3af530662ed495c080ec7</guid>
+      <description>【CNET Japan（Yahoo!ニュース）】FBIがAIを悪用したサイバー攻撃について警告した。標的選定から約3時間で侵入された例があるという。</description>
+      <pubDate>Wed, 18 Nov 2026 06:02:12 +0000</pubDate>
+    </item>
     <item>
       <title>NVIDIAファン氏復帰の奇策、OpenAI再現狙う トランプ氏「構わない」</title>
       <link>https://nikkei.com/article/DGXZQOGN16BA90W6A111C2000000</link>
@@ -89,27 +96,6 @@
       <guid isPermaLink="true">https://ai.watch.impress.co.jp/docs/news/2156713.html</guid>
       <description>【AI Watch】NTTがソブリン型AIを使ってソフトウェアの脆弱性解析を高度化する新技術を開発した。</description>
       <pubDate>Mon, 16 Nov 2026 06:02:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIAジェンスン・フアン氏がCEO辞任</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2156075.html</link>
-      <guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2156075.html</guid>
-      <description>【PC Watch】NVIDIAは創業者のジェンスン・フアン氏が社長・CEO・取締役を即日辞任したと発表した。</description>
-      <pubDate>Mon, 16 Nov 2026 00:02:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA、ファン氏事実上解任で幕引き急ぐ クレス暫定CEOで後任探し</title>
-      <link>https://www.nikkei.com/article/DGXZQOGN12CMY0S6A111C2000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN12CMY0S6A111C2000000/</guid>
-      <description>【日本経済新聞】NVIDIAはコレット・クレスCFOを暫定CEOとし、後任探しを進める。取締役会が辞任の経緯を重く見たと報じられた。</description>
-      <pubDate>Mon, 16 Nov 2026 00:02:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>半導体やAI関連株の底堅さを見極め／東京株オープニングコメント</title>
-      <link>https://zaikei.co.jp/article/20261116/877674.html</link>
-      <guid isPermaLink="true">https://zaikei.co.jp/article/20261116/877674.html</guid>
-      <description>【財経新聞】16日の東京株式市場は半導体・AI関連株の底堅さを見極めつつ、内需系への資金シフトが意識される見通し。</description>
-      <pubDate>Mon, 16 Nov 2026 00:02:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
