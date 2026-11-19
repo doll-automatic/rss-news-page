@@ -1,5 +1,21 @@
 [
   {
+    "title": "NVIDIA、先端AI半導体の中国輸出停止 暫定CEOが言及",
+    "link": "https://nikkei.com/article/DGXZQOGN182B70Y6A111C2000000",
+    "description": "NVIDIAの暫定CEOが、先端AI半導体の中国向け輸出を停止したと言及した。",
+    "source": "日本経済新聞",
+    "published": null,
+    "fetched_at": "2026-11-19T00:02:00.356384+00:00"
+  },
+  {
+    "title": "米政府、AI半導体に対する輸出規制の「抜け穴」を埋める新規則を発表",
+    "link": "https://news.yahoo.co.jp/articles/b90cda80af888d2577baa716207913ed4c617905",
+    "description": "米政府が第三国経由でのAI半導体の中国流入を防ぐ新たな輸出規制の規則を発表した。",
+    "source": "Forbes JAPAN / Yahoo!ニュース",
+    "published": null,
+    "fetched_at": "2026-11-19T00:02:00.356384+00:00"
+  },
+  {
     "title": "米グーグルが日本に先端の防御AI提供",
     "link": "https://news.yahoo.co.jp/articles/6f9db4edb9e46a51614f09e2ab3ed0d75a84d5ac",
     "description": "グーグルは17日、サイバー攻撃への対応力強化のため、防御性能の高い先端AIを日本の重要インフラ企業向けに提供すると発表した。",
@@ -70,37 +86,5 @@
     "source": "Investing.com",
     "published": null,
     "fetched_at": "2026-11-17T00:02:08.556239+00:00"
-  },
-  {
-    "title": "米政府、AI半導体に対する輸出規制の「抜け穴」を埋める新規則を発表",
-    "link": "https://forbesjapan.com/articles/detail/108357",
-    "description": "米商務省が、第三国経由で中国が先端AI半導体を入手する抜け穴を塞ぐ暫定規則を発表した。",
-    "source": "Forbes JAPAN",
-    "published": "2026-11-17T08:00:00+09:00",
-    "fetched_at": "2026-11-17T06:01:58.990107+00:00"
-  },
-  {
-    "title": "米国、先端ＡＩ半導体への遠隔アクセスを制限 輸出規制の迂回防止",
-    "link": "https://fx.minkabu.jp/news/384576",
-    "description": "米商務省が先端AI半導体への遠隔アクセスを制限する暫定規則を発表。第三国のデータセンター経由の迂回を防ぐ狙い。",
-    "source": "みんかぶFX",
-    "published": null,
-    "fetched_at": "2026-11-16T18:02:26.975545+00:00"
-  },
-  {
-    "title": "【速報】米商務省、データセンター事業者に先端AI半導体購入時の米政府認可を義務付け",
-    "link": "https://zai.diamond.jp/articles/-/499115",
-    "description": "米商務省は、データセンター事業者が米国メーカーから先端AI半導体を購入する際、米政府の認可取得を義務付けると発表した。",
-    "source": "ダイヤモンド・オンライン",
-    "published": null,
-    "fetched_at": "2026-11-16T18:02:26.975545+00:00"
-  },
-  {
-    "title": "次世代半導体向けで注目の酸化ガリウム、埼玉発で世界へ 電力ロス大幅低減でAI需要狙う",
-    "link": "https://itmedia.co.jp/news/article/2611/16/2000003231",
-    "description": "電力ロスを大幅に減らせる酸化ガリウムを次世代半導体向けに展開し、AI需要を狙う埼玉の取り組みを紹介。",
-    "source": "ITmedia NEWS",
-    "published": null,
-    "fetched_at": "2026-11-16T18:02:26.975545+00:00"
   }
 ]

@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 18:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:02:00 +0000</lastBuildDate>
+    <item>
+      <title>熊本県で最大震度5弱 避難指示や一部通行止めも</title>
+      <link>https://news.ksb.co.jp/ann/article/17062755</link>
+      <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17062755</guid>
+      <description>【KSB瀬戸内海放送】19日未明、熊本県天草・芦北地方を震源とする地震で最大震度5弱を観測。水俣市などに避難指示が出て九州道が一部通行止めとなった。</description>
+      <pubDate>Thu, 19 Nov 2026 00:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>熊本・水俣市など震度5弱 九州道一部通行止め 1週間程度は同程度の地震に注意</title>
+      <link>https://news.yahoo.co.jp/articles/8585961759d6cdf109ee1d6cecc51377cedbd42c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8585961759d6cdf109ee1d6cecc51377cedbd42c</guid>
+      <description>【熊本日日新聞 / Yahoo!ニュース】M5.7の地震で、気象庁は1週間程度は同程度の地震に注意するよう呼びかけた。</description>
+      <pubDate>Thu, 19 Nov 2026 00:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>新給付の対象「年収下限は56万円程度」案 政府・与党が公明に提示</title>
+      <link>https://www.nikkei.com/article/DGXZQOUA18BDI0Y6A111C2000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA18BDI0Y6A111C2000000/</guid>
+      <description>【日本経済新聞】消費減税に合わせた新給付の対象年収下限を56万円程度とする案を政府・与党が公明党に示した。</description>
+      <pubDate>Thu, 19 Nov 2026 00:02:00 +0000</pubDate>
+    </item>
     <item>
       <title>顔や体に数十カ所のあざ 伊丹市の自宅で3歳の娘暴行し死亡させたか 父親逮捕</title>
       <link>https://www.sun-tv.co.jp/suntvnews/news/2026/11/18/97955/</link>
@@ -89,34 +110,6 @@
       <guid isPermaLink="true">https://news.infoseek.co.jp/article/jiji_2026111700468/</guid>
       <description>【時事通信】藤井総務相が閣議後会見で、今月3度目となるドコモの通信障害に遺憾を示し、根本原因の究明を求めた。</description>
       <pubDate>Tue, 17 Nov 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>今日11月17日(火)の天気予報 西日本・東日本は天気下り坂 昼間も肌寒い</title>
-      <link>https://weathernews.jp/news/202611/170021</link>
-      <guid isPermaLink="true">https://weathernews.jp/news/202611/170021</guid>
-      <description>【ウェザーニュース】17日は西日本・東日本で天気が下り坂となり、関東は気温が大幅に低下。関東では夜遅くに激しい雨にも注意が必要。</description>
-      <pubDate>Mon, 16 Nov 2026 21:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【速報】茨城・かすみがうら市の常磐道で7台絡む多重事故 十数人がけがとの情報</title>
-      <link>https://news.ksb.co.jp/ann/article/17052803</link>
-      <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17052803</guid>
-      <description>【テレビ朝日系（ANN）】茨城県かすみがうら市の常磐道で7台が絡む多重事故があり、十数人がけがをしたとの情報。消防が対応。</description>
-      <pubDate>Mon, 16 Nov 2026 18:02:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【続報】踏切で列車と軽乗用車が衝突し火災 車内から1人の遺体 島根県出雲市</title>
-      <link>https://news.yahoo.co.jp/articles/675e599c351f1fc90d8b6f63a0f656d30dc7054d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/675e599c351f1fc90d8b6f63a0f656d30dc7054d</guid>
-      <description>【日本海テレビ】島根県出雲市のJR山陰線の踏切で列車と軽乗用車が衝突し火災が発生。車内から性別不明の1人の遺体が見つかった。</description>
-      <pubDate>Mon, 16 Nov 2026 18:02:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>3年前の大雨で被災後に死亡の70代男性、災害関連死と認定 秋田市</title>
-      <link>https://news.yahoo.co.jp/articles/60032818614f221ae4c5ccf24f9377bca4993af2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/60032818614f221ae4c5ccf24f9377bca4993af2</guid>
-      <description>【ABS秋田放送】秋田市は3年前の大雨で被災しその後死亡した70代男性を災害関連死と認定。認定は合わせて8人となった。</description>
-      <pubDate>Mon, 16 Nov 2026 18:02:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

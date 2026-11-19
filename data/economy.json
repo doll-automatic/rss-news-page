@@ -1,5 +1,21 @@
 [
   {
+    "title": "11/19の強弱材料",
+    "link": "https://www.zaikei.co.jp/article/20261119/878312.html",
+    "description": "11月19日の日本株市場の強弱材料をまとめた記事。前日の日経平均は59,024円で上昇した。",
+    "source": "財経新聞",
+    "published": null,
+    "fetched_at": "2026-11-19T00:02:00.356384+00:00"
+  },
+  {
+    "title": "本日の決算発表予定 東京海上、ＭＳ＆ＡＤ、ＳＯＭＰＯなど（11月19日）",
+    "link": "https://finance.yahoo.co.jp/news/detail/37abd2f7f0a0146d8dcdb6c45f0bf6124a6a0bb7",
+    "description": "11月19日は大手損保など保険株を中心に決算発表が予定されている。",
+    "source": "株探ニュース / Yahoo!ファイナンス",
+    "published": null,
+    "fetched_at": "2026-11-19T00:02:00.356384+00:00"
+  },
+  {
     "title": "欧州主要株式指数、続落",
     "link": "https://zai.diamond.jp/articles/-/499295",
     "description": "欧州主要株式指数は続落。FRB理事の利上げ支持発言などが重しとなった。",
@@ -190,21 +206,5 @@
     "source": "株探ニュース",
     "published": null,
     "fetched_at": "2026-11-17T00:02:08.556239+00:00"
-  },
-  {
-    "title": "日経平均は大幅反落、終値で６万円割れ＝１６日大引け",
-    "link": "https://finance.yahoo.co.jp/news/detail/6189337debf2ca5512049f354e825106179e60bc",
-    "description": "日経平均は前週末比1480円安の5万9662円で取引を終え、終値で6万円を下回った。AI・半導体株の売りが主導。",
-    "source": "ウエルスアドバイザー",
-    "published": null,
-    "fetched_at": "2026-11-16T18:02:26.975545+00:00"
-  },
-  {
-    "title": "日経平均は6万円を割り込む1,480円安で反落 今週はエヌビディア決算に注目",
-    "link": "https://media.monex.co.jp/articles/-/30520",
-    "description": "日経平均は59,662円で反落。今週はエヌビディアの決算発表などが市場の注目材料となる。",
-    "source": "マネックス証券",
-    "published": null,
-    "fetched_at": "2026-11-16T18:02:26.975545+00:00"
   }
 ]

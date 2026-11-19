@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 18:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:02:00 +0000</lastBuildDate>
+    <item>
+      <title>NVIDIA、先端AI半導体の中国輸出停止 暫定CEOが言及</title>
+      <link>https://nikkei.com/article/DGXZQOGN182B70Y6A111C2000000</link>
+      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOGN182B70Y6A111C2000000</guid>
+      <description>【日本経済新聞】NVIDIAの暫定CEOが、先端AI半導体の中国向け輸出を停止したと言及した。</description>
+      <pubDate>Thu, 19 Nov 2026 00:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>米政府、AI半導体に対する輸出規制の「抜け穴」を埋める新規則を発表</title>
+      <link>https://news.yahoo.co.jp/articles/b90cda80af888d2577baa716207913ed4c617905</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b90cda80af888d2577baa716207913ed4c617905</guid>
+      <description>【Forbes JAPAN / Yahoo!ニュース】米政府が第三国経由でのAI半導体の中国流入を防ぐ新たな輸出規制の規則を発表した。</description>
+      <pubDate>Thu, 19 Nov 2026 00:02:00 +0000</pubDate>
+    </item>
     <item>
       <title>米グーグルが日本に先端の防御AI提供</title>
       <link>https://news.yahoo.co.jp/articles/6f9db4edb9e46a51614f09e2ab3ed0d75a84d5ac</link>
@@ -68,34 +82,6 @@
       <guid isPermaLink="true">https://jp.investing.com/news/forex-news/article-1759655</guid>
       <description>【Investing.com】米国株式市場でAI関連規制の強化や銀行株が重しとなり、NYダウが大幅下落した。エヌビディア経営を巡る報道も嫌気された。</description>
       <pubDate>Tue, 17 Nov 2026 00:02:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>米政府、AI半導体に対する輸出規制の「抜け穴」を埋める新規則を発表</title>
-      <link>https://forbesjapan.com/articles/detail/108357</link>
-      <guid isPermaLink="true">https://forbesjapan.com/articles/detail/108357</guid>
-      <description>【Forbes JAPAN】米商務省が、第三国経由で中国が先端AI半導体を入手する抜け穴を塞ぐ暫定規則を発表した。</description>
-      <pubDate>Mon, 16 Nov 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>米国、先端ＡＩ半導体への遠隔アクセスを制限 輸出規制の迂回防止</title>
-      <link>https://fx.minkabu.jp/news/384576</link>
-      <guid isPermaLink="true">https://fx.minkabu.jp/news/384576</guid>
-      <description>【みんかぶFX】米商務省が先端AI半導体への遠隔アクセスを制限する暫定規則を発表。第三国のデータセンター経由の迂回を防ぐ狙い。</description>
-      <pubDate>Mon, 16 Nov 2026 18:02:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>【速報】米商務省、データセンター事業者に先端AI半導体購入時の米政府認可を義務付け</title>
-      <link>https://zai.diamond.jp/articles/-/499115</link>
-      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499115</guid>
-      <description>【ダイヤモンド・オンライン】米商務省は、データセンター事業者が米国メーカーから先端AI半導体を購入する際、米政府の認可取得を義務付けると発表した。</description>
-      <pubDate>Mon, 16 Nov 2026 18:02:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>次世代半導体向けで注目の酸化ガリウム、埼玉発で世界へ 電力ロス大幅低減でAI需要狙う</title>
-      <link>https://itmedia.co.jp/news/article/2611/16/2000003231</link>
-      <guid isPermaLink="true">https://itmedia.co.jp/news/article/2611/16/2000003231</guid>
-      <description>【ITmedia NEWS】電力ロスを大幅に減らせる酸化ガリウムを次世代半導体向けに展開し、AI需要を狙う埼玉の取り組みを紹介。</description>
-      <pubDate>Mon, 16 Nov 2026 18:02:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

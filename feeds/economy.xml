@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 18:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:02:00 +0000</lastBuildDate>
+    <item>
+      <title>11/19の強弱材料</title>
+      <link>https://www.zaikei.co.jp/article/20261119/878312.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261119/878312.html</guid>
+      <description>【財経新聞】11月19日の日本株市場の強弱材料をまとめた記事。前日の日経平均は59,024円で上昇した。</description>
+      <pubDate>Thu, 19 Nov 2026 00:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>本日の決算発表予定 東京海上、ＭＳ＆ＡＤ、ＳＯＭＰＯなど（11月19日）</title>
+      <link>https://finance.yahoo.co.jp/news/detail/37abd2f7f0a0146d8dcdb6c45f0bf6124a6a0bb7</link>
+      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/37abd2f7f0a0146d8dcdb6c45f0bf6124a6a0bb7</guid>
+      <description>【株探ニュース / Yahoo!ファイナンス】11月19日は大手損保など保険株を中心に決算発表が予定されている。</description>
+      <pubDate>Thu, 19 Nov 2026 00:02:00 +0000</pubDate>
+    </item>
     <item>
       <title>欧州主要株式指数、続落</title>
       <link>https://zai.diamond.jp/articles/-/499295</link>
@@ -173,20 +187,6 @@
       <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/21854fce1b78583c5ae050fae0963c3f1ef27f23</guid>
       <description>【株探ニュース】日経平均株価の下げ幅が1000円を超え、AI・半導体関連株を中心に売りが広がった。</description>
       <pubDate>Tue, 17 Nov 2026 00:02:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は大幅反落、終値で６万円割れ＝１６日大引け</title>
-      <link>https://finance.yahoo.co.jp/news/detail/6189337debf2ca5512049f354e825106179e60bc</link>
-      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/6189337debf2ca5512049f354e825106179e60bc</guid>
-      <description>【ウエルスアドバイザー】日経平均は前週末比1480円安の5万9662円で取引を終え、終値で6万円を下回った。AI・半導体株の売りが主導。</description>
-      <pubDate>Mon, 16 Nov 2026 18:02:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は6万円を割り込む1,480円安で反落 今週はエヌビディア決算に注目</title>
-      <link>https://media.monex.co.jp/articles/-/30520</link>
-      <guid isPermaLink="true">https://media.monex.co.jp/articles/-/30520</guid>
-      <description>【マネックス証券】日経平均は59,662円で反落。今週はエヌビディアの決算発表などが市場の注目材料となる。</description>
-      <pubDate>Mon, 16 Nov 2026 18:02:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
