@@ -1,5 +1,21 @@
 [
   {
+    "title": "日経平均は続伸、上げ幅一時６００円超＝１９日前場",
+    "link": "https://finance.yahoo.co.jp/news/detail/99e40b1594a4d76e422ca13165feb0ea02984000",
+    "description": "19日前場の日経平均は続伸し、一時600円超上昇した。",
+    "source": "ウエルスアドバイザー",
+    "published": null,
+    "fetched_at": "2026-11-19T06:02:04.531667+00:00"
+  },
+  {
+    "title": "後場の日経平均は70円安でスタート、JX金属や古河電工などが下落",
+    "link": "https://www.zaikei.co.jp/article/20261119/878405.html",
+    "description": "後場の日経平均は前日比70.85円安の58,953円で始まり、JX金属や古河電工などが下落した。",
+    "source": "財経新聞",
+    "published": null,
+    "fetched_at": "2026-11-19T06:02:04.531667+00:00"
+  },
+  {
     "title": "11/19の強弱材料",
     "link": "https://www.zaikei.co.jp/article/20261119/878312.html",
     "description": "11月19日の日本株市場の強弱材料をまとめた記事。前日の日経平均は59,024円で上昇した。",
@@ -166,45 +182,5 @@
     "source": "みんかぶFX",
     "published": null,
     "fetched_at": "2026-11-17T12:02:18.553009+00:00"
-  },
-  {
-    "title": "日経平均は大幅続落、アドバンテストが1銘柄で約366円分押し下げ",
-    "link": "https://jp.investing.com/news/stock-market-news/article-1759885",
-    "description": "米のAI半導体輸出規制強化を受け、日経平均は大幅続落。アドバンテストが指数を大きく押し下げた。",
-    "source": "Fisco/Investing.com",
-    "published": null,
-    "fetched_at": "2026-11-17T06:01:58.990107+00:00"
-  },
-  {
-    "title": "外為12時 円相場、上昇 159円台前半 日米株安で",
-    "link": "https://www.nikkei.com/article/DGXZQOFL172QU0X11C26A1000000/",
-    "description": "日米株安によるリスク回避の円買いで、円相場は1ドル=159円台前半に上昇した。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-17T06:01:58.990107+00:00"
-  },
-  {
-    "title": "日経平均は366円安でスタート、アドバンテストや三井住友などが下落",
-    "link": "https://www.zaikei.co.jp/article/20261117/877929.html",
-    "description": "17日の東京株式市場は前日の米株安を受け、日経平均が366円安で寄り付いた。",
-    "source": "財経新聞",
-    "published": null,
-    "fetched_at": "2026-11-17T06:01:58.990107+00:00"
-  },
-  {
-    "title": "後場の日経平均は515円安でスタート、イビデンや古河電工などが下落",
-    "link": "https://s.minkabu.jp/news/4667057",
-    "description": "後場の日経平均は515円安で始まり、イビデンや古河電工などが下落した。",
-    "source": "みんかぶ",
-    "published": "2026-11-17T13:00:00+09:00",
-    "fetched_at": "2026-11-17T18:02:15.322462+00:00"
-  },
-  {
-    "title": "日経平均の下げ幅が1000円を超える",
-    "link": "https://finance.yahoo.co.jp/news/detail/21854fce1b78583c5ae050fae0963c3f1ef27f23",
-    "description": "日経平均株価の下げ幅が1000円を超え、AI・半導体関連株を中心に売りが広がった。",
-    "source": "株探ニュース",
-    "published": null,
-    "fetched_at": "2026-11-17T00:02:08.556239+00:00"
   }
 ]

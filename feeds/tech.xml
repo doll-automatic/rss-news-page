@@ -5,7 +5,35 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 00:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:02:04 +0000</lastBuildDate>
+    <item>
+      <title>Google、「Gemini 4 Neon」を発表 ～「Claude Opus 5.5」「GPT-6.2 Sol」のライバル</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2157693.html</link>
+      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157693.html</guid>
+      <description>【窓の杜】GoogleがAIモデル「Gemini 4 Neon」を発表。高い推論力と速度を両立し、サイバー向け版も近く提供予定。</description>
+      <pubDate>Thu, 19 Nov 2026 06:02:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Googleが「Gemini 4 Neon」を発表、最先端の推論能力と高速・低コストな処理を両立しコーディング性能で世界トップに</title>
+      <link>https://gigazine.net/news/20261119-google-gemini-4-neon/</link>
+      <guid isPermaLink="true">https://gigazine.net/news/20261119-google-gemini-4-neon/</guid>
+      <description>【GIGAZINE】Gemini 4 Neonは100万トークンの文脈を持ち、API料金は入力100万トークンあたり3ドル、出力15ドル。</description>
+      <pubDate>Thu, 19 Nov 2026 06:02:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google、わずか2カ月で4つ目のモデル公開「Gemini 4 Neon」 一部「Fable同等」性能をコスト半分で</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2611/19/2000003322/</link>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2611/19/2000003322/</guid>
+      <description>【ITmedia AI＋】Googleが2カ月で4つ目となるGeminiモデルを公開。一部の性能で他社上位モデルと同等をコスト半分で実現するとしている。</description>
+      <pubDate>Thu, 19 Nov 2026 06:02:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabsが日本のスタートアップ・Kotobaを約159億円で買収へ。日本語の音声AI開発を加速</title>
+      <link>https://www.businessinsider.jp/article/2611-elevenlabs-acquires-kotoba-technologies/</link>
+      <guid isPermaLink="true">https://www.businessinsider.jp/article/2611-elevenlabs-acquires-kotoba-technologies/</guid>
+      <description>【BUSINESS INSIDER JAPAN】音声AI大手ElevenLabsが、日本語音声AIのKotoba Technologiesを約1億ドルで買収することで合意。東京を研究拠点にする。</description>
+      <pubDate>Thu, 19 Nov 2026 06:02:04 +0000</pubDate>
+    </item>
     <item>
       <title>NVIDIA、先端AI半導体の中国輸出停止 暫定CEOが言及</title>
       <link>https://nikkei.com/article/DGXZQOGN182B70Y6A111C2000000</link>
@@ -61,27 +89,6 @@
       <guid isPermaLink="true">https://nikkei.com/article/DGXZQOGN167260W6A111C2000000</guid>
       <description>【日本経済新聞】米Googleが、AIが脆弱性の特定から攻撃実行まで人の介入なしで完結させた事例を初めて確認したと発表した。</description>
       <pubDate>Tue, 17 Nov 2026 12:02:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>米商務省、先端半導体の「迂回輸出」規制 NVIDIA疑惑に対応</title>
-      <link>https://nikkei.com/article/DGXZQOGN16AYX0W6A111C2000000</link>
-      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOGN16AYX0W6A111C2000000</guid>
-      <description>【日本経済新聞】米商務省が先端半導体の迂回輸出を規制する規則を発表した。官報掲載時点で施行される。</description>
-      <pubDate>Tue, 17 Nov 2026 06:01:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIAファン氏退任、米中のAI断絶深まる 中国は半導体の自給急ぐ</title>
-      <link>https://www.nikkei.com/article/DGXZQOGM150YR0V11C26A1000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGM150YR0V11C26A1000000/</guid>
-      <description>【日本経済新聞】ファン氏のCEO退任を受け対中規制論が強まる一方、中国は国産AI半導体の開発を急いでいる。</description>
-      <pubDate>Tue, 17 Nov 2026 06:01:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>NY株式：739.38ドル安、AI規制強化や銀行が重し</title>
-      <link>https://jp.investing.com/news/forex-news/article-1759655</link>
-      <guid isPermaLink="true">https://jp.investing.com/news/forex-news/article-1759655</guid>
-      <description>【Investing.com】米国株式市場でAI関連規制の強化や銀行株が重しとなり、NYダウが大幅下落した。エヌビディア経営を巡る報道も嫌気された。</description>
-      <pubDate>Tue, 17 Nov 2026 00:02:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

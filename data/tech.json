@@ -1,5 +1,37 @@
 [
   {
+    "title": "Google、「Gemini 4 Neon」を発表 ～「Claude Opus 5.5」「GPT-6.2 Sol」のライバル",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2157693.html",
+    "description": "GoogleがAIモデル「Gemini 4 Neon」を発表。高い推論力と速度を両立し、サイバー向け版も近く提供予定。",
+    "source": "窓の杜",
+    "published": null,
+    "fetched_at": "2026-11-19T06:02:04.531667+00:00"
+  },
+  {
+    "title": "Googleが「Gemini 4 Neon」を発表、最先端の推論能力と高速・低コストな処理を両立しコーディング性能で世界トップに",
+    "link": "https://gigazine.net/news/20261119-google-gemini-4-neon/",
+    "description": "Gemini 4 Neonは100万トークンの文脈を持ち、API料金は入力100万トークンあたり3ドル、出力15ドル。",
+    "source": "GIGAZINE",
+    "published": null,
+    "fetched_at": "2026-11-19T06:02:04.531667+00:00"
+  },
+  {
+    "title": "Google、わずか2カ月で4つ目のモデル公開「Gemini 4 Neon」 一部「Fable同等」性能をコスト半分で",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003322/",
+    "description": "Googleが2カ月で4つ目となるGeminiモデルを公開。一部の性能で他社上位モデルと同等をコスト半分で実現するとしている。",
+    "source": "ITmedia AI＋",
+    "published": null,
+    "fetched_at": "2026-11-19T06:02:04.531667+00:00"
+  },
+  {
+    "title": "ElevenLabsが日本のスタートアップ・Kotobaを約159億円で買収へ。日本語の音声AI開発を加速",
+    "link": "https://www.businessinsider.jp/article/2611-elevenlabs-acquires-kotoba-technologies/",
+    "description": "音声AI大手ElevenLabsが、日本語音声AIのKotoba Technologiesを約1億ドルで買収することで合意。東京を研究拠点にする。",
+    "source": "BUSINESS INSIDER JAPAN",
+    "published": null,
+    "fetched_at": "2026-11-19T06:02:04.531667+00:00"
+  },
+  {
     "title": "NVIDIA、先端AI半導体の中国輸出停止 暫定CEOが言及",
     "link": "https://nikkei.com/article/DGXZQOGN182B70Y6A111C2000000",
     "description": "NVIDIAの暫定CEOが、先端AI半導体の中国向け輸出を停止したと言及した。",
@@ -62,29 +94,5 @@
     "source": "日本経済新聞",
     "published": null,
     "fetched_at": "2026-11-17T12:02:18.553009+00:00"
-  },
-  {
-    "title": "米商務省、先端半導体の「迂回輸出」規制 NVIDIA疑惑に対応",
-    "link": "https://nikkei.com/article/DGXZQOGN16AYX0W6A111C2000000",
-    "description": "米商務省が先端半導体の迂回輸出を規制する規則を発表した。官報掲載時点で施行される。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-17T06:01:58.990107+00:00"
-  },
-  {
-    "title": "NVIDIAファン氏退任、米中のAI断絶深まる 中国は半導体の自給急ぐ",
-    "link": "https://www.nikkei.com/article/DGXZQOGM150YR0V11C26A1000000/",
-    "description": "ファン氏のCEO退任を受け対中規制論が強まる一方、中国は国産AI半導体の開発を急いでいる。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-17T06:01:58.990107+00:00"
-  },
-  {
-    "title": "NY株式：739.38ドル安、AI規制強化や銀行が重し",
-    "link": "https://jp.investing.com/news/forex-news/article-1759655",
-    "description": "米国株式市場でAI関連規制の強化や銀行株が重しとなり、NYダウが大幅下落した。エヌビディア経営を巡る報道も嫌気された。",
-    "source": "Investing.com",
-    "published": null,
-    "fetched_at": "2026-11-17T00:02:08.556239+00:00"
   }
 ]
