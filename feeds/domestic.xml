@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 06:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:02:17 +0000</lastBuildDate>
+    <item>
+      <title>戦車砲弾破裂、装着バンド原因 高温で残存、接触し爆発 大分演習場4人死傷・陸自</title>
+      <link>https://www.jiji.com/jc/article?k=2026111900637&amp;g=soc&amp;m=rss</link>
+      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026111900637&amp;g=soc&amp;m=rss</guid>
+      <description>【時事通信】陸自は大分・日出生台演習場の戦車事故について、直前の砲弾のバンドが高温で残り次の砲弾と接触して爆発したと公表した。</description>
+      <pubDate>Thu, 19 Nov 2026 12:02:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>4人死傷の戦車事故 原因は“砲弾の破片の燃えかす” 陸上自衛隊が調査結果を発表</title>
+      <link>https://news.yahoo.co.jp/articles/6e25b90ed6193e1700c6705c9ab18133f24c83df</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6e25b90ed6193e1700c6705c9ab18133f24c83df</guid>
+      <description>【TOSテレビ大分】陸上自衛隊は大分・日出生台演習場での戦車事故の調査結果を発表した。</description>
+      <pubDate>Thu, 19 Nov 2026 12:02:17 +0000</pubDate>
+    </item>
     <item>
       <title>熊本・水俣市など震度5弱 1週間程度は同程度の地震に注意 九州道は昼過ぎ通行止め解除へ</title>
       <link>https://kumanichi.com/articles/2059521</link>
@@ -103,13 +117,6 @@
       <guid isPermaLink="true">https://news.infoseek.co.jp/article/knb_2026111707495363</guid>
       <description>【Infoseekニュース】暴力団にみかじめ料を渡したとして、富山市の飲食店経営の男が逮捕された。</description>
       <pubDate>Tue, 17 Nov 2026 12:02:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>玉木氏「たたき売り」と批判＝消費減税、支援金拡大に反対</title>
-      <link>https://news.infoseek.co.jp/article/jiji_2026111700659/</link>
-      <guid isPermaLink="true">https://news.infoseek.co.jp/article/jiji_2026111700659/</guid>
-      <description>【時事通信】国民民主党の玉木代表が、消費減税に伴う支援金の対象拡大を「たたき売り」と批判し反対した。</description>
-      <pubDate>Tue, 17 Nov 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

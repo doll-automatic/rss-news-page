@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 06:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:02:17 +0000</lastBuildDate>
+    <item>
+      <title>アンソロピック、IPO公開価格83ドルに引き上げ 評価額は1.5兆ドル</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN18CWP0Y6A111C2000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN18CWP0Y6A111C2000000/</guid>
+      <description>【日本経済新聞】アンソロピックはナスダック上場に向け、公開価格を1株83ドルに引き上げた。評価額は約1.5兆ドルとなる。</description>
+      <pubDate>Thu, 19 Nov 2026 12:02:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>アンソロピックIPO、公開価格が1株83ドルに決定 調達額はスペースXを上回る可能性</title>
+      <link>https://forbesjapan.com/articles/detail/108504</link>
+      <guid isPermaLink="true">https://forbesjapan.com/articles/detail/108504</guid>
+      <description>【Forbes JAPAN】アンソロピックのIPO公開価格が83ドルに決定した。調達額は過去最大級になる可能性がある。</description>
+      <pubDate>Thu, 19 Nov 2026 12:02:17 +0000</pubDate>
+    </item>
     <item>
       <title>Google、「Gemini 4 Neon」を発表 ～「Claude Opus 5.5」「GPT-6.2 Sol」のライバル</title>
       <link>https://forest.watch.impress.co.jp/docs/news/2157693.html</link>
