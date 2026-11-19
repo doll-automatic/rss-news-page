@@ -94,21 +94,5 @@
     "source": "CNET Japan（Yahoo!ニュース）",
     "published": null,
     "fetched_at": "2026-11-18T06:02:12.766310+00:00"
-  },
-  {
-    "title": "NVIDIAファン氏復帰の奇策、OpenAI再現狙う トランプ氏「構わない」",
-    "link": "https://nikkei.com/article/DGXZQOGN16BA90W6A111C2000000",
-    "description": "NVIDIAのファンCEO辞任を受け、復帰を巡る動きとトランプ大統領の発言を伝える。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-17T18:02:15.322462+00:00"
-  },
-  {
-    "title": "AIが全自動サイバー攻撃、Googleが観測 無料ツールを悪用",
-    "link": "https://nikkei.com/article/DGXZQOGN167260W6A111C2000000",
-    "description": "米Googleが、AIが脆弱性の特定から攻撃実行まで人の介入なしで完結させた事例を初めて確認したと発表した。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-17T12:02:18.553009+00:00"
   }
 ]

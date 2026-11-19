@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 12:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 18:02:24 +0000</lastBuildDate>
+    <item>
+      <title>立民、公明で献金規制法案提出へ 参院、国民との協議不調</title>
+      <link>https://www.excite.co.jp/news/article/Kyodo_1496120078230913722/</link>
+      <guid isPermaLink="true">https://www.excite.co.jp/news/article/Kyodo_1496120078230913722/</guid>
+      <description>【共同通信(エキサイトニュース)】立憲民主・公明両党が企業・団体献金の規制を強化する政治資金規正法改正案を参院に共同提出する方向で調整。国民民主との協議は不調に終わった。</description>
+      <pubDate>Thu, 19 Nov 2026 18:02:24 +0000</pubDate>
+    </item>
     <item>
       <title>戦車砲弾破裂、装着バンド原因 高温で残存、接触し爆発 大分演習場4人死傷・陸自</title>
       <link>https://www.jiji.com/jc/article?k=2026111900637&amp;g=soc&amp;m=rss</link>
@@ -96,27 +103,6 @@
       <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUD080Y60Y6A101C2000000/</guid>
       <description>【日本経済新聞】最高裁大法廷は、受刑者の選挙権を一律に認めない公職選挙法の規定を合憲とする初判断を示した。</description>
       <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>渋滞で低速走行中の車に後ろから追突…車3台の玉突き事故 70代男性が死亡 大阪・富田林市</title>
-      <link>https://news.yahoo.co.jp/articles/fed5c2b114c2eda0d13e979895dea3b2d7d8b03e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fed5c2b114c2eda0d13e979895dea3b2d7d8b03e</guid>
-      <description>【関西テレビ】大阪府富田林市で3台の玉突き事故があり、最後尾の車を運転していた70代男性が死亡、2人が軽傷。</description>
-      <pubDate>Tue, 17 Nov 2026 18:02:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>関文科相、議員会館パーティーで集中砲火 「政官財の癒着」「これはアウト」</title>
-      <link>https://news.yahoo.co.jp/articles/c89b516c2765606dd0014584fbccafbc09fbdff3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c89b516c2765606dd0014584fbccafbc09fbdff3</guid>
-      <description>【J-CASTニュース】関文科相が議員会館で政治資金パーティーを開いたことに野党が反発。大臣は辞任を否定している。</description>
-      <pubDate>Tue, 17 Nov 2026 12:02:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>暴力団にみかじめ料 飲食店経営の男逮捕 富山市桜木町</title>
-      <link>https://news.infoseek.co.jp/article/knb_2026111707495363</link>
-      <guid isPermaLink="true">https://news.infoseek.co.jp/article/knb_2026111707495363</guid>
-      <description>【Infoseekニュース】暴力団にみかじめ料を渡したとして、富山市の飲食店経営の男が逮捕された。</description>
-      <pubDate>Tue, 17 Nov 2026 12:02:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

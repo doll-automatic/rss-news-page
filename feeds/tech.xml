@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 12:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 18:02:24 +0000</lastBuildDate>
     <item>
       <title>アンソロピック、IPO公開価格83ドルに引き上げ 評価額は1.5兆ドル</title>
       <link>https://www.nikkei.com/article/DGXZQOGN18CWP0Y6A111C2000000/</link>
@@ -89,20 +89,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6dbeaf1ed94644f972e3af530662ed495c080ec7</guid>
       <description>【CNET Japan（Yahoo!ニュース）】FBIがAIを悪用したサイバー攻撃について警告した。標的選定から約3時間で侵入された例があるという。</description>
       <pubDate>Wed, 18 Nov 2026 06:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIAファン氏復帰の奇策、OpenAI再現狙う トランプ氏「構わない」</title>
-      <link>https://nikkei.com/article/DGXZQOGN16BA90W6A111C2000000</link>
-      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOGN16BA90W6A111C2000000</guid>
-      <description>【日本経済新聞】NVIDIAのファンCEO辞任を受け、復帰を巡る動きとトランプ大統領の発言を伝える。</description>
-      <pubDate>Tue, 17 Nov 2026 18:02:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIが全自動サイバー攻撃、Googleが観測 無料ツールを悪用</title>
-      <link>https://nikkei.com/article/DGXZQOGN167260W6A111C2000000</link>
-      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOGN167260W6A111C2000000</guid>
-      <description>【日本経済新聞】米Googleが、AIが脆弱性の特定から攻撃実行まで人の介入なしで完結させた事例を初めて確認したと発表した。</description>
-      <pubDate>Tue, 17 Nov 2026 12:02:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

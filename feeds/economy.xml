@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 12:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 18:02:24 +0000</lastBuildDate>
+    <item>
+      <title>日経平均は続伸、一時600円超高も上げ幅縮小＝19日大引け</title>
+      <link>https://finance.yahoo.co.jp/news/detail/b8cd27ce60060ea61c28b1ef82eaccc8be252b33</link>
+      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/b8cd27ce60060ea61c28b1ef82eaccc8be252b33</guid>
+      <description>【ウエルスアドバイザー(Yahoo!ファイナンス)】19日の日経平均は前日比419円93銭高の5万9444円21銭で大引け。一時600円超高となったが上げ幅を縮めた。</description>
+      <pubDate>Thu, 19 Nov 2026 18:02:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>外為12時 円相場、小幅安 159円台前半 日米金利差拡大を意識</title>
+      <link>https://www.nikkei.com/article/DGXZQOFL182UW0Y6A111C2000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOFL182UW0Y6A111C2000000/</guid>
+      <description>【日本経済新聞】19日正午の円相場は159円台前半で小幅安。日米金利差の拡大が意識された。</description>
+      <pubDate>Thu, 19 Nov 2026 18:02:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均「419.93円高」で続伸…アンソロピックIPOへの期待波及、指数を246円押し上げ【11月19日の国内株式市場概況】</title>
+      <link>https://news.yahoo.co.jp/articles/a048beec07a502137f2ec9dafab9a78a6b544425</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a048beec07a502137f2ec9dafab9a78a6b544425</guid>
+      <description>【THE GOLD ONLINE(Yahoo!ニュース)】米アンソロピックのIPO期待がAI関連株に波及し、日経平均を押し上げた。</description>
+      <pubDate>Thu, 19 Nov 2026 18:02:24 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均終値419円高 気迷い相場、アンソロピックIPOで打破なるか</title>
       <link>https://nikkei.com/article/DGXZQOUB190J8TZ11C26A1000000</link>
@@ -152,41 +173,6 @@
       <guid isPermaLink="true">https://fx.minkabu.jp/news/384733</guid>
       <description>【みんかぶ】NY市場でダウ平均が826ドル安、ナスダックは1.1%の大幅安となった。</description>
       <pubDate>Tue, 17 Nov 2026 19:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京為替：ドル・円は反落、午後は下落基調</title>
-      <link>https://kabutan.jp/news/marketnews/?b=n202611171236</link>
-      <guid isPermaLink="true">https://kabutan.jp/news/marketnews/?b=n202611171236</guid>
-      <description>【株探】ドル円は一時159円台後半まで上昇後に反落し、午後は下落基調となった。</description>
-      <pubDate>Tue, 17 Nov 2026 18:02:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>為替相場 18日（日本時間 3時）</title>
-      <link>https://www.chunichi.co.jp/article/1340941</link>
-      <guid isPermaLink="true">https://www.chunichi.co.jp/article/1340941</guid>
-      <description>【中日新聞】18日3時時点のドル円は1ドル=159円24～26銭で推移した。</description>
-      <pubDate>Tue, 17 Nov 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均、終値801円安 NVIDIA騒動に米半導体規制の二重苦</title>
-      <link>https://www.nikkei.com/article/DGXZQOUB170JMTX11C26A1000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB170JMTX11C26A1000000/</guid>
-      <description>【日本経済新聞】17日の東京株式市場で日経平均は続落し、終値は801円安の5万8860円。米のAI向け半導体の輸出規制強化が重荷となった。</description>
-      <pubDate>Tue, 17 Nov 2026 12:02:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は592円安、米エヌビディア決算や米経済指標などに関心</title>
-      <link>https://www.zaikei.co.jp/article/20261117/878026.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261117/878026.html</guid>
-      <description>【財経新聞】米エヌビディア決算や米経済指標への警戒から日経平均は下落した。</description>
-      <pubDate>Tue, 17 Nov 2026 12:02:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>円高の動き優勢、ドル円一時158円台 ドル買いは一服＝ロンドン為替概況</title>
-      <link>https://fx.minkabu.jp/news/384697</link>
-      <guid isPermaLink="true">https://fx.minkabu.jp/news/384697</guid>
-      <description>【みんかぶFX】株安を背景にリスク回避の円買いが優勢となり、ドル円は一時158円台まで下落した。</description>
-      <pubDate>Tue, 17 Nov 2026 12:02:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
