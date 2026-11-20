@@ -1,5 +1,45 @@
 [
   {
+    "title": "世界株安、半導体発のリスク回避加速 日経平均3007円下げ",
+    "link": "https://www.nikkei.com/article/DGXZQOUB203RT0Q6A121C2000000/",
+    "description": "半導体発のリスク回避が世界的な株安に広がり、日経平均は3007円下落した。",
+    "source": "日本経済新聞",
+    "published": null,
+    "fetched_at": "2026-11-20T18:02:42.751744+00:00"
+  },
+  {
+    "title": "東京株、３００７円安 ＡＩ・半導体中心に急落",
+    "link": "https://www.jiji.com/jc/article?k=2026112000735&g=eco",
+    "description": "20日の東京株式市場は日経平均が5万6436円65銭と急落。下げ幅は終値で過去5番目の大きさ。",
+    "source": "時事通信",
+    "published": null,
+    "fetched_at": "2026-11-20T18:02:42.751744+00:00"
+  },
+  {
+    "title": "東証大引け 日経平均は反落 7カ月ぶり5万7000円割れ、下げ幅歴代5位",
+    "link": "https://www.nikkei.com/article/DGXZQOFL205H00Q6A121C2000000/",
+    "description": "日経平均は7カ月ぶりに5万7000円を割り込み、下げ幅は歴代5位となった。",
+    "source": "日本経済新聞",
+    "published": null,
+    "fetched_at": "2026-11-20T18:02:42.751744+00:00"
+  },
+  {
+    "title": "キオクシアなどＡＩ・半導体関連が軒並み急落、米アンソロピック上場もＳＯＸ２％超安",
+    "link": "https://kabutan.jp/news/marketnews/?b=n202611200383",
+    "description": "アンソロピック上場にもかかわらずAI・半導体関連株が軒並み急落した。",
+    "source": "株探",
+    "published": null,
+    "fetched_at": "2026-11-20T18:02:42.751744+00:00"
+  },
+  {
+    "title": "日経平均7カ月ぶり安値、AI一極集中の大幅修正と明暗",
+    "link": "https://media.rakuten-sec.net/articles/-/54108",
+    "description": "日経平均は7カ月ぶり安値。AI一極集中の修正が進んだとの見方を解説。",
+    "source": "楽天証券",
+    "published": null,
+    "fetched_at": "2026-11-20T18:02:42.751744+00:00"
+  },
+  {
     "title": "日経平均大引け：前日比3007.56円安の56436.65円",
     "link": "https://zai.diamond.jp/articles/-/499430",
     "description": "20日の東京株式市場で日経平均は3000円超下落し、5%超の大幅安で取引を終えた。",
@@ -142,69 +182,5 @@
     "source": "株探ニュース / Yahoo!ファイナンス",
     "published": null,
     "fetched_at": "2026-11-19T00:02:00.356384+00:00"
-  },
-  {
-    "title": "欧州主要株式指数、続落",
-    "link": "https://zai.diamond.jp/articles/-/499295",
-    "description": "欧州主要株式指数は続落。FRB理事の利上げ支持発言などが重しとなった。",
-    "source": "ダイヤモンド・ザイ",
-    "published": null,
-    "fetched_at": "2026-11-18T18:02:19.733075+00:00"
-  },
-  {
-    "title": "欧州株 終値 揃って下落",
-    "link": "https://fx.minkabu.jp/news/384863",
-    "description": "欧州主要株式指数は軒並み下落。DAXは1.19%安、FTSE100は1.30%安となった。",
-    "source": "みんかぶ",
-    "published": "2026-11-19T02:42:00+09:00",
-    "fetched_at": "2026-11-18T18:02:19.733075+00:00"
-  },
-  {
-    "title": "ＮＹ各市場 ２時台 ダウ平均は４７６ドル安 ナスダックは小幅高での推移",
-    "link": "https://fx.minkabu.jp/news/384862",
-    "description": "NY株式市場でダウ平均は476ドル安、ナスダックは小幅高で推移した。",
-    "source": "みんかぶ",
-    "published": "2026-11-19T02:15:00+09:00",
-    "fetched_at": "2026-11-18T18:02:19.733075+00:00"
-  },
-  {
-    "title": "ドル円は１５９円台前半 本日は午後にＦＯＭＣ議事録＝ＮＹ為替序盤",
-    "link": "https://fx.minkabu.jp/news/384855",
-    "description": "ドル円は159円台前半に下落。160円付近では上値が重く、FOMC議事録の発表を控えている。",
-    "source": "みんかぶ",
-    "published": "2026-11-18T23:30:00+09:00",
-    "fetched_at": "2026-11-18T18:02:19.733075+00:00"
-  },
-  {
-    "title": "米１０年債は５．１０％付近で始まる＝ＮＹ債券オープン",
-    "link": "https://fx.minkabu.jp/news/384852",
-    "description": "米10年債利回りは5.10%付近で推移し、高水準が続いている。",
-    "source": "みんかぶ",
-    "published": "2026-11-18T23:03:00+09:00",
-    "fetched_at": "2026-11-18T18:02:19.733075+00:00"
-  },
-  {
-    "title": "日経平均大引け：前日比163.85円高の59024.28円",
-    "link": "https://zai.diamond.jp/articles/-/499257",
-    "description": "18日の日経平均は前日比163.85円高の59024.28円で取引を終えた。",
-    "source": "ザイFX！",
-    "published": null,
-    "fetched_at": "2026-11-18T12:02:30.433293+00:00"
-  },
-  {
-    "title": "東京為替概況：ドル・円は反落、午後は主要通貨売り",
-    "link": "https://zai.diamond.jp/articles/-/499268",
-    "description": "東京市場のドル・円は159円65銭まで上昇後に反落し、17時時点は159円20銭台で推移した。",
-    "source": "ザイFX！",
-    "published": null,
-    "fetched_at": "2026-11-18T12:02:30.433293+00:00"
-  },
-  {
-    "title": "日経平均は3日続落、東エレクが1銘柄で約75円分押し下げ",
-    "link": "https://www.zaikei.co.jp/article/20261118/878209.html",
-    "description": "日経平均は3日続落となり、東京エレクトロンが指数を約75円分押し下げた。",
-    "source": "財経新聞",
-    "published": null,
-    "fetched_at": "2026-11-18T12:02:30.433293+00:00"
   }
 ]

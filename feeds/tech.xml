@@ -5,7 +5,42 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 18:02:42 +0000</lastBuildDate>
+    <item>
+      <title>米政府、中国テンセントやアリババへのAI半導体販売を承認－公開資料</title>
+      <link>https://bloomberg.com/jp/news/articles/2026-11-19/TORST8RKV2U100?srnd=jp-homepage</link>
+      <guid isPermaLink="true">https://bloomberg.com/jp/news/articles/2026-11-19/TORST8RKV2U100?srnd=jp-homepage</guid>
+      <description>【Bloomberg】米政府がテンセントやアリババへのAI半導体販売を承認していたことが公開資料で分かった。</description>
+      <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>米がAI半導体88万個の対中輸出承認 NVIDIA製など、5月までの実績開示</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN200290Q6A121C2000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN200290Q6A121C2000000/</guid>
+      <description>【日本経済新聞】米下院委が、NVIDIA製などAI半導体約90万個の対中輸出をトランプ政権が承認していたと開示した。</description>
+      <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alibaba、自社AI半導体で次世代モデル学習 中国製チップ活用を拡大</title>
+      <link>https://digitaltoday.co.kr/jp/view/128717/alibaba-steps-up-semiconductor-self-reliance-by-training-ai-models-on-domestic-chips</link>
+      <guid isPermaLink="true">https://digitaltoday.co.kr/jp/view/128717/alibaba-steps-up-semiconductor-self-reliance-by-training-ai-models-on-domestic-chips</guid>
+      <description>【デジタルトゥデイ】Alibabaは自社開発AI半導体を次世代AIモデルの学習に投入する方針を示した。</description>
+      <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>アンソロピック上場、17%高で好発進 AIリスク「回避できる」</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN18CL00Y6A111C2000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN18CL00Y6A111C2000000/</guid>
+      <description>【日本経済新聞】米アンソロピックがナスダックに上場し、公開価格を17%上回って初日を終えた。</description>
+      <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>米アンソロピックが上場 スペースX上回る過去最大13兆円調達</title>
+      <link>https://news.yahoo.co.jp/articles/36c8e2d9de41c3dd1687fd567eb28ed3a990fa35</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/36c8e2d9de41c3dd1687fd567eb28ed3a990fa35</guid>
+      <description>【毎日新聞】アンソロピックが過去最大規模のIPOで約13兆円を調達した。</description>
+      <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
+    </item>
     <item>
       <title>アンソロピック上場、17%高で好発進 AIリスク「回避できる」</title>
       <link>https://nikkei.com/article/DGXZQOGN18CL00Y6A111C2000000</link>
@@ -96,27 +131,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b90cda80af888d2577baa716207913ed4c617905</guid>
       <description>【Forbes JAPAN / Yahoo!ニュース】米政府が第三国経由でのAI半導体の中国流入を防ぐ新たな輸出規制の規則を発表した。</description>
       <pubDate>Thu, 19 Nov 2026 00:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>米グーグルが日本に先端の防御AI提供</title>
-      <link>https://news.yahoo.co.jp/articles/6f9db4edb9e46a51614f09e2ab3ed0d75a84d5ac</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6f9db4edb9e46a51614f09e2ab3ed0d75a84d5ac</guid>
-      <description>【共同通信（Yahoo!ニュース）】グーグルは17日、サイバー攻撃への対応力強化のため、防御性能の高い先端AIを日本の重要インフラ企業向けに提供すると発表した。</description>
-      <pubDate>Wed, 18 Nov 2026 12:02:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>中国のAIチップ調達、東南アジア経由もアウトに。トランプ政権が規制強化</title>
-      <link>https://www.gizmodo.jp/article/2611-trump-admin-strengthens-ai-chip-export-controls-china/</link>
-      <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-trump-admin-strengthens-ai-chip-export-controls-china/</guid>
-      <description>【ギズモード・ジャパン】米商務省は中国企業による海外データセンター経由の先端AI半導体の遠隔利用を制限し、東南アジア4カ国とブラジル向け輸出を許可制にした。</description>
-      <pubDate>Wed, 18 Nov 2026 12:02:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>トランプ政権、AI半導体の輸出規制を強化 大統領の訪中控え</title>
-      <link>https://www.cnn.co.jp/usa/35254975.html</link>
-      <guid isPermaLink="true">https://www.cnn.co.jp/usa/35254975.html</guid>
-      <description>【CNN.co.jp】トランプ政権が習近平主席との会談を控え、AI半導体の輸出規制を強化した。</description>
-      <pubDate>Wed, 18 Nov 2026 12:02:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

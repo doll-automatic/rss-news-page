@@ -5,7 +5,35 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 18:02:42 +0000</lastBuildDate>
+    <item>
+      <title>大阪・ミナミで6階建てビル火災 「暖炉から火が出た」店員通報 消防車33台とヘリコプター1機が出動 客と従業員は避難 けが人はなし</title>
+      <link>https://news.yahoo.co.jp/articles/cac8db5d5db5cd996ea2a66ae276bdf7a0768af0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cac8db5d5db5cd996ea2a66ae276bdf7a0768af0</guid>
+      <description>【関西テレビ】大阪・心斎橋の6階建てビルで火災。客と従業員は避難し、けが人はいなかった。</description>
+      <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>重要土地法改正案、衆院内閣委で可決 取得許可制導入 基準明確化求める付帯決議も採択</title>
+      <link>https://news.yahoo.co.jp/articles/b87ac44e39a101b002b0bca76e1e6b3263100931</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b87ac44e39a101b002b0bca76e1e6b3263100931</guid>
+      <description>【産経新聞】衆院内閣委が、重要施設周辺の土地取得に事前許可制を導入する改正案を賛成多数で可決した。</description>
+      <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>後半国会が本格始動 憲法改正、皇室など議論本格化 20日には党首討論</title>
+      <link>https://news.yahoo.co.jp/articles/721a7b6ca5f4b4fde4d7cf29ccc44dc2586a4965</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/721a7b6ca5f4b4fde4d7cf29ccc44dc2586a4965</guid>
+      <description>【産経新聞】後半国会が始動し、20日には今国会初の党首討論が開かれる。</description>
+      <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>吉村剛太郎さんに従三位：時事ドットコム</title>
+      <link>https://www.jiji.com/jc/article?k=2026112000560&amp;g=pol</link>
+      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026112000560&amp;g=pol</guid>
+      <description>【時事通信】政府は閣議で、元参院議員の吉村剛太郎さんに従三位を叙し旭日重光章を贈ることを決めた。</description>
+      <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
+    </item>
     <item>
       <title>高市首相とトランプ大統領が電話 「米中ロ会談の詳細な説明受けた」</title>
       <link>https://www.nikkei.com/article/DGXZQOUA199VK0Z11C26A1000000/</link>
@@ -110,13 +138,6 @@
       <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA18BDI0Y6A111C2000000/</guid>
       <description>【日本経済新聞】消費減税に合わせた新給付の対象年収下限を56万円程度とする案を政府・与党が公明党に示した。</description>
       <pubDate>Thu, 19 Nov 2026 00:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>顔や体に数十カ所のあざ 伊丹市の自宅で3歳の娘暴行し死亡させたか 父親逮捕</title>
-      <link>https://www.sun-tv.co.jp/suntvnews/news/2026/11/18/97955/</link>
-      <guid isPermaLink="true">https://www.sun-tv.co.jp/suntvnews/news/2026/11/18/97955/</guid>
-      <description>【サンテレビ】兵庫県伊丹市で3歳の娘に暴行し死亡させたとして29歳の父親が傷害致死容疑で逮捕された。父親は否認している。</description>
-      <pubDate>Wed, 18 Nov 2026 12:02:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

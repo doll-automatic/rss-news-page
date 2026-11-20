@@ -1,5 +1,45 @@
 [
   {
+    "title": "米政府、中国テンセントやアリババへのAI半導体販売を承認－公開資料",
+    "link": "https://bloomberg.com/jp/news/articles/2026-11-19/TORST8RKV2U100?srnd=jp-homepage",
+    "description": "米政府がテンセントやアリババへのAI半導体販売を承認していたことが公開資料で分かった。",
+    "source": "Bloomberg",
+    "published": null,
+    "fetched_at": "2026-11-20T18:02:42.751744+00:00"
+  },
+  {
+    "title": "米がAI半導体88万個の対中輸出承認 NVIDIA製など、5月までの実績開示",
+    "link": "https://www.nikkei.com/article/DGXZQOGN200290Q6A121C2000000/",
+    "description": "米下院委が、NVIDIA製などAI半導体約90万個の対中輸出をトランプ政権が承認していたと開示した。",
+    "source": "日本経済新聞",
+    "published": null,
+    "fetched_at": "2026-11-20T18:02:42.751744+00:00"
+  },
+  {
+    "title": "Alibaba、自社AI半導体で次世代モデル学習 中国製チップ活用を拡大",
+    "link": "https://digitaltoday.co.kr/jp/view/128717/alibaba-steps-up-semiconductor-self-reliance-by-training-ai-models-on-domestic-chips",
+    "description": "Alibabaは自社開発AI半導体を次世代AIモデルの学習に投入する方針を示した。",
+    "source": "デジタルトゥデイ",
+    "published": null,
+    "fetched_at": "2026-11-20T18:02:42.751744+00:00"
+  },
+  {
+    "title": "アンソロピック上場、17%高で好発進 AIリスク「回避できる」",
+    "link": "https://www.nikkei.com/article/DGXZQOGN18CL00Y6A111C2000000/",
+    "description": "米アンソロピックがナスダックに上場し、公開価格を17%上回って初日を終えた。",
+    "source": "日本経済新聞",
+    "published": null,
+    "fetched_at": "2026-11-20T18:02:42.751744+00:00"
+  },
+  {
+    "title": "米アンソロピックが上場 スペースX上回る過去最大13兆円調達",
+    "link": "https://news.yahoo.co.jp/articles/36c8e2d9de41c3dd1687fd567eb28ed3a990fa35",
+    "description": "アンソロピックが過去最大規模のIPOで約13兆円を調達した。",
+    "source": "毎日新聞",
+    "published": null,
+    "fetched_at": "2026-11-20T18:02:42.751744+00:00"
+  },
+  {
     "title": "アンソロピック上場、17%高で好発進 AIリスク「回避できる」",
     "link": "https://nikkei.com/article/DGXZQOGN18CL00Y6A111C2000000",
     "description": "米アンソロピックがナスダックに上場し、初日の終値は公開価格を17%上回った。",
@@ -102,29 +142,5 @@
     "source": "Forbes JAPAN / Yahoo!ニュース",
     "published": null,
     "fetched_at": "2026-11-19T00:02:00.356384+00:00"
-  },
-  {
-    "title": "米グーグルが日本に先端の防御AI提供",
-    "link": "https://news.yahoo.co.jp/articles/6f9db4edb9e46a51614f09e2ab3ed0d75a84d5ac",
-    "description": "グーグルは17日、サイバー攻撃への対応力強化のため、防御性能の高い先端AIを日本の重要インフラ企業向けに提供すると発表した。",
-    "source": "共同通信（Yahoo!ニュース）",
-    "published": null,
-    "fetched_at": "2026-11-18T12:02:30.433293+00:00"
-  },
-  {
-    "title": "中国のAIチップ調達、東南アジア経由もアウトに。トランプ政権が規制強化",
-    "link": "https://www.gizmodo.jp/article/2611-trump-admin-strengthens-ai-chip-export-controls-china/",
-    "description": "米商務省は中国企業による海外データセンター経由の先端AI半導体の遠隔利用を制限し、東南アジア4カ国とブラジル向け輸出を許可制にした。",
-    "source": "ギズモード・ジャパン",
-    "published": null,
-    "fetched_at": "2026-11-18T12:02:30.433293+00:00"
-  },
-  {
-    "title": "トランプ政権、AI半導体の輸出規制を強化 大統領の訪中控え",
-    "link": "https://www.cnn.co.jp/usa/35254975.html",
-    "description": "トランプ政権が習近平主席との会談を控え、AI半導体の輸出規制を強化した。",
-    "source": "CNN.co.jp",
-    "published": null,
-    "fetched_at": "2026-11-18T12:02:30.433293+00:00"
   }
 ]
