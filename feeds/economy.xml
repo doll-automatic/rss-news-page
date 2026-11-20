@@ -5,7 +5,35 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Nov 2026 00:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:02:17 +0000</lastBuildDate>
+    <item>
+      <title>日経平均は1266円安、寄り後は下げ幅拡大</title>
+      <link>https://jp.investing.com/news/forex-news/article-1765322</link>
+      <guid isPermaLink="true">https://jp.investing.com/news/forex-news/article-1765322</guid>
+      <description>【Investing.com(Fisco)】20日の東京株式市場で日経平均は大幅安となり、寄り付き後に下げ幅を拡大した。</description>
+      <pubDate>Fri, 20 Nov 2026 06:02:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均2000円安、アンソロピック時間外で下落</title>
+      <link>https://fx.minkabu.jp/news/385035</link>
+      <guid isPermaLink="true">https://fx.minkabu.jp/news/385035</guid>
+      <description>【みんかぶ FX/為替】AI関連株への売りで日経平均が約2000円安となった。アンソロピックの時間外取引での下落が影響した。</description>
+      <pubDate>Fri, 20 Nov 2026 06:02:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均、1900円超安＝東京株式</title>
+      <link>https://finance.yahoo.co.jp/news/detail/4fb0980fead637b14dde931ddc29b33ce89fdd3c</link>
+      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/4fb0980fead637b14dde931ddc29b33ce89fdd3c</guid>
+      <description>【時事通信】東京株式市場で日経平均が1900円超下落した。</description>
+      <pubDate>Fri, 20 Nov 2026 06:02:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>東京円、159円台前半</title>
+      <link>https://www.chunichi.co.jp/article/1342109</link>
+      <guid isPermaLink="true">https://www.chunichi.co.jp/article/1342109</guid>
+      <description>【中日新聞Web】20日の東京外国為替市場で円相場は1ドル=159円台前半で推移した。</description>
+      <pubDate>Fri, 20 Nov 2026 06:02:17 +0000</pubDate>
+    </item>
     <item>
       <title>ドル/円見通し：159円台後半で推移｜160円手前まで上昇も伸び悩む</title>
       <link>https://oanda.jp/lab-education/market_news/report_usdjpy_20261120</link>
@@ -145,34 +173,6 @@
       <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261118/878209.html</guid>
       <description>【財経新聞】日経平均は3日続落となり、東京エレクトロンが指数を約75円分押し下げた。</description>
       <pubDate>Wed, 18 Nov 2026 12:02:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均前場引け：前日比163.89円安の58696.54円</title>
-      <link>https://zai.diamond.jp/articles/-/499242</link>
-      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499242</guid>
-      <description>【ザイFX!】日経平均は前日比163.89円安の58696.54円で前場を終えた。ドル・円は159円台半ばで推移。</description>
-      <pubDate>Wed, 18 Nov 2026 06:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は236円高、訪日外国人客数などに関心</title>
-      <link>https://www.zaikei.co.jp/article/20261118/878235.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261118/878235.html</guid>
-      <description>【財経新聞】日経平均は続落後の押し目買いで236円高となった。訪日外国人客数などにも関心が向かった。</description>
-      <pubDate>Wed, 18 Nov 2026 06:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京時間に伝わった指標・ニュース</title>
-      <link>https://fx.minkabu.jp/news/384799</link>
-      <guid isPermaLink="true">https://fx.minkabu.jp/news/384799</guid>
-      <description>【みんかぶFX】10月の貿易収支は-4765億円と予想より改善。植田日銀総裁は消費減税が2027年度の物価を押し下げるとの見方を示した。</description>
-      <pubDate>Wed, 18 Nov 2026 05:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均マイナス転落、エヌビディア決算に安堵も不安拭えず</title>
-      <link>https://fx.minkabu.jp/news/384778</link>
-      <guid isPermaLink="true">https://fx.minkabu.jp/news/384778</guid>
-      <description>【みんかぶFX】エヌビディア決算に安堵感が出る一方、日経平均はマイナスに転じ、不安は拭えない展開となった。</description>
-      <pubDate>Wed, 18 Nov 2026 01:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,37 @@
 [
   {
+    "title": "日経平均は1266円安、寄り後は下げ幅拡大",
+    "link": "https://jp.investing.com/news/forex-news/article-1765322",
+    "description": "20日の東京株式市場で日経平均は大幅安となり、寄り付き後に下げ幅を拡大した。",
+    "source": "Investing.com(Fisco)",
+    "published": null,
+    "fetched_at": "2026-11-20T06:02:17.196036+00:00"
+  },
+  {
+    "title": "日経平均2000円安、アンソロピック時間外で下落",
+    "link": "https://fx.minkabu.jp/news/385035",
+    "description": "AI関連株への売りで日経平均が約2000円安となった。アンソロピックの時間外取引での下落が影響した。",
+    "source": "みんかぶ FX/為替",
+    "published": null,
+    "fetched_at": "2026-11-20T06:02:17.196036+00:00"
+  },
+  {
+    "title": "日経平均、1900円超安＝東京株式",
+    "link": "https://finance.yahoo.co.jp/news/detail/4fb0980fead637b14dde931ddc29b33ce89fdd3c",
+    "description": "東京株式市場で日経平均が1900円超下落した。",
+    "source": "時事通信",
+    "published": null,
+    "fetched_at": "2026-11-20T06:02:17.196036+00:00"
+  },
+  {
+    "title": "東京円、159円台前半",
+    "link": "https://www.chunichi.co.jp/article/1342109",
+    "description": "20日の東京外国為替市場で円相場は1ドル=159円台前半で推移した。",
+    "source": "中日新聞Web",
+    "published": null,
+    "fetched_at": "2026-11-20T06:02:17.196036+00:00"
+  },
+  {
     "title": "ドル/円見通し：159円台後半で推移｜160円手前まで上昇も伸び悩む",
     "link": "https://oanda.jp/lab-education/market_news/report_usdjpy_20261120",
     "description": "ドル円は159円台後半で推移。前日は159.967円まで上昇したが160円には届かなかった。",
@@ -158,37 +190,5 @@
     "source": "財経新聞",
     "published": null,
     "fetched_at": "2026-11-18T12:02:30.433293+00:00"
-  },
-  {
-    "title": "日経平均前場引け：前日比163.89円安の58696.54円",
-    "link": "https://zai.diamond.jp/articles/-/499242",
-    "description": "日経平均は前日比163.89円安の58696.54円で前場を終えた。ドル・円は159円台半ばで推移。",
-    "source": "ザイFX!",
-    "published": null,
-    "fetched_at": "2026-11-18T06:02:12.766310+00:00"
-  },
-  {
-    "title": "日経平均は236円高、訪日外国人客数などに関心",
-    "link": "https://www.zaikei.co.jp/article/20261118/878235.html",
-    "description": "日経平均は続落後の押し目買いで236円高となった。訪日外国人客数などにも関心が向かった。",
-    "source": "財経新聞",
-    "published": null,
-    "fetched_at": "2026-11-18T06:02:12.766310+00:00"
-  },
-  {
-    "title": "東京時間に伝わった指標・ニュース",
-    "link": "https://fx.minkabu.jp/news/384799",
-    "description": "10月の貿易収支は-4765億円と予想より改善。植田日銀総裁は消費減税が2027年度の物価を押し下げるとの見方を示した。",
-    "source": "みんかぶFX",
-    "published": "2026-11-18T14:40:00+09:00",
-    "fetched_at": "2026-11-18T06:02:12.766310+00:00"
-  },
-  {
-    "title": "日経平均マイナス転落、エヌビディア決算に安堵も不安拭えず",
-    "link": "https://fx.minkabu.jp/news/384778",
-    "description": "エヌビディア決算に安堵感が出る一方、日経平均はマイナスに転じ、不安は拭えない展開となった。",
-    "source": "みんかぶFX",
-    "published": "2026-11-18T10:48:00+09:00",
-    "fetched_at": "2026-11-18T06:02:12.766310+00:00"
   }
 ]

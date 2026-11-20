@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Nov 2026 00:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:02:17 +0000</lastBuildDate>
+    <item>
+      <title>米AI開発企業アンソロピックが上場 時価総額約319兆円の一方で抗議活動も</title>
+      <link>https://news.yahoo.co.jp/articles/de4e802ebf5d937219a3d75c8e2bfc3f5929501c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/de4e802ebf5d937219a3d75c8e2bfc3f5929501c</guid>
+      <description>【TBS NEWS DIG】米AI開発企業アンソロピックがナスダックに上場した。時価総額は約319兆円に達した一方、抗議活動も起きた。</description>
+      <pubDate>Fri, 20 Nov 2026 06:02:17 +0000</pubDate>
+    </item>
     <item>
       <title>AIが脆弱性の発見から攻撃まで自動実行--Google、悪用事例を初確認</title>
       <link>https://news.yahoo.co.jp/articles/6605a5686adef4b42ad2eb46bdff9c90fc7a7e70</link>
@@ -103,13 +110,6 @@
       <guid isPermaLink="true">https://www.cnn.co.jp/usa/35254975.html</guid>
       <description>【CNN.co.jp】トランプ政権が習近平主席との会談を控え、AI半導体の輸出規制を強化した。</description>
       <pubDate>Wed, 18 Nov 2026 12:02:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>標的選定からわずか3時間で侵入、AIを悪用したサイバー攻撃にFBIが警告</title>
-      <link>https://news.yahoo.co.jp/articles/6dbeaf1ed94644f972e3af530662ed495c080ec7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6dbeaf1ed94644f972e3af530662ed495c080ec7</guid>
-      <description>【CNET Japan（Yahoo!ニュース）】FBIがAIを悪用したサイバー攻撃について警告した。標的選定から約3時間で侵入された例があるという。</description>
-      <pubDate>Wed, 18 Nov 2026 06:02:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

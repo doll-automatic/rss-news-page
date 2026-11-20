@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Nov 2026 00:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:02:17 +0000</lastBuildDate>
+    <item>
+      <title>前橋市の市街地で今日もクマの目撃情報、全小中学校また休校措置</title>
+      <link>https://news.yahoo.co.jp/articles/177e79e8b213845e1a43a049487f88af57780f02</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/177e79e8b213845e1a43a049487f88af57780f02</guid>
+      <description>【スポニチアネックス】群馬県前橋市の市街地で20日もクマが目撃され、市内の小中学校が再び休校となった。親グマは捕獲されていない。</description>
+      <pubDate>Fri, 20 Nov 2026 06:02:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>陸自小銃発射事件初公判、弁護側が刑事責任能力なかったと無罪主張</title>
+      <link>https://www.chunichi.co.jp/article/1342099</link>
+      <guid isPermaLink="true">https://www.chunichi.co.jp/article/1342099</guid>
+      <description>【中日新聞Web】岐阜市の陸自射撃場で隊員3人が死傷した事件の初公判が岐阜地裁で開かれ、弁護側は責任能力がなかったとして無罪を主張した。</description>
+      <pubDate>Fri, 20 Nov 2026 06:02:17 +0000</pubDate>
+    </item>
     <item>
       <title>ネックレス奪い男逃走＝貴金属店でスプレー噴射―警視庁</title>
       <link>https://news.infoseek.co.jp/article/jiji_2026111900954/</link>
@@ -103,20 +117,6 @@
       <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026111800981&amp;g=soc&amp;m=rss</guid>
       <description>【時事ドットコム】大阪府警は、車の名義変更で虚偽の申請をした疑いで、山口組本部長ら3人を逮捕した。</description>
       <pubDate>Wed, 18 Nov 2026 08:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>比例31減、各党が意見表明 「民意反映弱まる」「国民と約束」―衆院特別委</title>
-      <link>https://jiji.com/jc/article?g=pol&amp;k=2026111800132&amp;m=rss</link>
-      <guid isPermaLink="true">https://jiji.com/jc/article?g=pol&amp;k=2026111800132&amp;m=rss</guid>
-      <description>【時事ドットコム】衆院の比例定数を31削減する法案の審議が特別委で始まり、野党は民意反映が弱まると反対、与党側は国民との約束と主張した。</description>
-      <pubDate>Wed, 18 Nov 2026 06:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>受刑者の投票制限は「合憲」、最高裁大法廷が初判断 選挙権訴訟</title>
-      <link>https://www.nikkei.com/article/DGXZQOUD080Y60Y6A101C2000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUD080Y60Y6A101C2000000/</guid>
-      <description>【日本経済新聞】最高裁大法廷は、受刑者の選挙権を一律に認めない公職選挙法の規定を合憲とする初判断を示した。</description>
-      <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
