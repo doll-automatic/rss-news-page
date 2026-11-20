@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Nov 2026 06:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:02:21 +0000</lastBuildDate>
+    <item>
+      <title>高市首相とトランプ大統領が電話 「米中ロ会談の詳細な説明受けた」</title>
+      <link>https://www.nikkei.com/article/DGXZQOUA199VK0Z11C26A1000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA199VK0Z11C26A1000000/</guid>
+      <description>【日本経済新聞】高市首相は19日夜、トランプ米大統領と約20分電話会談し、米中ロ首脳会談の内容について説明を受けたと述べた。</description>
+      <pubDate>Fri, 20 Nov 2026 12:02:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>高市外交はどう行き詰まっているのか 頼みのトランプ氏とは帰国後に「電話会談」</title>
+      <link>https://www.tokyo-np.co.jp/article/529695</link>
+      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/529695</guid>
+      <description>【東京新聞】米中ロ首脳会談で日本が蚊帳の外に置かれ、高市首相の米国重視外交が行き詰まりつつあると指摘する記事。</description>
+      <pubDate>Fri, 20 Nov 2026 12:02:21 +0000</pubDate>
+    </item>
     <item>
       <title>前橋市の市街地で今日もクマの目撃情報、全小中学校また休校措置</title>
       <link>https://news.yahoo.co.jp/articles/177e79e8b213845e1a43a049487f88af57780f02</link>
@@ -103,20 +117,6 @@
       <guid isPermaLink="true">https://www.sun-tv.co.jp/suntvnews/news/2026/11/18/97955/</guid>
       <description>【サンテレビ】兵庫県伊丹市で3歳の娘に暴行し死亡させたとして29歳の父親が傷害致死容疑で逮捕された。父親は否認している。</description>
       <pubDate>Wed, 18 Nov 2026 12:02:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>受刑者の選挙権制限は「合憲」 公選法規定で初判断―原告敗訴確定・最高裁大法廷</title>
-      <link>https://www.jiji.com/jc/article?k=2026111800737&amp;g=pol</link>
-      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026111800737&amp;g=pol</guid>
-      <description>【時事ドットコム】最高裁大法廷は、受刑者の選挙権を一律に認めない公選法の規定を合憲とする初判断を示し、原告の敗訴が確定した。</description>
-      <pubDate>Wed, 18 Nov 2026 10:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>山口組ナンバー３を逮捕 車名義変更で虚偽登録か―大阪府警</title>
-      <link>https://www.jiji.com/jc/article?k=2026111800981&amp;g=soc&amp;m=rss</link>
-      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026111800981&amp;g=soc&amp;m=rss</guid>
-      <description>【時事ドットコム】大阪府警は、車の名義変更で虚偽の申請をした疑いで、山口組本部長ら3人を逮捕した。</description>
-      <pubDate>Wed, 18 Nov 2026 08:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

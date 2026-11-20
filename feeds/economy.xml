@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Nov 2026 06:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:02:21 +0000</lastBuildDate>
+    <item>
+      <title>日経平均大引け：前日比3007.56円安の56436.65円</title>
+      <link>https://zai.diamond.jp/articles/-/499430</link>
+      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499430</guid>
+      <description>【ザイFX!】20日の東京株式市場で日経平均は3000円超下落し、5%超の大幅安で取引を終えた。</description>
+      <pubDate>Fri, 20 Nov 2026 12:02:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>ドル円、159.05円まで下値広げる 日経平均3000円近く下落・米金利低下幅拡大</title>
+      <link>https://finance.yahoo.co.jp/news/detail/fe0815bc0b7af89049735daaebc09461e467e379</link>
+      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/fe0815bc0b7af89049735daaebc09461e467e379</guid>
+      <description>【トレーダーズ・ウェブ】日経平均の急落と米金利低下を受け、ドル円は159.05円まで下値を広げた。</description>
+      <pubDate>Fri, 20 Nov 2026 12:02:21 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均は1266円安、寄り後は下げ幅拡大</title>
       <link>https://jp.investing.com/news/forex-news/article-1765322</link>
