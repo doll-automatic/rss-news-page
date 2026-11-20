@@ -1,5 +1,29 @@
 [
   {
+    "title": "AIが脆弱性の発見から攻撃まで自動実行--Google、悪用事例を初確認",
+    "link": "https://news.yahoo.co.jp/articles/6605a5686adef4b42ad2eb46bdff9c90fc7a7e70",
+    "description": "GoogleのGTIGが、AIが人の介入なしに脆弱性発見から攻撃実行まで行う事例を初めて確認したと報告した。",
+    "source": "CNET Japan",
+    "published": null,
+    "fetched_at": "2026-11-20T00:02:08.948526+00:00"
+  },
+  {
+    "title": "グーグル、人間が介入しないAIによる脆弱性攻撃を確認 攻撃はより高速に",
+    "link": "https://www.watch.impress.co.jp/docs/news/2156870.html",
+    "description": "Googleは人間が介入しないAIによる脆弱性攻撃を確認し、攻撃の高速化に警鐘を鳴らした。",
+    "source": "Impress Watch",
+    "published": null,
+    "fetched_at": "2026-11-20T00:02:08.948526+00:00"
+  },
+  {
+    "title": "Ubisoft、生成AIスタジオ「Motherbrain」を立ち上げ",
+    "link": "https://mezha.net/jp/news/mezha-bbe72bc459709c96f4a71a81_ubisoft-launches-generative-ai-studio-motherbrain",
+    "description": "Ubisoftが生成AI特化の子会社を設立し、スマートNPCなどゲーム制作向けAIツールを開発する。",
+    "source": "Mezha",
+    "published": null,
+    "fetched_at": "2026-11-20T00:02:08.948526+00:00"
+  },
+  {
     "title": "アンソロピック、IPO公開価格83ドルに引き上げ 評価額は1.5兆ドル",
     "link": "https://www.nikkei.com/article/DGXZQOGN18CWP0Y6A111C2000000/",
     "description": "アンソロピックはナスダック上場に向け、公開価格を1株83ドルに引き上げた。評価額は約1.5兆ドルとなる。",

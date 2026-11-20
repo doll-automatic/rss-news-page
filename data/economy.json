@@ -1,5 +1,21 @@
 [
   {
+    "title": "ドル/円見通し：159円台後半で推移｜160円手前まで上昇も伸び悩む",
+    "link": "https://oanda.jp/lab-education/market_news/report_usdjpy_20261120",
+    "description": "ドル円は159円台後半で推移。前日は159.967円まで上昇したが160円には届かなかった。",
+    "source": "OANDA",
+    "published": null,
+    "fetched_at": "2026-11-20T00:02:08.948526+00:00"
+  },
+  {
+    "title": "新給付の対象「年収下限は56万円程度」案 政府・与党が公明に提示",
+    "link": "https://www.nikkei.com/article/DGXZQOUA18BDI0Y6A111C2000000/",
+    "description": "消費減税に合わせた所得連動の支援金で、政府・与党が年収下限56万円程度の案を公明党に示した。",
+    "source": "日本経済新聞",
+    "published": null,
+    "fetched_at": "2026-11-20T00:02:08.948526+00:00"
+  },
+  {
     "title": "日経平均は続伸、一時600円超高も上げ幅縮小＝19日大引け",
     "link": "https://finance.yahoo.co.jp/news/detail/b8cd27ce60060ea61c28b1ef82eaccc8be252b33",
     "description": "19日の日経平均は前日比419円93銭高の5万9444円21銭で大引け。一時600円超高となったが上げ幅を縮めた。",
@@ -174,21 +190,5 @@
     "source": "みんかぶFX",
     "published": "2026-11-18T10:48:00+09:00",
     "fetched_at": "2026-11-18T06:02:12.766310+00:00"
-  },
-  {
-    "title": "東京外国為替市場概況・8時 ドル円、小高い",
-    "link": "https://zai.diamond.jp/articles/-/499228",
-    "description": "8時時点のドル円は159.43円と、NY終値に比べ小幅にドル高で推移した。",
-    "source": "ダイヤモンド・ザイ",
-    "published": "2026-11-18T08:00:00+09:00",
-    "fetched_at": "2026-11-18T00:01:53.384084+00:00"
-  },
-  {
-    "title": "ＮＹ各市場 ４時台 ダウ平均は８２６ドル安 ナスダックは１．１％の大幅安",
-    "link": "https://fx.minkabu.jp/news/384733",
-    "description": "NY市場でダウ平均が826ドル安、ナスダックは1.1%の大幅安となった。",
-    "source": "みんかぶ",
-    "published": "2026-11-18T04:17:00+09:00",
-    "fetched_at": "2026-11-18T00:01:53.384084+00:00"
   }
 ]

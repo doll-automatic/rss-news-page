@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 18:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:02:08 +0000</lastBuildDate>
+    <item>
+      <title>ドル/円見通し：159円台後半で推移｜160円手前まで上昇も伸び悩む</title>
+      <link>https://oanda.jp/lab-education/market_news/report_usdjpy_20261120</link>
+      <guid isPermaLink="true">https://oanda.jp/lab-education/market_news/report_usdjpy_20261120</guid>
+      <description>【OANDA】ドル円は159円台後半で推移。前日は159.967円まで上昇したが160円には届かなかった。</description>
+      <pubDate>Fri, 20 Nov 2026 00:02:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>新給付の対象「年収下限は56万円程度」案 政府・与党が公明に提示</title>
+      <link>https://www.nikkei.com/article/DGXZQOUA18BDI0Y6A111C2000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA18BDI0Y6A111C2000000/</guid>
+      <description>【日本経済新聞】消費減税に合わせた所得連動の支援金で、政府・与党が年収下限56万円程度の案を公明党に示した。</description>
+      <pubDate>Fri, 20 Nov 2026 00:02:08 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均は続伸、一時600円超高も上げ幅縮小＝19日大引け</title>
       <link>https://finance.yahoo.co.jp/news/detail/b8cd27ce60060ea61c28b1ef82eaccc8be252b33</link>
@@ -159,20 +173,6 @@
       <guid isPermaLink="true">https://fx.minkabu.jp/news/384778</guid>
       <description>【みんかぶFX】エヌビディア決算に安堵感が出る一方、日経平均はマイナスに転じ、不安は拭えない展開となった。</description>
       <pubDate>Wed, 18 Nov 2026 01:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京外国為替市場概況・8時 ドル円、小高い</title>
-      <link>https://zai.diamond.jp/articles/-/499228</link>
-      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499228</guid>
-      <description>【ダイヤモンド・ザイ】8時時点のドル円は159.43円と、NY終値に比べ小幅にドル高で推移した。</description>
-      <pubDate>Tue, 17 Nov 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ＮＹ各市場 ４時台 ダウ平均は８２６ドル安 ナスダックは１．１％の大幅安</title>
-      <link>https://fx.minkabu.jp/news/384733</link>
-      <guid isPermaLink="true">https://fx.minkabu.jp/news/384733</guid>
-      <description>【みんかぶ】NY市場でダウ平均が826ドル安、ナスダックは1.1%の大幅安となった。</description>
-      <pubDate>Tue, 17 Nov 2026 19:17:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
