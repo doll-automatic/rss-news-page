@@ -1,5 +1,29 @@
 [
   {
+    "title": "アンソロピック株急落、AI株に世界的な売り",
+    "link": "https://www.bloomberg.com/jp/news/articles/2026-11-20/TOSYAFKK3NY900",
+    "description": "上場2日目のアンソロピック株が急落し、投資家心理が変化。AI関連株に世界的な売りが広がった。",
+    "source": "Bloomberg",
+    "published": null,
+    "fetched_at": "2026-11-21T18:02:34.692851+00:00"
+  },
+  {
+    "title": "米ナスダック急落、アンソロピック株も ハイテク株に売り圧力",
+    "link": "https://news.yahoo.co.jp/articles/91e39a9c61e48ee232f5be8f11be2dfc7fb03326",
+    "description": "米ナスダックが急落し、上場したばかりのアンソロピック株も下落。ハイテク株に売り圧力が強まった。",
+    "source": "BBC News",
+    "published": null,
+    "fetched_at": "2026-11-21T18:02:34.692851+00:00"
+  },
+  {
+    "title": "日本版DBSの犯歴確認システムに脆弱性 AI点検で発覚、稼働延期へ",
+    "link": "https://novaist.jp/articles/japan-dbs-security-delay/",
+    "description": "AIを使った稼働前点検で複数の脆弱性が見つかり、日本版DBSの犯歴確認システムの稼働が延期される。",
+    "source": "NOVAIST",
+    "published": null,
+    "fetched_at": "2026-11-21T18:02:34.692851+00:00"
+  },
+  {
     "title": "AI利用料値上げの足音──アンソロピック上場で判明、約144兆円の支払い契約",
     "link": "https://news.yahoo.co.jp/articles/f130127bd6b9be141eb248a44955f627b4e6e862",
     "description": "アンソロピックの上場で巨額の支払い契約が判明し、AI利用料の値上げ観測が出ている。",
@@ -142,21 +166,5 @@
     "source": "Forbes JAPAN",
     "published": "2026-11-20T09:00:00+09:00",
     "fetched_at": "2026-11-21T06:02:08.663828+00:00"
-  },
-  {
-    "title": "アンソロピック、IPO公開価格83ドルに引き上げ 評価額は1.5兆ドル",
-    "link": "https://www.nikkei.com/article/DGXZQOGN18CWP0Y6A111C2000000/",
-    "description": "アンソロピックはナスダック上場に向け、公開価格を1株83ドルに引き上げた。評価額は約1.5兆ドルとなる。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-19T12:02:17.143639+00:00"
-  },
-  {
-    "title": "アンソロピックIPO、公開価格が1株83ドルに決定 調達額はスペースXを上回る可能性",
-    "link": "https://forbesjapan.com/articles/detail/108504",
-    "description": "アンソロピックのIPO公開価格が83ドルに決定した。調達額は過去最大級になる可能性がある。",
-    "source": "Forbes JAPAN",
-    "published": null,
-    "fetched_at": "2026-11-19T12:02:17.143639+00:00"
   }
 ]

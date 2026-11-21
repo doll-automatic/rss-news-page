@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 12:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 18:02:34 +0000</lastBuildDate>
+    <item>
+      <title>アンソロピック株急落、AI株に世界的な売り</title>
+      <link>https://www.bloomberg.com/jp/news/articles/2026-11-20/TOSYAFKK3NY900</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/jp/news/articles/2026-11-20/TOSYAFKK3NY900</guid>
+      <description>【Bloomberg】上場2日目のアンソロピック株が急落し、投資家心理が変化。AI関連株に世界的な売りが広がった。</description>
+      <pubDate>Sat, 21 Nov 2026 18:02:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>米ナスダック急落、アンソロピック株も ハイテク株に売り圧力</title>
+      <link>https://news.yahoo.co.jp/articles/91e39a9c61e48ee232f5be8f11be2dfc7fb03326</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/91e39a9c61e48ee232f5be8f11be2dfc7fb03326</guid>
+      <description>【BBC News】米ナスダックが急落し、上場したばかりのアンソロピック株も下落。ハイテク株に売り圧力が強まった。</description>
+      <pubDate>Sat, 21 Nov 2026 18:02:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>日本版DBSの犯歴確認システムに脆弱性 AI点検で発覚、稼働延期へ</title>
+      <link>https://novaist.jp/articles/japan-dbs-security-delay/</link>
+      <guid isPermaLink="true">https://novaist.jp/articles/japan-dbs-security-delay/</guid>
+      <description>【NOVAIST】AIを使った稼働前点検で複数の脆弱性が見つかり、日本版DBSの犯歴確認システムの稼働が延期される。</description>
+      <pubDate>Sat, 21 Nov 2026 18:02:34 +0000</pubDate>
+    </item>
     <item>
       <title>AI利用料値上げの足音──アンソロピック上場で判明、約144兆円の支払い契約</title>
       <link>https://news.yahoo.co.jp/articles/f130127bd6b9be141eb248a44955f627b4e6e862</link>
@@ -131,20 +152,6 @@
       <guid isPermaLink="true">https://forbesjapan.com/articles/detail/108637</guid>
       <description>【Forbes JAPAN】カリフォルニア州司法長官が、AI半導体の中国流出疑惑をめぐりエヌビディアに召喚状を送達したと発表した。</description>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>アンソロピック、IPO公開価格83ドルに引き上げ 評価額は1.5兆ドル</title>
-      <link>https://www.nikkei.com/article/DGXZQOGN18CWP0Y6A111C2000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN18CWP0Y6A111C2000000/</guid>
-      <description>【日本経済新聞】アンソロピックはナスダック上場に向け、公開価格を1株83ドルに引き上げた。評価額は約1.5兆ドルとなる。</description>
-      <pubDate>Thu, 19 Nov 2026 12:02:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>アンソロピックIPO、公開価格が1株83ドルに決定 調達額はスペースXを上回る可能性</title>
-      <link>https://forbesjapan.com/articles/detail/108504</link>
-      <guid isPermaLink="true">https://forbesjapan.com/articles/detail/108504</guid>
-      <description>【Forbes JAPAN】アンソロピックのIPO公開価格が83ドルに決定した。調達額は過去最大級になる可能性がある。</description>
-      <pubDate>Thu, 19 Nov 2026 12:02:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

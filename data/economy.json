@@ -1,5 +1,21 @@
 [
   {
+    "title": "東京為替概況：ドル・円は軟調、世界株安で",
+    "link": "https://zai.diamond.jp/articles/-/499441",
+    "description": "世界株安を背景にリスク回避の円買いが入り、ドル円は軟調に推移した。",
+    "source": "ダイヤモンド・ザイ",
+    "published": null,
+    "fetched_at": "2026-11-21T18:02:34.692851+00:00"
+  },
+  {
+    "title": "NY概況－ダウ949.73ドル安 アンソロピック反落やSEC調査報道で半導体・AI株が総崩れ",
+    "link": "https://www.tradingview.com/news/dzh_financial:ad6ee32198457:0/",
+    "description": "NYダウが約950ドル安。アンソロピック反落とエヌビディアへのSEC調査報道で半導体・AI株が急落した。",
+    "source": "TradingView",
+    "published": null,
+    "fetched_at": "2026-11-21T18:02:34.692851+00:00"
+  },
+  {
     "title": "日経平均 一時2800円以上値下がり",
     "link": "https://news.yahoo.co.jp/pickup/6603248",
     "description": "AI・半導体関連株を中心に売りが広がり、日経平均は一時2800円以上下落した。",
@@ -174,53 +190,5 @@
     "source": "日本経済新聞",
     "published": null,
     "fetched_at": "2026-11-20T00:02:08.948526+00:00"
-  },
-  {
-    "title": "日経平均は続伸、一時600円超高も上げ幅縮小＝19日大引け",
-    "link": "https://finance.yahoo.co.jp/news/detail/b8cd27ce60060ea61c28b1ef82eaccc8be252b33",
-    "description": "19日の日経平均は前日比419円93銭高の5万9444円21銭で大引け。一時600円超高となったが上げ幅を縮めた。",
-    "source": "ウエルスアドバイザー(Yahoo!ファイナンス)",
-    "published": null,
-    "fetched_at": "2026-11-19T18:02:24.210924+00:00"
-  },
-  {
-    "title": "外為12時 円相場、小幅安 159円台前半 日米金利差拡大を意識",
-    "link": "https://www.nikkei.com/article/DGXZQOFL182UW0Y6A111C2000000/",
-    "description": "19日正午の円相場は159円台前半で小幅安。日米金利差の拡大が意識された。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-19T18:02:24.210924+00:00"
-  },
-  {
-    "title": "日経平均「419.93円高」で続伸…アンソロピックIPOへの期待波及、指数を246円押し上げ【11月19日の国内株式市場概況】",
-    "link": "https://news.yahoo.co.jp/articles/a048beec07a502137f2ec9dafab9a78a6b544425",
-    "description": "米アンソロピックのIPO期待がAI関連株に波及し、日経平均を押し上げた。",
-    "source": "THE GOLD ONLINE(Yahoo!ニュース)",
-    "published": null,
-    "fetched_at": "2026-11-19T18:02:24.210924+00:00"
-  },
-  {
-    "title": "日経平均終値419円高 気迷い相場、アンソロピックIPOで打破なるか",
-    "link": "https://nikkei.com/article/DGXZQOUB190J8TZ11C26A1000000",
-    "description": "19日の東京株式市場で日経平均は419円高。方向感に乏しい相場が続き、アンソロピックIPOへの期待も材料となった。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-19T12:02:17.143639+00:00"
-  },
-  {
-    "title": "日経平均大引け：前日比419.93円高の59444.21円",
-    "link": "https://www.zaikei.co.jp/article/20261119/878428.html",
-    "description": "19日の日経平均株価は前日比419.93円高の59444.21円で取引を終えた。",
-    "source": "財経新聞",
-    "published": null,
-    "fetched_at": "2026-11-19T12:02:17.143639+00:00"
-  },
-  {
-    "title": "日経平均は３日続落、一時７００円超高も日銀総裁発言でマイナス転換＝１８日前引け",
-    "link": "https://finance.yahoo.co.jp/news/detail/afe497ff6b5a86526c457ff2eb0ff630390c7f66",
-    "description": "18日前場の日経平均は一時700円超高となったが、日銀総裁の発言を受けてマイナスに転じた。",
-    "source": "ウエルスアドバイザー",
-    "published": null,
-    "fetched_at": "2026-11-19T12:02:17.143639+00:00"
   }
 ]

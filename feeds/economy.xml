@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 12:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 18:02:34 +0000</lastBuildDate>
+    <item>
+      <title>東京為替概況：ドル・円は軟調、世界株安で</title>
+      <link>https://zai.diamond.jp/articles/-/499441</link>
+      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499441</guid>
+      <description>【ダイヤモンド・ザイ】世界株安を背景にリスク回避の円買いが入り、ドル円は軟調に推移した。</description>
+      <pubDate>Sat, 21 Nov 2026 18:02:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>NY概況－ダウ949.73ドル安 アンソロピック反落やSEC調査報道で半導体・AI株が総崩れ</title>
+      <link>https://www.tradingview.com/news/dzh_financial:ad6ee32198457:0/</link>
+      <guid isPermaLink="true">https://www.tradingview.com/news/dzh_financial:ad6ee32198457:0/</guid>
+      <description>【TradingView】NYダウが約950ドル安。アンソロピック反落とエヌビディアへのSEC調査報道で半導体・AI株が急落した。</description>
+      <pubDate>Sat, 21 Nov 2026 18:02:34 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均 一時2800円以上値下がり</title>
       <link>https://news.yahoo.co.jp/pickup/6603248</link>
@@ -159,48 +173,6 @@
       <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA18BDI0Y6A111C2000000/</guid>
       <description>【日本経済新聞】消費減税に合わせた所得連動の支援金で、政府・与党が年収下限56万円程度の案を公明党に示した。</description>
       <pubDate>Fri, 20 Nov 2026 00:02:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は続伸、一時600円超高も上げ幅縮小＝19日大引け</title>
-      <link>https://finance.yahoo.co.jp/news/detail/b8cd27ce60060ea61c28b1ef82eaccc8be252b33</link>
-      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/b8cd27ce60060ea61c28b1ef82eaccc8be252b33</guid>
-      <description>【ウエルスアドバイザー(Yahoo!ファイナンス)】19日の日経平均は前日比419円93銭高の5万9444円21銭で大引け。一時600円超高となったが上げ幅を縮めた。</description>
-      <pubDate>Thu, 19 Nov 2026 18:02:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>外為12時 円相場、小幅安 159円台前半 日米金利差拡大を意識</title>
-      <link>https://www.nikkei.com/article/DGXZQOFL182UW0Y6A111C2000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOFL182UW0Y6A111C2000000/</guid>
-      <description>【日本経済新聞】19日正午の円相場は159円台前半で小幅安。日米金利差の拡大が意識された。</description>
-      <pubDate>Thu, 19 Nov 2026 18:02:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均「419.93円高」で続伸…アンソロピックIPOへの期待波及、指数を246円押し上げ【11月19日の国内株式市場概況】</title>
-      <link>https://news.yahoo.co.jp/articles/a048beec07a502137f2ec9dafab9a78a6b544425</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a048beec07a502137f2ec9dafab9a78a6b544425</guid>
-      <description>【THE GOLD ONLINE(Yahoo!ニュース)】米アンソロピックのIPO期待がAI関連株に波及し、日経平均を押し上げた。</description>
-      <pubDate>Thu, 19 Nov 2026 18:02:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均終値419円高 気迷い相場、アンソロピックIPOで打破なるか</title>
-      <link>https://nikkei.com/article/DGXZQOUB190J8TZ11C26A1000000</link>
-      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOUB190J8TZ11C26A1000000</guid>
-      <description>【日本経済新聞】19日の東京株式市場で日経平均は419円高。方向感に乏しい相場が続き、アンソロピックIPOへの期待も材料となった。</description>
-      <pubDate>Thu, 19 Nov 2026 12:02:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均大引け：前日比419.93円高の59444.21円</title>
-      <link>https://www.zaikei.co.jp/article/20261119/878428.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261119/878428.html</guid>
-      <description>【財経新聞】19日の日経平均株価は前日比419.93円高の59444.21円で取引を終えた。</description>
-      <pubDate>Thu, 19 Nov 2026 12:02:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は３日続落、一時７００円超高も日銀総裁発言でマイナス転換＝１８日前引け</title>
-      <link>https://finance.yahoo.co.jp/news/detail/afe497ff6b5a86526c457ff2eb0ff630390c7f66</link>
-      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/afe497ff6b5a86526c457ff2eb0ff630390c7f66</guid>
-      <description>【ウエルスアドバイザー】18日前場の日経平均は一時700円超高となったが、日銀総裁の発言を受けてマイナスに転じた。</description>
-      <pubDate>Thu, 19 Nov 2026 12:02:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 12:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 18:02:34 +0000</lastBuildDate>
+    <item>
+      <title>関文科相交代の可能性を示唆 自民幹事長「法案成立が最重要」</title>
+      <link>https://news.yahoo.co.jp/articles/ca6ba8b4c03d1bf15bd6ba8a8a0d2f38385bac41</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ca6ba8b4c03d1bf15bd6ba8a8a0d2f38385bac41</guid>
+      <description>【共同通信】自民党の鈴木幹事長が、政治資金パーティー問題で関文科相を交代させる可能性を示唆した。</description>
+      <pubDate>Sat, 21 Nov 2026 18:02:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>日本版ＤＢＳ、システムに脆弱性 来月の稼働延期へ―こども家庭庁</title>
+      <link>https://www.jiji.com/jc/article?k=2026111800689&amp;g=soc</link>
+      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026111800689&amp;g=soc</guid>
+      <description>【時事ドットコム】こども家庭庁は日本版DBSのシステムに脆弱性が見つかったとして、12月の稼働延期を決めた。</description>
+      <pubDate>Sat, 21 Nov 2026 18:02:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>中司少子化相、「日本版ＤＢＳ」脆弱性を謝罪し稼働延期…代替策公表し来月２５日に制度スタート</title>
+      <link>https://news.yahoo.co.jp/articles/45bfb95a75b1fcdafb9e07a9752eb118065a6dd7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/45bfb95a75b1fcdafb9e07a9752eb118065a6dd7</guid>
+      <description>【読売新聞オンライン】中司少子化相が脆弱性を謝罪。システム稼働は延期するが、制度自体は12月25日に開始する方針。</description>
+      <pubDate>Sat, 21 Nov 2026 18:02:34 +0000</pubDate>
+    </item>
     <item>
       <title>猪苗代町で積雪53センチ 大雪で948人孤立、列車脱線も 福島県が災害対策本部設置</title>
       <link>https://news.yahoo.co.jp/articles/e1f4f37f2f25498290a7188015db643764161c2a</link>
@@ -124,34 +145,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/51723a0d8b8a8c7f2a4e1ab311e10e18e61be6f8</guid>
       <description>【時事通信】片山財務相が参院特別委で、所得連動給付の年収下限を56万円程度とする方向で検討すると表明した。</description>
       <pubDate>Fri, 20 Nov 2026 00:02:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>立民、公明で献金規制法案提出へ 参院、国民との協議不調</title>
-      <link>https://www.excite.co.jp/news/article/Kyodo_1496120078230913722/</link>
-      <guid isPermaLink="true">https://www.excite.co.jp/news/article/Kyodo_1496120078230913722/</guid>
-      <description>【共同通信(エキサイトニュース)】立憲民主・公明両党が企業・団体献金の規制を強化する政治資金規正法改正案を参院に共同提出する方向で調整。国民民主との協議は不調に終わった。</description>
-      <pubDate>Thu, 19 Nov 2026 18:02:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>行政文書漏えいか＝デジ庁運用システムに不正アクセス</title>
-      <link>https://news.infoseek.co.jp/article/jiji_2026112001150/</link>
-      <guid isPermaLink="true">https://news.infoseek.co.jp/article/jiji_2026112001150/</guid>
-      <description>【時事通信（Infoseek）】デジタル庁は、運用システムへの不正アクセスで行政文書が外部に流出した可能性があると発表した。</description>
-      <pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>戦車砲弾破裂、装着バンド原因 高温で残存、接触し爆発 大分演習場4人死傷・陸自</title>
-      <link>https://www.jiji.com/jc/article?k=2026111900637&amp;g=soc&amp;m=rss</link>
-      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026111900637&amp;g=soc&amp;m=rss</guid>
-      <description>【時事通信】陸自は大分・日出生台演習場の戦車事故について、直前の砲弾のバンドが高温で残り次の砲弾と接触して爆発したと公表した。</description>
-      <pubDate>Thu, 19 Nov 2026 12:02:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>4人死傷の戦車事故 原因は“砲弾の破片の燃えかす” 陸上自衛隊が調査結果を発表</title>
-      <link>https://news.yahoo.co.jp/articles/6e25b90ed6193e1700c6705c9ab18133f24c83df</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6e25b90ed6193e1700c6705c9ab18133f24c83df</guid>
-      <description>【TOSテレビ大分】陸上自衛隊は大分・日出生台演習場での戦車事故の調査結果を発表した。</description>
-      <pubDate>Thu, 19 Nov 2026 12:02:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

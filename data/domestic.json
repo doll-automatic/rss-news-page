@@ -1,5 +1,29 @@
 [
   {
+    "title": "関文科相交代の可能性を示唆 自民幹事長「法案成立が最重要」",
+    "link": "https://news.yahoo.co.jp/articles/ca6ba8b4c03d1bf15bd6ba8a8a0d2f38385bac41",
+    "description": "自民党の鈴木幹事長が、政治資金パーティー問題で関文科相を交代させる可能性を示唆した。",
+    "source": "共同通信",
+    "published": null,
+    "fetched_at": "2026-11-21T18:02:34.692851+00:00"
+  },
+  {
+    "title": "日本版ＤＢＳ、システムに脆弱性 来月の稼働延期へ―こども家庭庁",
+    "link": "https://www.jiji.com/jc/article?k=2026111800689&g=soc",
+    "description": "こども家庭庁は日本版DBSのシステムに脆弱性が見つかったとして、12月の稼働延期を決めた。",
+    "source": "時事ドットコム",
+    "published": null,
+    "fetched_at": "2026-11-21T18:02:34.692851+00:00"
+  },
+  {
+    "title": "中司少子化相、「日本版ＤＢＳ」脆弱性を謝罪し稼働延期…代替策公表し来月２５日に制度スタート",
+    "link": "https://news.yahoo.co.jp/articles/45bfb95a75b1fcdafb9e07a9752eb118065a6dd7",
+    "description": "中司少子化相が脆弱性を謝罪。システム稼働は延期するが、制度自体は12月25日に開始する方針。",
+    "source": "読売新聞オンライン",
+    "published": null,
+    "fetched_at": "2026-11-21T18:02:34.692851+00:00"
+  },
+  {
     "title": "猪苗代町で積雪53センチ 大雪で948人孤立、列車脱線も 福島県が災害対策本部設置",
     "link": "https://news.yahoo.co.jp/articles/e1f4f37f2f25498290a7188015db643764161c2a",
     "description": "大雪で福島県の猪苗代町などで積雪が増え、948人が孤立し列車も脱線。県は災害対策本部を設置した。",
@@ -134,37 +158,5 @@
     "source": "時事通信",
     "published": null,
     "fetched_at": "2026-11-20T00:02:08.948526+00:00"
-  },
-  {
-    "title": "立民、公明で献金規制法案提出へ 参院、国民との協議不調",
-    "link": "https://www.excite.co.jp/news/article/Kyodo_1496120078230913722/",
-    "description": "立憲民主・公明両党が企業・団体献金の規制を強化する政治資金規正法改正案を参院に共同提出する方向で調整。国民民主との協議は不調に終わった。",
-    "source": "共同通信(エキサイトニュース)",
-    "published": null,
-    "fetched_at": "2026-11-19T18:02:24.210924+00:00"
-  },
-  {
-    "title": "行政文書漏えいか＝デジ庁運用システムに不正アクセス",
-    "link": "https://news.infoseek.co.jp/article/jiji_2026112001150/",
-    "description": "デジタル庁は、運用システムへの不正アクセスで行政文書が外部に流出した可能性があると発表した。",
-    "source": "時事通信（Infoseek）",
-    "published": "2026-11-20T00:00:00+09:00",
-    "fetched_at": "2026-11-21T06:02:08.663828+00:00"
-  },
-  {
-    "title": "戦車砲弾破裂、装着バンド原因 高温で残存、接触し爆発 大分演習場4人死傷・陸自",
-    "link": "https://www.jiji.com/jc/article?k=2026111900637&g=soc&m=rss",
-    "description": "陸自は大分・日出生台演習場の戦車事故について、直前の砲弾のバンドが高温で残り次の砲弾と接触して爆発したと公表した。",
-    "source": "時事通信",
-    "published": null,
-    "fetched_at": "2026-11-19T12:02:17.143639+00:00"
-  },
-  {
-    "title": "4人死傷の戦車事故 原因は“砲弾の破片の燃えかす” 陸上自衛隊が調査結果を発表",
-    "link": "https://news.yahoo.co.jp/articles/6e25b90ed6193e1700c6705c9ab18133f24c83df",
-    "description": "陸上自衛隊は大分・日出生台演習場での戦車事故の調査結果を発表した。",
-    "source": "TOSテレビ大分",
-    "published": null,
-    "fetched_at": "2026-11-19T12:02:17.143639+00:00"
   }
 ]
