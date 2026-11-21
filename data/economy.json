@@ -1,5 +1,21 @@
 [
   {
+    "title": "（まとめ）日経平均は3,007円安の56,436円で大幅安 TOPIXも3.9%安で全面安の展開に",
+    "link": "https://media.monex.co.jp/articles/-/30558",
+    "description": "日経平均は3,007円安、TOPIXも3.9%安と全面安の展開となった。",
+    "source": "マネックス証券",
+    "published": null,
+    "fetched_at": "2026-11-21T06:02:08.663828+00:00"
+  },
+  {
+    "title": "日経平均が1日で3,008円安、AI・半導体株に何が起きている？",
+    "link": "https://oanda.jp/lab-education/market_news/20261120_nikkei_3000_drop",
+    "description": "日経平均が1日で3,000円超下落した背景として、AI・半導体株の売りを解説する。",
+    "source": "OANDA",
+    "published": null,
+    "fetched_at": "2026-11-21T06:02:08.663828+00:00"
+  },
+  {
     "title": "世界株安、半導体発のリスク回避加速 日経平均3007円下げ",
     "link": "https://www.nikkei.com/article/DGXZQOUB203RT0Q6A121C2000000/",
     "description": "半導体発のリスク回避が世界的な株安に広がり、日経平均は3007円下落した。",
@@ -40,6 +56,14 @@
     "fetched_at": "2026-11-20T18:02:42.751744+00:00"
   },
   {
+    "title": "欧州安とともに円買い再燃 ドル円１５８円台後半へ＝ロンドン為替概況",
+    "link": "https://fx.minkabu.jp/news/385111",
+    "description": "欧州株安を受けリスク回避の円買いが再燃し、ドル円は158円台後半へ下落した。",
+    "source": "みんかぶFX",
+    "published": "2026-11-20T21:16:00+09:00",
+    "fetched_at": "2026-11-21T06:02:08.663828+00:00"
+  },
+  {
     "title": "日経平均大引け：前日比3007.56円安の56436.65円",
     "link": "https://zai.diamond.jp/articles/-/499430",
     "description": "20日の東京株式市場で日経平均は3000円超下落し、5%超の大幅安で取引を終えた。",
@@ -54,6 +78,14 @@
     "source": "トレーダーズ・ウェブ",
     "published": null,
     "fetched_at": "2026-11-20T12:02:21.791492+00:00"
+  },
+  {
+    "title": "日経平均大引け：前日比3007.56円安の56436.65円",
+    "link": "https://jp.investing.com/news/forex-news/article-1765573",
+    "description": "20日の日経平均は3000円超の大幅安となり、終値は56,436.65円。半導体・AI関連株が大きく下げた。",
+    "source": "Investing.com（Fisco）",
+    "published": "2026-11-20T15:30:00+09:00",
+    "fetched_at": "2026-11-21T06:02:08.663828+00:00"
   },
   {
     "title": "日経平均は1266円安、寄り後は下げ幅拡大",
@@ -166,21 +198,5 @@
     "source": "ウエルスアドバイザー",
     "published": null,
     "fetched_at": "2026-11-19T12:02:17.143639+00:00"
-  },
-  {
-    "title": "日経平均は続伸、上げ幅一時６００円超＝１９日前場",
-    "link": "https://finance.yahoo.co.jp/news/detail/99e40b1594a4d76e422ca13165feb0ea02984000",
-    "description": "19日前場の日経平均は続伸し、一時600円超上昇した。",
-    "source": "ウエルスアドバイザー",
-    "published": null,
-    "fetched_at": "2026-11-19T06:02:04.531667+00:00"
-  },
-  {
-    "title": "後場の日経平均は70円安でスタート、JX金属や古河電工などが下落",
-    "link": "https://www.zaikei.co.jp/article/20261119/878405.html",
-    "description": "後場の日経平均は前日比70.85円安の58,953円で始まり、JX金属や古河電工などが下落した。",
-    "source": "財経新聞",
-    "published": null,
-    "fetched_at": "2026-11-19T06:02:04.531667+00:00"
   }
 ]

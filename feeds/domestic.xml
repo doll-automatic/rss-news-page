@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 00:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 06:02:08 +0000</lastBuildDate>
+    <item>
+      <title>政府職員らの個人情報24万件漏洩か デジ庁サービスに不正アクセス</title>
+      <link>https://news.yahoo.co.jp/articles/4b6282a8403bd8991a46d9e535f93213824f668b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4b6282a8403bd8991a46d9e535f93213824f668b</guid>
+      <description>【朝日新聞（Yahoo!ニュース）】デジタル庁のサービスへの不正アクセスにより、政府職員らの個人情報が漏洩した可能性があると報じられた。</description>
+      <pubDate>Sat, 21 Nov 2026 06:02:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>EXCLUSIVE-防衛費5年で50兆円台、財務省が提示 防衛省は調達削減を企業に伝達</title>
+      <link>https://www.newsweekjapan.jp/articles/-/339997</link>
+      <guid isPermaLink="true">https://www.newsweekjapan.jp/articles/-/339997</guid>
+      <description>【ニューズウィーク日本版（ロイター）】次期防衛力整備計画をめぐり、財務省が5年間で50兆円台とする基準を防衛省に示した。</description>
+      <pubDate>Sat, 21 Nov 2026 06:02:08 +0000</pubDate>
+    </item>
     <item>
       <title>群馬・伊勢崎3人死亡事故 男に懲役20年が確定</title>
       <link>https://news.yahoo.co.jp/articles/188a7f7738188f4914659e18c3a636b16fdab804</link>
@@ -98,6 +112,13 @@
       <pubDate>Thu, 19 Nov 2026 18:02:24 +0000</pubDate>
     </item>
     <item>
+      <title>行政文書漏えいか＝デジ庁運用システムに不正アクセス</title>
+      <link>https://news.infoseek.co.jp/article/jiji_2026112001150/</link>
+      <guid isPermaLink="true">https://news.infoseek.co.jp/article/jiji_2026112001150/</guid>
+      <description>【時事通信（Infoseek）】デジタル庁は、運用システムへの不正アクセスで行政文書が外部に流出した可能性があると発表した。</description>
+      <pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>戦車砲弾破裂、装着バンド原因 高温で残存、接触し爆発 大分演習場4人死傷・陸自</title>
       <link>https://www.jiji.com/jc/article?k=2026111900637&amp;g=soc&amp;m=rss</link>
       <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026111900637&amp;g=soc&amp;m=rss</guid>
@@ -110,34 +131,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6e25b90ed6193e1700c6705c9ab18133f24c83df</guid>
       <description>【TOSテレビ大分】陸上自衛隊は大分・日出生台演習場での戦車事故の調査結果を発表した。</description>
       <pubDate>Thu, 19 Nov 2026 12:02:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>熊本・水俣市など震度5弱 1週間程度は同程度の地震に注意 九州道は昼過ぎ通行止め解除へ</title>
-      <link>https://kumanichi.com/articles/2059521</link>
-      <guid isPermaLink="true">https://kumanichi.com/articles/2059521</guid>
-      <description>【熊本日日新聞】19日未明、熊本県で震度5弱の地震。気象庁は1週間程度、同程度の地震に注意を呼びかけ、水俣市などに避難指示が出た。</description>
-      <pubDate>Thu, 19 Nov 2026 06:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>熊本で震度５弱 ７月地震の一連の活動―気象庁</title>
-      <link>https://www.jiji.com/jc/article?k=2026111900223&amp;g=soc&amp;m=rss</link>
-      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026111900223&amp;g=soc&amp;m=rss</guid>
-      <description>【時事ドットコム】気象庁は、熊本県での震度5弱の地震を7月の熊本地震の一連の活動とみている。</description>
-      <pubDate>Thu, 19 Nov 2026 06:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>高市首相、プーチン氏と初対話 拘束の記者早期解放へ立場伝達</title>
-      <link>https://www.tokyo-np.co.jp/article/529205</link>
-      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/529205</guid>
-      <description>【東京新聞】高市首相がAPEC関連の場でプーチン大統領と初めて対話し、拘束された記者の早期解放を求める立場を伝えた。</description>
-      <pubDate>Thu, 19 Nov 2026 06:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>受刑者の選挙権制限、最高裁は合憲判断も「見直し」言及…6裁判官は「違憲無効」</title>
-      <link>https://news.yahoo.co.jp/articles/b706ee40b9ff9247cbe32c81dc77d7521c6bb360</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b706ee40b9ff9247cbe32c81dc77d7521c6bb360</guid>
-      <description>【弁護士ドットコムニュース (Yahoo!ニュース)】最高裁大法廷が受刑者の選挙権制限を初めて合憲と判断。15人中6人は違憲とし、国会での検討も求められた。</description>
-      <pubDate>Thu, 19 Nov 2026 03:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

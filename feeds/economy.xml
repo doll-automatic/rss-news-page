@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 00:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 06:02:08 +0000</lastBuildDate>
+    <item>
+      <title>（まとめ）日経平均は3,007円安の56,436円で大幅安 TOPIXも3.9%安で全面安の展開に</title>
+      <link>https://media.monex.co.jp/articles/-/30558</link>
+      <guid isPermaLink="true">https://media.monex.co.jp/articles/-/30558</guid>
+      <description>【マネックス証券】日経平均は3,007円安、TOPIXも3.9%安と全面安の展開となった。</description>
+      <pubDate>Sat, 21 Nov 2026 06:02:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均が1日で3,008円安、AI・半導体株に何が起きている？</title>
+      <link>https://oanda.jp/lab-education/market_news/20261120_nikkei_3000_drop</link>
+      <guid isPermaLink="true">https://oanda.jp/lab-education/market_news/20261120_nikkei_3000_drop</guid>
+      <description>【OANDA】日経平均が1日で3,000円超下落した背景として、AI・半導体株の売りを解説する。</description>
+      <pubDate>Sat, 21 Nov 2026 06:02:08 +0000</pubDate>
+    </item>
     <item>
       <title>世界株安、半導体発のリスク回避加速 日経平均3007円下げ</title>
       <link>https://www.nikkei.com/article/DGXZQOUB203RT0Q6A121C2000000/</link>
@@ -42,6 +56,13 @@
       <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
     </item>
     <item>
+      <title>欧州安とともに円買い再燃 ドル円１５８円台後半へ＝ロンドン為替概況</title>
+      <link>https://fx.minkabu.jp/news/385111</link>
+      <guid isPermaLink="true">https://fx.minkabu.jp/news/385111</guid>
+      <description>【みんかぶFX】欧州株安を受けリスク回避の円買いが再燃し、ドル円は158円台後半へ下落した。</description>
+      <pubDate>Fri, 20 Nov 2026 12:16:00 +0000</pubDate>
+    </item>
+    <item>
       <title>日経平均大引け：前日比3007.56円安の56436.65円</title>
       <link>https://zai.diamond.jp/articles/-/499430</link>
       <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499430</guid>
@@ -54,6 +75,13 @@
       <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/fe0815bc0b7af89049735daaebc09461e467e379</guid>
       <description>【トレーダーズ・ウェブ】日経平均の急落と米金利低下を受け、ドル円は159.05円まで下値を広げた。</description>
       <pubDate>Fri, 20 Nov 2026 12:02:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均大引け：前日比3007.56円安の56436.65円</title>
+      <link>https://jp.investing.com/news/forex-news/article-1765573</link>
+      <guid isPermaLink="true">https://jp.investing.com/news/forex-news/article-1765573</guid>
+      <description>【Investing.com（Fisco）】20日の日経平均は3000円超の大幅安となり、終値は56,436.65円。半導体・AI関連株が大きく下げた。</description>
+      <pubDate>Fri, 20 Nov 2026 06:30:00 +0000</pubDate>
     </item>
     <item>
       <title>日経平均は1266円安、寄り後は下げ幅拡大</title>
@@ -152,20 +180,6 @@
       <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/afe497ff6b5a86526c457ff2eb0ff630390c7f66</guid>
       <description>【ウエルスアドバイザー】18日前場の日経平均は一時700円超高となったが、日銀総裁の発言を受けてマイナスに転じた。</description>
       <pubDate>Thu, 19 Nov 2026 12:02:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は続伸、上げ幅一時６００円超＝１９日前場</title>
-      <link>https://finance.yahoo.co.jp/news/detail/99e40b1594a4d76e422ca13165feb0ea02984000</link>
-      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/99e40b1594a4d76e422ca13165feb0ea02984000</guid>
-      <description>【ウエルスアドバイザー】19日前場の日経平均は続伸し、一時600円超上昇した。</description>
-      <pubDate>Thu, 19 Nov 2026 06:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>後場の日経平均は70円安でスタート、JX金属や古河電工などが下落</title>
-      <link>https://www.zaikei.co.jp/article/20261119/878405.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261119/878405.html</guid>
-      <description>【財経新聞】後場の日経平均は前日比70.85円安の58,953円で始まり、JX金属や古河電工などが下落した。</description>
-      <pubDate>Thu, 19 Nov 2026 06:02:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

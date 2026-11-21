@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 00:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 06:02:08 +0000</lastBuildDate>
+    <item>
+      <title>マイクロソフト、中国バイトダンスと800億円契約 OpenAI利用巡り波紋</title>
+      <link>https://forbesjapan.com/articles/detail/108626</link>
+      <guid isPermaLink="true">https://forbesjapan.com/articles/detail/108626</guid>
+      <description>【Forbes JAPAN】マイクロソフトが中国バイトダンスと約800億円の契約を結び、OpenAI利用をめぐり波紋が広がっている。</description>
+      <pubDate>Sat, 21 Nov 2026 06:02:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI、AMDのGPU回路を最大14％改善 約1年分の成果を5カ月弱で</title>
+      <link>https://forbesjapan.com/articles/detail/108630</link>
+      <guid isPermaLink="true">https://forbesjapan.com/articles/detail/108630</guid>
+      <description>【Forbes JAPAN】OpenAIはAIでAMDの主力GPUの回路設計を最大14％改善したと発表した。</description>
+      <pubDate>Sat, 21 Nov 2026 06:02:08 +0000</pubDate>
+    </item>
     <item>
       <title>AnthropicがNASDAQに上場。時価総額は一時2兆ドル超え、史上最大規模のIPOに</title>
       <link>https://news.yahoo.co.jp/articles/0f4c10839ae41fb693053a3e6eb7669d326d0546</link>
@@ -91,6 +105,13 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>米カリフォルニア州がエヌビディアに召喚状、AI半導体の中国流出疑惑を調査</title>
+      <link>https://forbesjapan.com/articles/detail/108637</link>
+      <guid isPermaLink="true">https://forbesjapan.com/articles/detail/108637</guid>
+      <description>【Forbes JAPAN】カリフォルニア州司法長官が、AI半導体の中国流出疑惑をめぐりエヌビディアに召喚状を送達したと発表した。</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>アンソロピック、IPO公開価格83ドルに引き上げ 評価額は1.5兆ドル</title>
       <link>https://www.nikkei.com/article/DGXZQOGN18CWP0Y6A111C2000000/</link>
       <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN18CWP0Y6A111C2000000/</guid>
@@ -103,34 +124,6 @@
       <guid isPermaLink="true">https://forbesjapan.com/articles/detail/108504</guid>
       <description>【Forbes JAPAN】アンソロピックのIPO公開価格が83ドルに決定した。調達額は過去最大級になる可能性がある。</description>
       <pubDate>Thu, 19 Nov 2026 12:02:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google、「Gemini 4 Neon」を発表 ～「Claude Opus 5.5」「GPT-6.2 Sol」のライバル</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2157693.html</link>
-      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157693.html</guid>
-      <description>【窓の杜】GoogleがAIモデル「Gemini 4 Neon」を発表。高い推論力と速度を両立し、サイバー向け版も近く提供予定。</description>
-      <pubDate>Thu, 19 Nov 2026 06:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Googleが「Gemini 4 Neon」を発表、最先端の推論能力と高速・低コストな処理を両立しコーディング性能で世界トップに</title>
-      <link>https://gigazine.net/news/20261119-google-gemini-4-neon/</link>
-      <guid isPermaLink="true">https://gigazine.net/news/20261119-google-gemini-4-neon/</guid>
-      <description>【GIGAZINE】Gemini 4 Neonは100万トークンの文脈を持ち、API料金は入力100万トークンあたり3ドル、出力15ドル。</description>
-      <pubDate>Thu, 19 Nov 2026 06:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google、わずか2カ月で4つ目のモデル公開「Gemini 4 Neon」 一部「Fable同等」性能をコスト半分で</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2611/19/2000003322/</link>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2611/19/2000003322/</guid>
-      <description>【ITmedia AI＋】Googleが2カ月で4つ目となるGeminiモデルを公開。一部の性能で他社上位モデルと同等をコスト半分で実現するとしている。</description>
-      <pubDate>Thu, 19 Nov 2026 06:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>ElevenLabsが日本のスタートアップ・Kotobaを約159億円で買収へ。日本語の音声AI開発を加速</title>
-      <link>https://www.businessinsider.jp/article/2611-elevenlabs-acquires-kotoba-technologies/</link>
-      <guid isPermaLink="true">https://www.businessinsider.jp/article/2611-elevenlabs-acquires-kotoba-technologies/</guid>
-      <description>【BUSINESS INSIDER JAPAN】音声AI大手ElevenLabsが、日本語音声AIのKotoba Technologiesを約1億ドルで買収することで合意。東京を研究拠点にする。</description>
-      <pubDate>Thu, 19 Nov 2026 06:02:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
