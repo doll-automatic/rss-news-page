@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 06:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 12:02:12 +0000</lastBuildDate>
+    <item>
+      <title>AI利用料値上げの足音──アンソロピック上場で判明、約144兆円の支払い契約</title>
+      <link>https://news.yahoo.co.jp/articles/f130127bd6b9be141eb248a44955f627b4e6e862</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f130127bd6b9be141eb248a44955f627b4e6e862</guid>
+      <description>【Forbes JAPAN】アンソロピックの上場で巨額の支払い契約が判明し、AI利用料の値上げ観測が出ている。</description>
+      <pubDate>Sat, 21 Nov 2026 12:02:12 +0000</pubDate>
+    </item>
     <item>
       <title>マイクロソフト、中国バイトダンスと800億円契約 OpenAI利用巡り波紋</title>
       <link>https://forbesjapan.com/articles/detail/108626</link>
@@ -21,10 +28,24 @@
       <pubDate>Sat, 21 Nov 2026 06:02:08 +0000</pubDate>
     </item>
     <item>
+      <title>キャシー・ウッド氏のARK、上場初日のアンソロピック株を約93万株購入―エヌビディア株は売却</title>
+      <link>https://www.zaikei.co.jp/article/20261121/878662.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261121/878662.html</guid>
+      <description>【財経新聞】ARKインベストは上場初日にアンソロピック株を約93万株購入し、エヌビディア株を売却した。</description>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>AnthropicがNASDAQに上場。時価総額は一時2兆ドル超え、史上最大規模のIPOに</title>
       <link>https://news.yahoo.co.jp/articles/0f4c10839ae41fb693053a3e6eb7669d326d0546</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f4c10839ae41fb693053a3e6eb7669d326d0546</guid>
       <description>【テクノエッジ (Yahoo!ニュース)】Anthropicの上場で時価総額は一時2兆ドルを超え、史上最大規模のIPOとなった。</description>
+      <pubDate>Fri, 20 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>アンソロピック株が上場2日目に9%急落、ナスダック5%安で世界のAI相場に波及</title>
+      <link>https://news.yahoo.co.jp/articles/412e725b6a977edf5cd20c163d8b5e15effe574a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/412e725b6a977edf5cd20c163d8b5e15effe574a</guid>
+      <description>【ビジネス＋IT】上場2日目のアンソロピック株が約9%下落し、ナスダックも5%安となってAI相場が世界的に動揺した。</description>
       <pubDate>Fri, 20 Nov 2026 23:00:00 +0000</pubDate>
     </item>
     <item>

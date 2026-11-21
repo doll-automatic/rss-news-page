@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 06:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 12:02:12 +0000</lastBuildDate>
+    <item>
+      <title>日経平均 一時2800円以上値下がり</title>
+      <link>https://news.yahoo.co.jp/pickup/6603248</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6603248</guid>
+      <description>【Yahoo!ニュース】AI・半導体関連株を中心に売りが広がり、日経平均は一時2800円以上下落した。</description>
+      <pubDate>Sat, 21 Nov 2026 12:02:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>【速報】日経平均株価が大幅下落 一時2000円安 AI・半導体関連銘柄を中心に売り先行</title>
+      <link>https://news.yahoo.co.jp/articles/6b3d684c12d2e089aa6b46bbf70edc15bfe420d0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b3d684c12d2e089aa6b46bbf70edc15bfe420d0</guid>
+      <description>【FNNプライムオンライン】東京株式市場でAI・半導体関連株を中心に売りが先行し、日経平均が一時2000円安となった。</description>
+      <pubDate>Sat, 21 Nov 2026 12:02:12 +0000</pubDate>
+    </item>
     <item>
       <title>（まとめ）日経平均は3,007円安の56,436円で大幅安 TOPIXも3.9%安で全面安の展開に</title>
       <link>https://media.monex.co.jp/articles/-/30558</link>
@@ -19,6 +33,13 @@
       <guid isPermaLink="true">https://oanda.jp/lab-education/market_news/20261120_nikkei_3000_drop</guid>
       <description>【OANDA】日経平均が1日で3,000円超下落した背景として、AI・半導体株の売りを解説する。</description>
       <pubDate>Sat, 21 Nov 2026 06:02:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>ドル円、158円台半ばまで下落 リスク回避の円高が強まる＝NY為替概況</title>
+      <link>https://fx.minkabu.jp/news/385147</link>
+      <guid isPermaLink="true">https://fx.minkabu.jp/news/385147</guid>
+      <description>【みんかぶ】NY市場でリスク回避の円買いが強まり、ドル円は158円台半ばまで下落した。</description>
+      <pubDate>Fri, 20 Nov 2026 21:45:00 +0000</pubDate>
     </item>
     <item>
       <title>世界株安、半導体発のリスク回避加速 日経平均3007円下げ</title>

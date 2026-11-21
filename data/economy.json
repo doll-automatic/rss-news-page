@@ -1,5 +1,21 @@
 [
   {
+    "title": "日経平均 一時2800円以上値下がり",
+    "link": "https://news.yahoo.co.jp/pickup/6603248",
+    "description": "AI・半導体関連株を中心に売りが広がり、日経平均は一時2800円以上下落した。",
+    "source": "Yahoo!ニュース",
+    "published": null,
+    "fetched_at": "2026-11-21T12:02:12.339232+00:00"
+  },
+  {
+    "title": "【速報】日経平均株価が大幅下落 一時2000円安 AI・半導体関連銘柄を中心に売り先行",
+    "link": "https://news.yahoo.co.jp/articles/6b3d684c12d2e089aa6b46bbf70edc15bfe420d0",
+    "description": "東京株式市場でAI・半導体関連株を中心に売りが先行し、日経平均が一時2000円安となった。",
+    "source": "FNNプライムオンライン",
+    "published": null,
+    "fetched_at": "2026-11-21T12:02:12.339232+00:00"
+  },
+  {
     "title": "（まとめ）日経平均は3,007円安の56,436円で大幅安 TOPIXも3.9%安で全面安の展開に",
     "link": "https://media.monex.co.jp/articles/-/30558",
     "description": "日経平均は3,007円安、TOPIXも3.9%安と全面安の展開となった。",
@@ -14,6 +30,14 @@
     "source": "OANDA",
     "published": null,
     "fetched_at": "2026-11-21T06:02:08.663828+00:00"
+  },
+  {
+    "title": "ドル円、158円台半ばまで下落 リスク回避の円高が強まる＝NY為替概況",
+    "link": "https://fx.minkabu.jp/news/385147",
+    "description": "NY市場でリスク回避の円買いが強まり、ドル円は158円台半ばまで下落した。",
+    "source": "みんかぶ",
+    "published": "2026-11-21T06:45:00+09:00",
+    "fetched_at": "2026-11-21T12:02:12.339232+00:00"
   },
   {
     "title": "世界株安、半導体発のリスク回避加速 日経平均3007円下げ",

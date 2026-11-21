@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI利用料値上げの足音──アンソロピック上場で判明、約144兆円の支払い契約",
+    "link": "https://news.yahoo.co.jp/articles/f130127bd6b9be141eb248a44955f627b4e6e862",
+    "description": "アンソロピックの上場で巨額の支払い契約が判明し、AI利用料の値上げ観測が出ている。",
+    "source": "Forbes JAPAN",
+    "published": null,
+    "fetched_at": "2026-11-21T12:02:12.339232+00:00"
+  },
+  {
     "title": "マイクロソフト、中国バイトダンスと800億円契約 OpenAI利用巡り波紋",
     "link": "https://forbesjapan.com/articles/detail/108626",
     "description": "マイクロソフトが中国バイトダンスと約800億円の契約を結び、OpenAI利用をめぐり波紋が広がっている。",
@@ -16,12 +24,28 @@
     "fetched_at": "2026-11-21T06:02:08.663828+00:00"
   },
   {
+    "title": "キャシー・ウッド氏のARK、上場初日のアンソロピック株を約93万株購入―エヌビディア株は売却",
+    "link": "https://www.zaikei.co.jp/article/20261121/878662.html",
+    "description": "ARKインベストは上場初日にアンソロピック株を約93万株購入し、エヌビディア株を売却した。",
+    "source": "財経新聞",
+    "published": "2026-11-21T09:00:00+09:00",
+    "fetched_at": "2026-11-21T12:02:12.339232+00:00"
+  },
+  {
     "title": "AnthropicがNASDAQに上場。時価総額は一時2兆ドル超え、史上最大規模のIPOに",
     "link": "https://news.yahoo.co.jp/articles/0f4c10839ae41fb693053a3e6eb7669d326d0546",
     "description": "Anthropicの上場で時価総額は一時2兆ドルを超え、史上最大規模のIPOとなった。",
     "source": "テクノエッジ (Yahoo!ニュース)",
     "published": "2026-11-21T08:00:00+09:00",
     "fetched_at": "2026-11-21T00:02:20.160774+00:00"
+  },
+  {
+    "title": "アンソロピック株が上場2日目に9%急落、ナスダック5%安で世界のAI相場に波及",
+    "link": "https://news.yahoo.co.jp/articles/412e725b6a977edf5cd20c163d8b5e15effe574a",
+    "description": "上場2日目のアンソロピック株が約9%下落し、ナスダックも5%安となってAI相場が世界的に動揺した。",
+    "source": "ビジネス＋IT",
+    "published": "2026-11-21T08:00:00+09:00",
+    "fetched_at": "2026-11-21T12:02:12.339232+00:00"
   },
   {
     "title": "米政府、中国テンセントやアリババへのAI半導体販売を承認－公開資料",

@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 06:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 12:02:12 +0000</lastBuildDate>
+    <item>
+      <title>猪苗代町で積雪53センチ 大雪で948人孤立、列車脱線も 福島県が災害対策本部設置</title>
+      <link>https://news.yahoo.co.jp/articles/e1f4f37f2f25498290a7188015db643764161c2a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e1f4f37f2f25498290a7188015db643764161c2a</guid>
+      <description>【ふくしまNEWS KFB】大雪で福島県の猪苗代町などで積雪が増え、948人が孤立し列車も脱線。県は災害対策本部を設置した。</description>
+      <pubDate>Sat, 21 Nov 2026 12:02:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>福島・北塩原村で約1500人孤立 大雪の倒木で国道寸断、JR脱線も</title>
+      <link>https://news.yahoo.co.jp/articles/771ec368bb02d48005392160d2bb349956a276ef</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/771ec368bb02d48005392160d2bb349956a276ef</guid>
+      <description>【ふくしまNEWS KFB】大雪による倒木で国道が寸断され、北塩原村で約1500人が孤立した。</description>
+      <pubDate>Sat, 21 Nov 2026 12:02:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>今季初の寒波襲来 大雪に 福島では約1500人が孤立、停電も</title>
+      <link>https://news.ksb.co.jp/ann/article/17071114</link>
+      <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17071114</guid>
+      <description>【ANN】今季初の寒波で各地が大雪となり、福島では約1500人が孤立し停電も発生した。</description>
+      <pubDate>Sat, 21 Nov 2026 12:02:12 +0000</pubDate>
+    </item>
     <item>
       <title>政府職員らの個人情報24万件漏洩か デジ庁サービスに不正アクセス</title>
       <link>https://news.yahoo.co.jp/articles/4b6282a8403bd8991a46d9e535f93213824f668b</link>
