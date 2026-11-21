@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Nov 2026 18:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:02:20 +0000</lastBuildDate>
+    <item>
+      <title>群馬・伊勢崎3人死亡事故 男に懲役20年が確定</title>
+      <link>https://news.yahoo.co.jp/articles/188a7f7738188f4914659e18c3a636b16fdab804</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/188a7f7738188f4914659e18c3a636b16fdab804</guid>
+      <description>【ABEMA TIMES (Yahoo!ニュース)】群馬県伊勢崎市の3人死亡事故で、被告の男の懲役20年の判決が確定した。</description>
+      <pubDate>Sat, 21 Nov 2026 00:02:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>国道23号でバイクと大型トラック衝突 17歳高校生死亡 三重・四日市市</title>
+      <link>https://news.yahoo.co.jp/articles/0df06e1c839d1c4dfd9323410b3ba93da7b8eb1b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0df06e1c839d1c4dfd9323410b3ba93da7b8eb1b</guid>
+      <description>【三重テレビ放送 (Yahoo!ニュース)】三重県四日市市の国道23号でバイクと大型トラックが衝突し、17歳の高校生が死亡した。</description>
+      <pubDate>Sat, 21 Nov 2026 00:02:20 +0000</pubDate>
+    </item>
     <item>
       <title>大阪・ミナミで6階建てビル火災 「暖炉から火が出た」店員通報 消防車33台とヘリコプター1機が出動 客と従業員は避難 けが人はなし</title>
       <link>https://news.yahoo.co.jp/articles/cac8db5d5db5cd996ea2a66ae276bdf7a0768af0</link>
@@ -119,25 +133,11 @@
       <pubDate>Thu, 19 Nov 2026 06:02:04 +0000</pubDate>
     </item>
     <item>
-      <title>熊本県で最大震度5弱 避難指示や一部通行止めも</title>
-      <link>https://news.ksb.co.jp/ann/article/17062755</link>
-      <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17062755</guid>
-      <description>【KSB瀬戸内海放送】19日未明、熊本県天草・芦北地方を震源とする地震で最大震度5弱を観測。水俣市などに避難指示が出て九州道が一部通行止めとなった。</description>
-      <pubDate>Thu, 19 Nov 2026 00:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>熊本・水俣市など震度5弱 九州道一部通行止め 1週間程度は同程度の地震に注意</title>
-      <link>https://news.yahoo.co.jp/articles/8585961759d6cdf109ee1d6cecc51377cedbd42c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8585961759d6cdf109ee1d6cecc51377cedbd42c</guid>
-      <description>【熊本日日新聞 / Yahoo!ニュース】M5.7の地震で、気象庁は1週間程度は同程度の地震に注意するよう呼びかけた。</description>
-      <pubDate>Thu, 19 Nov 2026 00:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>新給付の対象「年収下限は56万円程度」案 政府・与党が公明に提示</title>
-      <link>https://www.nikkei.com/article/DGXZQOUA18BDI0Y6A111C2000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA18BDI0Y6A111C2000000/</guid>
-      <description>【日本経済新聞】消費減税に合わせた新給付の対象年収下限を56万円程度とする案を政府・与党が公明党に示した。</description>
-      <pubDate>Thu, 19 Nov 2026 00:02:00 +0000</pubDate>
+      <title>受刑者の選挙権制限、最高裁は合憲判断も「見直し」言及…6裁判官は「違憲無効」</title>
+      <link>https://news.yahoo.co.jp/articles/b706ee40b9ff9247cbe32c81dc77d7521c6bb360</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b706ee40b9ff9247cbe32c81dc77d7521c6bb360</guid>
+      <description>【弁護士ドットコムニュース (Yahoo!ニュース)】最高裁大法廷が受刑者の選挙権制限を初めて合憲と判断。15人中6人は違憲とし、国会での検討も求められた。</description>
+      <pubDate>Thu, 19 Nov 2026 03:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

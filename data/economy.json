@@ -88,6 +88,22 @@
     "fetched_at": "2026-11-20T06:02:17.196036+00:00"
   },
   {
+    "title": "外為14時 円相場、堅調 159円台前半 株一段安で",
+    "link": "https://nikkei.com/article/DGXZQOFL204H90Q6A121C2000000",
+    "description": "株安を受けたリスク回避の円買いで、円相場は159円台前半で堅調に推移した。",
+    "source": "日本経済新聞",
+    "published": "2026-11-20T14:00:00+09:00",
+    "fetched_at": "2026-11-21T00:02:20.160774+00:00"
+  },
+  {
+    "title": "日経平均は大幅反落、アンソロピックIPOに向けた換金売りを警戒か／相場概況",
+    "link": "https://finance.yahoo.co.jp/news/detail/31073608314df403069834f64dc5138211a00ebb",
+    "description": "20日の日経平均は大幅反落。アンソロピックIPOに向けた換金売りが警戒された。",
+    "source": "フィスコ (Yahoo!ファイナンス)",
+    "published": "2026-11-20T09:30:00+09:00",
+    "fetched_at": "2026-11-21T00:02:20.160774+00:00"
+  },
+  {
     "title": "ドル/円見通し：159円台後半で推移｜160円手前まで上昇も伸び悩む",
     "link": "https://oanda.jp/lab-education/market_news/report_usdjpy_20261120",
     "description": "ドル円は159円台後半で推移。前日は159.967円まで上昇したが160円には届かなかった。",
@@ -166,21 +182,5 @@
     "source": "財経新聞",
     "published": null,
     "fetched_at": "2026-11-19T06:02:04.531667+00:00"
-  },
-  {
-    "title": "11/19の強弱材料",
-    "link": "https://www.zaikei.co.jp/article/20261119/878312.html",
-    "description": "11月19日の日本株市場の強弱材料をまとめた記事。前日の日経平均は59,024円で上昇した。",
-    "source": "財経新聞",
-    "published": null,
-    "fetched_at": "2026-11-19T00:02:00.356384+00:00"
-  },
-  {
-    "title": "本日の決算発表予定 東京海上、ＭＳ＆ＡＤ、ＳＯＭＰＯなど（11月19日）",
-    "link": "https://finance.yahoo.co.jp/news/detail/37abd2f7f0a0146d8dcdb6c45f0bf6124a6a0bb7",
-    "description": "11月19日は大手損保など保険株を中心に決算発表が予定されている。",
-    "source": "株探ニュース / Yahoo!ファイナンス",
-    "published": null,
-    "fetched_at": "2026-11-19T00:02:00.356384+00:00"
   }
 ]

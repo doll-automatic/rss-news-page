@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Nov 2026 18:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:02:20 +0000</lastBuildDate>
+    <item>
+      <title>AnthropicがNASDAQに上場。時価総額は一時2兆ドル超え、史上最大規模のIPOに</title>
+      <link>https://news.yahoo.co.jp/articles/0f4c10839ae41fb693053a3e6eb7669d326d0546</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f4c10839ae41fb693053a3e6eb7669d326d0546</guid>
+      <description>【テクノエッジ (Yahoo!ニュース)】Anthropicの上場で時価総額は一時2兆ドルを超え、史上最大規模のIPOとなった。</description>
+      <pubDate>Fri, 20 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>米政府、中国テンセントやアリババへのAI半導体販売を承認－公開資料</title>
       <link>https://bloomberg.com/jp/news/articles/2026-11-19/TORST8RKV2U100?srnd=jp-homepage</link>
@@ -77,6 +84,13 @@
       <pubDate>Fri, 20 Nov 2026 00:02:08 +0000</pubDate>
     </item>
     <item>
+      <title>AnthropicがNasdaq上場、IPO調達額は史上最大の813億ドル 初値は公開価格を34％上回る</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/20/2000003354/</link>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/20/2000003354/</guid>
+      <description>【ITmedia NEWS】AnthropicがNasdaqに上場し、調達額は史上最大の813億ドル。初値は公開価格を34％上回った。</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>アンソロピック、IPO公開価格83ドルに引き上げ 評価額は1.5兆ドル</title>
       <link>https://www.nikkei.com/article/DGXZQOGN18CWP0Y6A111C2000000/</link>
       <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN18CWP0Y6A111C2000000/</guid>
@@ -117,20 +131,6 @@
       <guid isPermaLink="true">https://www.businessinsider.jp/article/2611-elevenlabs-acquires-kotoba-technologies/</guid>
       <description>【BUSINESS INSIDER JAPAN】音声AI大手ElevenLabsが、日本語音声AIのKotoba Technologiesを約1億ドルで買収することで合意。東京を研究拠点にする。</description>
       <pubDate>Thu, 19 Nov 2026 06:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA、先端AI半導体の中国輸出停止 暫定CEOが言及</title>
-      <link>https://nikkei.com/article/DGXZQOGN182B70Y6A111C2000000</link>
-      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOGN182B70Y6A111C2000000</guid>
-      <description>【日本経済新聞】NVIDIAの暫定CEOが、先端AI半導体の中国向け輸出を停止したと言及した。</description>
-      <pubDate>Thu, 19 Nov 2026 00:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>米政府、AI半導体に対する輸出規制の「抜け穴」を埋める新規則を発表</title>
-      <link>https://news.yahoo.co.jp/articles/b90cda80af888d2577baa716207913ed4c617905</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b90cda80af888d2577baa716207913ed4c617905</guid>
-      <description>【Forbes JAPAN / Yahoo!ニュース】米政府が第三国経由でのAI半導体の中国流入を防ぐ新たな輸出規制の規則を発表した。</description>
-      <pubDate>Thu, 19 Nov 2026 00:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

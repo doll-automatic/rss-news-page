@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Nov 2026 18:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:02:20 +0000</lastBuildDate>
     <item>
       <title>世界株安、半導体発のリスク回避加速 日経平均3007円下げ</title>
       <link>https://www.nikkei.com/article/DGXZQOUB203RT0Q6A121C2000000/</link>
@@ -84,6 +84,20 @@
       <pubDate>Fri, 20 Nov 2026 06:02:17 +0000</pubDate>
     </item>
     <item>
+      <title>外為14時 円相場、堅調 159円台前半 株一段安で</title>
+      <link>https://nikkei.com/article/DGXZQOFL204H90Q6A121C2000000</link>
+      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOFL204H90Q6A121C2000000</guid>
+      <description>【日本経済新聞】株安を受けたリスク回避の円買いで、円相場は159円台前半で堅調に推移した。</description>
+      <pubDate>Fri, 20 Nov 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均は大幅反落、アンソロピックIPOに向けた換金売りを警戒か／相場概況</title>
+      <link>https://finance.yahoo.co.jp/news/detail/31073608314df403069834f64dc5138211a00ebb</link>
+      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/31073608314df403069834f64dc5138211a00ebb</guid>
+      <description>【フィスコ (Yahoo!ファイナンス)】20日の日経平均は大幅反落。アンソロピックIPOに向けた換金売りが警戒された。</description>
+      <pubDate>Fri, 20 Nov 2026 00:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ドル/円見通し：159円台後半で推移｜160円手前まで上昇も伸び悩む</title>
       <link>https://oanda.jp/lab-education/market_news/report_usdjpy_20261120</link>
       <guid isPermaLink="true">https://oanda.jp/lab-education/market_news/report_usdjpy_20261120</guid>
@@ -152,20 +166,6 @@
       <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261119/878405.html</guid>
       <description>【財経新聞】後場の日経平均は前日比70.85円安の58,953円で始まり、JX金属や古河電工などが下落した。</description>
       <pubDate>Thu, 19 Nov 2026 06:02:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>11/19の強弱材料</title>
-      <link>https://www.zaikei.co.jp/article/20261119/878312.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261119/878312.html</guid>
-      <description>【財経新聞】11月19日の日本株市場の強弱材料をまとめた記事。前日の日経平均は59,024円で上昇した。</description>
-      <pubDate>Thu, 19 Nov 2026 00:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>本日の決算発表予定 東京海上、ＭＳ＆ＡＤ、ＳＯＭＰＯなど（11月19日）</title>
-      <link>https://finance.yahoo.co.jp/news/detail/37abd2f7f0a0146d8dcdb6c45f0bf6124a6a0bb7</link>
-      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/37abd2f7f0a0146d8dcdb6c45f0bf6124a6a0bb7</guid>
-      <description>【株探ニュース / Yahoo!ファイナンス】11月19日は大手損保など保険株を中心に決算発表が予定されている。</description>
-      <pubDate>Thu, 19 Nov 2026 00:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

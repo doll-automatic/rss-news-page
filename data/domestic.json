@@ -1,5 +1,21 @@
 [
   {
+    "title": "群馬・伊勢崎3人死亡事故 男に懲役20年が確定",
+    "link": "https://news.yahoo.co.jp/articles/188a7f7738188f4914659e18c3a636b16fdab804",
+    "description": "群馬県伊勢崎市の3人死亡事故で、被告の男の懲役20年の判決が確定した。",
+    "source": "ABEMA TIMES (Yahoo!ニュース)",
+    "published": null,
+    "fetched_at": "2026-11-21T00:02:20.160774+00:00"
+  },
+  {
+    "title": "国道23号でバイクと大型トラック衝突 17歳高校生死亡 三重・四日市市",
+    "link": "https://news.yahoo.co.jp/articles/0df06e1c839d1c4dfd9323410b3ba93da7b8eb1b",
+    "description": "三重県四日市市の国道23号でバイクと大型トラックが衝突し、17歳の高校生が死亡した。",
+    "source": "三重テレビ放送 (Yahoo!ニュース)",
+    "published": null,
+    "fetched_at": "2026-11-21T00:02:20.160774+00:00"
+  },
+  {
     "title": "大阪・ミナミで6階建てビル火災 「暖炉から火が出た」店員通報 消防車33台とヘリコプター1機が出動 客と従業員は避難 けが人はなし",
     "link": "https://news.yahoo.co.jp/articles/cac8db5d5db5cd996ea2a66ae276bdf7a0768af0",
     "description": "大阪・心斎橋の6階建てビルで火災。客と従業員は避難し、けが人はいなかった。",
@@ -128,27 +144,11 @@
     "fetched_at": "2026-11-19T06:02:04.531667+00:00"
   },
   {
-    "title": "熊本県で最大震度5弱 避難指示や一部通行止めも",
-    "link": "https://news.ksb.co.jp/ann/article/17062755",
-    "description": "19日未明、熊本県天草・芦北地方を震源とする地震で最大震度5弱を観測。水俣市などに避難指示が出て九州道が一部通行止めとなった。",
-    "source": "KSB瀬戸内海放送",
-    "published": null,
-    "fetched_at": "2026-11-19T00:02:00.356384+00:00"
-  },
-  {
-    "title": "熊本・水俣市など震度5弱 九州道一部通行止め 1週間程度は同程度の地震に注意",
-    "link": "https://news.yahoo.co.jp/articles/8585961759d6cdf109ee1d6cecc51377cedbd42c",
-    "description": "M5.7の地震で、気象庁は1週間程度は同程度の地震に注意するよう呼びかけた。",
-    "source": "熊本日日新聞 / Yahoo!ニュース",
-    "published": null,
-    "fetched_at": "2026-11-19T00:02:00.356384+00:00"
-  },
-  {
-    "title": "新給付の対象「年収下限は56万円程度」案 政府・与党が公明に提示",
-    "link": "https://www.nikkei.com/article/DGXZQOUA18BDI0Y6A111C2000000/",
-    "description": "消費減税に合わせた新給付の対象年収下限を56万円程度とする案を政府・与党が公明党に示した。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-19T00:02:00.356384+00:00"
+    "title": "受刑者の選挙権制限、最高裁は合憲判断も「見直し」言及…6裁判官は「違憲無効」",
+    "link": "https://news.yahoo.co.jp/articles/b706ee40b9ff9247cbe32c81dc77d7521c6bb360",
+    "description": "最高裁大法廷が受刑者の選挙権制限を初めて合憲と判断。15人中6人は違憲とし、国会での検討も求められた。",
+    "source": "弁護士ドットコムニュース (Yahoo!ニュース)",
+    "published": "2026-11-19T12:00:00+09:00",
+    "fetched_at": "2026-11-21T00:02:20.160774+00:00"
   }
 ]

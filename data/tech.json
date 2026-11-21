@@ -1,5 +1,13 @@
 [
   {
+    "title": "AnthropicがNASDAQに上場。時価総額は一時2兆ドル超え、史上最大規模のIPOに",
+    "link": "https://news.yahoo.co.jp/articles/0f4c10839ae41fb693053a3e6eb7669d326d0546",
+    "description": "Anthropicの上場で時価総額は一時2兆ドルを超え、史上最大規模のIPOとなった。",
+    "source": "テクノエッジ (Yahoo!ニュース)",
+    "published": "2026-11-21T08:00:00+09:00",
+    "fetched_at": "2026-11-21T00:02:20.160774+00:00"
+  },
+  {
     "title": "米政府、中国テンセントやアリババへのAI半導体販売を承認－公開資料",
     "link": "https://bloomberg.com/jp/news/articles/2026-11-19/TORST8RKV2U100?srnd=jp-homepage",
     "description": "米政府がテンセントやアリババへのAI半導体販売を承認していたことが公開資料で分かった。",
@@ -80,6 +88,14 @@
     "fetched_at": "2026-11-20T00:02:08.948526+00:00"
   },
   {
+    "title": "AnthropicがNasdaq上場、IPO調達額は史上最大の813億ドル 初値は公開価格を34％上回る",
+    "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003354/",
+    "description": "AnthropicがNasdaqに上場し、調達額は史上最大の813億ドル。初値は公開価格を34％上回った。",
+    "source": "ITmedia NEWS",
+    "published": "2026-11-20T09:00:00+09:00",
+    "fetched_at": "2026-11-21T00:02:20.160774+00:00"
+  },
+  {
     "title": "アンソロピック、IPO公開価格83ドルに引き上げ 評価額は1.5兆ドル",
     "link": "https://www.nikkei.com/article/DGXZQOGN18CWP0Y6A111C2000000/",
     "description": "アンソロピックはナスダック上場に向け、公開価格を1株83ドルに引き上げた。評価額は約1.5兆ドルとなる。",
@@ -126,21 +142,5 @@
     "source": "BUSINESS INSIDER JAPAN",
     "published": null,
     "fetched_at": "2026-11-19T06:02:04.531667+00:00"
-  },
-  {
-    "title": "NVIDIA、先端AI半導体の中国輸出停止 暫定CEOが言及",
-    "link": "https://nikkei.com/article/DGXZQOGN182B70Y6A111C2000000",
-    "description": "NVIDIAの暫定CEOが、先端AI半導体の中国向け輸出を停止したと言及した。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-19T00:02:00.356384+00:00"
-  },
-  {
-    "title": "米政府、AI半導体に対する輸出規制の「抜け穴」を埋める新規則を発表",
-    "link": "https://news.yahoo.co.jp/articles/b90cda80af888d2577baa716207913ed4c617905",
-    "description": "米政府が第三国経由でのAI半導体の中国流入を防ぐ新たな輸出規制の規則を発表した。",
-    "source": "Forbes JAPAN / Yahoo!ニュース",
-    "published": null,
-    "fetched_at": "2026-11-19T00:02:00.356384+00:00"
   }
 ]
