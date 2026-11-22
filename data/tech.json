@@ -120,35 +120,11 @@
     "fetched_at": "2026-11-20T12:02:21.791492+00:00"
   },
   {
-    "title": "米AI開発企業アンソロピックが上場 時価総額約319兆円の一方で抗議活動も",
-    "link": "https://news.yahoo.co.jp/articles/de4e802ebf5d937219a3d75c8e2bfc3f5929501c",
-    "description": "米AI開発企業アンソロピックがナスダックに上場した。時価総額は約319兆円に達した一方、抗議活動も起きた。",
-    "source": "TBS NEWS DIG",
-    "published": null,
-    "fetched_at": "2026-11-20T06:02:17.196036+00:00"
-  },
-  {
-    "title": "AIが脆弱性の発見から攻撃まで自動実行--Google、悪用事例を初確認",
-    "link": "https://news.yahoo.co.jp/articles/6605a5686adef4b42ad2eb46bdff9c90fc7a7e70",
-    "description": "GoogleのGTIGが、AIが人の介入なしに脆弱性発見から攻撃実行まで行う事例を初めて確認したと報告した。",
-    "source": "CNET Japan",
-    "published": null,
-    "fetched_at": "2026-11-20T00:02:08.948526+00:00"
-  },
-  {
-    "title": "グーグル、人間が介入しないAIによる脆弱性攻撃を確認 攻撃はより高速に",
-    "link": "https://www.watch.impress.co.jp/docs/news/2156870.html",
-    "description": "Googleは人間が介入しないAIによる脆弱性攻撃を確認し、攻撃の高速化に警鐘を鳴らした。",
-    "source": "Impress Watch",
-    "published": null,
-    "fetched_at": "2026-11-20T00:02:08.948526+00:00"
-  },
-  {
-    "title": "Ubisoft、生成AIスタジオ「Motherbrain」を立ち上げ",
-    "link": "https://mezha.net/jp/news/mezha-bbe72bc459709c96f4a71a81_ubisoft-launches-generative-ai-studio-motherbrain",
-    "description": "Ubisoftが生成AI特化の子会社を設立し、スマートNPCなどゲーム制作向けAIツールを開発する。",
-    "source": "Mezha",
-    "published": null,
-    "fetched_at": "2026-11-20T00:02:08.948526+00:00"
+    "title": "政府システムで「個人情報」漏えいか 7月から“非正規のアクセス”――デジタル庁の説明は？",
+    "link": "https://www.itmedia.co.jp/business/articles/2611/20/news065.html",
+    "description": "デジタル庁の政府向けサービスで、7月から正規の相手以外によるアクセスがあり個人情報が漏えいした可能性がある。同庁の説明を整理した。",
+    "source": "ITmedia ビジネスオンライン",
+    "published": "2026-11-20T20:00:00+09:00",
+    "fetched_at": "2026-11-22T06:02:18.227681+00:00"
   }
 ]

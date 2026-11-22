@@ -1,5 +1,29 @@
 [
   {
+    "title": "［株式週間展望］外国為替市場や長期金利に注目",
+    "link": "https://okinawatimes.co.jp/articles/-/1971790",
+    "description": "来週の株式市場は、AI・半導体関連株への期待が揺らぐ中、為替市場や長期金利の動向が注目される。",
+    "source": "沖縄タイムス",
+    "published": null,
+    "fetched_at": "2026-11-22T06:02:18.227681+00:00"
+  },
+  {
+    "title": "来週のドル円相場はどうなる？11/23週のイベント予定「米PCE・東京都区部CPIに注目！160円を巡る攻防が続く見込み」",
+    "link": "https://gaitame.com/media/entry/2026/11/22/070000",
+    "description": "来週のドル円は米PCEや東京都区部CPIに注目が集まり、160円を巡る攻防が続く見通し。",
+    "source": "外為どっとコム",
+    "published": "2026-11-22T07:00:00+09:00",
+    "fetched_at": "2026-11-22T06:02:18.227681+00:00"
+  },
+  {
+    "title": "豪ドル/円 見通し「10カ月ぶり安値へ下落...利上げ終了の見方強まる中、10月CPIに注目」",
+    "link": "https://gaitame.com/media/entry/2026/11/22/060000",
+    "description": "豪ドル/円は10カ月ぶり安値へ下落。利上げ終了の見方が強まる中、10月CPIが注目される。",
+    "source": "外為どっとコム",
+    "published": "2026-11-22T06:00:00+09:00",
+    "fetched_at": "2026-11-22T06:02:18.227681+00:00"
+  },
+  {
     "title": "東京為替概況：ドル・円は軟調、世界株安で",
     "link": "https://zai.diamond.jp/articles/-/499441",
     "description": "世界株安を背景にリスク回避の円買いが入り、ドル円は軟調に推移した。",
@@ -134,69 +158,5 @@
     "source": "Investing.com（Fisco）",
     "published": "2026-11-20T15:30:00+09:00",
     "fetched_at": "2026-11-21T06:02:08.663828+00:00"
-  },
-  {
-    "title": "日経平均は1266円安、寄り後は下げ幅拡大",
-    "link": "https://jp.investing.com/news/forex-news/article-1765322",
-    "description": "20日の東京株式市場で日経平均は大幅安となり、寄り付き後に下げ幅を拡大した。",
-    "source": "Investing.com(Fisco)",
-    "published": null,
-    "fetched_at": "2026-11-20T06:02:17.196036+00:00"
-  },
-  {
-    "title": "日経平均2000円安、アンソロピック時間外で下落",
-    "link": "https://fx.minkabu.jp/news/385035",
-    "description": "AI関連株への売りで日経平均が約2000円安となった。アンソロピックの時間外取引での下落が影響した。",
-    "source": "みんかぶ FX/為替",
-    "published": null,
-    "fetched_at": "2026-11-20T06:02:17.196036+00:00"
-  },
-  {
-    "title": "日経平均、1900円超安＝東京株式",
-    "link": "https://finance.yahoo.co.jp/news/detail/4fb0980fead637b14dde931ddc29b33ce89fdd3c",
-    "description": "東京株式市場で日経平均が1900円超下落した。",
-    "source": "時事通信",
-    "published": null,
-    "fetched_at": "2026-11-20T06:02:17.196036+00:00"
-  },
-  {
-    "title": "東京円、159円台前半",
-    "link": "https://www.chunichi.co.jp/article/1342109",
-    "description": "20日の東京外国為替市場で円相場は1ドル=159円台前半で推移した。",
-    "source": "中日新聞Web",
-    "published": null,
-    "fetched_at": "2026-11-20T06:02:17.196036+00:00"
-  },
-  {
-    "title": "外為14時 円相場、堅調 159円台前半 株一段安で",
-    "link": "https://nikkei.com/article/DGXZQOFL204H90Q6A121C2000000",
-    "description": "株安を受けたリスク回避の円買いで、円相場は159円台前半で堅調に推移した。",
-    "source": "日本経済新聞",
-    "published": "2026-11-20T14:00:00+09:00",
-    "fetched_at": "2026-11-21T00:02:20.160774+00:00"
-  },
-  {
-    "title": "日経平均は大幅反落、アンソロピックIPOに向けた換金売りを警戒か／相場概況",
-    "link": "https://finance.yahoo.co.jp/news/detail/31073608314df403069834f64dc5138211a00ebb",
-    "description": "20日の日経平均は大幅反落。アンソロピックIPOに向けた換金売りが警戒された。",
-    "source": "フィスコ (Yahoo!ファイナンス)",
-    "published": "2026-11-20T09:30:00+09:00",
-    "fetched_at": "2026-11-21T00:02:20.160774+00:00"
-  },
-  {
-    "title": "ドル/円見通し：159円台後半で推移｜160円手前まで上昇も伸び悩む",
-    "link": "https://oanda.jp/lab-education/market_news/report_usdjpy_20261120",
-    "description": "ドル円は159円台後半で推移。前日は159.967円まで上昇したが160円には届かなかった。",
-    "source": "OANDA",
-    "published": null,
-    "fetched_at": "2026-11-20T00:02:08.948526+00:00"
-  },
-  {
-    "title": "新給付の対象「年収下限は56万円程度」案 政府・与党が公明に提示",
-    "link": "https://www.nikkei.com/article/DGXZQOUA18BDI0Y6A111C2000000/",
-    "description": "消費減税に合わせた所得連動の支援金で、政府・与党が年収下限56万円程度の案を公明党に示した。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-20T00:02:08.948526+00:00"
   }
 ]

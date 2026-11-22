@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 00:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:02:18 +0000</lastBuildDate>
+    <item>
+      <title>【関文科相パーティー問題】進退、首相判断が焦点 「辞任必要なし」強硬論も</title>
+      <link>https://www.niigata-nippo.co.jp/articles/-/947608</link>
+      <guid isPermaLink="true">https://www.niigata-nippo.co.jp/articles/-/947608</guid>
+      <description>【新潟日報】関文科相のパーティー問題で、進退は高市首相の判断が焦点に。与党内には辞任不要との強硬論も根強い。</description>
+      <pubDate>Sun, 22 Nov 2026 06:02:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>「法律違反に問われる可能性」「辞任すべき」 関文科大臣の“議員会館パーティー”を野党が非難</title>
+      <link>https://news.infoseek.co.jp/article/tbs_3091779/</link>
+      <guid isPermaLink="true">https://news.infoseek.co.jp/article/tbs_3091779/</guid>
+      <description>【TBS】関文科相の議員会館でのパーティーについて、野党が法律違反の可能性を指摘し辞任を求めた。</description>
+      <pubDate>Sun, 22 Nov 2026 06:02:18 +0000</pubDate>
+    </item>
     <item>
       <title>関文科相交代の可能性を示唆 自民幹事長「法案成立が最重要」</title>
       <link>https://news.yahoo.co.jp/articles/ca6ba8b4c03d1bf15bd6ba8a8a0d2f38385bac41</link>
@@ -61,6 +75,13 @@
       <guid isPermaLink="true">https://www.newsweekjapan.jp/articles/-/339997</guid>
       <description>【ニューズウィーク日本版（ロイター）】次期防衛力整備計画をめぐり、財務省が5年間で50兆円台とする基準を防衛省に示した。</description>
       <pubDate>Sat, 21 Nov 2026 06:02:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>関文部科学相の辞任論、与党内で拡大…鈴木幹事長「法案成立が一番重要」</title>
+      <link>https://news.yahoo.co.jp/articles/b58c567f563214130c62b7bad621248ed77962cc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b58c567f563214130c62b7bad621248ed77962cc</guid>
+      <description>【読売新聞オンライン】関文科相の政治資金パーティー問題で与党内に辞任論が広がり、自民党の鈴木幹事長は法案成立を最優先する考えを示した。</description>
+      <pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
     </item>
     <item>
       <title>埼玉・三郷の大型物流施設で火災 5階建て、負傷者なし</title>
@@ -119,6 +140,13 @@
       <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
     </item>
     <item>
+      <title>デジタル庁、政府のファイル共有サービスで情報漏えいの可能性　約3カ月半にわたり不審なアクセス</title>
+      <link>https://news.mynavi.jp/techplus/article/20261120-5369740/</link>
+      <guid isPermaLink="true">https://news.mynavi.jp/techplus/article/20261120-5369740/</guid>
+      <description>【マイナビニュース】デジタル庁は、政府機関が使うファイル共有サービスで7月30日から11月12日まで不審なアクセスがあり、情報が流出した可能性があると発表した。</description>
+      <pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>高市首相とトランプ大統領が電話 「米中ロ会談の詳細な説明受けた」</title>
       <link>https://www.nikkei.com/article/DGXZQOUA199VK0Z11C26A1000000/</link>
       <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA199VK0Z11C26A1000000/</guid>
@@ -138,34 +166,6 @@
       <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026112001150&amp;g=eco</guid>
       <description>【時事ドットコム】デジタル庁が運用する政府共通システムのファイル共有サービスに不正アクセスがあり、行政文書が流出した可能性がある。</description>
       <pubDate>Fri, 20 Nov 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>前橋市の市街地で今日もクマの目撃情報、全小中学校また休校措置</title>
-      <link>https://news.yahoo.co.jp/articles/177e79e8b213845e1a43a049487f88af57780f02</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/177e79e8b213845e1a43a049487f88af57780f02</guid>
-      <description>【スポニチアネックス】群馬県前橋市の市街地で20日もクマが目撃され、市内の小中学校が再び休校となった。親グマは捕獲されていない。</description>
-      <pubDate>Fri, 20 Nov 2026 06:02:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>陸自小銃発射事件初公判、弁護側が刑事責任能力なかったと無罪主張</title>
-      <link>https://www.chunichi.co.jp/article/1342099</link>
-      <guid isPermaLink="true">https://www.chunichi.co.jp/article/1342099</guid>
-      <description>【中日新聞Web】岐阜市の陸自射撃場で隊員3人が死傷した事件の初公判が岐阜地裁で開かれ、弁護側は責任能力がなかったとして無罪を主張した。</description>
-      <pubDate>Fri, 20 Nov 2026 06:02:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>ネックレス奪い男逃走＝貴金属店でスプレー噴射―警視庁</title>
-      <link>https://news.infoseek.co.jp/article/jiji_2026111900954/</link>
-      <guid isPermaLink="true">https://news.infoseek.co.jp/article/jiji_2026111900954/</guid>
-      <description>【時事通信】19日午後、東京都町田市の貴金属店で男が店員にスプレーを噴射しネックレスを奪い逃走。警視庁が強盗傷害事件として捜査。</description>
-      <pubDate>Fri, 20 Nov 2026 00:02:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>年収下限は56万円程度 所得連動給付で検討表明 片山財務相</title>
-      <link>https://news.yahoo.co.jp/articles/51723a0d8b8a8c7f2a4e1ab311e10e18e61be6f8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/51723a0d8b8a8c7f2a4e1ab311e10e18e61be6f8</guid>
-      <description>【時事通信】片山財務相が参院特別委で、所得連動給付の年収下限を56万円程度とする方向で検討すると表明した。</description>
-      <pubDate>Fri, 20 Nov 2026 00:02:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
