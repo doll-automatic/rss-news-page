@@ -5,7 +5,35 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 06:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:02:27 +0000</lastBuildDate>
+    <item>
+      <title>北塩原村の孤立状態解消 国道と県道の通行止め解除 会津地方大雪</title>
+      <link>https://news.yahoo.co.jp/articles/c0770d5d0e3f7916d28326e9593d67066856d9df</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c0770d5d0e3f7916d28326e9593d67066856d9df</guid>
+      <description>【福島民報】大雪による倒木で孤立していた福島県北塩原村の国道・県道の通行止めが解除され、孤立状態が解消した。</description>
+      <pubDate>Sun, 22 Nov 2026 12:02:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>益永利明死刑囚が死亡＝連続企業爆破事件―法務省</title>
+      <link>https://www.excite.co.jp/news/article/Jiji_3917307/</link>
+      <guid isPermaLink="true">https://www.excite.co.jp/news/article/Jiji_3917307/</guid>
+      <description>【時事通信】連続企業爆破事件で死刑が確定していた益永利明死刑囚が東京拘置所で死亡したと法務省が発表した。</description>
+      <pubDate>Sun, 22 Nov 2026 12:02:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>玉木氏、文科相は「問責に値」</title>
+      <link>https://www.excite.co.jp/news/article/Jiji_3917188/</link>
+      <guid isPermaLink="true">https://www.excite.co.jp/news/article/Jiji_3917188/</guid>
+      <description>【時事通信】国民民主党の玉木代表が、関文科相は問責に値するとして進退の判断を求めた。</description>
+      <pubDate>Sun, 22 Nov 2026 12:02:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>関東で火災相次ぐ 死者も 広い範囲に乾燥注意報</title>
+      <link>https://news.ksb.co.jp/ann/article/17072116</link>
+      <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17072116</guid>
+      <description>【テレビ朝日系（ANN）】関東で火災が相次ぎ死者も出た。広い範囲に乾燥注意報が出ており注意が必要。</description>
+      <pubDate>Sun, 22 Nov 2026 12:02:27 +0000</pubDate>
+    </item>
     <item>
       <title>【関文科相パーティー問題】進退、首相判断が焦点 「辞任必要なし」強硬論も</title>
       <link>https://www.niigata-nippo.co.jp/articles/-/947608</link>
@@ -145,27 +173,6 @@
       <guid isPermaLink="true">https://news.mynavi.jp/techplus/article/20261120-5369740/</guid>
       <description>【マイナビニュース】デジタル庁は、政府機関が使うファイル共有サービスで7月30日から11月12日まで不審なアクセスがあり、情報が流出した可能性があると発表した。</description>
       <pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>高市首相とトランプ大統領が電話 「米中ロ会談の詳細な説明受けた」</title>
-      <link>https://www.nikkei.com/article/DGXZQOUA199VK0Z11C26A1000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA199VK0Z11C26A1000000/</guid>
-      <description>【日本経済新聞】高市首相は19日夜、トランプ米大統領と約20分電話会談し、米中ロ首脳会談の内容について説明を受けたと述べた。</description>
-      <pubDate>Fri, 20 Nov 2026 12:02:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>高市外交はどう行き詰まっているのか 頼みのトランプ氏とは帰国後に「電話会談」</title>
-      <link>https://www.tokyo-np.co.jp/article/529695</link>
-      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/529695</guid>
-      <description>【東京新聞】米中ロ首脳会談で日本が蚊帳の外に置かれ、高市首相の米国重視外交が行き詰まりつつあると指摘する記事。</description>
-      <pubDate>Fri, 20 Nov 2026 12:02:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>デジタル庁運用システムに不正アクセス 行政文書漏えいか</title>
-      <link>https://www.jiji.com/jc/article?k=2026112001150&amp;g=eco</link>
-      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026112001150&amp;g=eco</guid>
-      <description>【時事ドットコム】デジタル庁が運用する政府共通システムのファイル共有サービスに不正アクセスがあり、行政文書が流出した可能性がある。</description>
-      <pubDate>Fri, 20 Nov 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

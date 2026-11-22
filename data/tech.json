@@ -110,21 +110,5 @@
     "source": "毎日新聞",
     "published": null,
     "fetched_at": "2026-11-20T18:02:42.751744+00:00"
-  },
-  {
-    "title": "アンソロピック上場、17%高で好発進 AIリスク「回避できる」",
-    "link": "https://nikkei.com/article/DGXZQOGN18CL00Y6A111C2000000",
-    "description": "米アンソロピックがナスダックに上場し、初日の終値は公開価格を17%上回った。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-20T12:02:21.791492+00:00"
-  },
-  {
-    "title": "政府システムで「個人情報」漏えいか 7月から“非正規のアクセス”――デジタル庁の説明は？",
-    "link": "https://www.itmedia.co.jp/business/articles/2611/20/news065.html",
-    "description": "デジタル庁の政府向けサービスで、7月から正規の相手以外によるアクセスがあり個人情報が漏えいした可能性がある。同庁の説明を整理した。",
-    "source": "ITmedia ビジネスオンライン",
-    "published": "2026-11-20T20:00:00+09:00",
-    "fetched_at": "2026-11-22T06:02:18.227681+00:00"
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "title": "東京株、3007円安 AI・半導体中心に急落",
+    "link": "https://news.yahoo.co.jp/articles/5cb826447a2f231be6aaaec8a6da400dcf3373db",
+    "description": "20日の日経平均は3007円安の5万6436円で終え、4月以来の安値。AI・半導体株が急落した。",
+    "source": "時事通信",
+    "published": null,
+    "fetched_at": "2026-11-22T12:02:27.074495+00:00"
+  },
+  {
+    "title": "アンソロピック株が上場2日目に9%急落、ナスダック5%安で世界のAI相場に波及",
+    "link": "https://news.yahoo.co.jp/articles/412e725b6a977edf5cd20c163d8b5e15effe574a",
+    "description": "米アンソロピックの株が上場2日目に9%下落し、ナスダックも5%安となってAI相場全体に波及した。",
+    "source": "ビジネス＋IT",
+    "published": null,
+    "fetched_at": "2026-11-22T12:02:27.074495+00:00"
+  },
+  {
     "title": "［株式週間展望］外国為替市場や長期金利に注目",
     "link": "https://okinawatimes.co.jp/articles/-/1971790",
     "description": "来週の株式市場は、AI・半導体関連株への期待が揺らぐ中、為替市場や長期金利の動向が注目される。",
@@ -133,30 +149,6 @@
     "description": "欧州株安を受けリスク回避の円買いが再燃し、ドル円は158円台後半へ下落した。",
     "source": "みんかぶFX",
     "published": "2026-11-20T21:16:00+09:00",
-    "fetched_at": "2026-11-21T06:02:08.663828+00:00"
-  },
-  {
-    "title": "日経平均大引け：前日比3007.56円安の56436.65円",
-    "link": "https://zai.diamond.jp/articles/-/499430",
-    "description": "20日の東京株式市場で日経平均は3000円超下落し、5%超の大幅安で取引を終えた。",
-    "source": "ザイFX!",
-    "published": null,
-    "fetched_at": "2026-11-20T12:02:21.791492+00:00"
-  },
-  {
-    "title": "ドル円、159.05円まで下値広げる 日経平均3000円近く下落・米金利低下幅拡大",
-    "link": "https://finance.yahoo.co.jp/news/detail/fe0815bc0b7af89049735daaebc09461e467e379",
-    "description": "日経平均の急落と米金利低下を受け、ドル円は159.05円まで下値を広げた。",
-    "source": "トレーダーズ・ウェブ",
-    "published": null,
-    "fetched_at": "2026-11-20T12:02:21.791492+00:00"
-  },
-  {
-    "title": "日経平均大引け：前日比3007.56円安の56436.65円",
-    "link": "https://jp.investing.com/news/forex-news/article-1765573",
-    "description": "20日の日経平均は3000円超の大幅安となり、終値は56,436.65円。半導体・AI関連株が大きく下げた。",
-    "source": "Investing.com（Fisco）",
-    "published": "2026-11-20T15:30:00+09:00",
     "fetched_at": "2026-11-21T06:02:08.663828+00:00"
   }
 ]

@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 06:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:02:27 +0000</lastBuildDate>
     <item>
       <title>アンソロピック株急落、AI株に世界的な売り</title>
       <link>https://www.bloomberg.com/jp/news/articles/2026-11-20/TOSYAFKK3NY900</link>
@@ -103,20 +103,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/36c8e2d9de41c3dd1687fd567eb28ed3a990fa35</guid>
       <description>【毎日新聞】アンソロピックが過去最大規模のIPOで約13兆円を調達した。</description>
       <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>アンソロピック上場、17%高で好発進 AIリスク「回避できる」</title>
-      <link>https://nikkei.com/article/DGXZQOGN18CL00Y6A111C2000000</link>
-      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOGN18CL00Y6A111C2000000</guid>
-      <description>【日本経済新聞】米アンソロピックがナスダックに上場し、初日の終値は公開価格を17%上回った。</description>
-      <pubDate>Fri, 20 Nov 2026 12:02:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>政府システムで「個人情報」漏えいか 7月から“非正規のアクセス”――デジタル庁の説明は？</title>
-      <link>https://www.itmedia.co.jp/business/articles/2611/20/news065.html</link>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/business/articles/2611/20/news065.html</guid>
-      <description>【ITmedia ビジネスオンライン】デジタル庁の政府向けサービスで、7月から正規の相手以外によるアクセスがあり個人情報が漏えいした可能性がある。同庁の説明を整理した。</description>
-      <pubDate>Fri, 20 Nov 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
