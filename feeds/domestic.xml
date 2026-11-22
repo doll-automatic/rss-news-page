@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 18:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:01:59 +0000</lastBuildDate>
     <item>
       <title>関文科相交代の可能性を示唆 自民幹事長「法案成立が最重要」</title>
       <link>https://news.yahoo.co.jp/articles/ca6ba8b4c03d1bf15bd6ba8a8a0d2f38385bac41</link>
@@ -63,6 +63,20 @@
       <pubDate>Sat, 21 Nov 2026 06:02:08 +0000</pubDate>
     </item>
     <item>
+      <title>埼玉・三郷の大型物流施設で火災 5階建て、負傷者なし</title>
+      <link>https://www.nikkei.com/article/DGXZQOUD211G50R21C26A1000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUD211G50R21C26A1000000/</guid>
+      <description>【日本経済新聞】21日朝、埼玉県三郷市の5階建て大型物流施設で火災が発生し、消火活動が続いた。けが人はいない。</description>
+      <pubDate>Sat, 21 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>国道を歩いて横断していた女性、バックしてきた除雪車にはねられ死亡</title>
+      <link>https://news.infoseek.co.jp/article/yomiuri_20261121_gyt1t00260</link>
+      <guid isPermaLink="true">https://news.infoseek.co.jp/article/yomiuri_20261121_gyt1t00260</guid>
+      <description>【読売新聞】福井県勝山市の国道で、横断中の71歳女性がバックしてきた除雪車にはねられ死亡した。</description>
+      <pubDate>Sat, 21 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>群馬・伊勢崎3人死亡事故 男に懲役20年が確定</title>
       <link>https://news.yahoo.co.jp/articles/188a7f7738188f4914659e18c3a636b16fdab804</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/188a7f7738188f4914659e18c3a636b16fdab804</guid>
@@ -117,6 +131,13 @@
       <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/529695</guid>
       <description>【東京新聞】米中ロ首脳会談で日本が蚊帳の外に置かれ、高市首相の米国重視外交が行き詰まりつつあると指摘する記事。</description>
       <pubDate>Fri, 20 Nov 2026 12:02:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>デジタル庁運用システムに不正アクセス 行政文書漏えいか</title>
+      <link>https://www.jiji.com/jc/article?k=2026112001150&amp;g=eco</link>
+      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026112001150&amp;g=eco</guid>
+      <description>【時事ドットコム】デジタル庁が運用する政府共通システムのファイル共有サービスに不正アクセスがあり、行政文書が流出した可能性がある。</description>
+      <pubDate>Fri, 20 Nov 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>前橋市の市街地で今日もクマの目撃情報、全小中学校また休校措置</title>
