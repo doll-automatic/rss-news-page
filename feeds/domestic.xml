@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 18:01:56 +0000</lastBuildDate>
+    <item>
+      <title>東武日光線の特急列車が、踏切内で立ち往生していた乗用車と接触 けがなし</title>
+      <link>https://news.yahoo.co.jp/articles/2ab3b4e02445aff391f96cdf14a21bc269819237</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2ab3b4e02445aff391f96cdf14a21bc269819237</guid>
+      <description>【テレビ朝日系（ANN）】特急と踏切内の乗用車が接触したが、男性と乗客・乗務員約300人にけがはなかった。</description>
+      <pubDate>Sun, 22 Nov 2026 18:01:56 +0000</pubDate>
+    </item>
     <item>
       <title>北塩原村の孤立状態解消 国道と県道の通行止め解除 会津地方大雪</title>
       <link>https://news.yahoo.co.jp/articles/c0770d5d0e3f7916d28326e9593d67066856d9df</link>
@@ -166,13 +173,6 @@
       <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026112000560&amp;g=pol</guid>
       <description>【時事通信】政府は閣議で、元参院議員の吉村剛太郎さんに従三位を叙し旭日重光章を贈ることを決めた。</description>
       <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>デジタル庁、政府のファイル共有サービスで情報漏えいの可能性　約3カ月半にわたり不審なアクセス</title>
-      <link>https://news.mynavi.jp/techplus/article/20261120-5369740/</link>
-      <guid isPermaLink="true">https://news.mynavi.jp/techplus/article/20261120-5369740/</guid>
-      <description>【マイナビニュース】デジタル庁は、政府機関が使うファイル共有サービスで7月30日から11月12日まで不審なアクセスがあり、情報が流出した可能性があると発表した。</description>
-      <pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 18:01:56 +0000</lastBuildDate>
     <item>
       <title>東京株、3007円安 AI・半導体中心に急落</title>
       <link>https://news.yahoo.co.jp/articles/5cb826447a2f231be6aaaec8a6da400dcf3373db</link>
@@ -91,6 +91,13 @@
       <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>為替週間見通し：伸び悩みか、米利上げ期待も為替介入への警戒が重し</title>
+      <link>https://zaikei.co.jp/article/20261121/878683.html</link>
+      <guid isPermaLink="true">https://zaikei.co.jp/article/20261121/878683.html</guid>
+      <description>【财经新闻】ドル円は158円台後半で推移し、160円付近では介入警戒から上値が重いとの見方。</description>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ドル円、158円台半ばまで下落 リスク回避の円高が強まる＝NY為替概況</title>
       <link>https://fx.minkabu.jp/news/385147</link>
       <guid isPermaLink="true">https://fx.minkabu.jp/news/385147</guid>
@@ -131,13 +138,6 @@
       <guid isPermaLink="true">https://media.rakuten-sec.net/articles/-/54108</guid>
       <description>【楽天証券】日経平均は7カ月ぶり安値。AI一極集中の修正が進んだとの見方を解説。</description>
       <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>欧州安とともに円買い再燃 ドル円１５８円台後半へ＝ロンドン為替概況</title>
-      <link>https://fx.minkabu.jp/news/385111</link>
-      <guid isPermaLink="true">https://fx.minkabu.jp/news/385111</guid>
-      <description>【みんかぶFX】欧州株安を受けリスク回避の円買いが再燃し、ドル円は158円台後半へ下落した。</description>
-      <pubDate>Fri, 20 Nov 2026 12:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

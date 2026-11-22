@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 18:01:56 +0000</lastBuildDate>
+    <item>
+      <title>Google、サイバー犯罪者が自律型ソフトウェアでエクスプロイトを構築・実行していると発表</title>
+      <link>https://mezha.net/jp/news/mezha-ab1b005a49ff84a24256944b_google-says-cybercriminals-are-using-autonomous</link>
+      <guid isPermaLink="true">https://mezha.net/jp/news/mezha-ab1b005a49ff84a24256944b_google-says-cybercriminals-are-using-autonomous</guid>
+      <description>【Mezha】Googleの脅威対策チームが、攻撃者が自律型ソフトウェアで攻撃コードを構築・実行していると発表した。</description>
+      <pubDate>Sun, 22 Nov 2026 18:01:56 +0000</pubDate>
+    </item>
     <item>
       <title>アンソロピック株急落、AI株に世界的な売り</title>
       <link>https://www.bloomberg.com/jp/news/articles/2026-11-20/TOSYAFKK3NY900</link>
