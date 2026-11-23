@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Nov 2026 12:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:02:33 +0000</lastBuildDate>
+    <item>
+      <title>文科相が説明するのが重要と木原氏</title>
+      <link>https://news.yahoo.co.jp/articles/242c77b94bf70f917ede0d889bf5d7e7c5878457</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/242c77b94bf70f917ede0d889bf5d7e7c5878457</guid>
+      <description>【共同通信】木原官房長官は、パーティー問題で批判を受ける関文科相本人の説明が重要だとし、進退は首相が決めることだと述べた。</description>
+      <pubDate>Mon, 23 Nov 2026 18:02:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>熊本県天草・芦北地方でM4.1の地震 最大震度3 津波の心配なし</title>
+      <link>https://weathernews.jp/news/202611/230246quake/</link>
+      <guid isPermaLink="true">https://weathernews.jp/news/202611/230246quake/</guid>
+      <description>【ウェザーニュース】23日午前2時46分ごろ、熊本県天草・芦北地方でM4.1の地震があり最大震度3を観測。津波の心配はない。</description>
+      <pubDate>Mon, 23 Nov 2026 18:02:33 +0000</pubDate>
+    </item>
     <item>
       <title>関文科相パーティー問題、野党は「問責」提出の構え</title>
       <link>https://news.yahoo.co.jp/articles/209a002b57df1cb102c9a7ea7ea3cac2b17ca787</link>

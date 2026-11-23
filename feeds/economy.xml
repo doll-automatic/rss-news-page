@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Nov 2026 12:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:02:33 +0000</lastBuildDate>
+    <item>
+      <title>東京為替：ドル・円は158円90銭付近で小動き、東京市場は祝日</title>
+      <link>https://zaikei.co.jp/article/20261123/878757.html</link>
+      <guid isPermaLink="true">https://zaikei.co.jp/article/20261123/878757.html</guid>
+      <description>【財経新聞】勤労感謝の日で東京市場は休場。ドル円は158円90銭付近で方向感に乏しい動きとなった。</description>
+      <pubDate>Mon, 23 Nov 2026 18:02:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>東京為替：ドル・円は小じっかり、クロス円に追随</title>
+      <link>https://finance.yahoo.co.jp/news/detail/99b3702cbfc6f16ce734476b0bc266be032acb14</link>
+      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/99b3702cbfc6f16ce734476b0bc266be032acb14</guid>
+      <description>【フィスコ】ドル円は小じっかりとした動きで、クロス円に追随した。</description>
+      <pubDate>Mon, 23 Nov 2026 18:02:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>ドル円 158.88円までじり高、日米株価指数先物が堅調推移</title>
+      <link>https://finance.yahoo.co.jp/news/detail/f7d31c4df056ab3f86566bcba40549401bb2a35c</link>
+      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/f7d31c4df056ab3f86566bcba40549401bb2a35c</guid>
+      <description>【トレーダーズ・ウェブ】ドル円は158.88円までじり高となり、日米の株価指数先物は堅調に推移した。</description>
+      <pubDate>Mon, 23 Nov 2026 18:02:33 +0000</pubDate>
+    </item>
     <item>
       <title>東京為替：ドル・円は小じっかり、クロス円に追随</title>
       <link>https://www.zaikei.co.jp/article/20261123/878778.html</link>

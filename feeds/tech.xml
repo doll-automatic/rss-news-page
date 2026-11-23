@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Nov 2026 12:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:02:33 +0000</lastBuildDate>
+    <item>
+      <title>NVIDIA、中国向け「H200」販売を終了へ - 対中AI半導体規制の強化受け</title>
+      <link>https://news.mynavi.jp/techplus/article/20261119-5358623/</link>
+      <guid isPermaLink="true">https://news.mynavi.jp/techplus/article/20261119-5358623/</guid>
+      <description>【マイナビニュース】NVIDIAが対中AI半導体規制の強化を受け、中国向けH200の販売を終了する。決算説明会で暫定CEOが明らかにした。</description>
+      <pubDate>Mon, 23 Nov 2026 18:02:33 +0000</pubDate>
+    </item>
     <item>
       <title>トランプ氏「米国にとっても最善策」エヌビディア創業者のCEO復帰を希望</title>
       <link>https://crypto-times.jp/news-president-trump-hopes-nvidia-founder-will-return-as-ceo/</link>
