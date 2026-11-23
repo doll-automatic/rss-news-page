@@ -1,5 +1,13 @@
 [
   {
+    "title": "トランプ政権時代の販売方針転換受け、Nvidiaが中国へのH200出荷を停止",
+    "link": "https://jp.moyens.net/ai/412120/",
+    "description": "Nvidiaが中国向けH200の出荷を停止したと報じられた。販売方針の転換が背景にあるとされる。",
+    "source": "Moyens I/O",
+    "published": null,
+    "fetched_at": "2026-11-23T06:02:32.616924+00:00"
+  },
+  {
     "title": "生成AIニュースまとめ 先週【11月16日〜11月22日】のAI公式発表",
     "link": "https://tech-noisy.com/2026/11/23/ai-weekly-news-2026-11-16-2026-11-22/",
     "description": "11月16〜22日のAI各社の公式発表を週次でまとめた記事。OpenAIやGoogleの新モデル発表などを紹介している。",
@@ -54,21 +62,5 @@
     "source": "Forbes JAPAN",
     "published": null,
     "fetched_at": "2026-11-21T12:02:12.339232+00:00"
-  },
-  {
-    "title": "マイクロソフト、中国バイトダンスと800億円契約 OpenAI利用巡り波紋",
-    "link": "https://forbesjapan.com/articles/detail/108626",
-    "description": "マイクロソフトが中国バイトダンスと約800億円の契約を結び、OpenAI利用をめぐり波紋が広がっている。",
-    "source": "Forbes JAPAN",
-    "published": null,
-    "fetched_at": "2026-11-21T06:02:08.663828+00:00"
-  },
-  {
-    "title": "OpenAI、AMDのGPU回路を最大14％改善 約1年分の成果を5カ月弱で",
-    "link": "https://forbesjapan.com/articles/detail/108630",
-    "description": "OpenAIはAIでAMDの主力GPUの回路設計を最大14％改善したと発表した。",
-    "source": "Forbes JAPAN",
-    "published": null,
-    "fetched_at": "2026-11-21T06:02:08.663828+00:00"
   }
 ]

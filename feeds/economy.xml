@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Nov 2026 00:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:02:32 +0000</lastBuildDate>
     <item>
       <title>日経平均は下値探る展開か、AI半導体株の期待揺らぐ 今週の市場・予定</title>
       <link>https://www.nikkei.com/article/DGXZQODL2205Y0S6A121C2000000/</link>
@@ -96,20 +96,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b3d684c12d2e089aa6b46bbf70edc15bfe420d0</guid>
       <description>【FNNプライムオンライン】東京株式市場でAI・半導体関連株を中心に売りが先行し、日経平均が一時2000円安となった。</description>
       <pubDate>Sat, 21 Nov 2026 12:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>（まとめ）日経平均は3,007円安の56,436円で大幅安 TOPIXも3.9%安で全面安の展開に</title>
-      <link>https://media.monex.co.jp/articles/-/30558</link>
-      <guid isPermaLink="true">https://media.monex.co.jp/articles/-/30558</guid>
-      <description>【マネックス証券】日経平均は3,007円安、TOPIXも3.9%安と全面安の展開となった。</description>
-      <pubDate>Sat, 21 Nov 2026 06:02:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均が1日で3,008円安、AI・半導体株に何が起きている？</title>
-      <link>https://oanda.jp/lab-education/market_news/20261120_nikkei_3000_drop</link>
-      <guid isPermaLink="true">https://oanda.jp/lab-education/market_news/20261120_nikkei_3000_drop</guid>
-      <description>【OANDA】日経平均が1日で3,000円超下落した背景として、AI・半導体株の売りを解説する。</description>
-      <pubDate>Sat, 21 Nov 2026 06:02:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

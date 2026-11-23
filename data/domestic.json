@@ -1,11 +1,27 @@
 [
   {
+    "title": "関文科相パーティー問題、野党は「問責」提出の構え",
+    "link": "https://news.yahoo.co.jp/articles/209a002b57df1cb102c9a7ea7ea3cac2b17ca787",
+    "description": "関文科相の政治資金パーティー問題で、野党は問責決議案提出の構え。国民幹事長は週明けの早い段階での決断を求めた。",
+    "source": "読売新聞オンライン",
+    "published": null,
+    "fetched_at": "2026-11-23T06:02:32.616924+00:00"
+  },
+  {
     "title": "伊丹3歳女児暴行死 自宅へ外泊中に負傷10件の報告も「強く虐待疑う所見なし」と判断",
     "link": "https://www.sun-tv.co.jp/suntvnews/news/2026/11/20/97989/",
     "description": "兵庫県伊丹市の3歳女児暴行死事件で、外泊中の負傷報告が約10件あったが児童相談所は虐待を強く疑う所見なしと判断していた。",
     "source": "サンテレビ",
     "published": null,
     "fetched_at": "2026-11-23T00:02:12.886283+00:00"
+  },
+  {
+    "title": "連休明け24日は全国的に雨 局地的に激しい雷雨 竜巻などの突風にも注意",
+    "link": "https://tenki.jp/forecaster/kubo_tomoko/2026/11/23/41409.html",
+    "description": "24日は前線が本州付近を通過し全国的に雨。局地的な激しい雷雨や突風に注意が必要。",
+    "source": "tenki.jp",
+    "published": "2026-11-23T09:00:00+09:00",
+    "fetched_at": "2026-11-23T06:02:32.616924+00:00"
   },
   {
     "title": "東武日光線の特急列車が、踏切内で立ち往生していた乗用車と接触 けがなし",
@@ -64,6 +80,14 @@
     "fetched_at": "2026-11-22T06:02:18.227681+00:00"
   },
   {
+    "title": "木原官房長官、関文科相に説明求める 「交代示唆」否定",
+    "link": "https://www.jiji.com/jc/article?k=2026112200341&g=pol",
+    "description": "木原官房長官は関文科相に説明を求め、進退は首相が決めることだとして交代示唆発言を軌道修正した。",
+    "source": "時事ドットコム",
+    "published": "2026-11-22T12:00:00+09:00",
+    "fetched_at": "2026-11-23T06:02:32.616924+00:00"
+  },
+  {
     "title": "関文科相交代の可能性を示唆 自民幹事長「法案成立が最重要」",
     "link": "https://news.yahoo.co.jp/articles/ca6ba8b4c03d1bf15bd6ba8a8a0d2f38385bac41",
     "description": "自民党の鈴木幹事長が、政治資金パーティー問題で関文科相を交代させる可能性を示唆した。",
@@ -110,61 +134,5 @@
     "source": "ANN",
     "published": null,
     "fetched_at": "2026-11-21T12:02:12.339232+00:00"
-  },
-  {
-    "title": "政府職員らの個人情報24万件漏洩か デジ庁サービスに不正アクセス",
-    "link": "https://news.yahoo.co.jp/articles/4b6282a8403bd8991a46d9e535f93213824f668b",
-    "description": "デジタル庁のサービスへの不正アクセスにより、政府職員らの個人情報が漏洩した可能性があると報じられた。",
-    "source": "朝日新聞（Yahoo!ニュース）",
-    "published": null,
-    "fetched_at": "2026-11-21T06:02:08.663828+00:00"
-  },
-  {
-    "title": "EXCLUSIVE-防衛費5年で50兆円台、財務省が提示 防衛省は調達削減を企業に伝達",
-    "link": "https://www.newsweekjapan.jp/articles/-/339997",
-    "description": "次期防衛力整備計画をめぐり、財務省が5年間で50兆円台とする基準を防衛省に示した。",
-    "source": "ニューズウィーク日本版（ロイター）",
-    "published": null,
-    "fetched_at": "2026-11-21T06:02:08.663828+00:00"
-  },
-  {
-    "title": "関文部科学相の辞任論、与党内で拡大…鈴木幹事長「法案成立が一番重要」",
-    "link": "https://news.yahoo.co.jp/articles/b58c567f563214130c62b7bad621248ed77962cc",
-    "description": "関文科相の政治資金パーティー問題で与党内に辞任論が広がり、自民党の鈴木幹事長は法案成立を最優先する考えを示した。",
-    "source": "読売新聞オンライン",
-    "published": "2026-11-21T15:00:00+09:00",
-    "fetched_at": "2026-11-22T06:02:18.227681+00:00"
-  },
-  {
-    "title": "埼玉・三郷の大型物流施設で火災 5階建て、負傷者なし",
-    "link": "https://www.nikkei.com/article/DGXZQOUD211G50R21C26A1000000/",
-    "description": "21日朝、埼玉県三郷市の5階建て大型物流施設で火災が発生し、消火活動が続いた。けが人はいない。",
-    "source": "日本経済新聞",
-    "published": "2026-11-21T12:00:00+09:00",
-    "fetched_at": "2026-11-22T00:01:59.788058+00:00"
-  },
-  {
-    "title": "国道を歩いて横断していた女性、バックしてきた除雪車にはねられ死亡",
-    "link": "https://news.infoseek.co.jp/article/yomiuri_20261121_gyt1t00260",
-    "description": "福井県勝山市の国道で、横断中の71歳女性がバックしてきた除雪車にはねられ死亡した。",
-    "source": "読売新聞",
-    "published": "2026-11-21T12:00:00+09:00",
-    "fetched_at": "2026-11-22T00:01:59.788058+00:00"
-  },
-  {
-    "title": "群馬・伊勢崎3人死亡事故 男に懲役20年が確定",
-    "link": "https://news.yahoo.co.jp/articles/188a7f7738188f4914659e18c3a636b16fdab804",
-    "description": "群馬県伊勢崎市の3人死亡事故で、被告の男の懲役20年の判決が確定した。",
-    "source": "ABEMA TIMES (Yahoo!ニュース)",
-    "published": null,
-    "fetched_at": "2026-11-21T00:02:20.160774+00:00"
-  },
-  {
-    "title": "国道23号でバイクと大型トラック衝突 17歳高校生死亡 三重・四日市市",
-    "link": "https://news.yahoo.co.jp/articles/0df06e1c839d1c4dfd9323410b3ba93da7b8eb1b",
-    "description": "三重県四日市市の国道23号でバイクと大型トラックが衝突し、17歳の高校生が死亡した。",
-    "source": "三重テレビ放送 (Yahoo!ニュース)",
-    "published": null,
-    "fetched_at": "2026-11-21T00:02:20.160774+00:00"
   }
 ]

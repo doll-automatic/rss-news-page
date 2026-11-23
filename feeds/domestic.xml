@@ -5,13 +5,27 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Nov 2026 00:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:02:32 +0000</lastBuildDate>
+    <item>
+      <title>関文科相パーティー問題、野党は「問責」提出の構え</title>
+      <link>https://news.yahoo.co.jp/articles/209a002b57df1cb102c9a7ea7ea3cac2b17ca787</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/209a002b57df1cb102c9a7ea7ea3cac2b17ca787</guid>
+      <description>【読売新聞オンライン】関文科相の政治資金パーティー問題で、野党は問責決議案提出の構え。国民幹事長は週明けの早い段階での決断を求めた。</description>
+      <pubDate>Mon, 23 Nov 2026 06:02:32 +0000</pubDate>
+    </item>
     <item>
       <title>伊丹3歳女児暴行死 自宅へ外泊中に負傷10件の報告も「強く虐待疑う所見なし」と判断</title>
       <link>https://www.sun-tv.co.jp/suntvnews/news/2026/11/20/97989/</link>
       <guid isPermaLink="true">https://www.sun-tv.co.jp/suntvnews/news/2026/11/20/97989/</guid>
       <description>【サンテレビ】兵庫県伊丹市の3歳女児暴行死事件で、外泊中の負傷報告が約10件あったが児童相談所は虐待を強く疑う所見なしと判断していた。</description>
       <pubDate>Mon, 23 Nov 2026 00:02:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>連休明け24日は全国的に雨 局地的に激しい雷雨 竜巻などの突風にも注意</title>
+      <link>https://tenki.jp/forecaster/kubo_tomoko/2026/11/23/41409.html</link>
+      <guid isPermaLink="true">https://tenki.jp/forecaster/kubo_tomoko/2026/11/23/41409.html</guid>
+      <description>【tenki.jp】24日は前線が本州付近を通過し全国的に雨。局地的な激しい雷雨や突風に注意が必要。</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>東武日光線の特急列車が、踏切内で立ち往生していた乗用車と接触 けがなし</title>
@@ -63,6 +77,13 @@
       <pubDate>Sun, 22 Nov 2026 06:02:18 +0000</pubDate>
     </item>
     <item>
+      <title>木原官房長官、関文科相に説明求める 「交代示唆」否定</title>
+      <link>https://www.jiji.com/jc/article?k=2026112200341&amp;g=pol</link>
+      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026112200341&amp;g=pol</guid>
+      <description>【時事ドットコム】木原官房長官は関文科相に説明を求め、進退は首相が決めることだとして交代示唆発言を軌道修正した。</description>
+      <pubDate>Sun, 22 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>関文科相交代の可能性を示唆 自民幹事長「法案成立が最重要」</title>
       <link>https://news.yahoo.co.jp/articles/ca6ba8b4c03d1bf15bd6ba8a8a0d2f38385bac41</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ca6ba8b4c03d1bf15bd6ba8a8a0d2f38385bac41</guid>
@@ -103,55 +124,6 @@
       <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17071114</guid>
       <description>【ANN】今季初の寒波で各地が大雪となり、福島では約1500人が孤立し停電も発生した。</description>
       <pubDate>Sat, 21 Nov 2026 12:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>政府職員らの個人情報24万件漏洩か デジ庁サービスに不正アクセス</title>
-      <link>https://news.yahoo.co.jp/articles/4b6282a8403bd8991a46d9e535f93213824f668b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4b6282a8403bd8991a46d9e535f93213824f668b</guid>
-      <description>【朝日新聞（Yahoo!ニュース）】デジタル庁のサービスへの不正アクセスにより、政府職員らの個人情報が漏洩した可能性があると報じられた。</description>
-      <pubDate>Sat, 21 Nov 2026 06:02:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>EXCLUSIVE-防衛費5年で50兆円台、財務省が提示 防衛省は調達削減を企業に伝達</title>
-      <link>https://www.newsweekjapan.jp/articles/-/339997</link>
-      <guid isPermaLink="true">https://www.newsweekjapan.jp/articles/-/339997</guid>
-      <description>【ニューズウィーク日本版（ロイター）】次期防衛力整備計画をめぐり、財務省が5年間で50兆円台とする基準を防衛省に示した。</description>
-      <pubDate>Sat, 21 Nov 2026 06:02:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>関文部科学相の辞任論、与党内で拡大…鈴木幹事長「法案成立が一番重要」</title>
-      <link>https://news.yahoo.co.jp/articles/b58c567f563214130c62b7bad621248ed77962cc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b58c567f563214130c62b7bad621248ed77962cc</guid>
-      <description>【読売新聞オンライン】関文科相の政治資金パーティー問題で与党内に辞任論が広がり、自民党の鈴木幹事長は法案成立を最優先する考えを示した。</description>
-      <pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>埼玉・三郷の大型物流施設で火災 5階建て、負傷者なし</title>
-      <link>https://www.nikkei.com/article/DGXZQOUD211G50R21C26A1000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUD211G50R21C26A1000000/</guid>
-      <description>【日本経済新聞】21日朝、埼玉県三郷市の5階建て大型物流施設で火災が発生し、消火活動が続いた。けが人はいない。</description>
-      <pubDate>Sat, 21 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>国道を歩いて横断していた女性、バックしてきた除雪車にはねられ死亡</title>
-      <link>https://news.infoseek.co.jp/article/yomiuri_20261121_gyt1t00260</link>
-      <guid isPermaLink="true">https://news.infoseek.co.jp/article/yomiuri_20261121_gyt1t00260</guid>
-      <description>【読売新聞】福井県勝山市の国道で、横断中の71歳女性がバックしてきた除雪車にはねられ死亡した。</description>
-      <pubDate>Sat, 21 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>群馬・伊勢崎3人死亡事故 男に懲役20年が確定</title>
-      <link>https://news.yahoo.co.jp/articles/188a7f7738188f4914659e18c3a636b16fdab804</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/188a7f7738188f4914659e18c3a636b16fdab804</guid>
-      <description>【ABEMA TIMES (Yahoo!ニュース)】群馬県伊勢崎市の3人死亡事故で、被告の男の懲役20年の判決が確定した。</description>
-      <pubDate>Sat, 21 Nov 2026 00:02:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>国道23号でバイクと大型トラック衝突 17歳高校生死亡 三重・四日市市</title>
-      <link>https://news.yahoo.co.jp/articles/0df06e1c839d1c4dfd9323410b3ba93da7b8eb1b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0df06e1c839d1c4dfd9323410b3ba93da7b8eb1b</guid>
-      <description>【三重テレビ放送 (Yahoo!ニュース)】三重県四日市市の国道23号でバイクと大型トラックが衝突し、17歳の高校生が死亡した。</description>
-      <pubDate>Sat, 21 Nov 2026 00:02:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

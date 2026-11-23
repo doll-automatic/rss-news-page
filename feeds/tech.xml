@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Nov 2026 00:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:02:32 +0000</lastBuildDate>
+    <item>
+      <title>トランプ政権時代の販売方針転換受け、Nvidiaが中国へのH200出荷を停止</title>
+      <link>https://jp.moyens.net/ai/412120/</link>
+      <guid isPermaLink="true">https://jp.moyens.net/ai/412120/</guid>
+      <description>【Moyens I/O】Nvidiaが中国向けH200の出荷を停止したと報じられた。販売方針の転換が背景にあるとされる。</description>
+      <pubDate>Mon, 23 Nov 2026 06:02:32 +0000</pubDate>
+    </item>
     <item>
       <title>生成AIニュースまとめ 先週【11月16日〜11月22日】のAI公式発表</title>
       <link>https://tech-noisy.com/2026/11/23/ai-weekly-news-2026-11-16-2026-11-22/</link>
@@ -54,20 +61,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f130127bd6b9be141eb248a44955f627b4e6e862</guid>
       <description>【Forbes JAPAN】アンソロピックの上場で巨額の支払い契約が判明し、AI利用料の値上げ観測が出ている。</description>
       <pubDate>Sat, 21 Nov 2026 12:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>マイクロソフト、中国バイトダンスと800億円契約 OpenAI利用巡り波紋</title>
-      <link>https://forbesjapan.com/articles/detail/108626</link>
-      <guid isPermaLink="true">https://forbesjapan.com/articles/detail/108626</guid>
-      <description>【Forbes JAPAN】マイクロソフトが中国バイトダンスと約800億円の契約を結び、OpenAI利用をめぐり波紋が広がっている。</description>
-      <pubDate>Sat, 21 Nov 2026 06:02:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI、AMDのGPU回路を最大14％改善 約1年分の成果を5カ月弱で</title>
-      <link>https://forbesjapan.com/articles/detail/108630</link>
-      <guid isPermaLink="true">https://forbesjapan.com/articles/detail/108630</guid>
-      <description>【Forbes JAPAN】OpenAIはAIでAMDの主力GPUの回路設計を最大14％改善したと発表した。</description>
-      <pubDate>Sat, 21 Nov 2026 06:02:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
