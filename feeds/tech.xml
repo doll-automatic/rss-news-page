@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:02:39 +0000</lastBuildDate>
+    <item>
+      <title>トランプ氏「米国にとっても最善策」エヌビディア創業者のCEO復帰を希望</title>
+      <link>https://crypto-times.jp/news-president-trump-hopes-nvidia-founder-will-return-as-ceo/</link>
+      <guid isPermaLink="true">https://crypto-times.jp/news-president-trump-hopes-nvidia-founder-will-return-as-ceo/</guid>
+      <description>【CRYPTO TIMES】トランプ米大統領が、辞任したNVIDIAのジェンスン・フアン氏のCEO復帰を望むとSNSで表明した。</description>
+      <pubDate>Mon, 23 Nov 2026 12:02:39 +0000</pubDate>
+    </item>
     <item>
       <title>トランプ政権時代の販売方針転換受け、Nvidiaが中国へのH200出荷を停止</title>
       <link>https://jp.moyens.net/ai/412120/</link>
@@ -54,13 +61,6 @@
       <guid isPermaLink="true">https://novaist.jp/articles/japan-dbs-security-delay/</guid>
       <description>【NOVAIST】AIを使った稼働前点検で複数の脆弱性が見つかり、日本版DBSの犯歴確認システムの稼働が延期される。</description>
       <pubDate>Sat, 21 Nov 2026 18:02:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI利用料値上げの足音──アンソロピック上場で判明、約144兆円の支払い契約</title>
-      <link>https://news.yahoo.co.jp/articles/f130127bd6b9be141eb248a44955f627b4e6e862</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f130127bd6b9be141eb248a44955f627b4e6e862</guid>
-      <description>【Forbes JAPAN】アンソロピックの上場で巨額の支払い契約が判明し、AI利用料の値上げ観測が出ている。</description>
-      <pubDate>Sat, 21 Nov 2026 12:02:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,21 @@
 [
   {
+    "title": "東京為替：ドル・円は小じっかり、クロス円に追随",
+    "link": "https://www.zaikei.co.jp/article/20261123/878778.html",
+    "description": "23日の東京市場は祝日で薄商いの中、ドル・円は158円台後半から159円前後で小幅に推移した。",
+    "source": "財経新聞",
+    "published": null,
+    "fetched_at": "2026-11-23T12:02:39.288061+00:00"
+  },
+  {
+    "title": "東京為替：ドル・円は伸び悩み、ドル売り地合いで",
+    "link": "https://www.zaikei.co.jp/article/20261123/878775.html",
+    "description": "米長期金利の上昇一服を背景に、ドル・円は159円付近で伸び悩んだ。",
+    "source": "財経新聞",
+    "published": null,
+    "fetched_at": "2026-11-23T12:02:39.288061+00:00"
+  },
+  {
     "title": "日経平均は下値探る展開か、AI半導体株の期待揺らぐ 今週の市場・予定",
     "link": "https://www.nikkei.com/article/DGXZQODL2205Y0S6A121C2000000/",
     "description": "AI・半導体関連株への成長期待が揺らぎ、今週の日経平均は下値を探る展開が見込まれるとの見通し。",
@@ -86,21 +102,5 @@
     "source": "TradingView",
     "published": null,
     "fetched_at": "2026-11-21T18:02:34.692851+00:00"
-  },
-  {
-    "title": "日経平均 一時2800円以上値下がり",
-    "link": "https://news.yahoo.co.jp/pickup/6603248",
-    "description": "AI・半導体関連株を中心に売りが広がり、日経平均は一時2800円以上下落した。",
-    "source": "Yahoo!ニュース",
-    "published": null,
-    "fetched_at": "2026-11-21T12:02:12.339232+00:00"
-  },
-  {
-    "title": "【速報】日経平均株価が大幅下落 一時2000円安 AI・半導体関連銘柄を中心に売り先行",
-    "link": "https://news.yahoo.co.jp/articles/6b3d684c12d2e089aa6b46bbf70edc15bfe420d0",
-    "description": "東京株式市場でAI・半導体関連株を中心に売りが先行し、日経平均が一時2000円安となった。",
-    "source": "FNNプライムオンライン",
-    "published": null,
-    "fetched_at": "2026-11-21T12:02:12.339232+00:00"
   }
 ]

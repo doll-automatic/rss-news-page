@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:02:39 +0000</lastBuildDate>
+    <item>
+      <title>東京為替：ドル・円は小じっかり、クロス円に追随</title>
+      <link>https://www.zaikei.co.jp/article/20261123/878778.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261123/878778.html</guid>
+      <description>【財経新聞】23日の東京市場は祝日で薄商いの中、ドル・円は158円台後半から159円前後で小幅に推移した。</description>
+      <pubDate>Mon, 23 Nov 2026 12:02:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>東京為替：ドル・円は伸び悩み、ドル売り地合いで</title>
+      <link>https://www.zaikei.co.jp/article/20261123/878775.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261123/878775.html</guid>
+      <description>【財経新聞】米長期金利の上昇一服を背景に、ドル・円は159円付近で伸び悩んだ。</description>
+      <pubDate>Mon, 23 Nov 2026 12:02:39 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均は下値探る展開か、AI半導体株の期待揺らぐ 今週の市場・予定</title>
       <link>https://www.nikkei.com/article/DGXZQODL2205Y0S6A121C2000000/</link>
@@ -82,20 +96,6 @@
       <guid isPermaLink="true">https://www.tradingview.com/news/dzh_financial:ad6ee32198457:0/</guid>
       <description>【TradingView】NYダウが約950ドル安。アンソロピック反落とエヌビディアへのSEC調査報道で半導体・AI株が急落した。</description>
       <pubDate>Sat, 21 Nov 2026 18:02:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均 一時2800円以上値下がり</title>
-      <link>https://news.yahoo.co.jp/pickup/6603248</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6603248</guid>
-      <description>【Yahoo!ニュース】AI・半導体関連株を中心に売りが広がり、日経平均は一時2800円以上下落した。</description>
-      <pubDate>Sat, 21 Nov 2026 12:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>【速報】日経平均株価が大幅下落 一時2000円安 AI・半導体関連銘柄を中心に売り先行</title>
-      <link>https://news.yahoo.co.jp/articles/6b3d684c12d2e089aa6b46bbf70edc15bfe420d0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b3d684c12d2e089aa6b46bbf70edc15bfe420d0</guid>
-      <description>【FNNプライムオンライン】東京株式市場でAI・半導体関連株を中心に売りが先行し、日経平均が一時2000円安となった。</description>
-      <pubDate>Sat, 21 Nov 2026 12:02:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
