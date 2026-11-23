@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 18:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 00:02:12 +0000</lastBuildDate>
+    <item>
+      <title>生成AIニュースまとめ 先週【11月16日〜11月22日】のAI公式発表</title>
+      <link>https://tech-noisy.com/2026/11/23/ai-weekly-news-2026-11-16-2026-11-22/</link>
+      <guid isPermaLink="true">https://tech-noisy.com/2026/11/23/ai-weekly-news-2026-11-16-2026-11-22/</guid>
+      <description>【tech-noisy】11月16〜22日のAI各社の公式発表を週次でまとめた記事。OpenAIやGoogleの新モデル発表などを紹介している。</description>
+      <pubDate>Mon, 23 Nov 2026 00:02:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>フィリピン超えて第三国へ…韓米がAI・半導体共同進出を検討</title>
+      <link>https://news.yahoo.co.jp/articles/10b2071f6388faf2b5b117bfc0ab39e65a4d01c8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/10b2071f6388faf2b5b117bfc0ab39e65a4d01c8</guid>
+      <description>【中央日報日本語版】韓国と米国が、AI・半導体分野で第三国への共同進出を検討していると中央日報が報じた。</description>
+      <pubDate>Mon, 23 Nov 2026 00:02:12 +0000</pubDate>
+    </item>
     <item>
       <title>Google、サイバー犯罪者が自律型ソフトウェアでエクスプロイトを構築・実行していると発表</title>
       <link>https://mezha.net/jp/news/mezha-ab1b005a49ff84a24256944b_google-says-cybercriminals-are-using-autonomous</link>
@@ -54,62 +68,6 @@
       <guid isPermaLink="true">https://forbesjapan.com/articles/detail/108630</guid>
       <description>【Forbes JAPAN】OpenAIはAIでAMDの主力GPUの回路設計を最大14％改善したと発表した。</description>
       <pubDate>Sat, 21 Nov 2026 06:02:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>キャシー・ウッド氏のARK、上場初日のアンソロピック株を約93万株購入―エヌビディア株は売却</title>
-      <link>https://www.zaikei.co.jp/article/20261121/878662.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261121/878662.html</guid>
-      <description>【財経新聞】ARKインベストは上場初日にアンソロピック株を約93万株購入し、エヌビディア株を売却した。</description>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AnthropicがNASDAQに上場。時価総額は一時2兆ドル超え、史上最大規模のIPOに</title>
-      <link>https://news.yahoo.co.jp/articles/0f4c10839ae41fb693053a3e6eb7669d326d0546</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f4c10839ae41fb693053a3e6eb7669d326d0546</guid>
-      <description>【テクノエッジ (Yahoo!ニュース)】Anthropicの上場で時価総額は一時2兆ドルを超え、史上最大規模のIPOとなった。</description>
-      <pubDate>Fri, 20 Nov 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>アンソロピック株が上場2日目に9%急落、ナスダック5%安で世界のAI相場に波及</title>
-      <link>https://news.yahoo.co.jp/articles/412e725b6a977edf5cd20c163d8b5e15effe574a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/412e725b6a977edf5cd20c163d8b5e15effe574a</guid>
-      <description>【ビジネス＋IT】上場2日目のアンソロピック株が約9%下落し、ナスダックも5%安となってAI相場が世界的に動揺した。</description>
-      <pubDate>Fri, 20 Nov 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>米政府、中国テンセントやアリババへのAI半導体販売を承認－公開資料</title>
-      <link>https://bloomberg.com/jp/news/articles/2026-11-19/TORST8RKV2U100?srnd=jp-homepage</link>
-      <guid isPermaLink="true">https://bloomberg.com/jp/news/articles/2026-11-19/TORST8RKV2U100?srnd=jp-homepage</guid>
-      <description>【Bloomberg】米政府がテンセントやアリババへのAI半導体販売を承認していたことが公開資料で分かった。</description>
-      <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>米がAI半導体88万個の対中輸出承認 NVIDIA製など、5月までの実績開示</title>
-      <link>https://www.nikkei.com/article/DGXZQOGN200290Q6A121C2000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN200290Q6A121C2000000/</guid>
-      <description>【日本経済新聞】米下院委が、NVIDIA製などAI半導体約90万個の対中輸出をトランプ政権が承認していたと開示した。</description>
-      <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alibaba、自社AI半導体で次世代モデル学習 中国製チップ活用を拡大</title>
-      <link>https://digitaltoday.co.kr/jp/view/128717/alibaba-steps-up-semiconductor-self-reliance-by-training-ai-models-on-domestic-chips</link>
-      <guid isPermaLink="true">https://digitaltoday.co.kr/jp/view/128717/alibaba-steps-up-semiconductor-self-reliance-by-training-ai-models-on-domestic-chips</guid>
-      <description>【デジタルトゥデイ】Alibabaは自社開発AI半導体を次世代AIモデルの学習に投入する方針を示した。</description>
-      <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>アンソロピック上場、17%高で好発進 AIリスク「回避できる」</title>
-      <link>https://www.nikkei.com/article/DGXZQOGN18CL00Y6A111C2000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN18CL00Y6A111C2000000/</guid>
-      <description>【日本経済新聞】米アンソロピックがナスダックに上場し、公開価格を17%上回って初日を終えた。</description>
-      <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>米アンソロピックが上場 スペースX上回る過去最大13兆円調達</title>
-      <link>https://news.yahoo.co.jp/articles/36c8e2d9de41c3dd1687fd567eb28ed3a990fa35</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/36c8e2d9de41c3dd1687fd567eb28ed3a990fa35</guid>
-      <description>【毎日新聞】アンソロピックが過去最大規模のIPOで約13兆円を調達した。</description>
-      <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

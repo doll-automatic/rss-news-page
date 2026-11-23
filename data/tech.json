@@ -1,5 +1,21 @@
 [
   {
+    "title": "生成AIニュースまとめ 先週【11月16日〜11月22日】のAI公式発表",
+    "link": "https://tech-noisy.com/2026/11/23/ai-weekly-news-2026-11-16-2026-11-22/",
+    "description": "11月16〜22日のAI各社の公式発表を週次でまとめた記事。OpenAIやGoogleの新モデル発表などを紹介している。",
+    "source": "tech-noisy",
+    "published": null,
+    "fetched_at": "2026-11-23T00:02:12.886283+00:00"
+  },
+  {
+    "title": "フィリピン超えて第三国へ…韓米がAI・半導体共同進出を検討",
+    "link": "https://news.yahoo.co.jp/articles/10b2071f6388faf2b5b117bfc0ab39e65a4d01c8",
+    "description": "韓国と米国が、AI・半導体分野で第三国への共同進出を検討していると中央日報が報じた。",
+    "source": "中央日報日本語版",
+    "published": null,
+    "fetched_at": "2026-11-23T00:02:12.886283+00:00"
+  },
+  {
     "title": "Google、サイバー犯罪者が自律型ソフトウェアでエクスプロイトを構築・実行していると発表",
     "link": "https://mezha.net/jp/news/mezha-ab1b005a49ff84a24256944b_google-says-cybercriminals-are-using-autonomous",
     "description": "Googleの脅威対策チームが、攻撃者が自律型ソフトウェアで攻撃コードを構築・実行していると発表した。",
@@ -54,69 +70,5 @@
     "source": "Forbes JAPAN",
     "published": null,
     "fetched_at": "2026-11-21T06:02:08.663828+00:00"
-  },
-  {
-    "title": "キャシー・ウッド氏のARK、上場初日のアンソロピック株を約93万株購入―エヌビディア株は売却",
-    "link": "https://www.zaikei.co.jp/article/20261121/878662.html",
-    "description": "ARKインベストは上場初日にアンソロピック株を約93万株購入し、エヌビディア株を売却した。",
-    "source": "財経新聞",
-    "published": "2026-11-21T09:00:00+09:00",
-    "fetched_at": "2026-11-21T12:02:12.339232+00:00"
-  },
-  {
-    "title": "AnthropicがNASDAQに上場。時価総額は一時2兆ドル超え、史上最大規模のIPOに",
-    "link": "https://news.yahoo.co.jp/articles/0f4c10839ae41fb693053a3e6eb7669d326d0546",
-    "description": "Anthropicの上場で時価総額は一時2兆ドルを超え、史上最大規模のIPOとなった。",
-    "source": "テクノエッジ (Yahoo!ニュース)",
-    "published": "2026-11-21T08:00:00+09:00",
-    "fetched_at": "2026-11-21T00:02:20.160774+00:00"
-  },
-  {
-    "title": "アンソロピック株が上場2日目に9%急落、ナスダック5%安で世界のAI相場に波及",
-    "link": "https://news.yahoo.co.jp/articles/412e725b6a977edf5cd20c163d8b5e15effe574a",
-    "description": "上場2日目のアンソロピック株が約9%下落し、ナスダックも5%安となってAI相場が世界的に動揺した。",
-    "source": "ビジネス＋IT",
-    "published": "2026-11-21T08:00:00+09:00",
-    "fetched_at": "2026-11-21T12:02:12.339232+00:00"
-  },
-  {
-    "title": "米政府、中国テンセントやアリババへのAI半導体販売を承認－公開資料",
-    "link": "https://bloomberg.com/jp/news/articles/2026-11-19/TORST8RKV2U100?srnd=jp-homepage",
-    "description": "米政府がテンセントやアリババへのAI半導体販売を承認していたことが公開資料で分かった。",
-    "source": "Bloomberg",
-    "published": null,
-    "fetched_at": "2026-11-20T18:02:42.751744+00:00"
-  },
-  {
-    "title": "米がAI半導体88万個の対中輸出承認 NVIDIA製など、5月までの実績開示",
-    "link": "https://www.nikkei.com/article/DGXZQOGN200290Q6A121C2000000/",
-    "description": "米下院委が、NVIDIA製などAI半導体約90万個の対中輸出をトランプ政権が承認していたと開示した。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-20T18:02:42.751744+00:00"
-  },
-  {
-    "title": "Alibaba、自社AI半導体で次世代モデル学習 中国製チップ活用を拡大",
-    "link": "https://digitaltoday.co.kr/jp/view/128717/alibaba-steps-up-semiconductor-self-reliance-by-training-ai-models-on-domestic-chips",
-    "description": "Alibabaは自社開発AI半導体を次世代AIモデルの学習に投入する方針を示した。",
-    "source": "デジタルトゥデイ",
-    "published": null,
-    "fetched_at": "2026-11-20T18:02:42.751744+00:00"
-  },
-  {
-    "title": "アンソロピック上場、17%高で好発進 AIリスク「回避できる」",
-    "link": "https://www.nikkei.com/article/DGXZQOGN18CL00Y6A111C2000000/",
-    "description": "米アンソロピックがナスダックに上場し、公開価格を17%上回って初日を終えた。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-20T18:02:42.751744+00:00"
-  },
-  {
-    "title": "米アンソロピックが上場 スペースX上回る過去最大13兆円調達",
-    "link": "https://news.yahoo.co.jp/articles/36c8e2d9de41c3dd1687fd567eb28ed3a990fa35",
-    "description": "アンソロピックが過去最大規模のIPOで約13兆円を調達した。",
-    "source": "毎日新聞",
-    "published": null,
-    "fetched_at": "2026-11-20T18:02:42.751744+00:00"
   }
 ]

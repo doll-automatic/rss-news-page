@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 18:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 00:02:12 +0000</lastBuildDate>
+    <item>
+      <title>伊丹3歳女児暴行死 自宅へ外泊中に負傷10件の報告も「強く虐待疑う所見なし」と判断</title>
+      <link>https://www.sun-tv.co.jp/suntvnews/news/2026/11/20/97989/</link>
+      <guid isPermaLink="true">https://www.sun-tv.co.jp/suntvnews/news/2026/11/20/97989/</guid>
+      <description>【サンテレビ】兵庫県伊丹市の3歳女児暴行死事件で、外泊中の負傷報告が約10件あったが児童相談所は虐待を強く疑う所見なしと判断していた。</description>
+      <pubDate>Mon, 23 Nov 2026 00:02:12 +0000</pubDate>
+    </item>
     <item>
       <title>東武日光線の特急列車が、踏切内で立ち往生していた乗用車と接触 けがなし</title>
       <link>https://news.yahoo.co.jp/articles/2ab3b4e02445aff391f96cdf14a21bc269819237</link>
@@ -145,34 +152,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0df06e1c839d1c4dfd9323410b3ba93da7b8eb1b</guid>
       <description>【三重テレビ放送 (Yahoo!ニュース)】三重県四日市市の国道23号でバイクと大型トラックが衝突し、17歳の高校生が死亡した。</description>
       <pubDate>Sat, 21 Nov 2026 00:02:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>大阪・ミナミで6階建てビル火災 「暖炉から火が出た」店員通報 消防車33台とヘリコプター1機が出動 客と従業員は避難 けが人はなし</title>
-      <link>https://news.yahoo.co.jp/articles/cac8db5d5db5cd996ea2a66ae276bdf7a0768af0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cac8db5d5db5cd996ea2a66ae276bdf7a0768af0</guid>
-      <description>【関西テレビ】大阪・心斎橋の6階建てビルで火災。客と従業員は避難し、けが人はいなかった。</description>
-      <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>重要土地法改正案、衆院内閣委で可決 取得許可制導入 基準明確化求める付帯決議も採択</title>
-      <link>https://news.yahoo.co.jp/articles/b87ac44e39a101b002b0bca76e1e6b3263100931</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b87ac44e39a101b002b0bca76e1e6b3263100931</guid>
-      <description>【産経新聞】衆院内閣委が、重要施設周辺の土地取得に事前許可制を導入する改正案を賛成多数で可決した。</description>
-      <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>後半国会が本格始動 憲法改正、皇室など議論本格化 20日には党首討論</title>
-      <link>https://news.yahoo.co.jp/articles/721a7b6ca5f4b4fde4d7cf29ccc44dc2586a4965</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/721a7b6ca5f4b4fde4d7cf29ccc44dc2586a4965</guid>
-      <description>【産経新聞】後半国会が始動し、20日には今国会初の党首討論が開かれる。</description>
-      <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>吉村剛太郎さんに従三位：時事ドットコム</title>
-      <link>https://www.jiji.com/jc/article?k=2026112000560&amp;g=pol</link>
-      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026112000560&amp;g=pol</guid>
-      <description>【時事通信】政府は閣議で、元参院議員の吉村剛太郎さんに従三位を叙し旭日重光章を贈ることを決めた。</description>
-      <pubDate>Fri, 20 Nov 2026 18:02:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
