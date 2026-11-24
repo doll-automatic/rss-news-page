@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 06:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:02:07 +0000</lastBuildDate>
+    <item>
+      <title>東京マーケットダイジェスト・24日 円安・株大幅高</title>
+      <link>https://myforex.com/ja/news/dzh261124132.html</link>
+      <guid isPermaLink="true">https://myforex.com/ja/news/dzh261124132.html</guid>
+      <description>【myforex】24日の東京市場は円安・株高となり、日経平均は大幅に上昇した。</description>
+      <pubDate>Tue, 24 Nov 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経2207円高でも値上がりは6割、非鉄金属に資金｜日経平均の概況【11月24日】</title>
+      <link>https://tbladvisory.com/20261124nk/</link>
+      <guid isPermaLink="true">https://tbladvisory.com/20261124nk/</guid>
+      <description>【世界一やさしい投資の学校】日経平均は2207円高の5万8644円で取引を終えた。非鉄金属が上昇率首位だった。</description>
+      <pubDate>Tue, 24 Nov 2026 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均は2286円高、米経済指標や企業決算に関心</title>
       <link>https://www.zaikei.co.jp/article/20261124/878934.html</link>
@@ -28,6 +42,13 @@
       <pubDate>Tue, 24 Nov 2026 06:01:59 +0000</pubDate>
     </item>
     <item>
+      <title>東京為替：ドル・円は切り返し、午後は159円台に再浮上</title>
+      <link>https://www.zaikei.co.jp/article/20261124/878951.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261124/878951.html</guid>
+      <description>【財経新聞】24日の東京外為市場でドル円は午後に159円台へ再浮上した。</description>
+      <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>日経平均1300円高、エヌビディアCEO復帰でテックに買い</title>
       <link>https://fx.minkabu.jp/news/385240</link>
       <guid isPermaLink="true">https://fx.minkabu.jp/news/385240</guid>
@@ -40,6 +61,13 @@
       <guid isPermaLink="true">https://www.oanda.jp/lab-education/market_news/report_usdjpy_20261124/</guid>
       <description>【OANDAマーケットニュース】ドル円は159円台半ばまで上昇したのち158円台後半へ押し戻された。</description>
       <pubDate>Tue, 24 Nov 2026 00:02:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>エヌビディア急伸でイビデンがストップ高、ワコムはMBO発表/日経平均反発</title>
+      <link>https://finance.yahoo.co.jp/news/detail/8d9965d60f12058300017a87663380f9c20a3a3c</link>
+      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/8d9965d60f12058300017a87663380f9c20a3a3c</guid>
+      <description>【ダイヤモンド・ザイ】エヌビディア急伸で関連株が買われ、イビデンがストップ高、ワコムはMBOを発表した。</description>
+      <pubDate>Mon, 23 Nov 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
       <title>【今日のドル円】エヌビディア36％急騰で一時159.50円へ 休場明け東京勢の参戦で160円突破なるか</title>
@@ -131,13 +159,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/412e725b6a977edf5cd20c163d8b5e15effe574a</guid>
       <description>【ビジネス＋IT】米アンソロピックの株が上場2日目に9%下落し、ナスダックも5%安となってAI相場全体に波及した。</description>
       <pubDate>Sun, 22 Nov 2026 12:02:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>［株式週間展望］外国為替市場や長期金利に注目</title>
-      <link>https://okinawatimes.co.jp/articles/-/1971790</link>
-      <guid isPermaLink="true">https://okinawatimes.co.jp/articles/-/1971790</guid>
-      <description>【沖縄タイムス】来週の株式市場は、AI・半導体関連株への期待が揺らぐ中、為替市場や長期金利の動向が注目される。</description>
-      <pubDate>Sun, 22 Nov 2026 06:02:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

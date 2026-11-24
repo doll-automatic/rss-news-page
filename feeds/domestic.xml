@@ -5,13 +5,41 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 06:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:02:07 +0000</lastBuildDate>
     <item>
       <title>今日24日は寒冷前線が通過中 強い雨、落雷、突風、ひょうに注意 夜は北日本で吹雪</title>
       <link>https://tenki.jp/forecaster/deskpart/2026/11/24/41420.html</link>
       <guid isPermaLink="true">https://tenki.jp/forecaster/deskpart/2026/11/24/41420.html</guid>
       <description>【tenki.jp】寒冷前線の通過で全国的に大気が不安定。強い雨や落雷、突風、ひょうに注意が必要で、夜は北日本で吹雪となる見込み。</description>
       <pubDate>Tue, 24 Nov 2026 06:01:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>野党、関文科相問責提出へ 法案審議に影響示唆</title>
+      <link>https://www.jiji.com/jc/article?k=2026112400408&amp;g=pol</link>
+      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026112400408&amp;g=pol</guid>
+      <description>【時事ドットコム】参院の野党6党は関文科相の問責決議案を提出する方針で一致した。辞任がなければ法案審議に影響するとした。</description>
+      <pubDate>Tue, 24 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>野党6党、文科相の問責決議案提出へ 関氏「職務に全力」辞任否定</title>
+      <link>https://www.nikkei.com/article/DGXZQOUA232QZ0T21C26A1000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA232QZ0T21C26A1000000/</guid>
+      <description>【日本経済新聞】野党6党が問責決議案の提出方針で一致し、関氏は辞任を否定した。</description>
+      <pubDate>Tue, 24 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>長野市などで発生の停電 5日目の24日夜に復旧へ 囲炉裏と薪で暖を確保した宿も</title>
+      <link>https://news.yahoo.co.jp/articles/fb368e96c52eea4fdd1b8989b2e43ccc1b31ac40</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fb368e96c52eea4fdd1b8989b2e43ccc1b31ac40</guid>
+      <description>【テレビ信州】大雪による長野市などの停電は5日目となり、24日夜の復旧が見込まれる。</description>
+      <pubDate>Tue, 24 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>企業関係者に政策を説明させた政治資金パーティー、2024年以外は「確認中」</title>
+      <link>https://news.livedoor.com/topics/detail/32885283</link>
+      <guid isPermaLink="true">https://news.livedoor.com/topics/detail/32885283</guid>
+      <description>【ライブドアニュース】関文科相は官僚に企業関係者へ政策を説明させたパーティーについて、2024年以外は確認中と述べた。</description>
+      <pubDate>Tue, 24 Nov 2026 01:00:00 +0000</pubDate>
     </item>
     <item>
       <title>「1分でも早く復旧を」停電が4日目 長野市など約1250戸で続く 復旧は24日の見込み</title>
@@ -25,6 +53,13 @@
       <link>https://news.yahoo.co.jp/articles/4c5e00e8be87dc12e5801257a8467e52bc35b91e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4c5e00e8be87dc12e5801257a8467e52bc35b91e</guid>
       <description>【CBCテレビ】積雪の影響で岐阜県内の4市村で約3200戸の停電が続いている。</description>
+      <pubDate>Mon, 23 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>「電気がこないのが一番困る」…岐阜・郡上市など4市村で積雪による停電続く</title>
+      <link>https://news.infoseek.co.jp/article/cbc_3105624/</link>
+      <guid isPermaLink="true">https://news.infoseek.co.jp/article/cbc_3105624/</guid>
+      <description>【CBC】岐阜県の郡上市など4市村で積雪による停電が続き、24日朝時点で約3200戸に影響している。</description>
       <pubDate>Mon, 23 Nov 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
@@ -103,20 +138,6 @@
       <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17072116</guid>
       <description>【テレビ朝日系（ANN）】関東で火災が相次ぎ死者も出た。広い範囲に乾燥注意報が出ており注意が必要。</description>
       <pubDate>Sun, 22 Nov 2026 12:02:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>【関文科相パーティー問題】進退、首相判断が焦点 「辞任必要なし」強硬論も</title>
-      <link>https://www.niigata-nippo.co.jp/articles/-/947608</link>
-      <guid isPermaLink="true">https://www.niigata-nippo.co.jp/articles/-/947608</guid>
-      <description>【新潟日報】関文科相のパーティー問題で、進退は高市首相の判断が焦点に。与党内には辞任不要との強硬論も根強い。</description>
-      <pubDate>Sun, 22 Nov 2026 06:02:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>「法律違反に問われる可能性」「辞任すべき」 関文科大臣の“議員会館パーティー”を野党が非難</title>
-      <link>https://news.infoseek.co.jp/article/tbs_3091779/</link>
-      <guid isPermaLink="true">https://news.infoseek.co.jp/article/tbs_3091779/</guid>
-      <description>【TBS】関文科相の議員会館でのパーティーについて、野党が法律違反の可能性を指摘し辞任を求めた。</description>
-      <pubDate>Sun, 22 Nov 2026 06:02:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

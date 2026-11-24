@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 06:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:02:07 +0000</lastBuildDate>
+    <item>
+      <title>NVIDIA株が35%急騰、フアン氏がCEO電撃復帰でウォール街も歓迎</title>
+      <link>https://jp.investing.com/news/stock-market-news/article-1767929</link>
+      <guid isPermaLink="true">https://jp.investing.com/news/stock-market-news/article-1767929</guid>
+      <description>【Investing.com】フアン氏のCEO復帰を受けNVIDIA株が急騰し、市場関係者は歓迎した。</description>
+      <pubDate>Tue, 24 Nov 2026 12:02:07 +0000</pubDate>
+    </item>
     <item>
       <title>NVIDIA、フアン元CEOが電撃復帰 取締役会が一転して全会一致で決定</title>
       <link>https://automaton-media.com/articles/newsjp/20261123-480532/</link>
@@ -54,6 +61,13 @@
       <guid isPermaLink="true">https://jp.moyens.net/ai/412120/</guid>
       <description>【Moyens I/O】Nvidiaが中国向けH200の出荷を停止したと報じられた。販売方針の転換が背景にあるとされる。</description>
       <pubDate>Mon, 23 Nov 2026 06:02:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA辞任のジェンスン・フアン、CEO即時復帰 取締役会が全会一致で決定</title>
+      <link>https://gamespark.jp/article/2026/11/23/175218.html</link>
+      <guid isPermaLink="true">https://gamespark.jp/article/2026/11/23/175218.html</guid>
+      <description>【GameSpark】NVIDIAはジェンスン・フアン氏の社長兼CEOへの即時復帰を発表した。取締役会が全会一致で決めた。</description>
+      <pubDate>Mon, 23 Nov 2026 03:00:00 +0000</pubDate>
     </item>
     <item>
       <title>生成AIニュースまとめ 先週【11月16日〜11月22日】のAI公式発表</title>
