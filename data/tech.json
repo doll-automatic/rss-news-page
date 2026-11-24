@@ -1,5 +1,37 @@
 [
   {
+    "title": "NVIDIA、フアン元CEOが電撃復帰 取締役会が一転して全会一致で決定",
+    "link": "https://automaton-media.com/articles/newsjp/20261123-480532/",
+    "description": "復帰させる意向なしとしていた取締役会が一転し、フアン氏の復帰を全会一致で決定した。",
+    "source": "AUTOMATON",
+    "published": null,
+    "fetched_at": "2026-11-24T00:02:19.117844+00:00"
+  },
+  {
+    "title": "NVIDIAのジェンスン・フアンがCEOに復帰",
+    "link": "https://gigazine.net/news/20261123-nvidia-jensen-huang-ceo",
+    "description": "NVIDIAがフアン氏のCEO復帰を発表した経緯をまとめた記事。",
+    "source": "GIGAZINE",
+    "published": null,
+    "fetched_at": "2026-11-24T00:02:19.117844+00:00"
+  },
+  {
+    "title": "答えを教えないソクラテス式AI家庭教師スキル「Socratic Tutor」など生成AI技術5つを解説（生成AIウィークリー）",
+    "link": "https://www.techno-edge.net/article/2026/11/23/5790.html",
+    "description": "今週の生成AI関連技術5つを解説する週刊まとめ記事。",
+    "source": "TECHNO EDGE",
+    "published": null,
+    "fetched_at": "2026-11-24T00:02:19.117844+00:00"
+  },
+  {
+    "title": "NVIDIA、ジェンスン・フアン氏がCEO復帰 取締役会が全会一致で決定、社内調査は継続",
+    "link": "https://news.mynavi.jp/article/20261124-5394199/",
+    "description": "NVIDIAは取締役会が全会一致でフアン氏の社長兼CEOへの復帰を決めたと発表した。独立調査は継続する。",
+    "source": "マイナビニュース",
+    "published": "2026-11-24T08:00:00+09:00",
+    "fetched_at": "2026-11-24T00:02:19.117844+00:00"
+  },
+  {
     "title": "NVIDIA、中国向け「H200」販売を終了へ - 対中AI半導体規制の強化受け",
     "link": "https://news.mynavi.jp/techplus/article/20261119-5358623/",
     "description": "NVIDIAが対中AI半導体規制の強化を受け、中国向けH200の販売を終了する。決算説明会で暫定CEOが明らかにした。",
@@ -46,29 +78,5 @@
     "source": "Mezha",
     "published": null,
     "fetched_at": "2026-11-22T18:01:56.393628+00:00"
-  },
-  {
-    "title": "アンソロピック株急落、AI株に世界的な売り",
-    "link": "https://www.bloomberg.com/jp/news/articles/2026-11-20/TOSYAFKK3NY900",
-    "description": "上場2日目のアンソロピック株が急落し、投資家心理が変化。AI関連株に世界的な売りが広がった。",
-    "source": "Bloomberg",
-    "published": null,
-    "fetched_at": "2026-11-21T18:02:34.692851+00:00"
-  },
-  {
-    "title": "米ナスダック急落、アンソロピック株も ハイテク株に売り圧力",
-    "link": "https://news.yahoo.co.jp/articles/91e39a9c61e48ee232f5be8f11be2dfc7fb03326",
-    "description": "米ナスダックが急落し、上場したばかりのアンソロピック株も下落。ハイテク株に売り圧力が強まった。",
-    "source": "BBC News",
-    "published": null,
-    "fetched_at": "2026-11-21T18:02:34.692851+00:00"
-  },
-  {
-    "title": "日本版DBSの犯歴確認システムに脆弱性 AI点検で発覚、稼働延期へ",
-    "link": "https://novaist.jp/articles/japan-dbs-security-delay/",
-    "description": "AIを使った稼働前点検で複数の脆弱性が見つかり、日本版DBSの犯歴確認システムの稼働が延期される。",
-    "source": "NOVAIST",
-    "published": null,
-    "fetched_at": "2026-11-21T18:02:34.692851+00:00"
   }
 ]

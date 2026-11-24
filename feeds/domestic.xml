@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Nov 2026 18:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:02:19 +0000</lastBuildDate>
+    <item>
+      <title>「1分でも早く復旧を」停電が4日目 長野市など約1250戸で続く 復旧は24日の見込み</title>
+      <link>https://news.yahoo.co.jp/articles/cc840869100f5ad7baa48ebd6baab83f350a60ad</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cc840869100f5ad7baa48ebd6baab83f350a60ad</guid>
+      <description>【NBS長野放送】大雪による倒木で長野市などで停電が4日目に入り、復旧は24日の見込み。</description>
+      <pubDate>Tue, 24 Nov 2026 00:02:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>「電気がこないのが一番困る」岐阜・郡上市など4市村で積雪による停電続く 24日午前6時現在で計約3200戸</title>
+      <link>https://news.yahoo.co.jp/articles/4c5e00e8be87dc12e5801257a8467e52bc35b91e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4c5e00e8be87dc12e5801257a8467e52bc35b91e</guid>
+      <description>【CBCテレビ】積雪の影響で岐阜県内の4市村で約3200戸の停電が続いている。</description>
+      <pubDate>Mon, 23 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>文科相が説明するのが重要と木原氏</title>
       <link>https://news.yahoo.co.jp/articles/242c77b94bf70f917ede0d889bf5d7e7c5878457</link>
@@ -19,6 +33,13 @@
       <guid isPermaLink="true">https://weathernews.jp/news/202611/230246quake/</guid>
       <description>【ウェザーニュース】23日午前2時46分ごろ、熊本県天草・芦北地方でM4.1の地震があり最大震度3を観測。津波の心配はない。</description>
       <pubDate>Mon, 23 Nov 2026 18:02:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>文科相問責案、24日にも協議 野党、辞任要求強める</title>
+      <link>https://373news.com/news/national/detail/2026112301000707</link>
+      <guid isPermaLink="true">https://373news.com/news/national/detail/2026112301000707</guid>
+      <description>【共同通信/373news】政治資金パーティーをめぐり、野党が関文科相の問責決議案について24日にも協議し辞任要求を強める。</description>
+      <pubDate>Mon, 23 Nov 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>関文科相パーティー問題、野党は「問責」提出の構え</title>
@@ -96,27 +117,6 @@
       <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026112200341&amp;g=pol</guid>
       <description>【時事ドットコム】木原官房長官は関文科相に説明を求め、進退は首相が決めることだとして交代示唆発言を軌道修正した。</description>
       <pubDate>Sun, 22 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>関文科相交代の可能性を示唆 自民幹事長「法案成立が最重要」</title>
-      <link>https://news.yahoo.co.jp/articles/ca6ba8b4c03d1bf15bd6ba8a8a0d2f38385bac41</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ca6ba8b4c03d1bf15bd6ba8a8a0d2f38385bac41</guid>
-      <description>【共同通信】自民党の鈴木幹事長が、政治資金パーティー問題で関文科相を交代させる可能性を示唆した。</description>
-      <pubDate>Sat, 21 Nov 2026 18:02:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>日本版ＤＢＳ、システムに脆弱性 来月の稼働延期へ―こども家庭庁</title>
-      <link>https://www.jiji.com/jc/article?k=2026111800689&amp;g=soc</link>
-      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026111800689&amp;g=soc</guid>
-      <description>【時事ドットコム】こども家庭庁は日本版DBSのシステムに脆弱性が見つかったとして、12月の稼働延期を決めた。</description>
-      <pubDate>Sat, 21 Nov 2026 18:02:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>中司少子化相、「日本版ＤＢＳ」脆弱性を謝罪し稼働延期…代替策公表し来月２５日に制度スタート</title>
-      <link>https://news.yahoo.co.jp/articles/45bfb95a75b1fcdafb9e07a9752eb118065a6dd7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/45bfb95a75b1fcdafb9e07a9752eb118065a6dd7</guid>
-      <description>【読売新聞オンライン】中司少子化相が脆弱性を謝罪。システム稼働は延期するが、制度自体は12月25日に開始する方針。</description>
-      <pubDate>Sat, 21 Nov 2026 18:02:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
