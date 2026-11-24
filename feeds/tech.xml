@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 12:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 18:02:11 +0000</lastBuildDate>
+    <item>
+      <title>NVIDIA、フアン氏のCEO復帰を発表 トランプ大統領「私がまとめた」と取締役会への働きかけ認める</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/24/2000003397/</link>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/24/2000003397/</guid>
+      <description>【ITmedia NEWS】NVIDIAが辞任していたジェンスン・フアン氏の社長兼CEO復帰を発表した。トランプ大統領は取締役会への働きかけを認めた。</description>
+      <pubDate>Tue, 24 Nov 2026 18:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA、ジェンスン・フアン氏の社長兼CEO復帰を発表</title>
+      <link>https://ai.watch.impress.co.jp/docs/news/2158571.html</link>
+      <guid isPermaLink="true">https://ai.watch.impress.co.jp/docs/news/2158571.html</guid>
+      <description>【AI Watch】取締役会が全会一致で決定し、フアン氏が即日復帰した。</description>
+      <pubDate>Tue, 24 Nov 2026 18:02:11 +0000</pubDate>
+    </item>
     <item>
       <title>NVIDIA株が35%急騰、フアン氏がCEO電撃復帰でウォール街も歓迎</title>
       <link>https://jp.investing.com/news/stock-market-news/article-1767929</link>
@@ -82,13 +96,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/10b2071f6388faf2b5b117bfc0ab39e65a4d01c8</guid>
       <description>【中央日報日本語版】韓国と米国が、AI・半導体分野で第三国への共同進出を検討していると中央日報が報じた。</description>
       <pubDate>Mon, 23 Nov 2026 00:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google、サイバー犯罪者が自律型ソフトウェアでエクスプロイトを構築・実行していると発表</title>
-      <link>https://mezha.net/jp/news/mezha-ab1b005a49ff84a24256944b_google-says-cybercriminals-are-using-autonomous</link>
-      <guid isPermaLink="true">https://mezha.net/jp/news/mezha-ab1b005a49ff84a24256944b_google-says-cybercriminals-are-using-autonomous</guid>
-      <description>【Mezha】Googleの脅威対策チームが、攻撃者が自律型ソフトウェアで攻撃コードを構築・実行していると発表した。</description>
-      <pubDate>Sun, 22 Nov 2026 18:01:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,21 @@
 [
   {
+    "title": "日経平均は2286円高、米経済指標や企業決算に関心",
+    "link": "https://zaikei.co.jp/article/20261124/878934.html",
+    "description": "24日の東京株式市場で日経平均が大幅高となった。",
+    "source": "財経新聞",
+    "published": null,
+    "fetched_at": "2026-11-24T18:02:11.135426+00:00"
+  },
+  {
+    "title": "東証大引け 日経平均は反発 AI半導体関連に買い 米エヌビディア急伸で",
+    "link": "https://nikkei.com/article/DGXZQOFL244L90U6A121C2000000",
+    "description": "日経平均は前週末比2207円高の5万8644円63銭で取引を終えた。エヌビディア急伸でAI・半導体関連に買いが入った。",
+    "source": "日本経済新聞",
+    "published": null,
+    "fetched_at": "2026-11-24T18:02:11.135426+00:00"
+  },
+  {
     "title": "東京マーケットダイジェスト・24日 円安・株大幅高",
     "link": "https://myforex.com/ja/news/dzh261124132.html",
     "description": "24日の東京市場は円安・株高となり、日経平均は大幅に上昇した。",
@@ -158,21 +174,5 @@
     "source": "中日新聞",
     "published": null,
     "fetched_at": "2026-11-23T00:02:12.886283+00:00"
-  },
-  {
-    "title": "東京株、3007円安 AI・半導体中心に急落",
-    "link": "https://news.yahoo.co.jp/articles/5cb826447a2f231be6aaaec8a6da400dcf3373db",
-    "description": "20日の日経平均は3007円安の5万6436円で終え、4月以来の安値。AI・半導体株が急落した。",
-    "source": "時事通信",
-    "published": null,
-    "fetched_at": "2026-11-22T12:02:27.074495+00:00"
-  },
-  {
-    "title": "アンソロピック株が上場2日目に9%急落、ナスダック5%安で世界のAI相場に波及",
-    "link": "https://news.yahoo.co.jp/articles/412e725b6a977edf5cd20c163d8b5e15effe574a",
-    "description": "米アンソロピックの株が上場2日目に9%下落し、ナスダックも5%安となってAI相場全体に波及した。",
-    "source": "ビジネス＋IT",
-    "published": null,
-    "fetched_at": "2026-11-22T12:02:27.074495+00:00"
   }
 ]

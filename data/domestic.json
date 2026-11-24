@@ -1,5 +1,21 @@
 [
   {
+    "title": "“パーティー問題”野党6党が関大臣への問責決議案提出へ",
+    "link": "https://news.yahoo.co.jp/articles/0264b6b2cb3cc68d08d0912e37aaec58f5770892",
+    "description": "政治資金パーティー問題で、野党6党が関文科相への問責決議案を参院に提出する方針で一致した。",
+    "source": "テレビ朝日系(ANN)",
+    "published": null,
+    "fetched_at": "2026-11-24T18:02:11.135426+00:00"
+  },
+  {
+    "title": "長野県北部の停電、ようやく解消",
+    "link": "https://shinmai.co.jp/news/article/gf01dc2oobf6q3v49iv226vg",
+    "description": "雪の影響で続いていた長野県北部の停電が解消した。",
+    "source": "信濃毎日新聞",
+    "published": null,
+    "fetched_at": "2026-11-24T18:02:11.135426+00:00"
+  },
+  {
     "title": "今日24日は寒冷前線が通過中 強い雨、落雷、突風、ひょうに注意 夜は北日本で吹雪",
     "link": "https://tenki.jp/forecaster/deskpart/2026/11/24/41420.html",
     "description": "寒冷前線の通過で全国的に大気が不安定。強い雨や落雷、突風、ひょうに注意が必要で、夜は北日本で吹雪となる見込み。",
@@ -110,45 +126,5 @@
     "source": "tenki.jp",
     "published": "2026-11-23T09:00:00+09:00",
     "fetched_at": "2026-11-23T06:02:32.616924+00:00"
-  },
-  {
-    "title": "東武日光線の特急列車が、踏切内で立ち往生していた乗用車と接触 けがなし",
-    "link": "https://news.yahoo.co.jp/articles/2ab3b4e02445aff391f96cdf14a21bc269819237",
-    "description": "特急と踏切内の乗用車が接触したが、男性と乗客・乗務員約300人にけがはなかった。",
-    "source": "テレビ朝日系（ANN）",
-    "published": null,
-    "fetched_at": "2026-11-22T18:01:56.393628+00:00"
-  },
-  {
-    "title": "北塩原村の孤立状態解消 国道と県道の通行止め解除 会津地方大雪",
-    "link": "https://news.yahoo.co.jp/articles/c0770d5d0e3f7916d28326e9593d67066856d9df",
-    "description": "大雪による倒木で孤立していた福島県北塩原村の国道・県道の通行止めが解除され、孤立状態が解消した。",
-    "source": "福島民報",
-    "published": null,
-    "fetched_at": "2026-11-22T12:02:27.074495+00:00"
-  },
-  {
-    "title": "益永利明死刑囚が死亡＝連続企業爆破事件―法務省",
-    "link": "https://www.excite.co.jp/news/article/Jiji_3917307/",
-    "description": "連続企業爆破事件で死刑が確定していた益永利明死刑囚が東京拘置所で死亡したと法務省が発表した。",
-    "source": "時事通信",
-    "published": null,
-    "fetched_at": "2026-11-22T12:02:27.074495+00:00"
-  },
-  {
-    "title": "玉木氏、文科相は「問責に値」",
-    "link": "https://www.excite.co.jp/news/article/Jiji_3917188/",
-    "description": "国民民主党の玉木代表が、関文科相は問責に値するとして進退の判断を求めた。",
-    "source": "時事通信",
-    "published": null,
-    "fetched_at": "2026-11-22T12:02:27.074495+00:00"
-  },
-  {
-    "title": "関東で火災相次ぐ 死者も 広い範囲に乾燥注意報",
-    "link": "https://news.ksb.co.jp/ann/article/17072116",
-    "description": "関東で火災が相次ぎ死者も出た。広い範囲に乾燥注意報が出ており注意が必要。",
-    "source": "テレビ朝日系（ANN）",
-    "published": null,
-    "fetched_at": "2026-11-22T12:02:27.074495+00:00"
   }
 ]

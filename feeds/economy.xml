@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 12:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 18:02:11 +0000</lastBuildDate>
+    <item>
+      <title>日経平均は2286円高、米経済指標や企業決算に関心</title>
+      <link>https://zaikei.co.jp/article/20261124/878934.html</link>
+      <guid isPermaLink="true">https://zaikei.co.jp/article/20261124/878934.html</guid>
+      <description>【財経新聞】24日の東京株式市場で日経平均が大幅高となった。</description>
+      <pubDate>Tue, 24 Nov 2026 18:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>東証大引け 日経平均は反発 AI半導体関連に買い 米エヌビディア急伸で</title>
+      <link>https://nikkei.com/article/DGXZQOFL244L90U6A121C2000000</link>
+      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOFL244L90U6A121C2000000</guid>
+      <description>【日本経済新聞】日経平均は前週末比2207円高の5万8644円63銭で取引を終えた。エヌビディア急伸でAI・半導体関連に買いが入った。</description>
+      <pubDate>Tue, 24 Nov 2026 18:02:11 +0000</pubDate>
+    </item>
     <item>
       <title>東京マーケットダイジェスト・24日 円安・株大幅高</title>
       <link>https://myforex.com/ja/news/dzh261124132.html</link>
@@ -145,20 +159,6 @@
       <guid isPermaLink="true">https://www.chunichi.co.jp/article/1343421</guid>
       <description>【中日新聞】23日午前6時時点の円相場は1ドル＝158円35銭〜68銭で、前日比で円安方向。</description>
       <pubDate>Mon, 23 Nov 2026 00:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京株、3007円安 AI・半導体中心に急落</title>
-      <link>https://news.yahoo.co.jp/articles/5cb826447a2f231be6aaaec8a6da400dcf3373db</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5cb826447a2f231be6aaaec8a6da400dcf3373db</guid>
-      <description>【時事通信】20日の日経平均は3007円安の5万6436円で終え、4月以来の安値。AI・半導体株が急落した。</description>
-      <pubDate>Sun, 22 Nov 2026 12:02:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>アンソロピック株が上場2日目に9%急落、ナスダック5%安で世界のAI相場に波及</title>
-      <link>https://news.yahoo.co.jp/articles/412e725b6a977edf5cd20c163d8b5e15effe574a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/412e725b6a977edf5cd20c163d8b5e15effe574a</guid>
-      <description>【ビジネス＋IT】米アンソロピックの株が上場2日目に9%下落し、ナスダックも5%安となってAI相場全体に波及した。</description>
-      <pubDate>Sun, 22 Nov 2026 12:02:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

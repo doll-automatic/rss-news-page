@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 12:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 18:02:11 +0000</lastBuildDate>
+    <item>
+      <title>“パーティー問題”野党6党が関大臣への問責決議案提出へ</title>
+      <link>https://news.yahoo.co.jp/articles/0264b6b2cb3cc68d08d0912e37aaec58f5770892</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0264b6b2cb3cc68d08d0912e37aaec58f5770892</guid>
+      <description>【テレビ朝日系(ANN)】政治資金パーティー問題で、野党6党が関文科相への問責決議案を参院に提出する方針で一致した。</description>
+      <pubDate>Tue, 24 Nov 2026 18:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>長野県北部の停電、ようやく解消</title>
+      <link>https://shinmai.co.jp/news/article/gf01dc2oobf6q3v49iv226vg</link>
+      <guid isPermaLink="true">https://shinmai.co.jp/news/article/gf01dc2oobf6q3v49iv226vg</guid>
+      <description>【信濃毎日新聞】雪の影響で続いていた長野県北部の停電が解消した。</description>
+      <pubDate>Tue, 24 Nov 2026 18:02:11 +0000</pubDate>
+    </item>
     <item>
       <title>今日24日は寒冷前線が通過中 強い雨、落雷、突風、ひょうに注意 夜は北日本で吹雪</title>
       <link>https://tenki.jp/forecaster/deskpart/2026/11/24/41420.html</link>
@@ -103,41 +117,6 @@
       <guid isPermaLink="true">https://tenki.jp/forecaster/kubo_tomoko/2026/11/23/41409.html</guid>
       <description>【tenki.jp】24日は前線が本州付近を通過し全国的に雨。局地的な激しい雷雨や突風に注意が必要。</description>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>東武日光線の特急列車が、踏切内で立ち往生していた乗用車と接触 けがなし</title>
-      <link>https://news.yahoo.co.jp/articles/2ab3b4e02445aff391f96cdf14a21bc269819237</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2ab3b4e02445aff391f96cdf14a21bc269819237</guid>
-      <description>【テレビ朝日系（ANN）】特急と踏切内の乗用車が接触したが、男性と乗客・乗務員約300人にけがはなかった。</description>
-      <pubDate>Sun, 22 Nov 2026 18:01:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>北塩原村の孤立状態解消 国道と県道の通行止め解除 会津地方大雪</title>
-      <link>https://news.yahoo.co.jp/articles/c0770d5d0e3f7916d28326e9593d67066856d9df</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c0770d5d0e3f7916d28326e9593d67066856d9df</guid>
-      <description>【福島民報】大雪による倒木で孤立していた福島県北塩原村の国道・県道の通行止めが解除され、孤立状態が解消した。</description>
-      <pubDate>Sun, 22 Nov 2026 12:02:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>益永利明死刑囚が死亡＝連続企業爆破事件―法務省</title>
-      <link>https://www.excite.co.jp/news/article/Jiji_3917307/</link>
-      <guid isPermaLink="true">https://www.excite.co.jp/news/article/Jiji_3917307/</guid>
-      <description>【時事通信】連続企業爆破事件で死刑が確定していた益永利明死刑囚が東京拘置所で死亡したと法務省が発表した。</description>
-      <pubDate>Sun, 22 Nov 2026 12:02:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>玉木氏、文科相は「問責に値」</title>
-      <link>https://www.excite.co.jp/news/article/Jiji_3917188/</link>
-      <guid isPermaLink="true">https://www.excite.co.jp/news/article/Jiji_3917188/</guid>
-      <description>【時事通信】国民民主党の玉木代表が、関文科相は問責に値するとして進退の判断を求めた。</description>
-      <pubDate>Sun, 22 Nov 2026 12:02:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>関東で火災相次ぐ 死者も 広い範囲に乾燥注意報</title>
-      <link>https://news.ksb.co.jp/ann/article/17072116</link>
-      <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17072116</guid>
-      <description>【テレビ朝日系（ANN）】関東で火災が相次ぎ死者も出た。広い範囲に乾燥注意報が出ており注意が必要。</description>
-      <pubDate>Sun, 22 Nov 2026 12:02:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

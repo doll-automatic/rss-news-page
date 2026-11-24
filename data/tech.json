@@ -1,5 +1,21 @@
 [
   {
+    "title": "NVIDIA、フアン氏のCEO復帰を発表 トランプ大統領「私がまとめた」と取締役会への働きかけ認める",
+    "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003397/",
+    "description": "NVIDIAが辞任していたジェンスン・フアン氏の社長兼CEO復帰を発表した。トランプ大統領は取締役会への働きかけを認めた。",
+    "source": "ITmedia NEWS",
+    "published": null,
+    "fetched_at": "2026-11-24T18:02:11.135426+00:00"
+  },
+  {
+    "title": "NVIDIA、ジェンスン・フアン氏の社長兼CEO復帰を発表",
+    "link": "https://ai.watch.impress.co.jp/docs/news/2158571.html",
+    "description": "取締役会が全会一致で決定し、フアン氏が即日復帰した。",
+    "source": "AI Watch",
+    "published": null,
+    "fetched_at": "2026-11-24T18:02:11.135426+00:00"
+  },
+  {
     "title": "NVIDIA株が35%急騰、フアン氏がCEO電撃復帰でウォール街も歓迎",
     "link": "https://jp.investing.com/news/stock-market-news/article-1767929",
     "description": "フアン氏のCEO復帰を受けNVIDIA株が急騰し、市場関係者は歓迎した。",
@@ -86,13 +102,5 @@
     "source": "中央日報日本語版",
     "published": null,
     "fetched_at": "2026-11-23T00:02:12.886283+00:00"
-  },
-  {
-    "title": "Google、サイバー犯罪者が自律型ソフトウェアでエクスプロイトを構築・実行していると発表",
-    "link": "https://mezha.net/jp/news/mezha-ab1b005a49ff84a24256944b_google-says-cybercriminals-are-using-autonomous",
-    "description": "Googleの脅威対策チームが、攻撃者が自律型ソフトウェアで攻撃コードを構築・実行していると発表した。",
-    "source": "Mezha",
-    "published": null,
-    "fetched_at": "2026-11-22T18:01:56.393628+00:00"
   }
 ]
