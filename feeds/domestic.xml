@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 00:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:01:59 +0000</lastBuildDate>
+    <item>
+      <title>今日24日は寒冷前線が通過中 強い雨、落雷、突風、ひょうに注意 夜は北日本で吹雪</title>
+      <link>https://tenki.jp/forecaster/deskpart/2026/11/24/41420.html</link>
+      <guid isPermaLink="true">https://tenki.jp/forecaster/deskpart/2026/11/24/41420.html</guid>
+      <description>【tenki.jp】寒冷前線の通過で全国的に大気が不安定。強い雨や落雷、突風、ひょうに注意が必要で、夜は北日本で吹雪となる見込み。</description>
+      <pubDate>Tue, 24 Nov 2026 06:01:59 +0000</pubDate>
+    </item>
     <item>
       <title>「1分でも早く復旧を」停電が4日目 長野市など約1250戸で続く 復旧は24日の見込み</title>
       <link>https://news.yahoo.co.jp/articles/cc840869100f5ad7baa48ebd6baab83f350a60ad</link>
@@ -110,13 +117,6 @@
       <guid isPermaLink="true">https://news.infoseek.co.jp/article/tbs_3091779/</guid>
       <description>【TBS】関文科相の議員会館でのパーティーについて、野党が法律違反の可能性を指摘し辞任を求めた。</description>
       <pubDate>Sun, 22 Nov 2026 06:02:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>木原官房長官、関文科相に説明求める 「交代示唆」否定</title>
-      <link>https://www.jiji.com/jc/article?k=2026112200341&amp;g=pol</link>
-      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026112200341&amp;g=pol</guid>
-      <description>【時事ドットコム】木原官房長官は関文科相に説明を求め、進退は首相が決めることだとして交代示唆発言を軌道修正した。</description>
-      <pubDate>Sun, 22 Nov 2026 03:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

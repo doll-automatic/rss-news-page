@@ -1,5 +1,13 @@
 [
   {
+    "title": "今日24日は寒冷前線が通過中 強い雨、落雷、突風、ひょうに注意 夜は北日本で吹雪",
+    "link": "https://tenki.jp/forecaster/deskpart/2026/11/24/41420.html",
+    "description": "寒冷前線の通過で全国的に大気が不安定。強い雨や落雷、突風、ひょうに注意が必要で、夜は北日本で吹雪となる見込み。",
+    "source": "tenki.jp",
+    "published": null,
+    "fetched_at": "2026-11-24T06:01:59.240202+00:00"
+  },
+  {
     "title": "「1分でも早く復旧を」停電が4日目 長野市など約1250戸で続く 復旧は24日の見込み",
     "link": "https://news.yahoo.co.jp/articles/cc840869100f5ad7baa48ebd6baab83f350a60ad",
     "description": "大雪による倒木で長野市などで停電が4日目に入り、復旧は24日の見込み。",
@@ -118,13 +126,5 @@
     "source": "TBS",
     "published": null,
     "fetched_at": "2026-11-22T06:02:18.227681+00:00"
-  },
-  {
-    "title": "木原官房長官、関文科相に説明求める 「交代示唆」否定",
-    "link": "https://www.jiji.com/jc/article?k=2026112200341&g=pol",
-    "description": "木原官房長官は関文科相に説明を求め、進退は首相が決めることだとして交代示唆発言を軌道修正した。",
-    "source": "時事ドットコム",
-    "published": "2026-11-22T12:00:00+09:00",
-    "fetched_at": "2026-11-23T06:02:32.616924+00:00"
   }
 ]
