@@ -24,6 +24,14 @@
     "fetched_at": "2026-11-25T00:02:00.125322+00:00"
   },
   {
+    "title": "Claudeで作ったツールがそのままMac・Windowsアプリに、Anthropicが「Install as app」をベータ公開",
+    "link": "https://www.techno-edge.net/article/2026/11/25/5812.html",
+    "description": "AnthropicがClaudeのアーティファクトをデスクトップアプリとして使える「Install as app」をベータ公開した。",
+    "source": "テクノエッジ",
+    "published": "2026-11-25T09:00:00+09:00",
+    "fetched_at": "2026-11-25T12:02:23.533899+00:00"
+  },
+  {
     "title": "NVIDIA、フアン氏のCEO復帰を発表 トランプ大統領「私がまとめた」と取締役会への働きかけ認める",
     "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003397/",
     "description": "NVIDIAが辞任していたジェンスン・フアン氏の社長兼CEO復帰を発表した。トランプ大統領は取締役会への働きかけを認めた。",
@@ -54,6 +62,14 @@
     "source": "時事ドットコム",
     "published": "2026-11-24T18:00:00+09:00",
     "fetched_at": "2026-11-25T06:01:58.489654+00:00"
+  },
+  {
+    "title": "OpenAIが蒸留対策を公開、AIの「思考過程」を抜き取る攻撃の成功率を54%から0.2%に",
+    "link": "https://www.techno-edge.net/article/2026/11/24/5794.html",
+    "description": "OpenAIが推論過程を抜き取る蒸留攻撃への防御策を公開し、成功率を大幅に下げたとしている。",
+    "source": "テクノエッジ",
+    "published": "2026-11-24T12:00:00+09:00",
+    "fetched_at": "2026-11-25T12:02:23.533899+00:00"
   },
   {
     "title": "NVIDIA、フアン元CEOが電撃復帰 取締役会が一転して全会一致で決定",
@@ -102,13 +118,5 @@
     "source": "CRYPTO TIMES",
     "published": null,
     "fetched_at": "2026-11-23T12:02:39.288061+00:00"
-  },
-  {
-    "title": "トランプ政権時代の販売方針転換受け、Nvidiaが中国へのH200出荷を停止",
-    "link": "https://jp.moyens.net/ai/412120/",
-    "description": "Nvidiaが中国向けH200の出荷を停止したと報じられた。販売方針の転換が背景にあるとされる。",
-    "source": "Moyens I/O",
-    "published": null,
-    "fetched_at": "2026-11-23T06:02:32.616924+00:00"
   }
 ]

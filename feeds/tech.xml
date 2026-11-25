@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 06:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:02:23 +0000</lastBuildDate>
     <item>
       <title>NVIDIAファン氏復帰、圧力に屈した取締役会 くすぶる再追及の火種</title>
       <link>https://www.nikkei.com/article/DGXZQOGN232RD0T21C26A1000000/</link>
@@ -26,6 +26,13 @@
       <guid isPermaLink="true">https://forbesjapan.com/articles/detail/108738</guid>
       <description>【Forbes JAPAN】フアン氏がCEOに復帰し、エヌビディア株は約30％急騰した。</description>
       <pubDate>Wed, 25 Nov 2026 00:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claudeで作ったツールがそのままMac・Windowsアプリに、Anthropicが「Install as app」をベータ公開</title>
+      <link>https://www.techno-edge.net/article/2026/11/25/5812.html</link>
+      <guid isPermaLink="true">https://www.techno-edge.net/article/2026/11/25/5812.html</guid>
+      <description>【テクノエッジ】AnthropicがClaudeのアーティファクトをデスクトップアプリとして使える「Install as app」をベータ公開した。</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NVIDIA、フアン氏のCEO復帰を発表 トランプ大統領「私がまとめた」と取締役会への働きかけ認める</title>
@@ -54,6 +61,13 @@
       <guid isPermaLink="true">https://jiji.com/jc/article?g=pol&amp;k=2026112400920&amp;m=rss</guid>
       <description>【時事ドットコム】政府の専門調査会が初会合を開き、AIエージェントの法的責任や被害救済を議論。来年6月をめどにとりまとめる。</description>
       <pubDate>Tue, 24 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAIが蒸留対策を公開、AIの「思考過程」を抜き取る攻撃の成功率を54%から0.2%に</title>
+      <link>https://www.techno-edge.net/article/2026/11/24/5794.html</link>
+      <guid isPermaLink="true">https://www.techno-edge.net/article/2026/11/24/5794.html</guid>
+      <description>【テクノエッジ】OpenAIが推論過程を抜き取る蒸留攻撃への防御策を公開し、成功率を大幅に下げたとしている。</description>
+      <pubDate>Tue, 24 Nov 2026 03:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NVIDIA、フアン元CEOが電撃復帰 取締役会が一転して全会一致で決定</title>
@@ -96,13 +110,6 @@
       <guid isPermaLink="true">https://crypto-times.jp/news-president-trump-hopes-nvidia-founder-will-return-as-ceo/</guid>
       <description>【CRYPTO TIMES】トランプ米大統領が、辞任したNVIDIAのジェンスン・フアン氏のCEO復帰を望むとSNSで表明した。</description>
       <pubDate>Mon, 23 Nov 2026 12:02:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>トランプ政権時代の販売方針転換受け、Nvidiaが中国へのH200出荷を停止</title>
-      <link>https://jp.moyens.net/ai/412120/</link>
-      <guid isPermaLink="true">https://jp.moyens.net/ai/412120/</guid>
-      <description>【Moyens I/O】Nvidiaが中国向けH200の出荷を停止したと報じられた。販売方針の転換が背景にあるとされる。</description>
-      <pubDate>Mon, 23 Nov 2026 06:02:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
