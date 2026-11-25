@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 18:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 00:02:00 +0000</lastBuildDate>
+    <item>
+      <title>高市首相が関芳弘文科相を擁護「説明責任しっかり果たしている」 野党は問責案へ…減税法案審議はストップ</title>
+      <link>https://www.tokyo-np.co.jp/article/530409</link>
+      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/530409</guid>
+      <description>【東京新聞】首相は関氏を擁護。野党は問責案提出の方針で、減税関連法案の審議は止まっている。</description>
+      <pubDate>Wed, 25 Nov 2026 00:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“街宣車”で自宅に押し掛け…政治団体所属の女ら2人を逮捕</title>
+      <link>https://news.yahoo.co.jp/articles/bc98304cb4a2c40062daf0949a33b6609af6f3f3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bc98304cb4a2c40062daf0949a33b6609af6f3f3</guid>
+      <description>【東海テレビ】街宣車で女性の自宅に押しかけ、脅して面会を迫った疑いで政治団体所属の女ら2人が逮捕された。</description>
+      <pubDate>Wed, 25 Nov 2026 00:02:00 +0000</pubDate>
+    </item>
     <item>
       <title>“パーティー問題”野党6党が関大臣への問責決議案提出へ</title>
       <link>https://news.yahoo.co.jp/articles/0264b6b2cb3cc68d08d0912e37aaec58f5770892</link>
@@ -110,13 +124,6 @@
       <guid isPermaLink="true">https://www.sun-tv.co.jp/suntvnews/news/2026/11/20/97989/</guid>
       <description>【サンテレビ】兵庫県伊丹市の3歳女児暴行死事件で、外泊中の負傷報告が約10件あったが児童相談所は虐待を強く疑う所見なしと判断していた。</description>
       <pubDate>Mon, 23 Nov 2026 00:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>連休明け24日は全国的に雨 局地的に激しい雷雨 竜巻などの突風にも注意</title>
-      <link>https://tenki.jp/forecaster/kubo_tomoko/2026/11/23/41409.html</link>
-      <guid isPermaLink="true">https://tenki.jp/forecaster/kubo_tomoko/2026/11/23/41409.html</guid>
-      <description>【tenki.jp】24日は前線が本州付近を通過し全国的に雨。局地的な激しい雷雨や突風に注意が必要。</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

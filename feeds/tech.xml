@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 18:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 00:02:00 +0000</lastBuildDate>
+    <item>
+      <title>NVIDIAファン氏復帰、圧力に屈した取締役会 くすぶる再追及の火種</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN232RD0T21C26A1000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN232RD0T21C26A1000000/</guid>
+      <description>【日本経済新聞】NVIDIA取締役会がジェンスン・フアン氏のCEO復帰を決定。外国情報機関との接触疑惑の調査は続く。</description>
+      <pubDate>Wed, 25 Nov 2026 00:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIAファン氏電撃復帰、カリスマ依存浮き彫り 「呼び戻すしか手段ない」</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/00001/12197/</link>
+      <guid isPermaLink="true">https://xtech.nikkei.com/atcl/nxt/column/18/00001/12197/</guid>
+      <description>【日経クロステック】フアン氏のCEO復帰劇から、NVIDIAのカリスマ依存の構造を分析する。</description>
+      <pubDate>Wed, 25 Nov 2026 00:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ジェンスン・フアンがエヌビディアCEOに電撃復帰、株価は30％急騰</title>
+      <link>https://forbesjapan.com/articles/detail/108738</link>
+      <guid isPermaLink="true">https://forbesjapan.com/articles/detail/108738</guid>
+      <description>【Forbes JAPAN】フアン氏がCEOに復帰し、エヌビディア株は約30％急騰した。</description>
+      <pubDate>Wed, 25 Nov 2026 00:02:00 +0000</pubDate>
+    </item>
     <item>
       <title>NVIDIA、フアン氏のCEO復帰を発表 トランプ大統領「私がまとめた」と取締役会への働きかけ認める</title>
       <link>https://www.itmedia.co.jp/news/article/2611/24/2000003397/</link>
