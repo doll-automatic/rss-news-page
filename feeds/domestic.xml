@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 00:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 06:01:58 +0000</lastBuildDate>
     <item>
       <title>高市首相が関芳弘文科相を擁護「説明責任しっかり果たしている」 野党は問責案へ…減税法案審議はストップ</title>
       <link>https://www.tokyo-np.co.jp/article/530409</link>
@@ -33,6 +33,13 @@
       <guid isPermaLink="true">https://shinmai.co.jp/news/article/gf01dc2oobf6q3v49iv226vg</guid>
       <description>【信濃毎日新聞】雪の影響で続いていた長野県北部の停電が解消した。</description>
       <pubDate>Tue, 24 Nov 2026 18:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>定数削減、全参考人が否定的＝与党は２６日採決提案、野党拒否―衆院委</title>
+      <link>https://news.infoseek.co.jp/article/jiji_2026112400876/</link>
+      <guid isPermaLink="true">https://news.infoseek.co.jp/article/jiji_2026112400876/</guid>
+      <description>【時事通信】衆院特別委で参考人4人全員が定数削減に否定的。与党は26日採決を提案したが野党は拒否した。</description>
+      <pubDate>Tue, 24 Nov 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>今日24日は寒冷前線が通過中 強い雨、落雷、突風、ひょうに注意 夜は北日本で吹雪</title>
@@ -117,13 +124,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/209a002b57df1cb102c9a7ea7ea3cac2b17ca787</guid>
       <description>【読売新聞オンライン】関文科相の政治資金パーティー問題で、野党は問責決議案提出の構え。国民幹事長は週明けの早い段階での決断を求めた。</description>
       <pubDate>Mon, 23 Nov 2026 06:02:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>伊丹3歳女児暴行死 自宅へ外泊中に負傷10件の報告も「強く虐待疑う所見なし」と判断</title>
-      <link>https://www.sun-tv.co.jp/suntvnews/news/2026/11/20/97989/</link>
-      <guid isPermaLink="true">https://www.sun-tv.co.jp/suntvnews/news/2026/11/20/97989/</guid>
-      <description>【サンテレビ】兵庫県伊丹市の3歳女児暴行死事件で、外泊中の負傷報告が約10件あったが児童相談所は虐待を強く疑う所見なしと判断していた。</description>
-      <pubDate>Mon, 23 Nov 2026 00:02:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

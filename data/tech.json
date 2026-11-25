@@ -48,6 +48,14 @@
     "fetched_at": "2026-11-24T12:02:07.055561+00:00"
   },
   {
+    "title": "ＡＩの法的責任、検討開始 政府専門調査会が初会合",
+    "link": "https://jiji.com/jc/article?g=pol&k=2026112400920&m=rss",
+    "description": "政府の専門調査会が初会合を開き、AIエージェントの法的責任や被害救済を議論。来年6月をめどにとりまとめる。",
+    "source": "時事ドットコム",
+    "published": "2026-11-24T18:00:00+09:00",
+    "fetched_at": "2026-11-25T06:01:58.489654+00:00"
+  },
+  {
     "title": "NVIDIA、フアン元CEOが電撃復帰 取締役会が一転して全会一致で決定",
     "link": "https://automaton-media.com/articles/newsjp/20261123-480532/",
     "description": "復帰させる意向なしとしていた取締役会が一転し、フアン氏の復帰を全会一致で決定した。",
@@ -102,29 +110,5 @@
     "source": "Moyens I/O",
     "published": null,
     "fetched_at": "2026-11-23T06:02:32.616924+00:00"
-  },
-  {
-    "title": "NVIDIA辞任のジェンスン・フアン、CEO即時復帰 取締役会が全会一致で決定",
-    "link": "https://gamespark.jp/article/2026/11/23/175218.html",
-    "description": "NVIDIAはジェンスン・フアン氏の社長兼CEOへの即時復帰を発表した。取締役会が全会一致で決めた。",
-    "source": "GameSpark",
-    "published": "2026-11-23T12:00:00+09:00",
-    "fetched_at": "2026-11-24T12:02:07.055561+00:00"
-  },
-  {
-    "title": "生成AIニュースまとめ 先週【11月16日〜11月22日】のAI公式発表",
-    "link": "https://tech-noisy.com/2026/11/23/ai-weekly-news-2026-11-16-2026-11-22/",
-    "description": "11月16〜22日のAI各社の公式発表を週次でまとめた記事。OpenAIやGoogleの新モデル発表などを紹介している。",
-    "source": "tech-noisy",
-    "published": null,
-    "fetched_at": "2026-11-23T00:02:12.886283+00:00"
-  },
-  {
-    "title": "フィリピン超えて第三国へ…韓米がAI・半導体共同進出を検討",
-    "link": "https://news.yahoo.co.jp/articles/10b2071f6388faf2b5b117bfc0ab39e65a4d01c8",
-    "description": "韓国と米国が、AI・半導体分野で第三国への共同進出を検討していると中央日報が報じた。",
-    "source": "中央日報日本語版",
-    "published": null,
-    "fetched_at": "2026-11-23T00:02:12.886283+00:00"
   }
 ]

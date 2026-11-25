@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 00:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 06:01:58 +0000</lastBuildDate>
     <item>
       <title>NVIDIAファン氏復帰、圧力に屈した取締役会 くすぶる再追及の火種</title>
       <link>https://www.nikkei.com/article/DGXZQOGN232RD0T21C26A1000000/</link>
@@ -47,6 +47,13 @@
       <guid isPermaLink="true">https://jp.investing.com/news/stock-market-news/article-1767929</guid>
       <description>【Investing.com】フアン氏のCEO復帰を受けNVIDIA株が急騰し、市場関係者は歓迎した。</description>
       <pubDate>Tue, 24 Nov 2026 12:02:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>ＡＩの法的責任、検討開始 政府専門調査会が初会合</title>
+      <link>https://jiji.com/jc/article?g=pol&amp;k=2026112400920&amp;m=rss</link>
+      <guid isPermaLink="true">https://jiji.com/jc/article?g=pol&amp;k=2026112400920&amp;m=rss</guid>
+      <description>【時事ドットコム】政府の専門調査会が初会合を開き、AIエージェントの法的責任や被害救済を議論。来年6月をめどにとりまとめる。</description>
+      <pubDate>Tue, 24 Nov 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NVIDIA、フアン元CEOが電撃復帰 取締役会が一転して全会一致で決定</title>
@@ -96,27 +103,6 @@
       <guid isPermaLink="true">https://jp.moyens.net/ai/412120/</guid>
       <description>【Moyens I/O】Nvidiaが中国向けH200の出荷を停止したと報じられた。販売方針の転換が背景にあるとされる。</description>
       <pubDate>Mon, 23 Nov 2026 06:02:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA辞任のジェンスン・フアン、CEO即時復帰 取締役会が全会一致で決定</title>
-      <link>https://gamespark.jp/article/2026/11/23/175218.html</link>
-      <guid isPermaLink="true">https://gamespark.jp/article/2026/11/23/175218.html</guid>
-      <description>【GameSpark】NVIDIAはジェンスン・フアン氏の社長兼CEOへの即時復帰を発表した。取締役会が全会一致で決めた。</description>
-      <pubDate>Mon, 23 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>生成AIニュースまとめ 先週【11月16日〜11月22日】のAI公式発表</title>
-      <link>https://tech-noisy.com/2026/11/23/ai-weekly-news-2026-11-16-2026-11-22/</link>
-      <guid isPermaLink="true">https://tech-noisy.com/2026/11/23/ai-weekly-news-2026-11-16-2026-11-22/</guid>
-      <description>【tech-noisy】11月16〜22日のAI各社の公式発表を週次でまとめた記事。OpenAIやGoogleの新モデル発表などを紹介している。</description>
-      <pubDate>Mon, 23 Nov 2026 00:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>フィリピン超えて第三国へ…韓米がAI・半導体共同進出を検討</title>
-      <link>https://news.yahoo.co.jp/articles/10b2071f6388faf2b5b117bfc0ab39e65a4d01c8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/10b2071f6388faf2b5b117bfc0ab39e65a4d01c8</guid>
-      <description>【中央日報日本語版】韓国と米国が、AI・半導体分野で第三国への共同進出を検討していると中央日報が報じた。</description>
-      <pubDate>Mon, 23 Nov 2026 00:02:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
