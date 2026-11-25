@@ -16,6 +16,14 @@
     "fetched_at": "2026-11-25T12:02:23.533899+00:00"
   },
   {
+    "title": "日経平均は1673円安、米PCE物価指数などに関心",
+    "link": "https://zaikei.co.jp/article/20261125/879095.html",
+    "description": "日経平均は大幅安。AI関連株への売りが目立ち、米PCE物価指数などに関心が向かった。",
+    "source": "財経新聞",
+    "published": "2026-11-25T14:00:00+09:00",
+    "fetched_at": "2026-11-25T18:02:34.371619+00:00"
+  },
+  {
     "title": "外為12時 円相場、上昇 159円台前半 株安でリスク回避の買い",
     "link": "https://nikkei.com/article/DGXZQOFL250XX0V21C26A1000000",
     "description": "AI・半導体関連株の下落で円買いが優勢となり、円相場は159円台前半に上昇した。",
@@ -158,45 +166,5 @@
     "source": "みんかぶ",
     "published": "2026-11-24T07:10:00+09:00",
     "fetched_at": "2026-11-24T00:02:19.117844+00:00"
-  },
-  {
-    "title": "東京為替：ドル・円は158円90銭付近で小動き、東京市場は祝日",
-    "link": "https://zaikei.co.jp/article/20261123/878757.html",
-    "description": "勤労感謝の日で東京市場は休場。ドル円は158円90銭付近で方向感に乏しい動きとなった。",
-    "source": "財経新聞",
-    "published": null,
-    "fetched_at": "2026-11-23T18:02:33.907895+00:00"
-  },
-  {
-    "title": "東京為替：ドル・円は小じっかり、クロス円に追随",
-    "link": "https://finance.yahoo.co.jp/news/detail/99b3702cbfc6f16ce734476b0bc266be032acb14",
-    "description": "ドル円は小じっかりとした動きで、クロス円に追随した。",
-    "source": "フィスコ",
-    "published": null,
-    "fetched_at": "2026-11-23T18:02:33.907895+00:00"
-  },
-  {
-    "title": "ドル円 158.88円までじり高、日米株価指数先物が堅調推移",
-    "link": "https://finance.yahoo.co.jp/news/detail/f7d31c4df056ab3f86566bcba40549401bb2a35c",
-    "description": "ドル円は158.88円までじり高となり、日米の株価指数先物は堅調に推移した。",
-    "source": "トレーダーズ・ウェブ",
-    "published": null,
-    "fetched_at": "2026-11-23T18:02:33.907895+00:00"
-  },
-  {
-    "title": "東京為替：ドル・円は小じっかり、クロス円に追随",
-    "link": "https://www.zaikei.co.jp/article/20261123/878778.html",
-    "description": "23日の東京市場は祝日で薄商いの中、ドル・円は158円台後半から159円前後で小幅に推移した。",
-    "source": "財経新聞",
-    "published": null,
-    "fetched_at": "2026-11-23T12:02:39.288061+00:00"
-  },
-  {
-    "title": "東京為替：ドル・円は伸び悩み、ドル売り地合いで",
-    "link": "https://www.zaikei.co.jp/article/20261123/878775.html",
-    "description": "米長期金利の上昇一服を背景に、ドル・円は159円付近で伸び悩んだ。",
-    "source": "財経新聞",
-    "published": null,
-    "fetched_at": "2026-11-23T12:02:39.288061+00:00"
   }
 ]

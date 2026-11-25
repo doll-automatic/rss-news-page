@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 12:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:02:34 +0000</lastBuildDate>
     <item>
       <title>日経平均大引け：前日比1633.01円安の57011.62円</title>
       <link>https://zai.diamond.jp/articles/-/499658</link>
@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOFL250G70V21C26A1000000/</guid>
       <description>【日本経済新聞】AI投資の持続性への不安から半導体株などが売られ、日経平均は1633円安で終えた。</description>
       <pubDate>Wed, 25 Nov 2026 06:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均は1673円安、米PCE物価指数などに関心</title>
+      <link>https://zaikei.co.jp/article/20261125/879095.html</link>
+      <guid isPermaLink="true">https://zaikei.co.jp/article/20261125/879095.html</guid>
+      <description>【財経新聞】日経平均は大幅安。AI関連株への売りが目立ち、米PCE物価指数などに関心が向かった。</description>
+      <pubDate>Wed, 25 Nov 2026 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>外為12時 円相場、上昇 159円台前半 株安でリスク回避の買い</title>
@@ -145,41 +152,6 @@
       <guid isPermaLink="true">https://fx.minkabu.jp/news/385225</guid>
       <description>【みんかぶ】24日朝のドル円は158.90円台で推移した。</description>
       <pubDate>Mon, 23 Nov 2026 22:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京為替：ドル・円は158円90銭付近で小動き、東京市場は祝日</title>
-      <link>https://zaikei.co.jp/article/20261123/878757.html</link>
-      <guid isPermaLink="true">https://zaikei.co.jp/article/20261123/878757.html</guid>
-      <description>【財経新聞】勤労感謝の日で東京市場は休場。ドル円は158円90銭付近で方向感に乏しい動きとなった。</description>
-      <pubDate>Mon, 23 Nov 2026 18:02:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京為替：ドル・円は小じっかり、クロス円に追随</title>
-      <link>https://finance.yahoo.co.jp/news/detail/99b3702cbfc6f16ce734476b0bc266be032acb14</link>
-      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/99b3702cbfc6f16ce734476b0bc266be032acb14</guid>
-      <description>【フィスコ】ドル円は小じっかりとした動きで、クロス円に追随した。</description>
-      <pubDate>Mon, 23 Nov 2026 18:02:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>ドル円 158.88円までじり高、日米株価指数先物が堅調推移</title>
-      <link>https://finance.yahoo.co.jp/news/detail/f7d31c4df056ab3f86566bcba40549401bb2a35c</link>
-      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/f7d31c4df056ab3f86566bcba40549401bb2a35c</guid>
-      <description>【トレーダーズ・ウェブ】ドル円は158.88円までじり高となり、日米の株価指数先物は堅調に推移した。</description>
-      <pubDate>Mon, 23 Nov 2026 18:02:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京為替：ドル・円は小じっかり、クロス円に追随</title>
-      <link>https://www.zaikei.co.jp/article/20261123/878778.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261123/878778.html</guid>
-      <description>【財経新聞】23日の東京市場は祝日で薄商いの中、ドル・円は158円台後半から159円前後で小幅に推移した。</description>
-      <pubDate>Mon, 23 Nov 2026 12:02:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京為替：ドル・円は伸び悩み、ドル売り地合いで</title>
-      <link>https://www.zaikei.co.jp/article/20261123/878775.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261123/878775.html</guid>
-      <description>【財経新聞】米長期金利の上昇一服を背景に、ドル・円は159円付近で伸び悩んだ。</description>
-      <pubDate>Mon, 23 Nov 2026 12:02:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -32,6 +32,14 @@
     "fetched_at": "2026-11-25T12:02:23.533899+00:00"
   },
   {
+    "title": "モノタロウ／商品名が分からなくてもAIで絞り込めるサービス開始",
+    "link": "https://lnews.jp/2026/11/s1125605.html",
+    "description": "モノタロウが、商品名が分からなくてもAIで商品を絞り込めるサービスを開始した。",
+    "source": "物流ニュースのLNEWS",
+    "published": "2026-11-25T09:00:00+09:00",
+    "fetched_at": "2026-11-25T18:02:34.371619+00:00"
+  },
+  {
     "title": "NVIDIA、フアン氏のCEO復帰を発表 トランプ大統領「私がまとめた」と取締役会への働きかけ認める",
     "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003397/",
     "description": "NVIDIAが辞任していたジェンスン・フアン氏の社長兼CEO復帰を発表した。トランプ大統領は取締役会への働きかけを認めた。",
@@ -72,6 +80,22 @@
     "fetched_at": "2026-11-25T12:02:23.533899+00:00"
   },
   {
+    "title": "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保",
+    "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003398/",
+    "description": "CrowdStrikeが約439億ドルの株式交換でZscalerを買収する方針。AIエージェントの安全な利用を支える統合プラットフォームを目指す。",
+    "source": "ITmedia NEWS",
+    "published": "2026-11-24T12:00:00+09:00",
+    "fetched_at": "2026-11-25T18:02:34.371619+00:00"
+  },
+  {
+    "title": "CrowdStrike、Zscalerを439億ドルで買収 - エンドポイントとSASEを統合",
+    "link": "https://news.mynavi.jp/techplus/article/20261124-5396173/",
+    "description": "CrowdStrikeがZscalerを買収し、エンドポイントとネットワークセキュリティを統合する。",
+    "source": "マイナビニュース",
+    "published": "2026-11-24T12:00:00+09:00",
+    "fetched_at": "2026-11-25T18:02:34.371619+00:00"
+  },
+  {
     "title": "NVIDIA、フアン元CEOが電撃復帰 取締役会が一転して全会一致で決定",
     "link": "https://automaton-media.com/articles/newsjp/20261123-480532/",
     "description": "復帰させる意向なしとしていた取締役会が一転し、フアン氏の復帰を全会一致で決定した。",
@@ -102,21 +126,5 @@
     "source": "マイナビニュース",
     "published": "2026-11-24T08:00:00+09:00",
     "fetched_at": "2026-11-24T00:02:19.117844+00:00"
-  },
-  {
-    "title": "NVIDIA、中国向け「H200」販売を終了へ - 対中AI半導体規制の強化受け",
-    "link": "https://news.mynavi.jp/techplus/article/20261119-5358623/",
-    "description": "NVIDIAが対中AI半導体規制の強化を受け、中国向けH200の販売を終了する。決算説明会で暫定CEOが明らかにした。",
-    "source": "マイナビニュース",
-    "published": null,
-    "fetched_at": "2026-11-23T18:02:33.907895+00:00"
-  },
-  {
-    "title": "トランプ氏「米国にとっても最善策」エヌビディア創業者のCEO復帰を希望",
-    "link": "https://crypto-times.jp/news-president-trump-hopes-nvidia-founder-will-return-as-ceo/",
-    "description": "トランプ米大統領が、辞任したNVIDIAのジェンスン・フアン氏のCEO復帰を望むとSNSで表明した。",
-    "source": "CRYPTO TIMES",
-    "published": null,
-    "fetched_at": "2026-11-23T12:02:39.288061+00:00"
   }
 ]

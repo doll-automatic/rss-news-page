@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 12:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:02:34 +0000</lastBuildDate>
     <item>
       <title>「怖い」白昼の駐輪場で男性が刺され死亡 男は商業施設を通り抜け逃走 福岡</title>
       <link>https://news.yahoo.co.jp/articles/5a9abd699b804715938ba8d5317357745cfdf437</link>
@@ -25,6 +25,13 @@
       <link>https://news.yahoo.co.jp/articles/fbc0e019b9196dbb105c9c8b00ddbdf0dc605fad</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fbc0e019b9196dbb105c9c8b00ddbdf0dc605fad</guid>
       <description>【東海テレビ】大雪による大規模停電が続いた岐阜県郡上市などで多くの地域が復旧したが、被害は大きい。</description>
+      <pubDate>Wed, 25 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>立民と公明、献金規制法案を提出 参院へ、口座振り込み限定</title>
+      <link>https://ryukyushimpo.jp/kyodo/entry-5614542.html</link>
+      <guid isPermaLink="true">https://ryukyushimpo.jp/kyodo/entry-5614542.html</guid>
+      <description>【琉球新報（共同通信）】立憲民主党と公明党が企業・団体献金の規制を強化する法案を参院に共同提出した。献金は口座振り込みに限定する。</description>
       <pubDate>Wed, 25 Nov 2026 03:00:00 +0000</pubDate>
     </item>
     <item>
@@ -54,6 +61,13 @@
       <guid isPermaLink="true">https://shinmai.co.jp/news/article/gf01dc2oobf6q3v49iv226vg</guid>
       <description>【信濃毎日新聞】雪の影響で続いていた長野県北部の停電が解消した。</description>
       <pubDate>Tue, 24 Nov 2026 18:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>入湯税24年間未徴収、公表せず 富山の町長「黙っておくしか」</title>
+      <link>https://news.yahoo.co.jp/articles/6c4019d34c32535bd56cf4864e8d0c0892c5ef43</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6c4019d34c32535bd56cf4864e8d0c0892c5ef43</guid>
+      <description>【共同通信】富山県立山町の町長が、施設の入湯税の未徴収を公表していなかった問題で謝罪した。刑事告発もされている。</description>
+      <pubDate>Tue, 24 Nov 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>定数削減、全参考人が否定的＝与党は２６日採決提案、野党拒否―衆院委</title>
@@ -117,20 +131,6 @@
       <guid isPermaLink="true">https://news.infoseek.co.jp/article/cbc_3105624/</guid>
       <description>【CBC】岐阜県の郡上市など4市村で積雪による停電が続き、24日朝時点で約3200戸に影響している。</description>
       <pubDate>Mon, 23 Nov 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>文科相が説明するのが重要と木原氏</title>
-      <link>https://news.yahoo.co.jp/articles/242c77b94bf70f917ede0d889bf5d7e7c5878457</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/242c77b94bf70f917ede0d889bf5d7e7c5878457</guid>
-      <description>【共同通信】木原官房長官は、パーティー問題で批判を受ける関文科相本人の説明が重要だとし、進退は首相が決めることだと述べた。</description>
-      <pubDate>Mon, 23 Nov 2026 18:02:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>熊本県天草・芦北地方でM4.1の地震 最大震度3 津波の心配なし</title>
-      <link>https://weathernews.jp/news/202611/230246quake/</link>
-      <guid isPermaLink="true">https://weathernews.jp/news/202611/230246quake/</guid>
-      <description>【ウェザーニュース】23日午前2時46分ごろ、熊本県天草・芦北地方でM4.1の地震があり最大震度3を観測。津波の心配はない。</description>
-      <pubDate>Mon, 23 Nov 2026 18:02:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
