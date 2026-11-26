@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:02:11 +0000</lastBuildDate>
+    <item>
+      <title>東京為替：ドル・円は反落、上昇分を削る</title>
+      <link>https://finance.yahoo.co.jp/news/detail/66820b26dae234ee893e1e436ac78f234666fbc6</link>
+      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/66820b26dae234ee893e1e436ac78f234666fbc6</guid>
+      <description>【フィスコ】東京市場でドル円は159円台で推移し、米インフレ指標を前にリスク回避でドルが選好される場面もあったが上昇分を削った。</description>
+      <pubDate>Thu, 26 Nov 2026 00:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均は1673円安、米PCE物価指数などに関心</title>
+      <link>https://jp.investing.com/news/forex-news/article-1770235</link>
+      <guid isPermaLink="true">https://jp.investing.com/news/forex-news/article-1770235</guid>
+      <description>【Fisco / Investing.com】日経平均が大幅に下落。AI・半導体関連株への売りが目立ち、米PCE物価指数に市場の関心が集まった。</description>
+      <pubDate>Thu, 26 Nov 2026 00:02:11 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均大引け：前日比1633.01円安の57011.62円</title>
       <link>https://zai.diamond.jp/articles/-/499658</link>
@@ -131,27 +145,6 @@
       <guid isPermaLink="true">https://www.oanda.jp/lab-education/market_news/report_usdjpy_20261124/</guid>
       <description>【OANDAマーケットニュース】ドル円は159円台半ばまで上昇したのち158円台後半へ押し戻された。</description>
       <pubDate>Tue, 24 Nov 2026 00:02:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>エヌビディア急伸でイビデンがストップ高、ワコムはMBO発表/日経平均反発</title>
-      <link>https://finance.yahoo.co.jp/news/detail/8d9965d60f12058300017a87663380f9c20a3a3c</link>
-      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/8d9965d60f12058300017a87663380f9c20a3a3c</guid>
-      <description>【ダイヤモンド・ザイ】エヌビディア急伸で関連株が買われ、イビデンがストップ高、ワコムはMBOを発表した。</description>
-      <pubDate>Mon, 23 Nov 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【今日のドル円】エヌビディア36％急騰で一時159.50円へ 休場明け東京勢の参戦で160円突破なるか</title>
-      <link>https://www.gaitame.com/media/entry/2026/11/24/071717</link>
-      <guid isPermaLink="true">https://www.gaitame.com/media/entry/2026/11/24/071717</guid>
-      <description>【外為どっとコム】NVIDIA株の急騰を受けドル円が一時159.50円に上昇、東京市場再開で160円を試すかが焦点。</description>
-      <pubDate>Mon, 23 Nov 2026 22:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>朝のドル円は158.90円台＝東京為替</title>
-      <link>https://fx.minkabu.jp/news/385225</link>
-      <guid isPermaLink="true">https://fx.minkabu.jp/news/385225</guid>
-      <description>【みんかぶ】24日朝のドル円は158.90円台で推移した。</description>
-      <pubDate>Mon, 23 Nov 2026 22:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

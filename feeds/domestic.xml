@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:02:11 +0000</lastBuildDate>
+    <item>
+      <title>駅駐輪場殺人事件に関連とみて捜査 地下鉄駅で駅係員に暴行の疑いで49歳男を逮捕 福岡市</title>
+      <link>https://news.yahoo.co.jp/articles/a370a488e32d52399ab2b2c78a70e12ca1a8c411</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a370a488e32d52399ab2b2c78a70e12ca1a8c411</guid>
+      <description>【KBC九州朝日放送】福岡市の地下鉄駅で駅係員に暴行した疑いで49歳の男を逮捕。西区の駅駐輪場で男性が刺され死亡した事件との関連を調べている。</description>
+      <pubDate>Thu, 26 Nov 2026 00:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>自転車の女性がクレーン車にひかれ意識不明の重体 運転手を現行犯逮捕</title>
+      <link>https://news.yahoo.co.jp/articles/caa8190eb9e724d01d01a53a71d8af9484a3f985</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/caa8190eb9e724d01d01a53a71d8af9484a3f985</guid>
+      <description>【テレビ朝日系（ANN）】自転車の女性がクレーン車にひかれ意識不明の重体。運転手が過失運転致傷の疑いで現行犯逮捕された。</description>
+      <pubDate>Thu, 26 Nov 2026 00:02:11 +0000</pubDate>
+    </item>
     <item>
       <title>「怖い」白昼の駐輪場で男性が刺され死亡 男は商業施設を通り抜け逃走 福岡</title>
       <link>https://news.yahoo.co.jp/articles/5a9abd699b804715938ba8d5317357745cfdf437</link>
@@ -117,20 +131,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cc840869100f5ad7baa48ebd6baab83f350a60ad</guid>
       <description>【NBS長野放送】大雪による倒木で長野市などで停電が4日目に入り、復旧は24日の見込み。</description>
       <pubDate>Tue, 24 Nov 2026 00:02:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>「電気がこないのが一番困る」岐阜・郡上市など4市村で積雪による停電続く 24日午前6時現在で計約3200戸</title>
-      <link>https://news.yahoo.co.jp/articles/4c5e00e8be87dc12e5801257a8467e52bc35b91e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4c5e00e8be87dc12e5801257a8467e52bc35b91e</guid>
-      <description>【CBCテレビ】積雪の影響で岐阜県内の4市村で約3200戸の停電が続いている。</description>
-      <pubDate>Mon, 23 Nov 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>「電気がこないのが一番困る」…岐阜・郡上市など4市村で積雪による停電続く</title>
-      <link>https://news.infoseek.co.jp/article/cbc_3105624/</link>
-      <guid isPermaLink="true">https://news.infoseek.co.jp/article/cbc_3105624/</guid>
-      <description>【CBC】岐阜県の郡上市など4市村で積雪による停電が続き、24日朝時点で約3200戸に影響している。</description>
-      <pubDate>Mon, 23 Nov 2026 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

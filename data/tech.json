@@ -1,5 +1,21 @@
 [
   {
+    "title": "グーグルの米特許出願―視聴者の顔と声で番組を作る生成AIテレビ構想",
+    "link": "https://zaikei.co.jp/article/20261125/879139.html",
+    "description": "視聴者の写真と音声からアバターと合成音声を作り、本人が主人公の番組を生成AIで作る構想を示すGoogleの米特許出願が公開された。",
+    "source": "財経新聞",
+    "published": null,
+    "fetched_at": "2026-11-26T00:02:11.048906+00:00"
+  },
+  {
+    "title": "生成AIで“自然な日本語”の詐欺サイト増加、約1億7000万円被害で逮捕者も",
+    "link": "https://news.yahoo.co.jp/articles/425a0e723db38c235822605a33f76a438644091f",
+    "description": "生成AIで自然な日本語の偽サイトを作る詐欺が増え、約1億7000万円の被害で逮捕者も出ている。対処法を弁護士が解説。",
+    "source": "弁護士JPニュース",
+    "published": null,
+    "fetched_at": "2026-11-26T00:02:11.048906+00:00"
+  },
+  {
     "title": "NVIDIAファン氏復帰、圧力に屈した取締役会 くすぶる再追及の火種",
     "link": "https://www.nikkei.com/article/DGXZQOGN232RD0T21C26A1000000/",
     "description": "NVIDIA取締役会がジェンスン・フアン氏のCEO復帰を決定。外国情報機関との接触疑惑の調査は続く。",
@@ -117,14 +133,6 @@
     "description": "今週の生成AI関連技術5つを解説する週刊まとめ記事。",
     "source": "TECHNO EDGE",
     "published": null,
-    "fetched_at": "2026-11-24T00:02:19.117844+00:00"
-  },
-  {
-    "title": "NVIDIA、ジェンスン・フアン氏がCEO復帰 取締役会が全会一致で決定、社内調査は継続",
-    "link": "https://news.mynavi.jp/article/20261124-5394199/",
-    "description": "NVIDIAは取締役会が全会一致でフアン氏の社長兼CEOへの復帰を決めたと発表した。独立調査は継続する。",
-    "source": "マイナビニュース",
-    "published": "2026-11-24T08:00:00+09:00",
     "fetched_at": "2026-11-24T00:02:19.117844+00:00"
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "title": "東京為替：ドル・円は反落、上昇分を削る",
+    "link": "https://finance.yahoo.co.jp/news/detail/66820b26dae234ee893e1e436ac78f234666fbc6",
+    "description": "東京市場でドル円は159円台で推移し、米インフレ指標を前にリスク回避でドルが選好される場面もあったが上昇分を削った。",
+    "source": "フィスコ",
+    "published": null,
+    "fetched_at": "2026-11-26T00:02:11.048906+00:00"
+  },
+  {
+    "title": "日経平均は1673円安、米PCE物価指数などに関心",
+    "link": "https://jp.investing.com/news/forex-news/article-1770235",
+    "description": "日経平均が大幅に下落。AI・半導体関連株への売りが目立ち、米PCE物価指数に市場の関心が集まった。",
+    "source": "Fisco / Investing.com",
+    "published": null,
+    "fetched_at": "2026-11-26T00:02:11.048906+00:00"
+  },
+  {
     "title": "日経平均大引け：前日比1633.01円安の57011.62円",
     "link": "https://zai.diamond.jp/articles/-/499658",
     "description": "日経平均は大幅反落し、AI関連株の下落を受けて5万7011円62銭で取引を終えた。",
@@ -141,30 +157,6 @@
     "description": "ドル円は159円台半ばまで上昇したのち158円台後半へ押し戻された。",
     "source": "OANDAマーケットニュース",
     "published": null,
-    "fetched_at": "2026-11-24T00:02:19.117844+00:00"
-  },
-  {
-    "title": "エヌビディア急伸でイビデンがストップ高、ワコムはMBO発表/日経平均反発",
-    "link": "https://finance.yahoo.co.jp/news/detail/8d9965d60f12058300017a87663380f9c20a3a3c",
-    "description": "エヌビディア急伸で関連株が買われ、イビデンがストップ高、ワコムはMBOを発表した。",
-    "source": "ダイヤモンド・ザイ",
-    "published": "2026-11-24T08:00:00+09:00",
-    "fetched_at": "2026-11-24T12:02:07.055561+00:00"
-  },
-  {
-    "title": "【今日のドル円】エヌビディア36％急騰で一時159.50円へ 休場明け東京勢の参戦で160円突破なるか",
-    "link": "https://www.gaitame.com/media/entry/2026/11/24/071717",
-    "description": "NVIDIA株の急騰を受けドル円が一時159.50円に上昇、東京市場再開で160円を試すかが焦点。",
-    "source": "外為どっとコム",
-    "published": "2026-11-24T07:17:00+09:00",
-    "fetched_at": "2026-11-24T00:02:19.117844+00:00"
-  },
-  {
-    "title": "朝のドル円は158.90円台＝東京為替",
-    "link": "https://fx.minkabu.jp/news/385225",
-    "description": "24日朝のドル円は158.90円台で推移した。",
-    "source": "みんかぶ",
-    "published": "2026-11-24T07:10:00+09:00",
     "fetched_at": "2026-11-24T00:02:19.117844+00:00"
   }
 ]

@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:02:11 +0000</lastBuildDate>
+    <item>
+      <title>グーグルの米特許出願―視聴者の顔と声で番組を作る生成AIテレビ構想</title>
+      <link>https://zaikei.co.jp/article/20261125/879139.html</link>
+      <guid isPermaLink="true">https://zaikei.co.jp/article/20261125/879139.html</guid>
+      <description>【財経新聞】視聴者の写真と音声からアバターと合成音声を作り、本人が主人公の番組を生成AIで作る構想を示すGoogleの米特許出願が公開された。</description>
+      <pubDate>Thu, 26 Nov 2026 00:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>生成AIで“自然な日本語”の詐欺サイト増加、約1億7000万円被害で逮捕者も</title>
+      <link>https://news.yahoo.co.jp/articles/425a0e723db38c235822605a33f76a438644091f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/425a0e723db38c235822605a33f76a438644091f</guid>
+      <description>【弁護士JPニュース】生成AIで自然な日本語の偽サイトを作る詐欺が増え、約1億7000万円の被害で逮捕者も出ている。対処法を弁護士が解説。</description>
+      <pubDate>Thu, 26 Nov 2026 00:02:11 +0000</pubDate>
+    </item>
     <item>
       <title>NVIDIAファン氏復帰、圧力に屈した取締役会 くすぶる再追及の火種</title>
       <link>https://www.nikkei.com/article/DGXZQOGN232RD0T21C26A1000000/</link>
@@ -110,13 +124,6 @@
       <guid isPermaLink="true">https://www.techno-edge.net/article/2026/11/23/5790.html</guid>
       <description>【TECHNO EDGE】今週の生成AI関連技術5つを解説する週刊まとめ記事。</description>
       <pubDate>Tue, 24 Nov 2026 00:02:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA、ジェンスン・フアン氏がCEO復帰 取締役会が全会一致で決定、社内調査は継続</title>
-      <link>https://news.mynavi.jp/article/20261124-5394199/</link>
-      <guid isPermaLink="true">https://news.mynavi.jp/article/20261124-5394199/</guid>
-      <description>【マイナビニュース】NVIDIAは取締役会が全会一致でフアン氏の社長兼CEOへの復帰を決めたと発表した。独立調査は継続する。</description>
-      <pubDate>Mon, 23 Nov 2026 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
