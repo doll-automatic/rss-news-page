@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:02:11 +0000</lastBuildDate>
+    <item>
+      <title>福岡市西区の殺人事件に関与か　重要参考人として男を聴取、福岡県警</title>
+      <link>https://www.nishinippon.co.jp/item/1564487/</link>
+      <guid isPermaLink="true">https://www.nishinippon.co.jp/item/1564487/</guid>
+      <description>【西日本新聞】福岡市西区のJR九大学研都市駅近くの駐輪場で70歳男性が刺殺された事件で、県警が重要参考人の男から事情を聴いている。</description>
+      <pubDate>Thu, 26 Nov 2026 12:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>【速報】オンカジや横領で有罪の裁判官を罷免 戦後9人目 弾劾裁判所</title>
+      <link>https://news.yahoo.co.jp/articles/97055efbb2c9632c6bb7bd92c8e78a6e0ca38fce</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/97055efbb2c9632c6bb7bd92c8e78a6e0ca38fce</guid>
+      <description>【テレビ朝日系（ANN）】国会の弾劾裁判所は、横領やオンラインカジノ賭博で有罪が確定した新潟簡裁の裁判官を罷免する判決を言い渡した。</description>
+      <pubDate>Thu, 26 Nov 2026 12:02:11 +0000</pubDate>
+    </item>
     <item>
       <title>駅駐輪場殺人事件に関連とみて捜査 地下鉄駅で駅係員に暴行の疑いで49歳男を逮捕 福岡市</title>
       <link>https://news.yahoo.co.jp/articles/a370a488e32d52399ab2b2c78a70e12ca1a8c411</link>
@@ -82,34 +96,6 @@
       <guid isPermaLink="true">https://shinmai.co.jp/news/article/gf01dc2oobf6q3v49iv226vg</guid>
       <description>【信濃毎日新聞】雪の影響で続いていた長野県北部の停電が解消した。</description>
       <pubDate>Tue, 24 Nov 2026 18:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>入湯税24年間未徴収、公表せず 富山の町長「黙っておくしか」</title>
-      <link>https://news.yahoo.co.jp/articles/6c4019d34c32535bd56cf4864e8d0c0892c5ef43</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6c4019d34c32535bd56cf4864e8d0c0892c5ef43</guid>
-      <description>【共同通信】富山県立山町の町長が、施設の入湯税の未徴収を公表していなかった問題で謝罪した。刑事告発もされている。</description>
-      <pubDate>Tue, 24 Nov 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>定数削減、全参考人が否定的＝与党は２６日採決提案、野党拒否―衆院委</title>
-      <link>https://news.infoseek.co.jp/article/jiji_2026112400876/</link>
-      <guid isPermaLink="true">https://news.infoseek.co.jp/article/jiji_2026112400876/</guid>
-      <description>【時事通信】衆院特別委で参考人4人全員が定数削減に否定的。与党は26日採決を提案したが野党は拒否した。</description>
-      <pubDate>Tue, 24 Nov 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>定数削減、全参考人が否定的 与党は26日採決提案、野党拒否 衆院委</title>
-      <link>https://news.yahoo.co.jp/articles/ab71710c67c9f71436acd7c37c6c2ea838a2377b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ab71710c67c9f71436acd7c37c6c2ea838a2377b</guid>
-      <description>【時事通信】衆院特別委の参考人質疑で全員が比例定数削減に否定的な見解を示し、与党の採決提案を野党が拒否した。</description>
-      <pubDate>Tue, 24 Nov 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>今日24日は寒冷前線が通過中 強い雨、落雷、突風、ひょうに注意 夜は北日本で吹雪</title>
-      <link>https://tenki.jp/forecaster/deskpart/2026/11/24/41420.html</link>
-      <guid isPermaLink="true">https://tenki.jp/forecaster/deskpart/2026/11/24/41420.html</guid>
-      <description>【tenki.jp】寒冷前線の通過で全国的に大気が不安定。強い雨や落雷、突風、ひょうに注意が必要で、夜は北日本で吹雪となる見込み。</description>
-      <pubDate>Tue, 24 Nov 2026 06:01:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:02:11 +0000</lastBuildDate>
+    <item>
+      <title>東京為替：ドル・円は伸び悩み、上昇は限定的</title>
+      <link>https://www.zaikei.co.jp/article/20261126/879310.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261126/879310.html</guid>
+      <description>【財経新聞】26日の東京外国為替市場でドル円は159円台前半で伸び悩み、上値は重い展開となった。</description>
+      <pubDate>Thu, 26 Nov 2026 12:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均は871円高、ダウ平均先物堅調で安心感</title>
+      <link>https://jp.investing.com/news/forex-news/article-1771482</link>
+      <guid isPermaLink="true">https://jp.investing.com/news/forex-news/article-1771482</guid>
+      <description>【Investing.com（Fisco）】26日の日経平均は反発。米ダウ先物の堅調さが安心感につながり、前日の大幅安から買い戻された。</description>
+      <pubDate>Thu, 26 Nov 2026 12:02:11 +0000</pubDate>
+    </item>
     <item>
       <title>後場の日経平均は798円高でスタート、ソフトバンクGや古河電工などが上昇</title>
       <link>https://www.zaikei.co.jp/article/20261126/879267.html</link>
@@ -103,48 +117,6 @@
       <guid isPermaLink="true">https://nikkei.com/article/DGXZQOFL244L90U6A121C2000000</guid>
       <description>【日本経済新聞】日経平均は前週末比2207円高の5万8644円63銭で取引を終えた。エヌビディア急伸でAI・半導体関連に買いが入った。</description>
       <pubDate>Tue, 24 Nov 2026 18:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京マーケットダイジェスト・24日 円安・株大幅高</title>
-      <link>https://myforex.com/ja/news/dzh261124132.html</link>
-      <guid isPermaLink="true">https://myforex.com/ja/news/dzh261124132.html</guid>
-      <description>【myforex】24日の東京市場は円安・株高となり、日経平均は大幅に上昇した。</description>
-      <pubDate>Tue, 24 Nov 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経2207円高でも値上がりは6割、非鉄金属に資金｜日経平均の概況【11月24日】</title>
-      <link>https://tbladvisory.com/20261124nk/</link>
-      <guid isPermaLink="true">https://tbladvisory.com/20261124nk/</guid>
-      <description>【世界一やさしい投資の学校】日経平均は2207円高の5万8644円で取引を終えた。非鉄金属が上昇率首位だった。</description>
-      <pubDate>Tue, 24 Nov 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均株価大幅反発、終値2207円高の5万8644円</title>
-      <link>https://nikkei.com/article/DGXZQOFL240OU0U6A121C2000000</link>
-      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOFL240OU0U6A121C2000000</guid>
-      <description>【日本経済新聞】エヌビディアのCEO復帰を受け、日経平均は2207円高の5万8644円で取引を終えた。</description>
-      <pubDate>Tue, 24 Nov 2026 06:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は2286円高、米経済指標や企業決算に関心</title>
-      <link>https://www.zaikei.co.jp/article/20261124/878934.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261124/878934.html</guid>
-      <description>【財経新聞】24日午後の日経平均は2286円高まで上げ幅を拡大した。米経済指標や企業決算への関心が高まっている。</description>
-      <pubDate>Tue, 24 Nov 2026 06:01:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京株式 24日14時</title>
-      <link>https://www.chunichi.co.jp/article/1343816</link>
-      <guid isPermaLink="true">https://www.chunichi.co.jp/article/1343816</guid>
-      <description>【中日新聞Web】24日14時時点の東京株式市場の動向を伝える記事。</description>
-      <pubDate>Tue, 24 Nov 2026 06:01:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京為替：ドル・円は底堅い、株価にらみ</title>
-      <link>https://kabutan.jp/news/marketnews/?b=n202611240685</link>
-      <guid isPermaLink="true">https://kabutan.jp/news/marketnews/?b=n202611240685</guid>
-      <description>【株探】午後の東京市場でドル・円は159円付近で底堅く推移。株価の動向をにらむ展開となった。</description>
-      <pubDate>Tue, 24 Nov 2026 06:01:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

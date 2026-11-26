@@ -1,5 +1,21 @@
 [
   {
+    "title": "東京為替：ドル・円は伸び悩み、上昇は限定的",
+    "link": "https://www.zaikei.co.jp/article/20261126/879310.html",
+    "description": "26日の東京外国為替市場でドル円は159円台前半で伸び悩み、上値は重い展開となった。",
+    "source": "財経新聞",
+    "published": null,
+    "fetched_at": "2026-11-26T12:02:11.332075+00:00"
+  },
+  {
+    "title": "日経平均は871円高、ダウ平均先物堅調で安心感",
+    "link": "https://jp.investing.com/news/forex-news/article-1771482",
+    "description": "26日の日経平均は反発。米ダウ先物の堅調さが安心感につながり、前日の大幅安から買い戻された。",
+    "source": "Investing.com（Fisco）",
+    "published": null,
+    "fetched_at": "2026-11-26T12:02:11.332075+00:00"
+  },
+  {
     "title": "後場の日経平均は798円高でスタート、ソフトバンクGや古河電工などが上昇",
     "link": "https://www.zaikei.co.jp/article/20261126/879267.html",
     "description": "26日後場寄り付きの日経平均は前日比798円高の5万7810円台。前日の大幅反落から戻した。",
@@ -110,53 +126,5 @@
     "source": "日本経済新聞",
     "published": null,
     "fetched_at": "2026-11-24T18:02:11.135426+00:00"
-  },
-  {
-    "title": "東京マーケットダイジェスト・24日 円安・株大幅高",
-    "link": "https://myforex.com/ja/news/dzh261124132.html",
-    "description": "24日の東京市場は円安・株高となり、日経平均は大幅に上昇した。",
-    "source": "myforex",
-    "published": "2026-11-24T16:00:00+09:00",
-    "fetched_at": "2026-11-24T12:02:07.055561+00:00"
-  },
-  {
-    "title": "日経2207円高でも値上がりは6割、非鉄金属に資金｜日経平均の概況【11月24日】",
-    "link": "https://tbladvisory.com/20261124nk/",
-    "description": "日経平均は2207円高の5万8644円で取引を終えた。非鉄金属が上昇率首位だった。",
-    "source": "世界一やさしい投資の学校",
-    "published": "2026-11-24T16:00:00+09:00",
-    "fetched_at": "2026-11-24T12:02:07.055561+00:00"
-  },
-  {
-    "title": "日経平均株価大幅反発、終値2207円高の5万8644円",
-    "link": "https://nikkei.com/article/DGXZQOFL240OU0U6A121C2000000",
-    "description": "エヌビディアのCEO復帰を受け、日経平均は2207円高の5万8644円で取引を終えた。",
-    "source": "日本経済新聞",
-    "published": "2026-11-24T15:30:00+09:00",
-    "fetched_at": "2026-11-25T06:01:58.489654+00:00"
-  },
-  {
-    "title": "日経平均は2286円高、米経済指標や企業決算に関心",
-    "link": "https://www.zaikei.co.jp/article/20261124/878934.html",
-    "description": "24日午後の日経平均は2286円高まで上げ幅を拡大した。米経済指標や企業決算への関心が高まっている。",
-    "source": "財経新聞",
-    "published": null,
-    "fetched_at": "2026-11-24T06:01:59.240202+00:00"
-  },
-  {
-    "title": "東京株式 24日14時",
-    "link": "https://www.chunichi.co.jp/article/1343816",
-    "description": "24日14時時点の東京株式市場の動向を伝える記事。",
-    "source": "中日新聞Web",
-    "published": null,
-    "fetched_at": "2026-11-24T06:01:59.240202+00:00"
-  },
-  {
-    "title": "東京為替：ドル・円は底堅い、株価にらみ",
-    "link": "https://kabutan.jp/news/marketnews/?b=n202611240685",
-    "description": "午後の東京市場でドル・円は159円付近で底堅く推移。株価の動向をにらむ展開となった。",
-    "source": "株探",
-    "published": null,
-    "fetched_at": "2026-11-24T06:01:59.240202+00:00"
   }
 ]

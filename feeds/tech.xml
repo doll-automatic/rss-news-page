@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:02:11 +0000</lastBuildDate>
     <item>
       <title>キオクシア、AIメモリーで韓国勢の代替狙う NVIDIAと実証実験開始</title>
       <link>https://www.nikkei.com/article/DGXZQOUC2544K0V21C26A1000000/</link>
@@ -89,20 +89,6 @@
       <guid isPermaLink="true">https://ai.watch.impress.co.jp/docs/news/2158571.html</guid>
       <description>【AI Watch】取締役会が全会一致で決定し、フアン氏が即日復帰した。</description>
       <pubDate>Tue, 24 Nov 2026 18:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA株が35%急騰、フアン氏がCEO電撃復帰でウォール街も歓迎</title>
-      <link>https://jp.investing.com/news/stock-market-news/article-1767929</link>
-      <guid isPermaLink="true">https://jp.investing.com/news/stock-market-news/article-1767929</guid>
-      <description>【Investing.com】フアン氏のCEO復帰を受けNVIDIA株が急騰し、市場関係者は歓迎した。</description>
-      <pubDate>Tue, 24 Nov 2026 12:02:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>ＡＩの法的責任、検討開始 政府専門調査会が初会合</title>
-      <link>https://jiji.com/jc/article?g=pol&amp;k=2026112400920&amp;m=rss</link>
-      <guid isPermaLink="true">https://jiji.com/jc/article?g=pol&amp;k=2026112400920&amp;m=rss</guid>
-      <description>【時事ドットコム】政府の専門調査会が初会合を開き、AIエージェントの法的責任や被害救済を議論。来年6月をめどにとりまとめる。</description>
-      <pubDate>Tue, 24 Nov 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
