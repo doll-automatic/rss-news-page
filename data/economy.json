@@ -1,5 +1,21 @@
 [
   {
+    "title": "日経平均、終値487円高 AI売り一巡期待に配当再投資の追い風",
+    "link": "https://www.nikkei.com/article/DGXZQOUB260IZTW6A121C2000000/",
+    "description": "26日の日経平均は前日比487円高の5万7499円で取引を終えた。AI関連株の売り一巡期待や配当再投資が追い風となった。",
+    "source": "日本経済新聞",
+    "published": null,
+    "fetched_at": "2026-11-26T18:02:02.045782+00:00"
+  },
+  {
+    "title": "日経平均大引け：前日比487.54円高の57499.16円",
+    "link": "https://zai.diamond.jp/articles/-/499749",
+    "description": "26日の東京市場で日経平均は反発して大引けを迎えた。",
+    "source": "ザイFX!",
+    "published": null,
+    "fetched_at": "2026-11-26T18:02:02.045782+00:00"
+  },
+  {
     "title": "東京為替：ドル・円は伸び悩み、上昇は限定的",
     "link": "https://www.zaikei.co.jp/article/20261126/879310.html",
     "description": "26日の東京外国為替市場でドル円は159円台前半で伸び悩み、上値は重い展開となった。",
@@ -14,6 +30,14 @@
     "source": "Investing.com（Fisco）",
     "published": null,
     "fetched_at": "2026-11-26T12:02:11.332075+00:00"
+  },
+  {
+    "title": "日経平均は831円高、今晩の米市場は休場",
+    "link": "https://minkabu.jp/news/4672657",
+    "description": "26日午後の日経平均は831円高となった。米市場は感謝祭の祝日で休場となる。",
+    "source": "みんかぶ",
+    "published": "2026-11-26T14:51:00+09:00",
+    "fetched_at": "2026-11-26T18:02:02.045782+00:00"
   },
   {
     "title": "後場の日経平均は798円高でスタート、ソフトバンクGや古河電工などが上昇",

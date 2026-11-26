@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 12:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:02:02 +0000</lastBuildDate>
+    <item>
+      <title>軽自動車が大型トラックと衝突 軽自動車の男性(57)が意識不明の重体 香川・三豊市</title>
+      <link>https://news.ksb.co.jp/article/17077112</link>
+      <guid isPermaLink="true">https://news.ksb.co.jp/article/17077112</guid>
+      <description>【KSB瀬戸内海放送】香川県三豊市で25日朝、軽自動車と大型トラックが衝突し、軽自動車を運転していた57歳の男性が意識不明の重体となった。</description>
+      <pubDate>Thu, 26 Nov 2026 18:02:02 +0000</pubDate>
+    </item>
     <item>
       <title>福岡市西区の殺人事件に関与か　重要参考人として男を聴取、福岡県警</title>
       <link>https://www.nishinippon.co.jp/item/1564487/</link>

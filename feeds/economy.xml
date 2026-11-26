@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 12:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:02:02 +0000</lastBuildDate>
+    <item>
+      <title>日経平均、終値487円高 AI売り一巡期待に配当再投資の追い風</title>
+      <link>https://www.nikkei.com/article/DGXZQOUB260IZTW6A121C2000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB260IZTW6A121C2000000/</guid>
+      <description>【日本経済新聞】26日の日経平均は前日比487円高の5万7499円で取引を終えた。AI関連株の売り一巡期待や配当再投資が追い風となった。</description>
+      <pubDate>Thu, 26 Nov 2026 18:02:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均大引け：前日比487.54円高の57499.16円</title>
+      <link>https://zai.diamond.jp/articles/-/499749</link>
+      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499749</guid>
+      <description>【ザイFX!】26日の東京市場で日経平均は反発して大引けを迎えた。</description>
+      <pubDate>Thu, 26 Nov 2026 18:02:02 +0000</pubDate>
+    </item>
     <item>
       <title>東京為替：ドル・円は伸び悩み、上昇は限定的</title>
       <link>https://www.zaikei.co.jp/article/20261126/879310.html</link>
@@ -19,6 +33,13 @@
       <guid isPermaLink="true">https://jp.investing.com/news/forex-news/article-1771482</guid>
       <description>【Investing.com（Fisco）】26日の日経平均は反発。米ダウ先物の堅調さが安心感につながり、前日の大幅安から買い戻された。</description>
       <pubDate>Thu, 26 Nov 2026 12:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均は831円高、今晩の米市場は休場</title>
+      <link>https://minkabu.jp/news/4672657</link>
+      <guid isPermaLink="true">https://minkabu.jp/news/4672657</guid>
+      <description>【みんかぶ】26日午後の日経平均は831円高となった。米市場は感謝祭の祝日で休場となる。</description>
+      <pubDate>Thu, 26 Nov 2026 05:51:00 +0000</pubDate>
     </item>
     <item>
       <title>後場の日経平均は798円高でスタート、ソフトバンクGや古河電工などが上昇</title>
