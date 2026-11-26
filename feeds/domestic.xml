@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 00:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:01:53 +0000</lastBuildDate>
     <item>
       <title>駅駐輪場殺人事件に関連とみて捜査 地下鉄駅で駅係員に暴行の疑いで49歳男を逮捕 福岡市</title>
       <link>https://news.yahoo.co.jp/articles/a370a488e32d52399ab2b2c78a70e12ca1a8c411</link>
@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/caa8190eb9e724d01d01a53a71d8af9484a3f985</guid>
       <description>【テレビ朝日系（ANN）】自転車の女性がクレーン車にひかれ意識不明の重体。運転手が過失運転致傷の疑いで現行犯逮捕された。</description>
       <pubDate>Thu, 26 Nov 2026 00:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>衆院定数31削減法案、文科相問責決議案の提出時期と参院が握る成立の行方</title>
+      <link>https://news.yahoo.co.jp/expert/articles/96198a89a1085a16ca67cada891cd9e0f75e42e0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/expert/articles/96198a89a1085a16ca67cada891cd9e0f75e42e0</guid>
+      <description>【Yahoo!ニュース エキスパート】定数削減法案と文科相問責決議案をめぐる国会情勢と、参院での成立の行方を解説。</description>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>「怖い」白昼の駐輪場で男性が刺され死亡 男は商業施設を通り抜け逃走 福岡</title>
@@ -91,46 +98,18 @@
       <pubDate>Tue, 24 Nov 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>定数削減、全参考人が否定的 与党は26日採決提案、野党拒否 衆院委</title>
+      <link>https://news.yahoo.co.jp/articles/ab71710c67c9f71436acd7c37c6c2ea838a2377b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ab71710c67c9f71436acd7c37c6c2ea838a2377b</guid>
+      <description>【時事通信】衆院特別委の参考人質疑で全員が比例定数削減に否定的な見解を示し、与党の採決提案を野党が拒否した。</description>
+      <pubDate>Tue, 24 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>今日24日は寒冷前線が通過中 強い雨、落雷、突風、ひょうに注意 夜は北日本で吹雪</title>
       <link>https://tenki.jp/forecaster/deskpart/2026/11/24/41420.html</link>
       <guid isPermaLink="true">https://tenki.jp/forecaster/deskpart/2026/11/24/41420.html</guid>
       <description>【tenki.jp】寒冷前線の通過で全国的に大気が不安定。強い雨や落雷、突風、ひょうに注意が必要で、夜は北日本で吹雪となる見込み。</description>
       <pubDate>Tue, 24 Nov 2026 06:01:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>野党、関文科相問責提出へ 法案審議に影響示唆</title>
-      <link>https://www.jiji.com/jc/article?k=2026112400408&amp;g=pol</link>
-      <guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026112400408&amp;g=pol</guid>
-      <description>【時事ドットコム】参院の野党6党は関文科相の問責決議案を提出する方針で一致した。辞任がなければ法案審議に影響するとした。</description>
-      <pubDate>Tue, 24 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>野党6党、文科相の問責決議案提出へ 関氏「職務に全力」辞任否定</title>
-      <link>https://www.nikkei.com/article/DGXZQOUA232QZ0T21C26A1000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA232QZ0T21C26A1000000/</guid>
-      <description>【日本経済新聞】野党6党が問責決議案の提出方針で一致し、関氏は辞任を否定した。</description>
-      <pubDate>Tue, 24 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>長野市などで発生の停電 5日目の24日夜に復旧へ 囲炉裏と薪で暖を確保した宿も</title>
-      <link>https://news.yahoo.co.jp/articles/fb368e96c52eea4fdd1b8989b2e43ccc1b31ac40</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fb368e96c52eea4fdd1b8989b2e43ccc1b31ac40</guid>
-      <description>【テレビ信州】大雪による長野市などの停電は5日目となり、24日夜の復旧が見込まれる。</description>
-      <pubDate>Tue, 24 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>企業関係者に政策を説明させた政治資金パーティー、2024年以外は「確認中」</title>
-      <link>https://news.livedoor.com/topics/detail/32885283</link>
-      <guid isPermaLink="true">https://news.livedoor.com/topics/detail/32885283</guid>
-      <description>【ライブドアニュース】関文科相は官僚に企業関係者へ政策を説明させたパーティーについて、2024年以外は確認中と述べた。</description>
-      <pubDate>Tue, 24 Nov 2026 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>「1分でも早く復旧を」停電が4日目 長野市など約1250戸で続く 復旧は24日の見込み</title>
-      <link>https://news.yahoo.co.jp/articles/cc840869100f5ad7baa48ebd6baab83f350a60ad</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cc840869100f5ad7baa48ebd6baab83f350a60ad</guid>
-      <description>【NBS長野放送】大雪による倒木で長野市などで停電が4日目に入り、復旧は24日の見込み。</description>
-      <pubDate>Tue, 24 Nov 2026 00:02:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

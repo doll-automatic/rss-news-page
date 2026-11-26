@@ -1,5 +1,29 @@
 [
   {
+    "title": "キオクシア、AIメモリーで韓国勢の代替狙う NVIDIAと実証実験開始",
+    "link": "https://www.nikkei.com/article/DGXZQOUC2544K0V21C26A1000000/",
+    "description": "キオクシアは米エヌビディアと連携し、自社の半導体メモリーをAI計算に活用する検証を始めたと発表した。韓国勢が強いAIメモリーの一部代替を狙う。",
+    "source": "日本経済新聞",
+    "published": "2026-11-26T12:00:00+09:00",
+    "fetched_at": "2026-11-26T06:01:53.471069+00:00"
+  },
+  {
+    "title": "キオクシアとNVIDIA、SSDを活用したHBMの実効容量拡張に向けたAI向け実証を開始",
+    "link": "https://www.kioxia.com/ja-jp/business/news/2026/20261126-1.html",
+    "description": "NVMe SSDとNVIDIAのソフトウェアを組み合わせ、GPUの実効メモリを約1.1PB規模に拡張する概念実証を始める。",
+    "source": "キオクシア",
+    "published": "2026-11-26T12:00:00+09:00",
+    "fetched_at": "2026-11-26T06:01:53.471069+00:00"
+  },
+  {
+    "title": "東証10時 日経平均は堅調 AI・半導体に買い続く",
+    "link": "https://nikkei.com/article/DGXZQOFL2611V0W6A121C2000000",
+    "description": "26日午前の東京市場で、直近で下げていたAI・半導体株に買い戻しが広がった。",
+    "source": "日本経済新聞",
+    "published": "2026-11-26T10:00:00+09:00",
+    "fetched_at": "2026-11-26T06:01:53.471069+00:00"
+  },
+  {
     "title": "グーグルの米特許出願―視聴者の顔と声で番組を作る生成AIテレビ構想",
     "link": "https://zaikei.co.jp/article/20261125/879139.html",
     "description": "視聴者の写真と音声からアバターと合成音声を作り、本人が主人公の番組を生成AIで作る構想を示すGoogleの米特許出願が公開された。",
@@ -86,53 +110,5 @@
     "source": "時事ドットコム",
     "published": "2026-11-24T18:00:00+09:00",
     "fetched_at": "2026-11-25T06:01:58.489654+00:00"
-  },
-  {
-    "title": "OpenAIが蒸留対策を公開、AIの「思考過程」を抜き取る攻撃の成功率を54%から0.2%に",
-    "link": "https://www.techno-edge.net/article/2026/11/24/5794.html",
-    "description": "OpenAIが推論過程を抜き取る蒸留攻撃への防御策を公開し、成功率を大幅に下げたとしている。",
-    "source": "テクノエッジ",
-    "published": "2026-11-24T12:00:00+09:00",
-    "fetched_at": "2026-11-25T12:02:23.533899+00:00"
-  },
-  {
-    "title": "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保",
-    "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003398/",
-    "description": "CrowdStrikeが約439億ドルの株式交換でZscalerを買収する方針。AIエージェントの安全な利用を支える統合プラットフォームを目指す。",
-    "source": "ITmedia NEWS",
-    "published": "2026-11-24T12:00:00+09:00",
-    "fetched_at": "2026-11-25T18:02:34.371619+00:00"
-  },
-  {
-    "title": "CrowdStrike、Zscalerを439億ドルで買収 - エンドポイントとSASEを統合",
-    "link": "https://news.mynavi.jp/techplus/article/20261124-5396173/",
-    "description": "CrowdStrikeがZscalerを買収し、エンドポイントとネットワークセキュリティを統合する。",
-    "source": "マイナビニュース",
-    "published": "2026-11-24T12:00:00+09:00",
-    "fetched_at": "2026-11-25T18:02:34.371619+00:00"
-  },
-  {
-    "title": "NVIDIA、フアン元CEOが電撃復帰 取締役会が一転して全会一致で決定",
-    "link": "https://automaton-media.com/articles/newsjp/20261123-480532/",
-    "description": "復帰させる意向なしとしていた取締役会が一転し、フアン氏の復帰を全会一致で決定した。",
-    "source": "AUTOMATON",
-    "published": null,
-    "fetched_at": "2026-11-24T00:02:19.117844+00:00"
-  },
-  {
-    "title": "NVIDIAのジェンスン・フアンがCEOに復帰",
-    "link": "https://gigazine.net/news/20261123-nvidia-jensen-huang-ceo",
-    "description": "NVIDIAがフアン氏のCEO復帰を発表した経緯をまとめた記事。",
-    "source": "GIGAZINE",
-    "published": null,
-    "fetched_at": "2026-11-24T00:02:19.117844+00:00"
-  },
-  {
-    "title": "答えを教えないソクラテス式AI家庭教師スキル「Socratic Tutor」など生成AI技術5つを解説（生成AIウィークリー）",
-    "link": "https://www.techno-edge.net/article/2026/11/23/5790.html",
-    "description": "今週の生成AI関連技術5つを解説する週刊まとめ記事。",
-    "source": "TECHNO EDGE",
-    "published": null,
-    "fetched_at": "2026-11-24T00:02:19.117844+00:00"
   }
 ]

@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 00:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:01:53 +0000</lastBuildDate>
+    <item>
+      <title>後場の日経平均は798円高でスタート、ソフトバンクGや古河電工などが上昇</title>
+      <link>https://www.zaikei.co.jp/article/20261126/879267.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261126/879267.html</guid>
+      <description>【財経新聞】26日後場寄り付きの日経平均は前日比798円高の5万7810円台。前日の大幅反落から戻した。</description>
+      <pubDate>Thu, 26 Nov 2026 03:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>東証後場寄り 日経平均は上値重い 戻り待ちの売りも</title>
+      <link>https://nikkei.com/article/DGXZQOFL263M40W6A121C2000000</link>
+      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOFL263M40W6A121C2000000</guid>
+      <description>【日本経済新聞】後場寄りの東京株式市場で日経平均は上値が重く、戻り待ちの売りが出ている。</description>
+      <pubDate>Thu, 26 Nov 2026 03:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>東京円、158円台後半</title>
+      <link>https://www.tokyo-np.co.jp/article/530793</link>
+      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/530793</guid>
+      <description>【東京新聞】26日午前の東京外国為替市場で円相場は1ドル=158円台後半。介入警戒感もある。</description>
+      <pubDate>Thu, 26 Nov 2026 02:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>東京為替：ドル・円は反落、上昇分を削る</title>
       <link>https://finance.yahoo.co.jp/news/detail/66820b26dae234ee893e1e436ac78f234666fbc6</link>
@@ -124,27 +145,6 @@
       <guid isPermaLink="true">https://kabutan.jp/news/marketnews/?b=n202611240685</guid>
       <description>【株探】午後の東京市場でドル・円は159円付近で底堅く推移。株価の動向をにらむ展開となった。</description>
       <pubDate>Tue, 24 Nov 2026 06:01:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京為替：ドル・円は切り返し、午後は159円台に再浮上</title>
-      <link>https://www.zaikei.co.jp/article/20261124/878951.html</link>
-      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261124/878951.html</guid>
-      <description>【財経新聞】24日の東京外為市場でドル円は午後に159円台へ再浮上した。</description>
-      <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均1300円高、エヌビディアCEO復帰でテックに買い</title>
-      <link>https://fx.minkabu.jp/news/385240</link>
-      <guid isPermaLink="true">https://fx.minkabu.jp/news/385240</guid>
-      <description>【みんかぶ FX/為替】エヌビディアのCEO復帰発表を受け、24日の日経平均は寄り付きから大幅高となり、AI・半導体株に買いが入った。</description>
-      <pubDate>Tue, 24 Nov 2026 00:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ドル円見通し｜159円台半ばまで上昇後、158円台後半に押し戻し（2026年11月24日）</title>
-      <link>https://www.oanda.jp/lab-education/market_news/report_usdjpy_20261124/</link>
-      <guid isPermaLink="true">https://www.oanda.jp/lab-education/market_news/report_usdjpy_20261124/</guid>
-      <description>【OANDAマーケットニュース】ドル円は159円台半ばまで上昇したのち158円台後半へ押し戻された。</description>
-      <pubDate>Tue, 24 Nov 2026 00:02:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
