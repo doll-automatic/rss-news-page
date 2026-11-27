@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:01:59 +0000</lastBuildDate>
+    <item>
+      <title>エヌビディア、東南アジア4カ国へのAI半導体の出荷を停止</title>
+      <link>https://news.yahoo.co.jp/articles/803b4dad729d8cea13efae83694c45c9fca956fb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/803b4dad729d8cea13efae83694c45c9fca956fb</guid>
+      <description>【ギズモード・ジャパン/Yahoo!ニュース】FTの報道として、NVIDIAがインドネシア、マレーシア、シンガポール、タイ向けAIサーバーの出荷停止を製造パートナーに指示したと伝えられた。</description>
+      <pubDate>Fri, 27 Nov 2026 12:01:59 +0000</pubDate>
+    </item>
     <item>
       <title>GoogleのAIが人間の介入なしに6本の数学論文を生成、素因数分解など数十年停滞していた分野に光</title>
       <link>https://gigazine.net/news/20261126-cogentic-6-research-papers</link>

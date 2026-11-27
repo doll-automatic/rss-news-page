@@ -1,5 +1,29 @@
 [
   {
+    "title": "日経平均終値1211円高、キオクシア続伸 「売られすぎ」銘柄に資金",
+    "link": "https://www.nikkei.com/article/DGXZQOFL270IGTX21C26A1000000/",
+    "description": "日経平均は前日比1211円高の5万8711円で取引を終えた。AI・半導体関連などに買いが優勢となった。",
+    "source": "日本経済新聞",
+    "published": null,
+    "fetched_at": "2026-11-27T12:01:59.539325+00:00"
+  },
+  {
+    "title": "外為12時 円相場、横ばい圏 159円台前半 商い乏しく",
+    "link": "https://www.nikkei.com/article/DGXZQOFL271G20X21C26A1000000/",
+    "description": "27日正午の円相場は1ドル=159円台前半で横ばい圏の動きとなった。",
+    "source": "日本経済新聞",
+    "published": null,
+    "fetched_at": "2026-11-27T12:01:59.539325+00:00"
+  },
+  {
+    "title": "日経平均は続伸、アドバンテストが1銘柄で約115円分押し上げ",
+    "link": "https://minkabu.jp/news/4673523",
+    "description": "27日前引けの日経平均は続伸し、アドバンテストが指数を大きく押し上げた。",
+    "source": "フィスコ/みんかぶ",
+    "published": null,
+    "fetched_at": "2026-11-27T12:01:59.539325+00:00"
+  },
+  {
     "title": "日経平均は170円高でスタート、みずほやIHIなどが上昇",
     "link": "https://www.zaikei.co.jp/article/20261127/879382.html",
     "description": "27日の日経平均は170円高で取引を開始し、みずほやIHIなどが上昇した。",
@@ -134,21 +158,5 @@
     "source": "Fisco / Investing.com",
     "published": null,
     "fetched_at": "2026-11-26T00:02:11.048906+00:00"
-  },
-  {
-    "title": "日経平均大引け：前日比1633.01円安の57011.62円",
-    "link": "https://zai.diamond.jp/articles/-/499658",
-    "description": "日経平均は大幅反落し、AI関連株の下落を受けて5万7011円62銭で取引を終えた。",
-    "source": "ザイFX!",
-    "published": "2026-11-25T15:30:00+09:00",
-    "fetched_at": "2026-11-25T12:02:23.533899+00:00"
-  },
-  {
-    "title": "日経平均大引け 反落 1633円安の5万7011円",
-    "link": "https://www.nikkei.com/article/DGXZQOFL250G70V21C26A1000000/",
-    "description": "AI投資の持続性への不安から半導体株などが売られ、日経平均は1633円安で終えた。",
-    "source": "日本経済新聞",
-    "published": "2026-11-25T15:30:00+09:00",
-    "fetched_at": "2026-11-25T12:02:23.533899+00:00"
   }
 ]

@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:01:59 +0000</lastBuildDate>
+    <item>
+      <title>日経平均終値1211円高、キオクシア続伸 「売られすぎ」銘柄に資金</title>
+      <link>https://www.nikkei.com/article/DGXZQOFL270IGTX21C26A1000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOFL270IGTX21C26A1000000/</guid>
+      <description>【日本経済新聞】日経平均は前日比1211円高の5万8711円で取引を終えた。AI・半導体関連などに買いが優勢となった。</description>
+      <pubDate>Fri, 27 Nov 2026 12:01:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>外為12時 円相場、横ばい圏 159円台前半 商い乏しく</title>
+      <link>https://www.nikkei.com/article/DGXZQOFL271G20X21C26A1000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOFL271G20X21C26A1000000/</guid>
+      <description>【日本経済新聞】27日正午の円相場は1ドル=159円台前半で横ばい圏の動きとなった。</description>
+      <pubDate>Fri, 27 Nov 2026 12:01:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均は続伸、アドバンテストが1銘柄で約115円分押し上げ</title>
+      <link>https://minkabu.jp/news/4673523</link>
+      <guid isPermaLink="true">https://minkabu.jp/news/4673523</guid>
+      <description>【フィスコ/みんかぶ】27日前引けの日経平均は続伸し、アドバンテストが指数を大きく押し上げた。</description>
+      <pubDate>Fri, 27 Nov 2026 12:01:59 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均は170円高でスタート、みずほやIHIなどが上昇</title>
       <link>https://www.zaikei.co.jp/article/20261127/879382.html</link>
@@ -124,20 +145,6 @@
       <guid isPermaLink="true">https://jp.investing.com/news/forex-news/article-1770235</guid>
       <description>【Fisco / Investing.com】日経平均が大幅に下落。AI・半導体関連株への売りが目立ち、米PCE物価指数に市場の関心が集まった。</description>
       <pubDate>Thu, 26 Nov 2026 00:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均大引け：前日比1633.01円安の57011.62円</title>
-      <link>https://zai.diamond.jp/articles/-/499658</link>
-      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499658</guid>
-      <description>【ザイFX!】日経平均は大幅反落し、AI関連株の下落を受けて5万7011円62銭で取引を終えた。</description>
-      <pubDate>Wed, 25 Nov 2026 06:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均大引け 反落 1633円安の5万7011円</title>
-      <link>https://www.nikkei.com/article/DGXZQOFL250G70V21C26A1000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOFL250G70V21C26A1000000/</guid>
-      <description>【日本経済新聞】AI投資の持続性への不安から半導体株などが売られ、日経平均は1633円安で終えた。</description>
-      <pubDate>Wed, 25 Nov 2026 06:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
