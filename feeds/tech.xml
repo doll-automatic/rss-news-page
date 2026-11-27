@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 12:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:02:10 +0000</lastBuildDate>
     <item>
       <title>エヌビディア、東南アジア4カ国へのAI半導体の出荷を停止</title>
       <link>https://news.yahoo.co.jp/articles/803b4dad729d8cea13efae83694c45c9fca956fb</link>
@@ -19,6 +19,27 @@
       <guid isPermaLink="true">https://gigazine.net/news/20261126-cogentic-6-research-papers</guid>
       <description>【GIGAZINE】Googleの研究AIが人の介入なしに数学論文を6本生成し、素因数分解など長年停滞していた分野に進展をもたらしたと伝えている。</description>
       <pubDate>Fri, 27 Nov 2026 06:02:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均株価が続伸 AI・半導体関連の一角に買い</title>
+      <link>https://nikkei.com/article/DGXZQOFL270F00X21C26A1000000</link>
+      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOFL270F00X21C26A1000000</guid>
+      <description>【日本経済新聞】27日前場の東京株式市場で日経平均が続伸し、キオクシアなどAI・半導体関連株に買いが先行した。</description>
+      <pubDate>Fri, 27 Nov 2026 00:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI向け部品売上高を2031年に3100億円へ、京セラが半導体関連の成長投資を1600億円積み増し</title>
+      <link>https://news.mynavi.jp/techplus/article/20261126-5414659/</link>
+      <guid isPermaLink="true">https://news.mynavi.jp/techplus/article/20261126-5414659/</guid>
+      <description>【マイナビニュース TECH+】京セラはAI周辺ネットワーク用部品の売上高を860億円から3100億円へ伸ばす計画で、成長投資を積み増した。</description>
+      <pubDate>Thu, 26 Nov 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>京セラ、部品事業に8100億円投資 AI需要で従来計画を上方修正</title>
+      <link>https://txbiz.tv-tokyo.co.jp/txn/news_txn/post_353188</link>
+      <guid isPermaLink="true">https://txbiz.tv-tokyo.co.jp/txn/news_txn/post_353188</guid>
+      <description>【テレ東BIZ】京セラが部品事業の設備投資計画を約8100億円に引き上げた。AI周辺ネットワーク用部品などの需要取り込みを狙う。</description>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>キオクシア、AIメモリーで韓国勢の代替狙う NVIDIAと実証実験開始</title>

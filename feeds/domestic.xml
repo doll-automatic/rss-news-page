@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 12:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:02:10 +0000</lastBuildDate>
     <item>
       <title>多重事故で10人軽傷、静岡 10台程度関係か</title>
       <link>https://news.yahoo.co.jp/articles/b4170fe0ee929f2edbce81739af2a07d8511caf2</link>
@@ -33,6 +33,20 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3915e5532cbd27d3defe2a9aebf154bb58da104f</guid>
       <description>【京都新聞】政府の安全保障広報に陰謀論を発信する人物を起用したことへの批判を取り上げた社説。</description>
       <pubDate>Fri, 27 Nov 2026 06:02:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>政府提出法案の成立へ真摯に対応と首相</title>
+      <link>https://www.niigata-nippo.co.jp/articles/-/951071</link>
+      <guid isPermaLink="true">https://www.niigata-nippo.co.jp/articles/-/951071</guid>
+      <description>【新潟日報】高市首相は27日、関文科相への問責決議案否決を受け、政府提出法案の成立に向け引き続き対応する考えを示した。</description>
+      <pubDate>Fri, 27 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>中央防災会議で発言する高市首相</title>
+      <link>https://news.yahoo.co.jp/articles/072715f73a558440405e52fd72b912bf819402de</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/072715f73a558440405e52fd72b912bf819402de</guid>
+      <description>【時事通信】中央防災会議が27日、防災に関する「国家戦略」を初めて策定した。</description>
+      <pubDate>Fri, 27 Nov 2026 03:00:00 +0000</pubDate>
     </item>
     <item>
       <title>KSBニュース 事件・事故関連の報道</title>
