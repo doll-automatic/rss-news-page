@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 18:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 00:01:55 +0000</lastBuildDate>
+    <item>
+      <title>KSBニュース 事件・事故関連の報道</title>
+      <link>https://news.ksb.co.jp/ann/article/17084310</link>
+      <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17084310</guid>
+      <description>【KSBニュース】KSBニュースが報じた国内の事件・事故に関する記事。</description>
+      <pubDate>Fri, 27 Nov 2026 00:01:55 +0000</pubDate>
+    </item>
     <item>
       <title>軽自動車が大型トラックと衝突 軽自動車の男性(57)が意識不明の重体 香川・三豊市</title>
       <link>https://news.ksb.co.jp/article/17077112</link>
@@ -89,20 +96,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bc98304cb4a2c40062daf0949a33b6609af6f3f3</guid>
       <description>【東海テレビ】街宣車で女性の自宅に押しかけ、脅して面会を迫った疑いで政治団体所属の女ら2人が逮捕された。</description>
       <pubDate>Wed, 25 Nov 2026 00:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“パーティー問題”野党6党が関大臣への問責決議案提出へ</title>
-      <link>https://news.yahoo.co.jp/articles/0264b6b2cb3cc68d08d0912e37aaec58f5770892</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0264b6b2cb3cc68d08d0912e37aaec58f5770892</guid>
-      <description>【テレビ朝日系(ANN)】政治資金パーティー問題で、野党6党が関文科相への問責決議案を参院に提出する方針で一致した。</description>
-      <pubDate>Tue, 24 Nov 2026 18:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>長野県北部の停電、ようやく解消</title>
-      <link>https://shinmai.co.jp/news/article/gf01dc2oobf6q3v49iv226vg</link>
-      <guid isPermaLink="true">https://shinmai.co.jp/news/article/gf01dc2oobf6q3v49iv226vg</guid>
-      <description>【信濃毎日新聞】雪の影響で続いていた長野県北部の停電が解消した。</description>
-      <pubDate>Tue, 24 Nov 2026 18:02:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 18:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 00:01:55 +0000</lastBuildDate>
+    <item>
+      <title>日経平均は反発、AI・半導体関連株に買い戻しも伸び悩む</title>
+      <link>https://www.zaikei.co.jp/article/20261126/879298.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261126/879298.html</guid>
+      <description>【財経新聞】26日の日経平均は反発し、AI・半導体関連株に買い戻しが入ったが、一時58,000円台を回復した後は伸び悩んだ。</description>
+      <pubDate>Fri, 27 Nov 2026 00:01:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均は831円高、今晩の米市場は休場</title>
+      <link>https://jp.investing.com/news/forex-news/article-1771506</link>
+      <guid isPermaLink="true">https://jp.investing.com/news/forex-news/article-1771506</guid>
+      <description>【Investing.com（Fisco）】日経平均は大幅高となった。米市場は感謝祭の祝日で休場となる。</description>
+      <pubDate>Fri, 27 Nov 2026 00:01:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>明日の戦略－伸び悩むもプラスは確保、米国休場であすは材料難</title>
+      <link>https://finance.yahoo.co.jp/news/detail/76eecc7215bb48ae930c64917ba6d2898e4b0c93</link>
+      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/76eecc7215bb48ae930c64917ba6d2898e4b0c93</guid>
+      <description>【トレーダーズ・ウェブ】株式市場は伸び悩みながらもプラスを確保。米国休場のため翌日は材料難が意識されている。</description>
+      <pubDate>Fri, 27 Nov 2026 00:01:55 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均、終値487円高 AI売り一巡期待に配当再投資の追い風</title>
       <link>https://www.nikkei.com/article/DGXZQOUB260IZTW6A121C2000000/</link>
@@ -124,20 +145,6 @@
       <guid isPermaLink="true">https://jp.investing.com/news/earnings/article-1769859</guid>
       <description>【Investing.com】デルが通期売上高見通しを2,020億ドルに上方修正。AIサーバー売上は220億ドル超となった。</description>
       <pubDate>Wed, 25 Nov 2026 00:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は2286円高、米経済指標や企業決算に関心</title>
-      <link>https://zaikei.co.jp/article/20261124/878934.html</link>
-      <guid isPermaLink="true">https://zaikei.co.jp/article/20261124/878934.html</guid>
-      <description>【財経新聞】24日の東京株式市場で日経平均が大幅高となった。</description>
-      <pubDate>Tue, 24 Nov 2026 18:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>東証大引け 日経平均は反発 AI半導体関連に買い 米エヌビディア急伸で</title>
-      <link>https://nikkei.com/article/DGXZQOFL244L90U6A121C2000000</link>
-      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOFL244L90U6A121C2000000</guid>
-      <description>【日本経済新聞】日経平均は前週末比2207円高の5万8644円63銭で取引を終えた。エヌビディア急伸でAI・半導体関連に買いが入った。</description>
-      <pubDate>Tue, 24 Nov 2026 18:02:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

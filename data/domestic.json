@@ -1,5 +1,13 @@
 [
   {
+    "title": "KSBニュース 事件・事故関連の報道",
+    "link": "https://news.ksb.co.jp/ann/article/17084310",
+    "description": "KSBニュースが報じた国内の事件・事故に関する記事。",
+    "source": "KSBニュース",
+    "published": null,
+    "fetched_at": "2026-11-27T00:01:55.230305+00:00"
+  },
+  {
     "title": "軽自動車が大型トラックと衝突 軽自動車の男性(57)が意識不明の重体 香川・三豊市",
     "link": "https://news.ksb.co.jp/article/17077112",
     "description": "香川県三豊市で25日朝、軽自動車と大型トラックが衝突し、軽自動車を運転していた57歳の男性が意識不明の重体となった。",
@@ -94,21 +102,5 @@
     "source": "東海テレビ",
     "published": null,
     "fetched_at": "2026-11-25T00:02:00.125322+00:00"
-  },
-  {
-    "title": "“パーティー問題”野党6党が関大臣への問責決議案提出へ",
-    "link": "https://news.yahoo.co.jp/articles/0264b6b2cb3cc68d08d0912e37aaec58f5770892",
-    "description": "政治資金パーティー問題で、野党6党が関文科相への問責決議案を参院に提出する方針で一致した。",
-    "source": "テレビ朝日系(ANN)",
-    "published": null,
-    "fetched_at": "2026-11-24T18:02:11.135426+00:00"
-  },
-  {
-    "title": "長野県北部の停電、ようやく解消",
-    "link": "https://shinmai.co.jp/news/article/gf01dc2oobf6q3v49iv226vg",
-    "description": "雪の影響で続いていた長野県北部の停電が解消した。",
-    "source": "信濃毎日新聞",
-    "published": null,
-    "fetched_at": "2026-11-24T18:02:11.135426+00:00"
   }
 ]

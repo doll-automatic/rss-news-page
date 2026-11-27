@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 18:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 00:01:55 +0000</lastBuildDate>
     <item>
       <title>キオクシア、AIメモリーで韓国勢の代替狙う NVIDIAと実証実験開始</title>
       <link>https://www.nikkei.com/article/DGXZQOUC2544K0V21C26A1000000/</link>
@@ -61,34 +61,6 @@
       <guid isPermaLink="true">https://forbesjapan.com/articles/detail/108738</guid>
       <description>【Forbes JAPAN】フアン氏がCEOに復帰し、エヌビディア株は約30％急騰した。</description>
       <pubDate>Wed, 25 Nov 2026 00:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claudeで作ったツールがそのままMac・Windowsアプリに、Anthropicが「Install as app」をベータ公開</title>
-      <link>https://www.techno-edge.net/article/2026/11/25/5812.html</link>
-      <guid isPermaLink="true">https://www.techno-edge.net/article/2026/11/25/5812.html</guid>
-      <description>【テクノエッジ】AnthropicがClaudeのアーティファクトをデスクトップアプリとして使える「Install as app」をベータ公開した。</description>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>モノタロウ／商品名が分からなくてもAIで絞り込めるサービス開始</title>
-      <link>https://lnews.jp/2026/11/s1125605.html</link>
-      <guid isPermaLink="true">https://lnews.jp/2026/11/s1125605.html</guid>
-      <description>【物流ニュースのLNEWS】モノタロウが、商品名が分からなくてもAIで商品を絞り込めるサービスを開始した。</description>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA、フアン氏のCEO復帰を発表 トランプ大統領「私がまとめた」と取締役会への働きかけ認める</title>
-      <link>https://www.itmedia.co.jp/news/article/2611/24/2000003397/</link>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/24/2000003397/</guid>
-      <description>【ITmedia NEWS】NVIDIAが辞任していたジェンスン・フアン氏の社長兼CEO復帰を発表した。トランプ大統領は取締役会への働きかけを認めた。</description>
-      <pubDate>Tue, 24 Nov 2026 18:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA、ジェンスン・フアン氏の社長兼CEO復帰を発表</title>
-      <link>https://ai.watch.impress.co.jp/docs/news/2158571.html</link>
-      <guid isPermaLink="true">https://ai.watch.impress.co.jp/docs/news/2158571.html</guid>
-      <description>【AI Watch】取締役会が全会一致で決定し、フアン氏が即日復帰した。</description>
-      <pubDate>Tue, 24 Nov 2026 18:02:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

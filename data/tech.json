@@ -62,37 +62,5 @@
     "source": "Forbes JAPAN",
     "published": null,
     "fetched_at": "2026-11-25T00:02:00.125322+00:00"
-  },
-  {
-    "title": "Claudeで作ったツールがそのままMac・Windowsアプリに、Anthropicが「Install as app」をベータ公開",
-    "link": "https://www.techno-edge.net/article/2026/11/25/5812.html",
-    "description": "AnthropicがClaudeのアーティファクトをデスクトップアプリとして使える「Install as app」をベータ公開した。",
-    "source": "テクノエッジ",
-    "published": "2026-11-25T09:00:00+09:00",
-    "fetched_at": "2026-11-25T12:02:23.533899+00:00"
-  },
-  {
-    "title": "モノタロウ／商品名が分からなくてもAIで絞り込めるサービス開始",
-    "link": "https://lnews.jp/2026/11/s1125605.html",
-    "description": "モノタロウが、商品名が分からなくてもAIで商品を絞り込めるサービスを開始した。",
-    "source": "物流ニュースのLNEWS",
-    "published": "2026-11-25T09:00:00+09:00",
-    "fetched_at": "2026-11-25T18:02:34.371619+00:00"
-  },
-  {
-    "title": "NVIDIA、フアン氏のCEO復帰を発表 トランプ大統領「私がまとめた」と取締役会への働きかけ認める",
-    "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003397/",
-    "description": "NVIDIAが辞任していたジェンスン・フアン氏の社長兼CEO復帰を発表した。トランプ大統領は取締役会への働きかけを認めた。",
-    "source": "ITmedia NEWS",
-    "published": null,
-    "fetched_at": "2026-11-24T18:02:11.135426+00:00"
-  },
-  {
-    "title": "NVIDIA、ジェンスン・フアン氏の社長兼CEO復帰を発表",
-    "link": "https://ai.watch.impress.co.jp/docs/news/2158571.html",
-    "description": "取締役会が全会一致で決定し、フアン氏が即日復帰した。",
-    "source": "AI Watch",
-    "published": null,
-    "fetched_at": "2026-11-24T18:02:11.135426+00:00"
   }
 ]
