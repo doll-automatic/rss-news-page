@@ -5,7 +5,35 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 00:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:02:26 +0000</lastBuildDate>
+    <item>
+      <title>日経平均は170円高でスタート、みずほやIHIなどが上昇</title>
+      <link>https://www.zaikei.co.jp/article/20261127/879382.html</link>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20261127/879382.html</guid>
+      <description>【財経新聞】27日の日経平均は170円高で取引を開始し、みずほやIHIなどが上昇した。</description>
+      <pubDate>Fri, 27 Nov 2026 06:02:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>東京為替：ドル・円は159円22銭付近に下落、日経平均は500円超高</title>
+      <link>https://zaikei.co.jp/article/20261127/879427.html</link>
+      <guid isPermaLink="true">https://zaikei.co.jp/article/20261127/879427.html</guid>
+      <description>【財経新聞】東京市場でドル円は159円22銭付近に下落し、日経平均は500円超の上昇となった。</description>
+      <pubDate>Fri, 27 Nov 2026 06:02:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>日経平均は432円高、寄り後は上げ幅拡大</title>
+      <link>https://jp.investing.com/news/forex-news/article-1771783</link>
+      <guid isPermaLink="true">https://jp.investing.com/news/forex-news/article-1771783</guid>
+      <description>【Investing.com】日経平均は寄り付き後に上げ幅を拡大し、432円高となった。</description>
+      <pubDate>Fri, 27 Nov 2026 06:02:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>外為12時 円相場、横ばい圏 159円台前半 商い乏しく</title>
+      <link>https://nikkei.com/article/DGXZQOFL271G20X21C26A1000000</link>
+      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOFL271G20X21C26A1000000</guid>
+      <description>【日本経済新聞】27日正午の円相場は159円台前半で横ばい圏、商いは乏しかった。</description>
+      <pubDate>Fri, 27 Nov 2026 06:02:26 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均は反発、AI・半導体関連株に買い戻しも伸び悩む</title>
       <link>https://www.zaikei.co.jp/article/20261126/879298.html</link>
@@ -110,41 +138,6 @@
       <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOFL250G70V21C26A1000000/</guid>
       <description>【日本経済新聞】AI投資の持続性への不安から半導体株などが売られ、日経平均は1633円安で終えた。</description>
       <pubDate>Wed, 25 Nov 2026 06:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は1673円安、米PCE物価指数などに関心</title>
-      <link>https://zaikei.co.jp/article/20261125/879095.html</link>
-      <guid isPermaLink="true">https://zaikei.co.jp/article/20261125/879095.html</guid>
-      <description>【財経新聞】日経平均は大幅安。AI関連株への売りが目立ち、米PCE物価指数などに関心が向かった。</description>
-      <pubDate>Wed, 25 Nov 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>外為12時 円相場、上昇 159円台前半 株安でリスク回避の買い</title>
-      <link>https://nikkei.com/article/DGXZQOFL250XX0V21C26A1000000</link>
-      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOFL250XX0V21C26A1000000</guid>
-      <description>【日本経済新聞】AI・半導体関連株の下落で円買いが優勢となり、円相場は159円台前半に上昇した。</description>
-      <pubDate>Wed, 25 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均、終値2207円高 NVIDIAファン氏復帰で悲観の揺り戻し</title>
-      <link>https://www.nikkei.com/article/DGXZQOUB240IJTU6A121C2000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB240IJTU6A121C2000000/</guid>
-      <description>【日本経済新聞】24日の東京株式市場で日経平均は急反発し、終値は5万8644円63銭と2207円高となった。</description>
-      <pubDate>Wed, 25 Nov 2026 00:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>外為12時 円相場、上昇 158円台後半 原油安や実需買い受け</title>
-      <link>https://nikkei.com/article/DGXZQOFL242OU0U6A121C2000000</link>
-      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOFL242OU0U6A121C2000000</guid>
-      <description>【日本経済新聞】24日正午の円相場は1ドル=158円94〜95銭と、前週末比25銭の円高・ドル安だった。</description>
-      <pubDate>Wed, 25 Nov 2026 00:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AIサーバー需要急増でデルが年間売上高予想を2,020億ドルに引き上げ</title>
-      <link>https://jp.investing.com/news/earnings/article-1769859</link>
-      <guid isPermaLink="true">https://jp.investing.com/news/earnings/article-1769859</guid>
-      <description>【Investing.com】デルが通期売上高見通しを2,020億ドルに上方修正。AIサーバー売上は220億ドル超となった。</description>
-      <pubDate>Wed, 25 Nov 2026 00:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

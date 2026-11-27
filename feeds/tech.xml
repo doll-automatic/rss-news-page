@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 00:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:02:26 +0000</lastBuildDate>
+    <item>
+      <title>GoogleのAIが人間の介入なしに6本の数学論文を生成、素因数分解など数十年停滞していた分野に光</title>
+      <link>https://gigazine.net/news/20261126-cogentic-6-research-papers</link>
+      <guid isPermaLink="true">https://gigazine.net/news/20261126-cogentic-6-research-papers</guid>
+      <description>【GIGAZINE】Googleの研究AIが人の介入なしに数学論文を6本生成し、素因数分解など長年停滞していた分野に進展をもたらしたと伝えている。</description>
+      <pubDate>Fri, 27 Nov 2026 06:02:26 +0000</pubDate>
+    </item>
     <item>
       <title>キオクシア、AIメモリーで韓国勢の代替狙う NVIDIAと実証実験開始</title>
       <link>https://www.nikkei.com/article/DGXZQOUC2544K0V21C26A1000000/</link>
@@ -40,27 +47,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/425a0e723db38c235822605a33f76a438644091f</guid>
       <description>【弁護士JPニュース】生成AIで自然な日本語の偽サイトを作る詐欺が増え、約1億7000万円の被害で逮捕者も出ている。対処法を弁護士が解説。</description>
       <pubDate>Thu, 26 Nov 2026 00:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIAファン氏復帰、圧力に屈した取締役会 くすぶる再追及の火種</title>
-      <link>https://www.nikkei.com/article/DGXZQOGN232RD0T21C26A1000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN232RD0T21C26A1000000/</guid>
-      <description>【日本経済新聞】NVIDIA取締役会がジェンスン・フアン氏のCEO復帰を決定。外国情報機関との接触疑惑の調査は続く。</description>
-      <pubDate>Wed, 25 Nov 2026 00:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIAファン氏電撃復帰、カリスマ依存浮き彫り 「呼び戻すしか手段ない」</title>
-      <link>https://xtech.nikkei.com/atcl/nxt/column/18/00001/12197/</link>
-      <guid isPermaLink="true">https://xtech.nikkei.com/atcl/nxt/column/18/00001/12197/</guid>
-      <description>【日経クロステック】フアン氏のCEO復帰劇から、NVIDIAのカリスマ依存の構造を分析する。</description>
-      <pubDate>Wed, 25 Nov 2026 00:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ジェンスン・フアンがエヌビディアCEOに電撃復帰、株価は30％急騰</title>
-      <link>https://forbesjapan.com/articles/detail/108738</link>
-      <guid isPermaLink="true">https://forbesjapan.com/articles/detail/108738</guid>
-      <description>【Forbes JAPAN】フアン氏がCEOに復帰し、エヌビディア株は約30％急騰した。</description>
-      <pubDate>Wed, 25 Nov 2026 00:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 00:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:02:26 +0000</lastBuildDate>
+    <item>
+      <title>新聞配達をしていた男性（83）がはねられ死亡 車と原付バイクが衝突【香川】</title>
+      <link>https://news.yahoo.co.jp/articles/cbb9a58bbcae0a98b5334c72a67d7cf5585b05c4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cbb9a58bbcae0a98b5334c72a67d7cf5585b05c4</guid>
+      <description>【RSK山陽放送】27日未明、香川県高松市で軽貨物車と原付バイクが衝突し、原付を運転していた83歳の男性が死亡した。</description>
+      <pubDate>Fri, 27 Nov 2026 06:02:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>社説：政府の安保広報 「陰謀論者」起用を憂う</title>
+      <link>https://news.yahoo.co.jp/articles/3915e5532cbd27d3defe2a9aebf154bb58da104f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3915e5532cbd27d3defe2a9aebf154bb58da104f</guid>
+      <description>【京都新聞】政府の安全保障広報に陰謀論を発信する人物を起用したことへの批判を取り上げた社説。</description>
+      <pubDate>Fri, 27 Nov 2026 06:02:26 +0000</pubDate>
+    </item>
     <item>
       <title>KSBニュース 事件・事故関連の報道</title>
       <link>https://news.ksb.co.jp/ann/article/17084310</link>
@@ -54,48 +68,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/expert/articles/96198a89a1085a16ca67cada891cd9e0f75e42e0</guid>
       <description>【Yahoo!ニュース エキスパート】定数削減法案と文科相問責決議案をめぐる国会情勢と、参院での成立の行方を解説。</description>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>「怖い」白昼の駐輪場で男性が刺され死亡 男は商業施設を通り抜け逃走 福岡</title>
-      <link>https://news.yahoo.co.jp/articles/5a9abd699b804715938ba8d5317357745cfdf437</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5a9abd699b804715938ba8d5317357745cfdf437</guid>
-      <description>【FBS福岡放送】福岡市西区の駅駐輪場で勤務中の70歳男性が刺され死亡。刺した男は逃走中で、警察が行方を追っている。</description>
-      <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>関文部科学大臣への問責決議案 参院野党が提出決定 辞任・更迭なければ審議に応じられないとけん制</title>
-      <link>https://news.yahoo.co.jp/articles/1e907374a1cba2ce2c627f07ba4cfc4f94fbecb1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1e907374a1cba2ce2c627f07ba4cfc4f94fbecb1</guid>
-      <description>【TBS NEWS DIG】参院野党が関文科相の問責決議案を提出すると決定。本人は辞任を否定している。</description>
-      <pubDate>Wed, 25 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>廃棄の肉だけで約30万円分という店も…岐阜県郡上市等で続いていた大規模停電 多くの地域で復旧も被害大きく</title>
-      <link>https://news.yahoo.co.jp/articles/fbc0e019b9196dbb105c9c8b00ddbdf0dc605fad</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fbc0e019b9196dbb105c9c8b00ddbdf0dc605fad</guid>
-      <description>【東海テレビ】大雪による大規模停電が続いた岐阜県郡上市などで多くの地域が復旧したが、被害は大きい。</description>
-      <pubDate>Wed, 25 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>立民と公明、献金規制法案を提出 参院へ、口座振り込み限定</title>
-      <link>https://ryukyushimpo.jp/kyodo/entry-5614542.html</link>
-      <guid isPermaLink="true">https://ryukyushimpo.jp/kyodo/entry-5614542.html</guid>
-      <description>【琉球新報（共同通信）】立憲民主党と公明党が企業・団体献金の規制を強化する法案を参院に共同提出した。献金は口座振り込みに限定する。</description>
-      <pubDate>Wed, 25 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>高市首相が関芳弘文科相を擁護「説明責任しっかり果たしている」 野党は問責案へ…減税法案審議はストップ</title>
-      <link>https://www.tokyo-np.co.jp/article/530409</link>
-      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/530409</guid>
-      <description>【東京新聞】首相は関氏を擁護。野党は問責案提出の方針で、減税関連法案の審議は止まっている。</description>
-      <pubDate>Wed, 25 Nov 2026 00:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“街宣車”で自宅に押し掛け…政治団体所属の女ら2人を逮捕</title>
-      <link>https://news.yahoo.co.jp/articles/bc98304cb4a2c40062daf0949a33b6609af6f3f3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bc98304cb4a2c40062daf0949a33b6609af6f3f3</guid>
-      <description>【東海テレビ】街宣車で女性の自宅に押しかけ、脅して面会を迫った疑いで政治団体所属の女ら2人が逮捕された。</description>
-      <pubDate>Wed, 25 Nov 2026 00:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

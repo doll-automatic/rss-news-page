@@ -1,5 +1,13 @@
 [
   {
+    "title": "GoogleのAIが人間の介入なしに6本の数学論文を生成、素因数分解など数十年停滞していた分野に光",
+    "link": "https://gigazine.net/news/20261126-cogentic-6-research-papers",
+    "description": "Googleの研究AIが人の介入なしに数学論文を6本生成し、素因数分解など長年停滞していた分野に進展をもたらしたと伝えている。",
+    "source": "GIGAZINE",
+    "published": null,
+    "fetched_at": "2026-11-27T06:02:26.151338+00:00"
+  },
+  {
     "title": "キオクシア、AIメモリーで韓国勢の代替狙う NVIDIAと実証実験開始",
     "link": "https://www.nikkei.com/article/DGXZQOUC2544K0V21C26A1000000/",
     "description": "キオクシアは米エヌビディアと連携し、自社の半導体メモリーをAI計算に活用する検証を始めたと発表した。韓国勢が強いAIメモリーの一部代替を狙う。",
@@ -38,29 +46,5 @@
     "source": "弁護士JPニュース",
     "published": null,
     "fetched_at": "2026-11-26T00:02:11.048906+00:00"
-  },
-  {
-    "title": "NVIDIAファン氏復帰、圧力に屈した取締役会 くすぶる再追及の火種",
-    "link": "https://www.nikkei.com/article/DGXZQOGN232RD0T21C26A1000000/",
-    "description": "NVIDIA取締役会がジェンスン・フアン氏のCEO復帰を決定。外国情報機関との接触疑惑の調査は続く。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-25T00:02:00.125322+00:00"
-  },
-  {
-    "title": "NVIDIAファン氏電撃復帰、カリスマ依存浮き彫り 「呼び戻すしか手段ない」",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12197/",
-    "description": "フアン氏のCEO復帰劇から、NVIDIAのカリスマ依存の構造を分析する。",
-    "source": "日経クロステック",
-    "published": null,
-    "fetched_at": "2026-11-25T00:02:00.125322+00:00"
-  },
-  {
-    "title": "ジェンスン・フアンがエヌビディアCEOに電撃復帰、株価は30％急騰",
-    "link": "https://forbesjapan.com/articles/detail/108738",
-    "description": "フアン氏がCEOに復帰し、エヌビディア株は約30％急騰した。",
-    "source": "Forbes JAPAN",
-    "published": null,
-    "fetched_at": "2026-11-25T00:02:00.125322+00:00"
   }
 ]
