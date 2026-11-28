@@ -5,7 +5,14 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 28 Nov 2026 12:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 18:02:23 +0000</lastBuildDate>
+    <item>
+      <title>中国データ拠点に米半導体と報道 輸出禁止のエヌビディア製</title>
+      <link>https://news.yahoo.co.jp/articles/3c664d9fbfea2d2f3f76ed839d30af59b034fe51</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3c664d9fbfea2d2f3f76ed839d30af59b034fe51</guid>
+      <description>【共同通信】ブルームバーグ通信は、中国企業2社が上海のデータセンターに、輸出が禁止されているエヌビディア製先端半導体搭載のサーバーを設置していたと報じた。</description>
+      <pubDate>Sat, 28 Nov 2026 18:02:23 +0000</pubDate>
+    </item>
     <item>
       <title>新興市場見通し：押し目買い優勢に、AI・半導体関連株底打ち機運で短期トレード復活</title>
       <link>https://s.kabutan.jp/news/n202611280142</link>

@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 28 Nov 2026 12:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 18:02:23 +0000</lastBuildDate>
+    <item>
+      <title>後場の日経平均は984円高でスタート、マイクロニクスやメイコーなどが上昇</title>
+      <link>https://finance.yahoo.co.jp/news/detail/ea037ea67f05a4b4272daadefb1b13766637e012</link>
+      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/ea037ea67f05a4b4272daadefb1b13766637e012</guid>
+      <description>【フィスコ】27日後場の東京株式市場で日経平均は984円高でスタートし、半導体関連などが上昇した。</description>
+      <pubDate>Sat, 28 Nov 2026 18:02:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>〔東京外為〕ドル、159円台前半＝株高や米金利上昇受け堅調（27日午後5時）</title>
+      <link>https://news.yahoo.co.jp/articles/e381272a1913e8a2aa4f20dcdd8a479cf56d3317</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e381272a1913e8a2aa4f20dcdd8a479cf56d3317</guid>
+      <description>【時事通信】27日午後5時の東京外為市場で、ドルは株高や米金利上昇を受け1ドル=159円台前半で堅調に推移した。</description>
+      <pubDate>Sat, 28 Nov 2026 18:02:23 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均は大幅続伸、５万８０００円台を回復＝２７日大引け</title>
       <link>https://finance.yahoo.co.jp/news/detail/3b2eae14a571660d41950e8d79e8cde7f43b5005</link>
@@ -131,20 +145,6 @@
       <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/76eecc7215bb48ae930c64917ba6d2898e4b0c93</guid>
       <description>【トレーダーズ・ウェブ】株式市場は伸び悩みながらもプラスを確保。米国休場のため翌日は材料難が意識されている。</description>
       <pubDate>Fri, 27 Nov 2026 00:01:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均、終値487円高 AI売り一巡期待に配当再投資の追い風</title>
-      <link>https://www.nikkei.com/article/DGXZQOUB260IZTW6A121C2000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB260IZTW6A121C2000000/</guid>
-      <description>【日本経済新聞】26日の日経平均は前日比487円高の5万7499円で取引を終えた。AI関連株の売り一巡期待や配当再投資が追い風となった。</description>
-      <pubDate>Thu, 26 Nov 2026 18:02:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均大引け：前日比487.54円高の57499.16円</title>
-      <link>https://zai.diamond.jp/articles/-/499749</link>
-      <guid isPermaLink="true">https://zai.diamond.jp/articles/-/499749</guid>
-      <description>【ザイFX!】26日の東京市場で日経平均は反発して大引けを迎えた。</description>
-      <pubDate>Thu, 26 Nov 2026 18:02:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,21 @@
 [
   {
+    "title": "イノシシに襲われ7人けが、静岡・清水の市街地 市が駆除",
+    "link": "https://www.nikkei.com/article/DGXZQOUD280R10Y6A121C2000000/",
+    "description": "静岡市清水区で店舗のガラスを割って侵入したイノシシが男女7人にけがをさせ、約14時間後に市が駆除した。",
+    "source": "日本経済新聞",
+    "published": null,
+    "fetched_at": "2026-11-28T18:02:23.953801+00:00"
+  },
+  {
+    "title": "宮城の山中に２遺体 １人は横浜の女子高校生か",
+    "link": "https://www.tokyo-np.co.jp/article/531216",
+    "description": "宮城県七ヶ宿町の山中で2人の遺体が見つかり、うち1人は行方不明の横浜市の女子高校生の可能性があるとして警察が調べている。",
+    "source": "東京新聞",
+    "published": null,
+    "fetched_at": "2026-11-28T18:02:23.953801+00:00"
+  },
+  {
     "title": "関文科相の問責決議案、4票差で否決 参院は減税法案の審議再開へ",
     "link": "https://www.nikkei.com/article/DGXZQOUA270RH0X21C26A1000000/",
     "description": "参院本会議で関文部科学相への問責決議案が賛成120、反対124の4票差で否決された。",
@@ -118,13 +134,5 @@
     "source": "KSBニュース",
     "published": null,
     "fetched_at": "2026-11-27T00:01:55.230305+00:00"
-  },
-  {
-    "title": "軽自動車が大型トラックと衝突 軽自動車の男性(57)が意識不明の重体 香川・三豊市",
-    "link": "https://news.ksb.co.jp/article/17077112",
-    "description": "香川県三豊市で25日朝、軽自動車と大型トラックが衝突し、軽自動車を運転していた57歳の男性が意識不明の重体となった。",
-    "source": "KSB瀬戸内海放送",
-    "published": null,
-    "fetched_at": "2026-11-26T18:02:02.045782+00:00"
   }
 ]

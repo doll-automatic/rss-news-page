@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 28 Nov 2026 12:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 18:02:23 +0000</lastBuildDate>
+    <item>
+      <title>イノシシに襲われ7人けが、静岡・清水の市街地 市が駆除</title>
+      <link>https://www.nikkei.com/article/DGXZQOUD280R10Y6A121C2000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUD280R10Y6A121C2000000/</guid>
+      <description>【日本経済新聞】静岡市清水区で店舗のガラスを割って侵入したイノシシが男女7人にけがをさせ、約14時間後に市が駆除した。</description>
+      <pubDate>Sat, 28 Nov 2026 18:02:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>宮城の山中に２遺体 １人は横浜の女子高校生か</title>
+      <link>https://www.tokyo-np.co.jp/article/531216</link>
+      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/531216</guid>
+      <description>【東京新聞】宮城県七ヶ宿町の山中で2人の遺体が見つかり、うち1人は行方不明の横浜市の女子高校生の可能性があるとして警察が調べている。</description>
+      <pubDate>Sat, 28 Nov 2026 18:02:23 +0000</pubDate>
+    </item>
     <item>
       <title>関文科相の問責決議案、4票差で否決 参院は減税法案の審議再開へ</title>
       <link>https://www.nikkei.com/article/DGXZQOUA270RH0X21C26A1000000/</link>
@@ -110,13 +124,6 @@
       <guid isPermaLink="true">https://news.ksb.co.jp/ann/article/17084310</guid>
       <description>【KSBニュース】KSBニュースが報じた国内の事件・事故に関する記事。</description>
       <pubDate>Fri, 27 Nov 2026 00:01:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>軽自動車が大型トラックと衝突 軽自動車の男性(57)が意識不明の重体 香川・三豊市</title>
-      <link>https://news.ksb.co.jp/article/17077112</link>
-      <guid isPermaLink="true">https://news.ksb.co.jp/article/17077112</guid>
-      <description>【KSB瀬戸内海放送】香川県三豊市で25日朝、軽自動車と大型トラックが衝突し、軽自動車を運転していた57歳の男性が意識不明の重体となった。</description>
-      <pubDate>Thu, 26 Nov 2026 18:02:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

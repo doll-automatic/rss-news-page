@@ -1,5 +1,21 @@
 [
   {
+    "title": "後場の日経平均は984円高でスタート、マイクロニクスやメイコーなどが上昇",
+    "link": "https://finance.yahoo.co.jp/news/detail/ea037ea67f05a4b4272daadefb1b13766637e012",
+    "description": "27日後場の東京株式市場で日経平均は984円高でスタートし、半導体関連などが上昇した。",
+    "source": "フィスコ",
+    "published": null,
+    "fetched_at": "2026-11-28T18:02:23.953801+00:00"
+  },
+  {
+    "title": "〔東京外為〕ドル、159円台前半＝株高や米金利上昇受け堅調（27日午後5時）",
+    "link": "https://news.yahoo.co.jp/articles/e381272a1913e8a2aa4f20dcdd8a479cf56d3317",
+    "description": "27日午後5時の東京外為市場で、ドルは株高や米金利上昇を受け1ドル=159円台前半で堅調に推移した。",
+    "source": "時事通信",
+    "published": null,
+    "fetched_at": "2026-11-28T18:02:23.953801+00:00"
+  },
+  {
     "title": "日経平均は大幅続伸、５万８０００円台を回復＝２７日大引け",
     "link": "https://finance.yahoo.co.jp/news/detail/3b2eae14a571660d41950e8d79e8cde7f43b5005",
     "description": "27日の東京株式市場で日経平均は大幅続伸し、5万8000円台を回復して取引を終えた。",
@@ -142,21 +158,5 @@
     "source": "トレーダーズ・ウェブ",
     "published": null,
     "fetched_at": "2026-11-27T00:01:55.230305+00:00"
-  },
-  {
-    "title": "日経平均、終値487円高 AI売り一巡期待に配当再投資の追い風",
-    "link": "https://www.nikkei.com/article/DGXZQOUB260IZTW6A121C2000000/",
-    "description": "26日の日経平均は前日比487円高の5万7499円で取引を終えた。AI関連株の売り一巡期待や配当再投資が追い風となった。",
-    "source": "日本経済新聞",
-    "published": null,
-    "fetched_at": "2026-11-26T18:02:02.045782+00:00"
-  },
-  {
-    "title": "日経平均大引け：前日比487.54円高の57499.16円",
-    "link": "https://zai.diamond.jp/articles/-/499749",
-    "description": "26日の東京市場で日経平均は反発して大引けを迎えた。",
-    "source": "ザイFX!",
-    "published": null,
-    "fetched_at": "2026-11-26T18:02:02.045782+00:00"
   }
 ]
