@@ -1,5 +1,21 @@
 [
   {
+    "title": "空冷ファン内蔵スマホが当たり前に？ vivo「iQOO Neo12」は185Hz表示と9000mAhバッテリーでゲーム特化",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2611/28/news001.html",
+    "description": "vivoの中国向けゲーム特化スマホ「iQOO Neo12」を紹介。Snapdragon 8 Elite Gen 5、最大185Hz表示、空冷ファン内蔵が特徴。",
+    "source": "ITmedia Mobile",
+    "published": null,
+    "fetched_at": "2026-11-28T00:02:15.109613+00:00"
+  },
+  {
+    "title": "ソフトバンクが「シンプルスマホ8」発売 AIが詐欺電話を判定、書類のゆがみ補正撮影も",
+    "link": "https://news.infoseek.co.jp/article/itmedia_mobile_20261126055/",
+    "description": "通話内容をAIが分析し特殊詐欺の恐れを知らせる機能や、書類撮影の補正機能を備えたシンプルスマホ8が発売された。",
+    "source": "ITmedia Mobile/Infoseek",
+    "published": null,
+    "fetched_at": "2026-11-28T00:02:15.109613+00:00"
+  },
+  {
     "title": "エヌビディア、東南アジア4カ国へのAI半導体の出荷を停止",
     "link": "https://news.yahoo.co.jp/articles/803b4dad729d8cea13efae83694c45c9fca956fb",
     "description": "FTの報道として、NVIDIAがインドネシア、マレーシア、シンガポール、タイ向けAIサーバーの出荷停止を製造パートナーに指示したと伝えられた。",
@@ -62,21 +78,5 @@
     "source": "日本経済新聞",
     "published": "2026-11-26T10:00:00+09:00",
     "fetched_at": "2026-11-26T06:01:53.471069+00:00"
-  },
-  {
-    "title": "グーグルの米特許出願―視聴者の顔と声で番組を作る生成AIテレビ構想",
-    "link": "https://zaikei.co.jp/article/20261125/879139.html",
-    "description": "視聴者の写真と音声からアバターと合成音声を作り、本人が主人公の番組を生成AIで作る構想を示すGoogleの米特許出願が公開された。",
-    "source": "財経新聞",
-    "published": null,
-    "fetched_at": "2026-11-26T00:02:11.048906+00:00"
-  },
-  {
-    "title": "生成AIで“自然な日本語”の詐欺サイト増加、約1億7000万円被害で逮捕者も",
-    "link": "https://news.yahoo.co.jp/articles/425a0e723db38c235822605a33f76a438644091f",
-    "description": "生成AIで自然な日本語の偽サイトを作る詐欺が増え、約1億7000万円の被害で逮捕者も出ている。対処法を弁護士が解説。",
-    "source": "弁護士JPニュース",
-    "published": null,
-    "fetched_at": "2026-11-26T00:02:11.048906+00:00"
   }
 ]

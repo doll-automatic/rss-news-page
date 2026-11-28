@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 18:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 00:02:15 +0000</lastBuildDate>
+    <item>
+      <title>空冷ファン内蔵スマホが当たり前に？ vivo「iQOO Neo12」は185Hz表示と9000mAhバッテリーでゲーム特化</title>
+      <link>https://www.itmedia.co.jp/mobile/articles/2611/28/news001.html</link>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2611/28/news001.html</guid>
+      <description>【ITmedia Mobile】vivoの中国向けゲーム特化スマホ「iQOO Neo12」を紹介。Snapdragon 8 Elite Gen 5、最大185Hz表示、空冷ファン内蔵が特徴。</description>
+      <pubDate>Sat, 28 Nov 2026 00:02:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>ソフトバンクが「シンプルスマホ8」発売 AIが詐欺電話を判定、書類のゆがみ補正撮影も</title>
+      <link>https://news.infoseek.co.jp/article/itmedia_mobile_20261126055/</link>
+      <guid isPermaLink="true">https://news.infoseek.co.jp/article/itmedia_mobile_20261126055/</guid>
+      <description>【ITmedia Mobile/Infoseek】通話内容をAIが分析し特殊詐欺の恐れを知らせる機能や、書類撮影の補正機能を備えたシンプルスマホ8が発売された。</description>
+      <pubDate>Sat, 28 Nov 2026 00:02:15 +0000</pubDate>
+    </item>
     <item>
       <title>エヌビディア、東南アジア4カ国へのAI半導体の出荷を停止</title>
       <link>https://news.yahoo.co.jp/articles/803b4dad729d8cea13efae83694c45c9fca956fb</link>
@@ -61,20 +75,6 @@
       <guid isPermaLink="true">https://nikkei.com/article/DGXZQOFL2611V0W6A121C2000000</guid>
       <description>【日本経済新聞】26日午前の東京市場で、直近で下げていたAI・半導体株に買い戻しが広がった。</description>
       <pubDate>Thu, 26 Nov 2026 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>グーグルの米特許出願―視聴者の顔と声で番組を作る生成AIテレビ構想</title>
-      <link>https://zaikei.co.jp/article/20261125/879139.html</link>
-      <guid isPermaLink="true">https://zaikei.co.jp/article/20261125/879139.html</guid>
-      <description>【財経新聞】視聴者の写真と音声からアバターと合成音声を作り、本人が主人公の番組を生成AIで作る構想を示すGoogleの米特許出願が公開された。</description>
-      <pubDate>Thu, 26 Nov 2026 00:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>生成AIで“自然な日本語”の詐欺サイト増加、約1億7000万円被害で逮捕者も</title>
-      <link>https://news.yahoo.co.jp/articles/425a0e723db38c235822605a33f76a438644091f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/425a0e723db38c235822605a33f76a438644091f</guid>
-      <description>【弁護士JPニュース】生成AIで自然な日本語の偽サイトを作る詐欺が増え、約1億7000万円の被害で逮捕者も出ている。対処法を弁護士が解説。</description>
-      <pubDate>Thu, 26 Nov 2026 00:02:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

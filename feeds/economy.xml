@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/economy.xml</link>
     <description>Claude が Web 検索で収集したニュース（日本経済、日経平均・株式市場、為替（円相場）、日銀・金融政策、企業決算）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 18:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 00:02:15 +0000</lastBuildDate>
+    <item>
+      <title>ドル円は高値圏もみ合い、ユーロドルなどでもドル高優勢＝ＮＹ為替概況</title>
+      <link>https://fx.minkabu.jp/news/385656</link>
+      <guid isPermaLink="true">https://fx.minkabu.jp/news/385656</guid>
+      <description>【みんかぶFX】ニューヨーク外為市場でドル円は159円台後半の高値圏でもみ合い、ドル高が優勢となった。</description>
+      <pubDate>Fri, 27 Nov 2026 20:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>株式明日の戦略 AI関連が買われて4桁上昇、来週は米雇用統計を前に上値が重いか</title>
+      <link>https://gaitame.com/media/entry/2026/11/28/035814</link>
+      <guid isPermaLink="true">https://gaitame.com/media/entry/2026/11/28/035814</guid>
+      <description>【外為どっとコム マネ育チャンネル】27日の日経平均はAI関連株の買いで1211円高の5万8711円となった。来週は米雇用統計を前に上値が重いとの見方。</description>
+      <pubDate>Fri, 27 Nov 2026 18:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>米株終値 ダウ平均591ドル高</title>
+      <link>https://fx.minkabu.jp/news/385647</link>
+      <guid isPermaLink="true">https://fx.minkabu.jp/news/385647</guid>
+      <description>【みんかぶFX】27日のニューヨーク市場でダウ平均は591ドル高で取引を終えた。</description>
+      <pubDate>Fri, 27 Nov 2026 18:53:00 +0000</pubDate>
+    </item>
     <item>
       <title>日経平均終値1211円高、キオクシア続伸 「売られすぎ」銘柄に資金</title>
       <link>https://www.nikkei.com/article/DGXZQOFL270IGTX21C26A1000000/</link>
@@ -131,20 +152,6 @@
       <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/530793</guid>
       <description>【東京新聞】26日午前の東京外国為替市場で円相場は1ドル=158円台後半。介入警戒感もある。</description>
       <pubDate>Thu, 26 Nov 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>東京為替：ドル・円は反落、上昇分を削る</title>
-      <link>https://finance.yahoo.co.jp/news/detail/66820b26dae234ee893e1e436ac78f234666fbc6</link>
-      <guid isPermaLink="true">https://finance.yahoo.co.jp/news/detail/66820b26dae234ee893e1e436ac78f234666fbc6</guid>
-      <description>【フィスコ】東京市場でドル円は159円台で推移し、米インフレ指標を前にリスク回避でドルが選好される場面もあったが上昇分を削った。</description>
-      <pubDate>Thu, 26 Nov 2026 00:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>日経平均は1673円安、米PCE物価指数などに関心</title>
-      <link>https://jp.investing.com/news/forex-news/article-1770235</link>
-      <guid isPermaLink="true">https://jp.investing.com/news/forex-news/article-1770235</guid>
-      <description>【Fisco / Investing.com】日経平均が大幅に下落。AI・半導体関連株への売りが目立ち、米PCE物価指数に市場の関心が集まった。</description>
-      <pubDate>Thu, 26 Nov 2026 00:02:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

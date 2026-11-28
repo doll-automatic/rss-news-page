@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 18:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 00:02:15 +0000</lastBuildDate>
+    <item>
+      <title>北―西日本で大気不安定 気象庁、落雷や突風に注意を</title>
+      <link>https://www.chunichi.co.jp/article/1345834</link>
+      <guid isPermaLink="true">https://www.chunichi.co.jp/article/1345834</guid>
+      <description>【中日新聞Web】低気圧と前線の影響で北〜西日本は29日にかけて大気の状態が非常に不安定になり、気象庁が落雷や突風、ひょうに注意を呼びかけている。</description>
+      <pubDate>Sat, 28 Nov 2026 00:02:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>宮城の山中に２遺体 １人は横浜の女子高校生か</title>
+      <link>https://373news.com/news/national/detail/2026112701001949</link>
+      <guid isPermaLink="true">https://373news.com/news/national/detail/2026112701001949</guid>
+      <description>【南日本新聞/共同通信】宮城県七ヶ宿町の山中で見つかった2遺体のうち1人は、行方不明だった横浜市の女子高校生の可能性があり、神奈川県警が調べている。</description>
+      <pubDate>Sat, 28 Nov 2026 00:02:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>今日11月28日(土)の天気予報 低気圧と前線で広く雨や雷 夜は朝より冷える</title>
+      <link>https://news.infoseek.co.jp/article/weathernews_202611280031/</link>
+      <guid isPermaLink="true">https://news.infoseek.co.jp/article/weathernews_202611280031/</guid>
+      <description>【ウェザーニュース/Infoseek】低気圧と前線の影響で全国的に雨や雷となり、夜は朝より気温が下がる見込み。</description>
+      <pubDate>Sat, 28 Nov 2026 00:02:15 +0000</pubDate>
+    </item>
     <item>
       <title>多重事故で10人軽傷、静岡 10台程度関係か</title>
       <link>https://news.yahoo.co.jp/articles/b4170fe0ee929f2edbce81739af2a07d8511caf2</link>
@@ -75,27 +96,6 @@
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/97055efbb2c9632c6bb7bd92c8e78a6e0ca38fce</guid>
       <description>【テレビ朝日系（ANN）】国会の弾劾裁判所は、横領やオンラインカジノ賭博で有罪が確定した新潟簡裁の裁判官を罷免する判決を言い渡した。</description>
       <pubDate>Thu, 26 Nov 2026 12:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>駅駐輪場殺人事件に関連とみて捜査 地下鉄駅で駅係員に暴行の疑いで49歳男を逮捕 福岡市</title>
-      <link>https://news.yahoo.co.jp/articles/a370a488e32d52399ab2b2c78a70e12ca1a8c411</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a370a488e32d52399ab2b2c78a70e12ca1a8c411</guid>
-      <description>【KBC九州朝日放送】福岡市の地下鉄駅で駅係員に暴行した疑いで49歳の男を逮捕。西区の駅駐輪場で男性が刺され死亡した事件との関連を調べている。</description>
-      <pubDate>Thu, 26 Nov 2026 00:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>自転車の女性がクレーン車にひかれ意識不明の重体 運転手を現行犯逮捕</title>
-      <link>https://news.yahoo.co.jp/articles/caa8190eb9e724d01d01a53a71d8af9484a3f985</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/caa8190eb9e724d01d01a53a71d8af9484a3f985</guid>
-      <description>【テレビ朝日系（ANN）】自転車の女性がクレーン車にひかれ意識不明の重体。運転手が過失運転致傷の疑いで現行犯逮捕された。</description>
-      <pubDate>Thu, 26 Nov 2026 00:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>衆院定数31削減法案、文科相問責決議案の提出時期と参院が握る成立の行方</title>
-      <link>https://news.yahoo.co.jp/expert/articles/96198a89a1085a16ca67cada891cd9e0f75e42e0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/expert/articles/96198a89a1085a16ca67cada891cd9e0f75e42e0</guid>
-      <description>【Yahoo!ニュース エキスパート】定数削減法案と文科相問責決議案をめぐる国会情勢と、参院での成立の行方を解説。</description>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
