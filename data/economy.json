@@ -1,5 +1,21 @@
 [
   {
+    "title": "日経平均は大幅続伸、５万８０００円台を回復＝２７日大引け",
+    "link": "https://finance.yahoo.co.jp/news/detail/3b2eae14a571660d41950e8d79e8cde7f43b5005",
+    "description": "27日の東京株式市場で日経平均は大幅続伸し、5万8000円台を回復して取引を終えた。",
+    "source": "ウエルスアドバイザー",
+    "published": null,
+    "fetched_at": "2026-11-28T12:02:11.628644+00:00"
+  },
+  {
+    "title": "日経平均6万円台へ攻防、来週は植田日銀会見・フアンCEO証言・米雇用統計の三重奏",
+    "link": "https://finance.biggo.jp/news/a1b2894f-fce8-4195-b6ab-96c967030ed2",
+    "description": "来週は植田日銀総裁の会見、エヌビディアCEOの議会証言、米雇用統計が重なり、日経平均は6万円台を巡る攻防となる見通し。",
+    "source": "BigGo ファイナンス",
+    "published": null,
+    "fetched_at": "2026-11-28T12:02:11.628644+00:00"
+  },
+  {
     "title": "NY市場動向（取引終了）：ダウ591.99ドル高",
     "link": "https://zai.diamond.jp/articles/-/499842",
     "description": "NY市場は大幅上昇し、ダウ平均は591.99ドル高で取引を終えた。",
@@ -142,21 +158,5 @@
     "source": "ザイFX!",
     "published": null,
     "fetched_at": "2026-11-26T18:02:02.045782+00:00"
-  },
-  {
-    "title": "東京為替：ドル・円は伸び悩み、上昇は限定的",
-    "link": "https://www.zaikei.co.jp/article/20261126/879310.html",
-    "description": "26日の東京外国為替市場でドル円は159円台前半で伸び悩み、上値は重い展開となった。",
-    "source": "財経新聞",
-    "published": null,
-    "fetched_at": "2026-11-26T12:02:11.332075+00:00"
-  },
-  {
-    "title": "日経平均は871円高、ダウ平均先物堅調で安心感",
-    "link": "https://jp.investing.com/news/forex-news/article-1771482",
-    "description": "26日の日経平均は反発。米ダウ先物の堅調さが安心感につながり、前日の大幅安から買い戻された。",
-    "source": "Investing.com（Fisco）",
-    "published": null,
-    "fetched_at": "2026-11-26T12:02:11.332075+00:00"
   }
 ]

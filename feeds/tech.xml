@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 12:02:11 +0000</lastBuildDate>
+    <item>
+      <title>新興市場見通し：押し目買い優勢に、AI・半導体関連株底打ち機運で短期トレード復活</title>
+      <link>https://s.kabutan.jp/news/n202611280142</link>
+      <guid isPermaLink="true">https://s.kabutan.jp/news/n202611280142</guid>
+      <description>【株探】AI・半導体関連株に底打ちの機運が出て、新興市場では押し目買いが優勢になるとの見通し。</description>
+      <pubDate>Sat, 28 Nov 2026 12:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>米株先物が上昇、エヌビディアやアンソロピックなど時間外取引でAI関連株が反発</title>
+      <link>https://forbesjapan.com/articles/detail/108977</link>
+      <guid isPermaLink="true">https://forbesjapan.com/articles/detail/108977</guid>
+      <description>【Forbes JAPAN】時間外取引でエヌビディアやAMDなどAI関連株が反発し、米株先物も上昇した。</description>
+      <pubDate>Sat, 28 Nov 2026 12:02:11 +0000</pubDate>
+    </item>
     <item>
       <title>米株先物が上昇、エヌビディアやアンソロピックなど時間外取引でAI関連株が反発</title>
       <link>https://news.yahoo.co.jp/articles/511a00a24014849f2feb0bca87de331592d3b887</link>
@@ -54,20 +68,6 @@
       <guid isPermaLink="true">https://nikkei.com/article/DGXZQOFL270F00X21C26A1000000</guid>
       <description>【日本経済新聞】27日前場の東京株式市場で日経平均が続伸し、キオクシアなどAI・半導体関連株に買いが先行した。</description>
       <pubDate>Fri, 27 Nov 2026 00:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI向け部品売上高を2031年に3100億円へ、京セラが半導体関連の成長投資を1600億円積み増し</title>
-      <link>https://news.mynavi.jp/techplus/article/20261126-5414659/</link>
-      <guid isPermaLink="true">https://news.mynavi.jp/techplus/article/20261126-5414659/</guid>
-      <description>【マイナビニュース TECH+】京セラはAI周辺ネットワーク用部品の売上高を860億円から3100億円へ伸ばす計画で、成長投資を積み増した。</description>
-      <pubDate>Thu, 26 Nov 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>京セラ、部品事業に8100億円投資 AI需要で従来計画を上方修正</title>
-      <link>https://txbiz.tv-tokyo.co.jp/txn/news_txn/post_353188</link>
-      <guid isPermaLink="true">https://txbiz.tv-tokyo.co.jp/txn/news_txn/post_353188</guid>
-      <description>【テレ東BIZ】京セラが部品事業の設備投資計画を約8100億円に引き上げた。AI周辺ネットワーク用部品などの需要取り込みを狙う。</description>
-      <pubDate>Thu, 26 Nov 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

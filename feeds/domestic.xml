@@ -5,7 +5,28 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 12:02:11 +0000</lastBuildDate>
+    <item>
+      <title>関文科相の問責決議案、4票差で否決 参院は減税法案の審議再開へ</title>
+      <link>https://www.nikkei.com/article/DGXZQOUA270RH0X21C26A1000000/</link>
+      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA270RH0X21C26A1000000/</guid>
+      <description>【日本経済新聞】参院本会議で関文部科学相への問責決議案が賛成120、反対124の4票差で否決された。</description>
+      <pubDate>Sat, 28 Nov 2026 12:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>高市首相「法的な問題はない」…関芳弘文科相を続投させる考え 問責決議案は否決、野党は追及継続の構え</title>
+      <link>https://www.tokyo-np.co.jp/article/531191</link>
+      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/531191</guid>
+      <description>【東京新聞】高市首相は関文科相を続投させる考えを示した。野党は追及を続ける構え。</description>
+      <pubDate>Sat, 28 Nov 2026 12:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>イノシシに襲われ男女７人けが 静岡・清水の市街地、駆除</title>
+      <link>https://www.tokyo-np.co.jp/article/531301</link>
+      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/531301</guid>
+      <description>【東京新聞】静岡市清水区の市街地でイノシシが人を襲い男女7人がけが。約14時間後の28日朝に駆除された。</description>
+      <pubDate>Sat, 28 Nov 2026 12:02:11 +0000</pubDate>
+    </item>
     <item>
       <title>千葉・八街で2400万円強盗、3人組逃走</title>
       <link>https://news.yahoo.co.jp/articles/ad27bf938425a4d2d29c4a2ca0183ad7533a5027</link>
@@ -96,20 +117,6 @@
       <guid isPermaLink="true">https://news.ksb.co.jp/article/17077112</guid>
       <description>【KSB瀬戸内海放送】香川県三豊市で25日朝、軽自動車と大型トラックが衝突し、軽自動車を運転していた57歳の男性が意識不明の重体となった。</description>
       <pubDate>Thu, 26 Nov 2026 18:02:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>福岡市西区の殺人事件に関与か　重要参考人として男を聴取、福岡県警</title>
-      <link>https://www.nishinippon.co.jp/item/1564487/</link>
-      <guid isPermaLink="true">https://www.nishinippon.co.jp/item/1564487/</guid>
-      <description>【西日本新聞】福岡市西区のJR九大学研都市駅近くの駐輪場で70歳男性が刺殺された事件で、県警が重要参考人の男から事情を聴いている。</description>
-      <pubDate>Thu, 26 Nov 2026 12:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>【速報】オンカジや横領で有罪の裁判官を罷免 戦後9人目 弾劾裁判所</title>
-      <link>https://news.yahoo.co.jp/articles/97055efbb2c9632c6bb7bd92c8e78a6e0ca38fce</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/97055efbb2c9632c6bb7bd92c8e78a6e0ca38fce</guid>
-      <description>【テレビ朝日系（ANN）】国会の弾劾裁判所は、横領やオンラインカジノ賭博で有罪が確定した新潟簡裁の裁判官を罷免する判決を言い渡した。</description>
-      <pubDate>Thu, 26 Nov 2026 12:02:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
