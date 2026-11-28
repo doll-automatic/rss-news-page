@@ -1,5 +1,21 @@
 [
   {
+    "title": "米株先物が上昇、エヌビディアやアンソロピックなど時間外取引でAI関連株が反発",
+    "link": "https://news.yahoo.co.jp/articles/511a00a24014849f2feb0bca87de331592d3b887",
+    "description": "米株先物が上昇し、エヌビディアやアンソロピックなどAI関連株が時間外取引で反発した。",
+    "source": "Forbes JAPAN",
+    "published": null,
+    "fetched_at": "2026-11-28T06:02:06.166539+00:00"
+  },
+  {
+    "title": "エヌビディア、東南アジア4カ国へのAI半導体の出荷を停止",
+    "link": "https://www.gizmodo.jp/article/2611-nvidia-southeast-asia-ai-chip-ban/",
+    "description": "エヌビディアが中国企業による規制迂回を防ぐため、東南アジア4カ国向けの出荷停止を取引先に求めたと報じられた。",
+    "source": "ギズモード・ジャパン",
+    "published": null,
+    "fetched_at": "2026-11-28T06:02:06.166539+00:00"
+  },
+  {
     "title": "空冷ファン内蔵スマホが当たり前に？ vivo「iQOO Neo12」は185Hz表示と9000mAhバッテリーでゲーム特化",
     "link": "https://www.itmedia.co.jp/mobile/articles/2611/28/news001.html",
     "description": "vivoの中国向けゲーム特化スマホ「iQOO Neo12」を紹介。Snapdragon 8 Elite Gen 5、最大185Hz表示、空冷ファン内蔵が特徴。",
@@ -54,29 +70,5 @@
     "source": "テレ東BIZ",
     "published": "2026-11-26T18:00:00+09:00",
     "fetched_at": "2026-11-27T18:02:10.128614+00:00"
-  },
-  {
-    "title": "キオクシア、AIメモリーで韓国勢の代替狙う NVIDIAと実証実験開始",
-    "link": "https://www.nikkei.com/article/DGXZQOUC2544K0V21C26A1000000/",
-    "description": "キオクシアは米エヌビディアと連携し、自社の半導体メモリーをAI計算に活用する検証を始めたと発表した。韓国勢が強いAIメモリーの一部代替を狙う。",
-    "source": "日本経済新聞",
-    "published": "2026-11-26T12:00:00+09:00",
-    "fetched_at": "2026-11-26T06:01:53.471069+00:00"
-  },
-  {
-    "title": "キオクシアとNVIDIA、SSDを活用したHBMの実効容量拡張に向けたAI向け実証を開始",
-    "link": "https://www.kioxia.com/ja-jp/business/news/2026/20261126-1.html",
-    "description": "NVMe SSDとNVIDIAのソフトウェアを組み合わせ、GPUの実効メモリを約1.1PB規模に拡張する概念実証を始める。",
-    "source": "キオクシア",
-    "published": "2026-11-26T12:00:00+09:00",
-    "fetched_at": "2026-11-26T06:01:53.471069+00:00"
-  },
-  {
-    "title": "東証10時 日経平均は堅調 AI・半導体に買い続く",
-    "link": "https://nikkei.com/article/DGXZQOFL2611V0W6A121C2000000",
-    "description": "26日午前の東京市場で、直近で下げていたAI・半導体株に買い戻しが広がった。",
-    "source": "日本経済新聞",
-    "published": "2026-11-26T10:00:00+09:00",
-    "fetched_at": "2026-11-26T06:01:53.471069+00:00"
   }
 ]

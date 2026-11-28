@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/tech.xml</link>
     <description>Claude が Web 検索で収集したニュース（生成AI、AI企業・サービスの発表、IT業界、スマートフォン・ガジェット、半導体）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 28 Nov 2026 00:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:02:06 +0000</lastBuildDate>
+    <item>
+      <title>米株先物が上昇、エヌビディアやアンソロピックなど時間外取引でAI関連株が反発</title>
+      <link>https://news.yahoo.co.jp/articles/511a00a24014849f2feb0bca87de331592d3b887</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/511a00a24014849f2feb0bca87de331592d3b887</guid>
+      <description>【Forbes JAPAN】米株先物が上昇し、エヌビディアやアンソロピックなどAI関連株が時間外取引で反発した。</description>
+      <pubDate>Sat, 28 Nov 2026 06:02:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>エヌビディア、東南アジア4カ国へのAI半導体の出荷を停止</title>
+      <link>https://www.gizmodo.jp/article/2611-nvidia-southeast-asia-ai-chip-ban/</link>
+      <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-nvidia-southeast-asia-ai-chip-ban/</guid>
+      <description>【ギズモード・ジャパン】エヌビディアが中国企業による規制迂回を防ぐため、東南アジア4カ国向けの出荷停止を取引先に求めたと報じられた。</description>
+      <pubDate>Sat, 28 Nov 2026 06:02:06 +0000</pubDate>
+    </item>
     <item>
       <title>空冷ファン内蔵スマホが当たり前に？ vivo「iQOO Neo12」は185Hz表示と9000mAhバッテリーでゲーム特化</title>
       <link>https://www.itmedia.co.jp/mobile/articles/2611/28/news001.html</link>
@@ -54,27 +68,6 @@
       <guid isPermaLink="true">https://txbiz.tv-tokyo.co.jp/txn/news_txn/post_353188</guid>
       <description>【テレ東BIZ】京セラが部品事業の設備投資計画を約8100億円に引き上げた。AI周辺ネットワーク用部品などの需要取り込みを狙う。</description>
       <pubDate>Thu, 26 Nov 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>キオクシア、AIメモリーで韓国勢の代替狙う NVIDIAと実証実験開始</title>
-      <link>https://www.nikkei.com/article/DGXZQOUC2544K0V21C26A1000000/</link>
-      <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC2544K0V21C26A1000000/</guid>
-      <description>【日本経済新聞】キオクシアは米エヌビディアと連携し、自社の半導体メモリーをAI計算に活用する検証を始めたと発表した。韓国勢が強いAIメモリーの一部代替を狙う。</description>
-      <pubDate>Thu, 26 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>キオクシアとNVIDIA、SSDを活用したHBMの実効容量拡張に向けたAI向け実証を開始</title>
-      <link>https://www.kioxia.com/ja-jp/business/news/2026/20261126-1.html</link>
-      <guid isPermaLink="true">https://www.kioxia.com/ja-jp/business/news/2026/20261126-1.html</guid>
-      <description>【キオクシア】NVMe SSDとNVIDIAのソフトウェアを組み合わせ、GPUの実効メモリを約1.1PB規模に拡張する概念実証を始める。</description>
-      <pubDate>Thu, 26 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>東証10時 日経平均は堅調 AI・半導体に買い続く</title>
-      <link>https://nikkei.com/article/DGXZQOFL2611V0W6A121C2000000</link>
-      <guid isPermaLink="true">https://nikkei.com/article/DGXZQOFL2611V0W6A121C2000000</guid>
-      <description>【日本経済新聞】26日午前の東京市場で、直近で下げていたAI・半導体株に買い戻しが広がった。</description>
-      <pubDate>Thu, 26 Nov 2026 01:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

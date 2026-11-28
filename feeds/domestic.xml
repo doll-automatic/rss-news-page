@@ -5,7 +5,21 @@
     <link>https://raw.githubusercontent.com/doll-automatic/rss-news-page/main/feeds/domestic.xml</link>
     <description>Claude が Web 検索で収集したニュース（国内の政治・行政、社会、事件・事故、災害・天気の大きなニュース）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 28 Nov 2026 00:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:02:06 +0000</lastBuildDate>
+    <item>
+      <title>千葉・八街で2400万円強盗、3人組逃走</title>
+      <link>https://news.yahoo.co.jp/articles/ad27bf938425a4d2d29c4a2ca0183ad7533a5027</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ad27bf938425a4d2d29c4a2ca0183ad7533a5027</guid>
+      <description>【共同通信】27日未明、千葉県八街市の住宅に覆面の3人組が押し入り、現金約2400万円などを奪って逃走した。</description>
+      <pubDate>Sat, 28 Nov 2026 06:02:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>文部科学省に不正アクセス １６万件漏えいの可能性</title>
+      <link>https://www.tokyo-np.co.jp/article/530967</link>
+      <guid isPermaLink="true">https://www.tokyo-np.co.jp/article/530967</guid>
+      <description>【東京新聞】文科省の入札関連システムに不正アクセスがあり、企業名など最大約16万件が漏えいした可能性がある。</description>
+      <pubDate>Sat, 28 Nov 2026 06:02:06 +0000</pubDate>
+    </item>
     <item>
       <title>北―西日本で大気不安定 気象庁、落雷や突風に注意を</title>
       <link>https://www.chunichi.co.jp/article/1345834</link>
